@@ -4,13 +4,8 @@
 
 Het versiegeschiedenis scherm stelt u instaat om eerdere versies van het
 item dat bewerkt wordt te beheren. Versie historie is beschikbaar voor
-Artikelen,
-Advertenties,
-Adverteerder,
-Contactpersonen,
-Nieuwsfeeds,
-Gebruikersnotities
-en alle categorieën.
+Artikelen, Advertenties, Adverteerder, Contactpersonen, Nieuwsfeeds,
+Gebruikersnotities en alle categorieën.
 
 Iedere keer als een item opgeslagen wordt met wijzigingen, wordt er
 automatisch een nieuwe versie aangemaakt. Er kan worden opgegeven

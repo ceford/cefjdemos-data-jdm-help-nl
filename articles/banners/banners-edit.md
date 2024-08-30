@@ -4,16 +4,12 @@
 
 Wordt gebruikt om een advertentie toe te voegen of te bewerken, welke
 getoond kan worden op uw Joomla! website. Denk er aan minstens één
-Adverteerder
-en één Advertentie
-categorie
-voordat u een advertentie kan aanmaken
+Adverteerder en één Advertentie categorie voordat u een advertentie kan aanmaken
 
 ## Hoe toegang te krijgen
 
-Navigeer, om een nieuwe advertentie '**toe te voegen'** of te
-'**bewerken'**, naar
-Advertentiebeheer:
+Navigeer, om een nieuwe advertentie '**toe te voegen'** of te '**bewerken'**, 
+naar Advertentiebeheer:
 
 - Selecteer **Componenten → Advertenties → Nieuw** om een nieuwe
   advertentie aan te maken.
@@ -36,14 +32,12 @@ alt="Components Banners Banners Edit screen" />
 
 ## Gegevens
 
-- **Naam.** De naam van de advertentie. Dit is de naam die getoond wordt
-  in de *Naam* kolom in
-  Advertentiebeheer.
-- **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
+- **Naam** De naam van de advertentie. Dit is de naam die getoond wordt
+  in de *Naam* kolom in Advertentiebeheer.
+- **Alias** De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. Meer
-  leren.
+  spaties. 
 
 ### Gegevens (zijbalk)
 
