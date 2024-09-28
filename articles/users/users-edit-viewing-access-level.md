@@ -1,68 +1,46 @@
-<!-- Filename: Help4.x:Users:_Edit_Viewing_Access_Level / Display title: Gebruikers: Toegangsniveaus bekijken bewerken -->
+<!-- Filename: Help4.x:Users:_Edit_Viewing_Access_Level  / Display title: Gebruikers: Bewerk Weergavetoegangsniveau -->
 
 ## Beschrijving
 
-Toegangsniveau beheer dat gebruikers kunnen zien bij objecten op uw
-site. Objecten zijn menu-items, modules, categorieën, en component-items
-(artikelen, contactpersonen, enz.). Elk object op de site is gekoppeld
-aan één toegangsniveau. Gebruikersgroepen zijn ook aan ieder
-toegangsniveau gekoppeld.
+Toegangsniveaus bepalen welke gebruikers welke middelen op een site kunnen bekijken. Middelen omvatten menu-items, modules, categorieën en component-items (artikelen, contacten, enzovoort). Elk middel op de site is toegewezen aan een toegangsniveau. Gebruikersgroepen worden ook toegewezen aan elk toegangsniveau.
 
-Als een gebruiker lid is van een groep die rechten heeft voor een
-bepaald toegangsniveau, dan kan die gebruiker alle objecten die
-gekoppeld zijn aan dat toegangsniveau zien. Het is belangrijk te
-begrijpen dat gebruikersgroepen georganiseerd kunnen zijn in een
-ouder-kind hiërarchie. Als dat zo is, dan heeft de onderliggende groep
-toegang tot al de toegangsniveaus waar de bovenliggende groep toegang
-toe heeft. U hoeft onderliggende groepen dus geen toegang te geven tot
-waar de bovenliggende groep al toegang toe heeft.
+Als een gebruiker lid is van een groep die op zijn beurt toestemming heeft voor een toegangsniveau, kan die gebruiker alle middelen bekijken die aan dat toegangsniveau zijn toegewezen. Het is belangrijk om te begrijpen dat gebruikersgroepen kunnen worden ingedeeld in een ouder-kind hiërarchie. In dat geval heeft een kindgroep toegang tot alle toegangsniveaus waartoe de oudergroep toegang heeft. Je hoeft dus geen toegangsniveaus toe te wijzen aan een kindgroep waartoe de oudergroep al toegang heeft.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Gebruikers → Toegangsniveaus** vanuit het beheermenu.
-  Dan...
-  - Selecteer een link vanuit de **Niveaunaam** kolom om een bestaand
-    niveau te bewerken.
-  - Selecteer de Nieuw knop om een nieuw toegangsniveau aan te maken.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/0/05/Help-4x-users-user-manager-add-new-viewing-access-level-nl.png/600px-Help-4x-users-user-manager-add-new-viewing-access-level-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/0/05/Help-4x-users-user-manager-add-new-viewing-access-level-nl.png 1.5x"
-data-file-width="823" data-file-height="576" width="600" height="420"
-alt="users user manager add new viewing access level" />
+## Hoe te openen
 
-## Niveau gegevens
+- Selecteer **Gebruikers → Toegangsniveaus** in het beheerdersmenu.
+  Vervolgens...
+  - Selecteer een link in de kolom **Niveau naam** om een bestaand niveau te bewerken. Of...
+  - Selecteer de Nieuwe knop om een nieuw toegangsniveau aan te maken.
 
-- **Niveautitel:** Voer een titel in voor dit toegangsniveau.
-- **Gebruikersgroepen met weergave rechten** Vink aan voor de groep dit
-  rechtenniveau moet hebben.
+## Screenshot
 
-## Gebruikersgroepen met weergave rechten
+![gebruikers die toegangsniveaus bekijken](../../../nl/images/users/users-edit-viewing-access-level-details-tab.png)
 
-Selecteer een keuzevakje om een gebruikersgroep aan een weergaveniveau
-toe te voegen. In het getoonde voorbeeld zijn alle groepen afgeleide van
-publiek, zodat het niet nodig is de onderliggende groepen te
-controleren. Ze overerven de publieke toegangsrechten. Deze functie moet
-alleen gebruikt worden voor algemene groepen.
+### Tabblad Niveau Details
 
-## Werkbalk
+- **Niveau Titel** Voer een Titel in voor dit Toegangsniveau.
+- **Gebruikersgroepen Met Kijktoegang** Vink een Groep aan om dit
+  Toegangsniveau toe te passen.
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
+### Tabblad Gebruikersgroepen Met Kijktoegang
 
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Opslaan & nieuw**. Slaat item op en houdt het bewerkscherm open,
-  klaar voor het aanmaken van een ander item.
-- **Annuleren/Sluiten**. Sluit het huidige scherm en keert terug naar
-  het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
-  te slaan.
-- **Help**. Opent dit helpscherm.
+![gebruikers die toegangsniveaus bekijken](../../../nl/images/users/users-edit-viewing-access-level-ugwva-tab.png)
 
-## Snelle tips
+Selecteer een selectievakje om een gebruikersgroep toe te voegen aan een kijkniveau. In het
+getoonde voorbeeld zijn alle Groepen kinderen van Openbaar, dus het is niet nodig om
+een van de kindgroepen aan te vinken. Ze erven de openbare toegang
+rechten. Deze functie moet alleen worden gebruikt voor aangepaste groepen!
 
-- Als u een nieuwe groep toevoegt, moet u misschien toegangsniveaus
-  bewerken waar deze groep toegang toe moet hebben.
+## Tips
+
+- Als je een nieuwe groep toevoegt, moet je mogelijk de toegangsniveaus bewerken waartoe deze groep toegang zou moeten hebben.
+
+*Vertaald door openai.com*
+

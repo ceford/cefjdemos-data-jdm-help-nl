@@ -1,116 +1,69 @@
-<!-- Filename: Help4.x:Multilingual_Associations / Display title: Meertaligheid associaties -->
+<!-- Filename: Help4.x:Multilingual_Associations  / Display title: Meertalige Associaties -->
 
 ## Beschrijving
 
-Het geeft u de mogelijkheid een item-type te selecteren en een
-referentietaal om de koppelingen te zien.
+Op meertalige websites is het mogelijk om een item in één taal te maken en
+het te koppelen aan een equivalent item in één of meer andere talen. De koppeling
+staat bekend als een **Associatie**. Deze moet handmatig worden gemaakt.
 
-Dit scherm wordt gebruikt om een een associatie in te stellen tussen een
-item en de geïnstalleerde site talen.
+Associaties kunnen worden gemaakt voor Artikelen en hun Categorieën, Contacten en
+hun Categorieën, Menu-items en Nieuwsfeeds en hun Categorieën. Derde partij
+extensies kunnen ook Associaties ondersteunen.
 
-## Hoe toegang te krijgen
+De Multilingual Associations-component maakt bewerking van geassocieerde items
+langs elkaar mogelijk zonder heen en weer te hoeven gaan.
 
-- **Componenten → Meertaligheid associaties**
-  1.  Selecteer **item-type**.
-  2.  Selecteer **taal**.
+Er volgt meer uitleg na de onderstaande screenshot.
 
-## Schermafbeelding
+### Gemeenschappelijke Elementen
 
-<img
-src="https://docs.joomla.org/images/thumb/7/73/Help-4x-Components-Associations-nl.png/800px-Help-4x-Components-Associations-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/73/Help-4x-Components-Associations-nl.png/1200px-Help-4x-Components-Associations-nl.png 1.5x, https://docs.joomla.org/images/thumb/7/73/Help-4x-Components-Associations-nl.png/1600px-Help-4x-Components-Associations-nl.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Components Associations" />
+Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
-## Kolomkoppen
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Lijstfilters](jdocmanual?article=help/common-elements/list-filters).
+* [Kolomkoppen in lijsten](jdocmanual?article=help/common-elements/list-column-headers).
+* [Rangschikking van lijstitems](jdocmanual?article=help/common-elements/list-ordering).
+* [Paginering in lijsten](jdocmanual?article=help/common-elements/list-pagination).
 
-- **Status**. De publicatiestatus van het menu-item.
-- **Titel**. De naam van het menu-item. Een menu-item kan bewerkt worden
-  door op de titel te klikken.
-- **Taal**. Menu-item taal.
-- **Associaties**. Toont, aan welke taal dit menu-item geassocieerd is.
-- **Niet geassocieerd**. Toont welke talen voor dit menu-item niet
-  geassocieerd zijn.
-- **Menu**. Shows which menu the menu item belongs to.
-- **Toegang**. Het
-  Toegangsniveau
-  om het menu-item te bekijken.
-- **ID**. Dit is een uniek identificatienummer voor dit menu-item, u
-  kunt dit nummer niet veranderen.
+## Hoe te Toegang Krijgen
 
-## Lijst filters
+* Selecteer **Componenten → Meertalige Associaties** vanuit het Beheerdersmenu.
+* Selecteer een item uit de **- Selecteer Itemtype -** dropdownlijst.
+* Selecteer een taal uit de **- Selecteer Taal -** dropdownlijst.
 
-**Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande Screenshot.
+## Screenshot
 
-- **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
-  zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
-  aangeeft welke velden doorzocht worden.Om te **Zoeken op ID** geef je
-  "id:x" op, waarbij "x" het item ID nummer is (bijvoorbeeld, "id:19").
-- **Filteropties**. Klik om de extra filters te tonen.
-- **Wissen.** om het filterveld te wissen en de lijst in zijn initiële
-  status te zetten.
-- **Sortering**. Toont het huidige weergave volgorde veld. Er zijn 2
-  manieren om de volgorde aan te passen:
-  - Selecteer uit de uitklaplijst. De volgorde kan oplopend of aflopend
-    zijn.
-  - Klik op een kolomkop.De kolomkop wisselt tussen een oplopend en
-    aflopend volgorde.
-- **Te tonen aantal.** Toont het aantal menu-items in een lijst.
-  Selecteer uit de uitklaplijst om het te tonen aantal te veranderen.De
-  standaard voor een site is '20' maar dit kan veranderd worden bij de
+![Meertalige associaties lijst](../../../nl/images/multilingual-associations/multilingual-associations-list.png)
 
+In deze screenshot is een artikel geassocieerd met een artikel in een andere taal. De lijst bevat alleen items waar de taal is ingesteld. Artikelen waarvan de taal is ingesteld op *Alle* zullen niet aanwezig zijn.
 
-### Filter opties
+## Referentie Artikelen
 
-Bovenaan de pagina ziet u de filterbalk zoals in de
-afbeelding hierboven.
+De items in de **Titel** kolom zijn de referentie items voor de geselecteerde
+taal. Als je de lijst bekijkt met een alternatieve taal geselecteerd, zie je 
+dezelfde items omdat alle bijbehorende items beschikbaar zijn in beide talen.
 
-- **Selecteer status**. Selecteer uit Naar prullenbak / Gedepubliceerd /
-  Gepubliceerd / Gearchiveerd / Alles.
-- **Selecteer categorie**. Selecteer uit de lijst met beschikbare
-  categorieën.
-- **Selecteer menu**. Selecteer uit de lijst met beschikbare menus.
-- **Selecteer toegang**. Selecteer uit de lijst met beschikbare weergave
-  toegangsniveaus.
-- **Selecteer max niveaus**. Selecteer uit de lijst met beschikbare
-  niveaus.
+Als je de lijst bekijkt met een andere beheerders taal geselecteerd in het 
+inlogformulier, is de kans groot dat je verschillende items ziet.
 
-### Paginatie
+Als je een item uit de **Titel** kolom selecteert, verschijnt het referentie-item 
+in het bewerkformulier, maar er is geen doel geselecteerd. Dat is handig als je 
+het referentie-item in de geselecteerde taal wilt bewerken. Het is ook nodig als 
+je een nieuw bijbehorend item wilt maken.
 
-**Paginabesturing** Als het aantal menu-items meer is dan een pagina,
-zie je een paginabesturing bij de onderkant van de pagina zoals in
-bovenstaande Screenshot. Het huidige paginanummer heeft
-een donkere achtergrond.
+## Verenigingen
 
-- **Begin**. Klik om naar de eerste pagina te gaan.
-- **Vorig**. Klik om naar de voorafgaande pagina te gaan.
-- **Paginanummers**. Klik om naar de gewenste pagina te gaan.
-- **Volgende**. Klik om naar de volgende pagina te gaan.
-- **Einde**. Klik om naar de laatste pagina te gaan.
+Als u een bestaande vereniging wilt bewerken in de zij-aan-zij modus, selecteert u een van de knoppen in de kolom **Verenigingen**. Hierdoor worden de *Referentie* en *Doel* items zij aan zij geladen.
 
-## Werkbalk
+## Niet Geassocieerd
 
-Voor het selecteren van een item-type en taal heeft de werkbalk bovenaan
-twee knoppen die verdwijnen na selecteren: <img
-src="https://docs.joomla.org/images/thumb/3/34/Help-4x-Components-Associations-toolbar-subscreen-nl.png/800px-Help-4x-Components-Associations-toolbar-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/34/Help-4x-Components-Associations-toolbar-subscreen-nl.png/1200px-Help-4x-Components-Associations-toolbar-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/3/34/Help-4x-Components-Associations-toolbar-subscreen-nl.png/1600px-Help-4x-Components-Associations-toolbar-subscreen-nl.png 2x"
-data-file-width="2374" data-file-height="267" width="800" height="90"
-alt="Components Associations toolbar subscreen" />
+Selecteer een knop in de kolom *Niet Geassocieerd* om een nieuw artikel aan te maken dat geassocieerd is met het referentieartikel. Dit opent een bewerkformulier met het referentie-item naast een nieuw leeg geassocieerd item. De taal is vooraf ingevuld en kan niet worden gewijzigd.
 
-- **Alle associaties verwijder**. Laat u alle associaties verwijderen.
-  Na een vraag om een bevestiging worden alle associaties verwijderd.
-- **Verwijder wezen**. Laat u alle wezen verwijderen.
-- **Opties**. Opent het venster
-- **Help**. Opent dit helpscherm.
+## Tips
 
-## Snelle tips
+- Een menu-item in het Engels kan gemakkelijker worden vertaald naar het Frans met 
+  de originele tekst en de vertaling naast elkaar. En selecteer daarna Perzisch om 
+  ook van Engels naar Perzisch te vertalen.
 
-- An menu-item in English can be more easily translated into French with
-  the original and translation side by side. And then select Persian to
-  translate from English to Persian too. Meer
-  leren.
-- This screen use menu-items as example. You will see all Item Types
-  shown in the Screenshot above.
+*Vertaald door openai.com*
+

@@ -1,46 +1,40 @@
-<!-- Filename: Help4.x:Post-installation_Messages_for_Joomla_CMS / Display title: Post-installatie berichten voor het Joomla CMS -->
+<!-- Filename: Help4.x:Post-installation_Messages_for_Joomla_CMS  / Display title: Berichten na installatie voor Joomla CMS -->
 
 ## Beschrijving
 
-De Post-installatie berichten tonen een verscheidenheid aan berichten
-die handig zijn voor sitebeheerders.
+De pagina met berichten na installatie toont berichten die nuttig zijn voor de sitebeheerder.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer het **Post-installatie berichten** icoon in een beheerder
-  scherm titelbalk. Het icoon is uitgeschakeld in de bewerkschermen.
+Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-![post installation messages screen](../../../en/images/post-install-messages/post-installation-messages.png "")
+## Hoe te Toegang te Verkrijgen
 
-## Formulier velden
+- Selecteer de **Systeem -> Informatie tab -> Installatieberichten** vanuit het
+  Beheerdersmenu. Of…
+- Selecteer de Knop voor Berichten na Installatie in elke Titelbalk van de 
+  Beheerderslijst. De knop is afwezig op Bewerkpagina’s en kan ontbreken als 
+  de bovenliggende module niet gepubliceerd is.
 
-- **Berichten voor.** 'Joomla CMS' is momenteel de enige mogelijkheid.
+## Screenshot
+
+![scherm voor berichten na installatie](../../../nl/images/post-install-messages/post-install-messages.png)
 
 ## Berichten
 
-Er zijn een aantal bericht vensters, elk met een ***Verberg dit
-bericht*** knop die u kunt kiezen als u een bericht niet meer wilt zien.
-Een verborgen bericht kan weer zichtbaar gemaakt worden - zie
-onderstaande werkbalk sectie.
+Er zijn een aantal berichtenpanelen, elk met twee knoppen:
+- **Verberg dit bericht** knop om te selecteren wanneer je een bericht niet 
+  langer wilt zien. Een verborgen bericht kan niet worden hersteld in Joomla. 
+  Indien nodig, kan het worden hersteld in de database.
+- **Archiveren** Wanneer geselecteerd, wordt de inhoud van het paneel 
+  verborgen en wordt de knop vervangen door een groene **Lees opnieuw** knop.
 
-- **Statistieken verzamelen in Joomla.** Informatie over hoe
-  statistieken op uw site gebruikt worden.
-- **Welkom bij Joomla!** Wat hulpmiddelen die handig kunnen zijn.
-- **Authenticatie in twee stappen is beschikbaar.** Informatie over
-  verbeterde veiligheid.
+## Voorbeeldberichten
 
-## Werkbalk
+- **Statistieken Verzamelen in Joomla** Informatie over hoe statistieken op uw site worden gebruikt.
+- **Welkom bij Joomla!** Enkele bronnen die u nuttig kunt vinden.
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
+*Vertaald door openai.com*
 
-- **Alle berichten verbergen.** Select this button to hide the messages
-  in the left panel. The messages are replaced by a box that says ***You
-  have read all the messages***. There is a ***Reset Messages*** button
-  that restores the unread messages, including the individually hidden
-  messages.
-- **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt.
-- **Help**. Opent dit helpscherm.

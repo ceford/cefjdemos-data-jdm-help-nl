@@ -1,76 +1,55 @@
-<!-- Filename: Help4.x:Privacy:_Review_Information_Request / Display title: Privacy: Beoordeel informatieverzoek -->
+<!-- Filename: Help4.x:Privacy:_Review_Information_Request  / Display title: Privacy: Verzoek om herziening van informatie -->
 
 ## Beschrijving
 
-Op dit scherm kunt u een informatieverzoek en het bijbehorende actie log
-bekijken.
+De *Privacy: Informatie Verzoek Beoordelen* pagina toont een informatie verzoek en
+het gerelateerde actie logboek.
 
-#### Handleidingen
+### Tutorials
 
-- Privacy overzicht - Inhoud en
-  workflow
-- De privacy
-  hulpmiddelen
-  (gedetailleerde handleiding uit Joomla 3)
-- Informatie verzoek
-  workflow
-  (gedetailleerde handleiding uit Joomla 3)
+- [Privacy Overzicht - Inhoud en Workflow](https://docs.joomla.org/Help4.x:Components_Privacy_Outline/en)
+- [De Privacy Tool Suite](https://docs.joomla.org/J3.x:Privacy/en) 
+  (Uitgebreide Tutorial van Joomla 3)
+- [Informatie Verzoek Workflow](https://docs.joomla.org/J3.x:Information_Request_Workflow_in_Privacy_Component/en)
+  (Uitgebreide Tutorial van Joomla 3)
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Gebruikers → Privacy → Verzoeken** in het
-  beheermenu. Dan...
-  - Selecteer het e-mailadres van het verzoek dat u wilt beoordelen door
-    het te openen.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/c/ce/Help-4x-component-privacy-review-information-request-new-nl.png/800px-Help-4x-component-privacy-review-information-request-new-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/ce/Help-4x-component-privacy-review-information-request-new-nl.png/1200px-Help-4x-component-privacy-review-information-request-new-nl.png 1.5x, https://docs.joomla.org/images/c/ce/Help-4x-component-privacy-review-information-request-new-nl.png 2x"
-data-file-width="1352" data-file-height="507" width="800" height="300"
-alt="component privacy review information request new" />
+## Hoe te openen
 
-## Gegevens
+- Selecteer **Gebruikers → Privacy → Verzoeken** in het Beheerder
+  menu. Vervolgens...
+  - Selecteer het e-mailadres van het verzoek dat je wilt bekijken om het te openen.
 
-- **Informatie aanvraag.**
-  - *E-mailadres.* Het e-mailadres van de eigenaar van de informatie die
-    aangevraagd is
-  - *Status.* De status van het informatieverzoek
-    - Ongeldig. Het informatieverzoek is ongeldig bevonden door een
-      Super user.
-    - In behandeling. De gebruiker heeft zijn informatieverzoek nog niet
-      bevestigd
-    - Bevestigd. De gebruiker heeft zijn informatieverzoek bevestigd
-    - Voltooid. Het informatieverzoek is voltooid door een Super
-      gebruiker
-  - *Type verzoek.* Exporteren of Verwijderen
-  - *Datum aangevraagd.* Datum en tijd waarom het informatieverzoek
-    aangemaakt is.
-- **Actie log.** (*Actie/datum/naam*) Alle acties die uitgevoerd zijn
-  door de eigenaar van de opgevraagde informatie.
+## Screenshot
 
-## Werkbalk
+![privacy review information request](../../../nl/images/privacy/privacy-review-information-request.png)
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
+## Details
 
-- **Voltooien.** Markeert het verzoek als voltooid en verwijdert de
-  actie-knoppen bij het item in de lijst met verzoeken.
+### Informatieaanvraag paneel
+- **Email** Het e-mailadres van de persoon die de informatie
+    aanvraagt
+- **Status** De status van de informatieaanvraag
+    - *Ongeldig* De informatieaanvraag is ongeldig verklaard door een Supergebruiker.
+    - *In behandeling* De gebruiker heeft zijn informatieaanvraag nog niet bevestigd.
+    - *Bevestigd* De gebruiker heeft zijn informatieaanvraag bevestigd.
+    - *Voltooid* De informatieaanvraag is voltooid door een Supergebruiker.
+- **Type Aanvraag** Exporteren of Verwijderen.
+- **Datum Aanvraag** Datum en tijd waarop de informatieaanvraag is aangemaakt.
 
-**Ongeldig.** Hiermee kan een Super gebruiker een informatieverzoek
-markeren als **Ongeldig**. *Let op: Deze knop wordt alleen getoond als
-het informatieverzoek de status In behandeling heeft*
+### Actielog paneel
 
-- **Verwijder gegevens** Alleen voor verwijder verzoeken. Anonimiseert
-  de persoonlijke gegevens in componenten die het ondersteunen.
-- **Exporteer gegevens.** Alleen voor exporteerverzoeken. Download de
-  gegevens in XML formaat om te bekijken.
-- **E-mail geëxporteerde gegevens.** Alleen voor exporteer verzoeken.
-  Verzend de geëxporteerde gegevens in XML formaat.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-  Dit werkbalk icoon wordt niet getoond als een nieuw item wordt
-  aangemaakt.
-- **Help**. Opent dit helpscherm.
+Dit is een tabel met alle acties met betrekking tot de persoon die de
+informatie aanvraagt.
+
+- **Actie** De uitgevoerde actie.
+- **Datum** De datum waarop de actie is uitgevoerd.
+- **Naam** De naam van de gebruiker voor wie de actie is uitgevoerd.
+
+*Vertaald door openai.com*
+

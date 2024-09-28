@@ -1,409 +1,160 @@
-<!-- Filename: Help4.x:Contacts:_Options / Display title: Contactpersonen: Opties -->
+<!-- Filename: Help4.x:Contacts:_Options  / Display title: Contacten: Opties -->
 
 ## Beschrijving
 
-Contactpersonen opties instellingen geven de mogelijkheid tot het
-instellen van parameters die algemeen gebruikt worden voor alle
-contactpersonen.
+Contactopties die wereldwijd voor alle contacten worden gebruikt.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Componenten → Contactpersonen** in het beheermenu. Dan
-  ...
-  - Selecteer de **Opties** knop in de werkbalk. De 'Opties' knop is
-    beschikbaar bij 'Contactpersonen' en 'Categorieën'.
+Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het tabblad Machtigingen](jdocmanual?article=help/common-elements/edit-permissions).
 
-<img
-src="https://docs.joomla.org/images/thumb/7/7f/Help-4x-Components-Contacts-Contacts-options1-nl.png/800px-Help-4x-Components-Contacts-Contacts-options1-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/7f/Help-4x-Components-Contacts-Contacts-options1-nl.png/1200px-Help-4x-Components-Contacts-Contacts-options1-nl.png 1.5x, https://docs.joomla.org/images/7/7f/Help-4x-Components-Contacts-Contacts-options1-nl.png 2x"
-data-file-width="1261" data-file-height="2050" width="800" height="1301"
-alt="Components Contacts Contacts options1" />
+## Hoe te Toegang
 
-## Gegevens
+- Selecteer **Componenten → Contacten** in het menu van de Administrator.
+  - Selecteer de **Opties** knop in de Toolbar. De Opties knop is
+    beschikbaar op de *Contacten* en *Contacten: Categorieën* pagina's.
 
-### Contactpersoon tabblad
+## Screenshot
 
-Deze instellingen zijn van toepassing op een enkele contactpersoon,
-behalve als ze veranderd zijn voor een specifiek contactpersoon
-menu-item
+![Screenshot van contactopties](../../../nl/images/contacts/contacts-options-contact-tab.png)
 
-- **Kies een weergave.** Standaard gebruikte weergave voor items.
-- **Contactpersonencategorie.** Indien 'Verberg', wordt de
-  contactpersonencategorie niet weergegeven. Indien 'Toon zonder link'
-  is ingesteld, wordt de categorie als tekst weergegeven. Indien 'Toon
-  met link' ingesteld is, wordt de categorie als link naar een menu-item
-  voor een enkele categorie weergegeven.
-- **Enable Versions.** (Yes/No). Whether or not to save version history
-  for this component. If No, version history will not be saved for
-  component items or for this component's categories.
-- **Maximum Versions.** The maximum number of versions to store for an
-  item. If an item is saved and the maximum number of versions has been
-  reached, the oldest version will be deleted automatically. If set to
-  0, then versions will never be deleted automatically. Also, specific
-  versions may be flagged as "Keep Forever" and will not be deleted
-  automatically. Note that versions may be deleted manually using the
-  Delete button in the Version History
-  screen.
-- **Toon Contactpersonenlijst.** Indien 'Toon' is ingesteld, kan de
-  gebruiker selecteren welke contactpersoon weergegeven wordt door
-  middel van een uitklaplijst van alle contactpersonen in de huidige
-  contactpersonencategorie.
-- **Weergave.** Bepaalt de stijl die gebruikt wordt om secties van het
-  contactformulier weer te geven.
-- **Tags.** Whether to hide or show any tags for this item.
-- *Use Global:* Use the default value from the contacts options screen.
-- *Show:* Show to allow users to select a contact in a drop down list.
-- *Hide:* Do not display the Contact list.
-- **Contactpersoongegevens.** Toon of verberg de contactinformatie.
-- **Naam:** De naam van de contactpersoon.
-- **Contactpersoon positie.** Toon of verberg de positie.
-- **E-mailadres.** Toon of verberg het e-mailadres van de
-  contactpersoon.
-- **Toevoegen van mailto: Link.** Voegt een mailto toe: link naar het
-  getoonde e-mailadres.
-- **Adres.** Toon of verberg het straatadres.
-- **Woonplaats.** Toon of verberg de woonplaats.
-- **Provincie.** Toon of verberg de provincie.
-- **Postcode.** Toon of verberg de postcode.
-- **Land.** Toon of verberg het land.
-- **Telefoon.** Toon of verberg het telefoonnummer.
-- **Mobiel.** Toon of verberg het mobiele telefoonnummer.
-- **Fax.** Toon of verberg het faxnummer.
-- **Website.** Toon of verberg de website.
-- **Afbeelding.** Toon of verberg de afbeelding.
-- **Afbeelding.** Selecteer of upload een afbeelding als afbeelding van
-  de contactpersoon.
-- **Overige gegevens.** Toon of verberg de overige gegevens.
-- **vCard.** Toon of verberg een link om exporteren naar Vcard formaat
-  toe te staan.
-- **Toon artikelen van gebruiker.** Als deze contactpersoon gelinkt is
-  aan een gebruiker en dit ingesteld is op tonen, dan wordt een lijst
-  van artikelen die door deze gebruiker gemaakt zijn, weergegeven.
-- **\# Artikelen.** Aantal op te sommen artikelen.
-- **Gebruikersprofiel.** Toon of verberg het gebruikersprofiel van de
-  gebruiker.
-- **Toon de extra velden van de gebruiker.** Toon de extra velden van de
-  gebruiker die behoren tot alle of alleen de geselecteerde veldgroepen.
-- **Contactpersoon links.** toon of verberg de contactpersoon links.
-- **Link A tekst.** Een aanvullende link voor deze contactpersoon.
-- **Link B tekst.** Een aanvullende link voor deze contactpersoon.
-- **Link C tekst.** Een aanvullende link voor deze contactpersoon.
-- **Link D tekst.** Een aanvullende link voor deze contactpersoon.
-- **Link E tekst.** Een aanvullende link voor deze contactpersoon.
+## Formuliervelden
 
-### Iconen tabblad
+### Tabblad Contacten
 
-<img
-src="https://docs.joomla.org/images/thumb/0/07/Help-4x-Component-Contact-Manager-Options-icons-options-subscreen-nl.png/800px-Help-4x-Component-Contact-Manager-Options-icons-options-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/0/07/Help-4x-Component-Contact-Manager-Options-icons-options-subscreen-nl.png 1.5x"
-data-file-width="898" data-file-height="861" width="800" height="767"
-alt="Component Contact Manager Options icons options subscreen" />
+Deze instellingen gelden voor een enkele Contact, tenzij ze worden gewijzigd voor een specifiek menu-item of Contact.
 
-Deze instellingen zijn van toepassing op een enkele contactpersoon,
-behalve als ze veranderd zijn voor een specifiek contactpersoon
-menu-item
+- **Kies een Layout** Standaardlayout voor items.
+- **Contactcategorie** Als *Verbergen*, wordt de Contactcategorie niet getoond. Als *Weergeven Zonder Link*, wordt de Categorie als tekst getoond. Als *Weergeven Met Link*, wordt de Categorie als een link naar een enkel Categorie Menu Item getoond.
+- **Versies Inschakelen** Of de versiegeschiedenis voor dit onderdeel wordt opgeslagen. Als Nee, wordt de versiegeschiedenis niet opgeslagen voor componentitems of voor de categorieën van dit onderdeel.
+- **Maximale Versies** Het maximale aantal versies dat voor een item wordt opgeslagen. Als een item is opgeslagen en het maximale aantal versies is bereikt, wordt de oudste versie automatisch verwijderd. Als ingesteld op 0, worden versies nooit automatisch verwijderd. Bepaalde versies kunnen ook worden gemarkeerd als *Voor Altijd Bewaren* en worden niet automatisch verwijderd. Merk op dat versies handmatig kunnen worden verwijderd met de Verwijder-knop op het scherm Versiegeschiedenis.
+- **Contactlijst Weergeven** Als *Weergeven*, kan de gebruiker wisselen welk contact wordt getoond door een contact te selecteren uit een keuzelijst van alle contacten in de huidige contactcategorie.
+- **Weergaveformaat** Bepaalt de stijl die wordt gebruikt om secties van het contactformulier weer te geven.
+- **Tags** Of tags voor dit item verborgen of getoond moeten worden.
+- *Gebruik Global* Gebruik de standaardwaarde van het scherm met contactopties.
+- *Weergeven* Laten zien om gebruikers in staat te stellen een contact te selecteren in een keuzelijst.
+- *Verbergen* Contactlijst niet weergeven.
+- **Contactinformatie** Contactinformatie tonen of verbergen.
+- **Naam** Naam van de contactpersoon weergeven.
+- **Positie van de Contactpersoon** Positie tonen of verbergen.
+- **Email** Contactemail tonen of verbergen.
+- **Voeg Mailto: Link Toe** Voegt een mailto: link toe aan het weergegeven emailadres.
+- **Straatadres** Straatadres tonen of verbergen.
+- **Stad of Wijk** Stad of wijk tonen of verbergen.
+- **Staat of Provincie** Staat of provincie tonen of verbergen.
+- **Postcode/ZIP-code** Postcode of ZIP-code tonen of verbergen.
+- **Land** Land tonen of verbergen.
+- **Telefoon** Telefoonnummer tonen of verbergen.
+- **Mobiele Telefoon** Mobiele nummer tonen of verbergen.
+- **Fax** Faxnummer tonen of verbergen.
+- **Webpagina** Webpagina tonen of verbergen.
+- **Afbeelding** Afbeelding tonen of verbergen.
+- **Afbeelding** Kies het afbeeldingsbestand dat voor het contact gebruikt moet worden.
+- **Overige Informatie** Overige informatie tonen of verbergen.
+- **vCard** Of export naar vCard-formaat toegestaan is.
+- **Gebruikersartikelen Weergeven** Gebruikersartikelen tonen: Als dit contact gekoppeld is aan een gebruiker, en als dit is ingesteld op tonen, wordt een lijst van door deze gebruiker gemaakte artikelen getoond.
+- **\# Artikelen om te Lijsten** Aantal artikelen om te lijsten.
+- **Gebruikersprofiel** Profiel tonen of verbergen.
+- **Gebruikers-aangepaste Veldmogelijkheden Weergeven** Gebruikers-aangepaste veldmogelijkheden voor alle of alleen geselecteerde veldgroepen tonen.
+- **Contactlinks** Links tonen of verbergen.
+- **Label Link A** Een extra link voor dit contact.
+- **Label Link B** Een extra link voor dit contact.
+- **Label Link C** Een extra link voor dit contact.
+- **Label Link D** Een extra link voor dit contact.
+- **Label Link E** Een extra link voor dit contact.
 
-- **Instellingen.** Gebruik iconen, tekst of niets naast de informatie.
-- **Adres icoon.** Selecteer of upload een afbeelding als adres icoon.
-  Indien niets is geselecteerd wordt het standaard icoon weergegeven.
-- **E-mail icoon.** Selecteer of upload een afbeelding als e-mail icoon.
-  Indien niets geselecteerd wordt het standaard icoon weergegeven.
-- **Telefoon icoon.** Selecteer of upload een afbeelding als telefoon
-  icoon. Indien niets geselecteerd wordt het standaard icoon
-  weergegeven.
-- **Mobiel icoon.** Selecteer of upload een afbeelding als mobiel icoon.
-  Indien niets is geselecteerd wordt het standaard icoon weergegeven.
-- **Fax icoon.** Selecteer of upload een afbeelding als fax icoon.
-  Indien niets is geselecteerd wordt het standaard icoon weergegeven.
-- **Overige icoon.** Selecteer of upload een afbeelding als overige
-  icoon. Indien niets is geselecteerd wordt het standaard icoon
-  weergegeven.
+### Tabblad Iconen
 
-### Categorie tabblad
+![Opties voor contacten tabblad iconen](../../../nl/images/contacts/contacts-options-icons-tab.png)
 
-Categorie opties bepalen hoe contactpersonen getoond worden als u via
-een categorie contactpersonen bekijkt.
+Deze instellingen gelden voor een enkele Contact, tenzij ze worden gewijzigd voor een specifiek menu-item of Contact.
 
-<img
-src="https://docs.joomla.org/images/thumb/4/4e/Help-4x-Component-Contact-Manager-Options-category-options-subscreen-nl.png/800px-Help-4x-Component-Contact-Manager-Options-category-options-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/4/4e/Help-4x-Component-Contact-Manager-Options-category-options-subscreen-nl.png 1.5x"
-data-file-width="909" data-file-height="759" width="800" height="668"
-alt="Component Contact Manager Options category options subscreen" />
+- **Instellingen** Kies of er iconen, tekst of niets naast de informatie wordt weergegeven.
+- **Adresicoon** Selecteer het Adresicoon. Als er geen geselecteerd is, wordt het standaardicoon weergegeven.
+- **Emailicoon** Selecteer het Emailicoon. Als er geen geselecteerd is, wordt het standaardicoon weergegeven.
+- **Telefoonicoon** Selecteer het Telefoonicoon. Als er geen geselecteerd is, wordt het standaardicoon weergegeven.
+- **Mobiel Icoon** Selecteer het Mobiele Icoon. Als er geen geselecteerd is, wordt het standaardicoon weergegeven.
+- **Fax Icoon** Selecteer het Faxicoon. Als er geen geselecteerd is, wordt het standaardicoon weergegeven.
+- **Diversen Icoon** Selecteer het Diverse Icoon. Als er geen geselecteerd is, wordt het standaardicoon weergegeven.
 
-- **Kies een weergave.** (van component/Standaard). Laat u de standaard
-  weergave selecteren die getoond wordt als u op een categorie link
-  klikt. Indien u een alternatieve weergave aanmaakt voor een
-  categorieweergave, dan kunt u die als standaard kiezen.
-- **Categorietitel.** (Toon/Verberg) Toon of verberg de titel van de
-  categorie.
-- **Beschrijving van categorie.** (Toon/Verberg) Toon of verberg de
-  beschrijving van de categorie.
-- **Afbeelding van categorie.** (Toon/Verberg) Toon of verberg de
-  afbeelding van de categorie.
-- **Subcategorieniveaus.** (Geen/Alle/1-5). Categorieën in Joomla kunnen
-  in een hiërarchie aangemaakt worden. Dit laat u bepalen hoeveel
-  niveaus van subcategorieën getoond worden bij het tonen van een
-  categorie lijst.
-- **Beschrijvingen subcategorieën.** (Toon/Verberg) Toon of verberg de
-  beschrijving van subcategorieën die getoond worden.
-- **Lege categorieën.** (Toon/Verberg). Toon of verberg de categorieën
-  die geen artikelen of subcategorieën bevatten.
-- **\# Contactpersonen in categorie.** Toon of verberg het aantal
-  contactpersonen in categorie.
-- **Categorie tags.** Toon of verberg de tags van een categorie.
+### Tabblad Categorie
 
-### Categorieën tabblad
+Categorieopties bepalen hoe contacten worden weergegeven wanneer u doorklikt naar een Categorie om de contacten ervan te bekijken.
 
-Deze instellingen zijn van toepassing op contactpersoon categorieën
-opties behalve als ze veranderd worden in een bepaald menu-item.
+![Opties voor contacten tabblad categorie](../../../nl/images/contacts/contacts-options-category-tab.png)
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Component-Contact-Manager-Options-categories-options-subscreen-nl.png/800px-Help-4x-Component-Contact-Manager-Options-categories-options-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/b/b4/Help-4x-Component-Contact-Manager-Options-categories-options-subscreen-nl.png 1.5x"
-data-file-width="904" data-file-height="572" width="800" height="506"
-alt="Component Contact Manager Options categories options subscreen" />
+- **Kies een Layout** (Blog/Lijst/gebruikergedefinieerd). Hiermee kunt u de standaardindeling selecteren die wordt weergegeven wanneer u op een Categorielink klikt. Als u een alternatieve layout voor een categorielayout maakt, kunt u deze als standaard selecteren.
+- **Categoriatitel** Titel van de categorie tonen of verbergen.
+- **Categoriebeschrijving** Categoriebeschrijving tonen of verbergen.
+- **Categorieafbeelding** Categorieafbeelding tonen of verbergen.
+- **Subcategorie Niveaus** (Geen/Alles/1-5). Categorieën in Joomla kunnen in een hiërarchie worden gemaakt. Hiermee kunt u bepalen hoeveel niveaus van subcategorieën u wilt weergeven bij het tonen van een categorieoverzicht.
+- **Subcategorie Beschrijvingen** Beschrijvingen van getoonde subcategorieën weergeven of verbergen.
+- **Lege Categorieën** Categorieën zonder artikelen of subcategorieën weergeven of verbergen.
+- **\# Contacten in Categorie** Aantal Contacten in categorie weergeven of verbergen.
+- **Categorietags** Tags voor een enkele categorie tonen of verbergen.
 
-- **Hoofdniveau categoriebeschrijving.** (Toon/Verberg). Toon of verberg
-  de beschrijving van de hoofdcategorie.
-- **Subcategorieniveaus.** (Alle/1-5). Het aantal weer te geven
-  subcategorieniveaus.
-- **Beschrijving subcategorieën.** (Toon/Verberg). Toon of verberg de
-  beschrijving van elke subcategorie.
-- **Lege categorieën.** (Toon/Verberg). Toon of verberg de categorieën
-  die geen artikelen of subcategorieën bevatten.
-- **\# Contactpersonen in categorie.** Toon of verberg het aantal
-  contactpersonen in categorie.
+### Tabblad Categorieën
 
-### Lijstweergave tabblad
+Deze instellingen gelden voor Opties voor Contactcategorieën, tenzij ze worden gewijzigd voor een specifiek menu-item.
 
-Deze instellingen zijn van toepassing op contactpersoon lijstopties
-behalve als ze veranderd worden in een bepaald menu-item.
+![Opties voor contacten tabblad categorieën](../../../nl/images/contacts/contacts-options-categories-tab.png)
 
-<img
-src="https://docs.joomla.org/images/thumb/2/22/Help-4x-Component-Contact-Manager-Options-list-options-subscreen-nl.png/800px-Help-4x-Component-Contact-Manager-Options-list-options-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/2/22/Help-4x-Component-Contact-Manager-Options-list-options-subscreen-nl.png 1.5x"
-data-file-width="877" data-file-height="1078" width="800" height="983"
-alt="Component Contact Manager Options list options subscreen" />
+### Tabblad Lijstopmaak
 
-- **Filterveld.** Het Filterveld maakt een tekstveld aan waar een
-  gebruiker een veld kan opgeven dat gebruikt moet worden om de weblinks
-  te filteren die getoond moeten worden. Een voorbeeld hoe dit eruit
-  ziet op de website wordt hieronder getoond.
+Deze instellingen gelden voor Opties voor Contactlijsten, tenzij ze worden gewijzigd voor een specifiek menu-item.
 
-<img
-src="https://docs.joomla.org/images/0/0b/Help-4x-article-category-list-filter-field-en.png"
-decoding="async" data-file-width="175" data-file-height="32" width="175"
-height="32" alt="Help30 article category list filter field nl.png" />
+![Opties voor contacten tabblad lijst indelingen](../../../nl/images/contacts/contacts-options-list-layouts-tab.png)
 
-De mogelijke opties hiervoor (in het beheergedeelte menu-item bewerken)
-staan hieronder.
+- **Filterveld** Het Filterveld maakt een tekstveld waarin een gebruiker een veld kan invoeren om de getoonde artikelen in de lijst te filteren.
+    De mogelijke opties hiervoor (in het achtereind menu-item bewerken) worden hieronder weergegeven.
+    - *Verbergen* Geen filterveld tonen.
+    - *Titel* Filteren op artikel titel.
+    - *Auteur* Filteren op naam van de auteur.
+    - *Hits* Filteren op aantal artikelhits.
+- **Weergave Selecteren** Toon of verberg de besturing Weergave \# die de gebruiker in staat stelt het aantal te tonen items in de lijst te selecteren. Hier is een voorbeeld van aangetoond. 
+    Als er meer items zijn dan dit aantal, kunt u de paginanavigatieknoppen gebruiken (Start, Vorige, Volgende, Einde, en paginanummers) om tussen pagina's te navigeren. Merk op dat als u een groot aantal items heeft, het nuttig kan zijn om de Filteropties boven de kolomkoppen te gebruiken om te beperken welke items worden weergegeven.
+- **Tabelkoppen** Tabelkoppen boven de artikelenlijst tonen of verbergen.
+- **Afbeelding** Een afbeeldingskolom in de lijst van Contacten tonen of verbergen.
+- **Positie** Een Positie kolom in de lijst van Contacten tonen of verbergen.
+- **Email** Een Email kolom in de lijst van Contacten tonen of verbergen.
+- **Telefoon** Een Telefoon kolom in de lijst van Contacten tonen of verbergen.
+- **Mobiel** Een Mobiele kolom in de lijst van Contacten tonen of verbergen.
+- **Fax** Een Fax kolom in de lijst van Contacten tonen of verbergen.
+- **Stad of Wijk** Een Stad of Wijk kolom in de lijst van Contacten tonen of verbergen.
+- **Staat of Provincie** Een Staat of Provincie kolom in de lijst van Contacten tonen of verbergen.
+- **Land** Een Land kolom in de lijst van Contacten tonen of verbergen.
+- **Paginering** Paginering ondersteuning verbergen of tonen. Paginering biedt paginalinks onderaan de pagina die gebruikers toestaan naar extra pagina's te navigeren. Dit is nodig als de weergegeven items niet op één pagina passen. De volgende opties zijn beschikbaar.
+    - *Gebruik Global* Gebruik de standaardwaarde van het scherm met componentopties.
+    - *Auto* Paginakoppelingen weergegeven indien nodig.
+    - *Weergeven* Paginakoppelingen weergegeven indien nodig.
+    - *Verbergen* Paginakoppelingen niet weergegeven. Opmerking: In dit geval zullen gebruikers niet in staat zijn naar extra pagina's te navigeren.
+- **Paginering Resultaten** Verberg of toon het huidige paginanummer en totaal aantal pagina's (bijv., *Pagina 1 van 2*) onderaan elke pagina. Gebruik Global zal de standaardwaarde van de componentopties gebruiken.
+- **Sorteer op** Kies de naam van het sorteergebied.
 
-- *Verberg:* Toon geen filterveld.
-- *Titel:* Filter op artikeltitel.
-- *Auteur:* Filter op de naam van de auteur.
-- *Hits:* Filter op het aantal hits van artikelen.
-- **Toon selecteer.** (Toon/Verberg) Of het Toon \# control getoond of
-  verborgen moet worden, welke de gebruiker de mogelijkheid geeft het
-  aantal items te selecteren dat getoond wordt in de lijst. Een
-  voorbeeld wordt hieronder getoond.
+### Tabblad Formulier
 
-<img
-src="https://docs.joomla.org/images/9/9d/Help-4x-article-category-list-display-select-nl.png"
-decoding="async" data-file-width="81" data-file-height="215" width="81"
-height="215"
-alt="article category list display select" />
+Deze instellingen gelden voor een enkele Contact, tenzij ze worden gewijzigd voor een specifiek menu-item of Contact.
 
-Indien er meer items zijn dan dit aantal kunnen de pagina
-navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
-gebruikt worden om te navigeren tussen de pagina's. Wanneer u een groot
-aantal items heeft is het handig de filteropties te gebruiken die boven
-de kolomkoppen wordt getoond, en waarmee de items gelimiteerd kunnen
-worden.
+![Opties voor contacten tabblad formulier](../../../nl/images/contacts/contacts-options-form-tab.png)
 
-- **Tabelknoppen.** (Toon/Verberg) Tabelkoppen tonen een kop boven de
-  lijst met artikelen zoals hieronder getoond.
+- **Captcha Toestaan op Contact** Gebruik Standaard of Geen Geselecteerd. Selecteer de captcha plugin die in het contactformulier zal worden gebruikt. Captcha is de naam van een techniek om spamgebruikersregistraties te voorkomen door een gebruiker te verplichten karakters uit een vervormde afbeelding in te voeren of om *Ik ben geen robot* aan te vinken. U moet mogelijk verdere informatie invoeren voor uw Captcha plugin in de Pluginbeheerder.
+- **Contactformulier** Contactformulier tonen of verbergen.
+- **Kopie naar Indiener Verzenden** Verberg of toon selectievakje om kopie van email naar indiener te verzenden.
+- **Verboden Email** Emailadressen die niet mogen worden gebruikt om informatie in te dienen via het contactformulier.
+- **Verboden Onderwerp** Onderwerpen die niet zijn toegestaan in het contactformulier.
+- **Verboden Tekst** Tekst die niet is toegestaan in het tekstveld van het contactformulier.
+- **Sessiecontrole** Controleer op het bestaan van een sessiecookie. Dit betekent dat gebruikers zonder cookies ingeschakeld geen emails kunnen verzenden.
+- **Aangepast Antwoord** Schakelt de geautomatiseerde reactie uit, zodat Plugins integratie met andere systemen kunnen afhandelen.
+- **Contact Omleiden** Voer een alternatieve URL in waarnaar de gebruiker zal worden omgeleid nadat de mail is verzonden.
 
-<img
-src="https://docs.joomla.org/images/1/13/Help-4x-chunk-article-category-list-table-headings-nl.png"
-decoding="async" data-file-width="881" data-file-height="150"
-width="881" height="150"
-alt="chunk article category list table headings" />
+## Tips
 
-Indien ingesteld op *Toon* dan wordt deze kop getoond boven een lijst.
-Anders wordt de lijst zonder kop getoond.
+- Als je een beginnende gebruiker bent, kun je de standaardwaarden hier gewoon behouden totdat je meer leert over het gebruik van globale opties.
+- Als je een gevorderde gebruiker bent, kun je tijd besparen door hier goede standaardwaarden in te stellen. Wanneer je menu-items instelt en contactpersonen aanmaakt, kun je de standaardwaarden voor de meeste opties accepteren.
+- Alle waarden die hier zijn ingesteld, kunnen worden overschreven op het niveau van menu-items, categorieën of contactpersonen.
 
-- **Afbeelding.** Toon of verberg een kolom afbeeldingen in de lijst met
-  contactpersonen.
-- **Positie.** Toon of verberg een positie kolom in de lijst met
-  contactpersonen.
-- **E-mailadres.** Toon of verberg een e-mailadres kolom in de lijst met
-  contactpersonen.
-- **Telefoon.** Toon of verberg de kolom telefoon in de lijst met
-  contactpersonen.
-- **Mobiel.** Toon of verberg de kolom mobiel in de lijst met
-  contactpersonen.
-- **Fax.** Toon of verberg de kolom fax in de lijst met contactpersonen.
-- **Woonplaats.** Toon of verberg de kolom woonplaats in de lijst met
-  contactpersonen.
-- **Provincie.** Toon of verberg de kolom provincie in de lijst met
-  contactpersonen.
-- **Land.** Toon of verberg de kolom land in de lijst met
-  contactpersonen.
-- **Paginering.** Toon of verberg de paginering. Paginering geeft
-  paginalinks weer onderaan de pagina waarmee gebruikers naar andere
-  pagina's kunnen navigeren. Deze zijn nodig wanneer de items in de
-  lijst niet op een pagina passen. Hieronder wordt een voorbeeld
-  getoond.
+*Vertaald door openai.com*
 
-<img src="https://docs.joomla.org/images/2/25/Help30-pagination-nl.png"
-decoding="async" data-file-width="251" data-file-height="61" width="251"
-height="61" alt="Help30 pagination nl.png" />
-
-De volgende opties zijn beschikbaar.
-
-- *Gebruik algemeen:* Gebruik de standaard waarde uit de component
-  opties.
-- *Automatisch:* Paginalinks tonen indien nodig.
-- *Toon:* Paginalinks tonen indien nodig.
-- *Verbergen:* Paginalinks niet tonen. In dit geval kunnen gebruikers
-  niet naar andere pagina's navigeren.
-- **Paginering samenvatting.** Toon of verberg het huidige paginanummer
-  en totaal aantal pagina's (bijv., "Pagina 1 van 2") onderaan iedere
-  pagina. Gebruik algemeen zal de standaard waarde van de component
-  opties gebruiken.
-- **Sorteren op**. Kies het veld waarop gesorteerd moet worden.
-
-### Formulier tabblad
-
-Deze instellingen zijn van toepassing op een enkele contactpersoon,
-behalve als ze veranderd zijn voor een specifiek contactpersoon
-menu-item
-
-<img
-src="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Component-Contact-Manager-Options-form-options-subscreen-nl.png/800px-Help-4x-Component-Contact-Manager-Options-form-options-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/f/f6/Help-4x-Component-Contact-Manager-Options-form-options-subscreen-nl.png 1.5x"
-data-file-width="879" data-file-height="1024" width="800" height="932"
-alt="Component Contact Manager Options form options subscreen" />
-
-- **Gebruik captcha voor contactpersonen.** Gebruik Algemeen of Niets
-  geselecteerd. Selecteer de captcha plugin die gebruikt zal worden voor
-  het contactformulier. Captcha is de naam van een techniek om spam
-  gebruikers registraties te voorkomen door van een gebruiker te
-  verlangen dat hij een aantal tekens intypt vanuit een afbeelding, of
-  door het aanvinken van 'Ik ben geen robot'. U moet mogelijk meer
-  informatie opgeven in uw captcha plugin in Pluginbeheer.
-- **Contactformulier.** Toon of verberg het contactpersoon formulier.
-- **Verstuur een kopie naar de afzender.** Toon of verberg het
-  selectievakje om het mogelijk te maken om een kopie naar de verzender
-  te sturen.
-- **Verbannen e-mailadressen.** E-mailadressen die geen contactformulier
-  mogen versturen.
-- **Verboden onderwerpen.** Onderwerpen die niet zijn toegestaan in
-  contactformulieren.
-- **Verboden tekst.** Tekst die niet is toegestaan in
-  contactformulieren.
-- **Sessiecontrole**. Controleert op de aanwezigheid van een
-  sessiecookie. Dit houdt in dat gebruikers die cookies uitgeschakeld
-  hebben geen e-mails kunnen versturen.
-- **Aangepast antwoord.** Schakel automatisch antwoorden uit, maakt het
-  de plugin mogelijk om te integreren met andere systemen.
-- **Contactpersoon doorverwijzing.** Vul een alternatieve URL in
-  waarnaar de gebruiker wordt doorverwezen nadat de mail verstuurd is.
-
-### Integratie tabblad
-
-Deze instellingen bepalen hoe de contactpersonencomponent integreert met
-andere extensies.
-
-<img
-src="https://docs.joomla.org/images/thumb/8/87/Help-4x-Component-Contact-Manager-Options-integration-options-subscreen-nl.png/800px-Help-4x-Component-Contact-Manager-Options-integration-options-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/8/87/Help-4x-Component-Contact-Manager-Options-integration-options-subscreen-nl.png 1.5x"
-data-file-width="907" data-file-height="611" width="800" height="539"
-alt="Component Contact Manager Options integration options subscreen" />
-
-- **Toon feedlink.** (Toon of verberg) Toon of verberg de RSS feedlink.
-  Een feedlink geeft in de meest moderne browsers een feedicoon weer in
-  de adresbalk.
-- **Verwijder ID's uit URL's.** (Ja of Nee) Of al dan niet de
-  database-ID van een artikel in een link moet worden getoond.
-- **Extra velden inschakelen.** (Ja of Nee) Extra velden aanmaken
-  inschakelen.
-
-### Rechten tabblad
-
-Deze sectie toont de rechten voor contactpersonen. Het volgende scherm
-is zichtbaar.
-
-<img
-src="https://docs.joomla.org/images/thumb/5/5c/Help-4x-Component-Contact-Manager-Options-permissions-options-subscreen-nl.png/800px-Help-4x-Component-Contact-Manager-Options-permissions-options-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/5/5c/Help-4x-Component-Contact-Manager-Options-permissions-options-subscreen-nl.png 1.5x"
-data-file-width="883" data-file-height="1077" width="800" height="976"
-alt="Component Contact Manager Options permissions options subscreen" />
-
-Om de rechten van deze extensie te wijzigen moet u de volgende
-handelingen uitvoeren.
-
-- Selecteer de **Groep** door op de titel aan de linkerzijde te klikken.
-- Zoek de gewenste **Actie**. Mogelijke acties zijn:
-  - **Instellen ACL & Opties**. Gebruikers kunnen de opties en rechten
-    van deze extensie bewerken.
-  - **Configure Options Only.** Users can edit the options except the
-    permissions of this extension.
-  - **Toegang tot beheerdersinterface**. Gebruikers hebben toegang tot
-    de beheerdersinterface van deze extensie.
-  - **Maken:** Gebruikers mogen inhoud voor deze extensie aanmaken.
-  - **Verwijderen:** Gebruikers mogen inhoud in deze extensie
-    verwijderen.
-  - **Bewerken:** Gebruikers mogen inhoud in deze extensie bewerken.
-  - **Bewerk status:** Gebruikers kunnen de status en relevante
-    informatie van inhoud van deze extensie bewerken.
-  - **Bewerk eigen:** Gebruikers mogen de eigen inhoud van deze extensie
-    bewerken.
-- Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
-  Mogelijke instellingen zijn:
-  - '**Overgenomen:'** Overgenomen van gebruikers in deze groep vanuit
-    de Algemene instellingen rechten van deze extensie.
-  - '**Toegestaan:'** Toegestaan voor gebruikers in deze groep. Let op
-    dat wanneer deze actie op één van de hogere niveaus Geweigerd is het
-    'Toegestaan' recht hier geen effect heeft. Een instelling geweigerd
-    kan niet worden overschreven.
-  - '**Geweigerd:'** Geweigerd voor alle gebruikers in deze groep.
-- Klik op **Opslaan** in de **werkbalk** bovenin. Wanneer het scherm
-  herladen wordt zal de nieuwe gecalculeerde rechten voor deze groep en
-  actie weergegeven worden.
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de afbeelding hierboven.
-De functies zijn.
-
-- **Opslaan.** Slaat Contactpersonen beheer opties op en blijft op het
-  huidige scherm.
-- **Opslaan & sluiten**. Slaat Contactpersonen beheer opties op en sluit
-  het huidige scherm.
-- **Annuleren/Sluiten**. Sluit het huidige scherm en keert terug naar
-  het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
-  te slaan.
-- **Help**. Opent dit helpscherm.
-
-## Snelle tips
-
-- Als u een beginnend gebruiker bent, , dan kunt u de de standaard
-  waarden aanhouden totdat u meer heeft geleerd over het gebruik van de
-  algemene opties.
-- Als u een gevorderde gebruiker bent, kunt u tijd besparen door hier
-  goede standaard waarden in te stellen. Als u menu-items maakt en
-  contactpersonen aanmaakt, dan kunt u de standaard waarden voor de
-  meeste opties aanvaarden.
-- Alle waarden die hier ingesteld worden kunnen overschreven worden op
-  het menu-item, categorie of contactpersoon niveau.

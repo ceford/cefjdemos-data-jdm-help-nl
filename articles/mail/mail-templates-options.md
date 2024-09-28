@@ -1,80 +1,37 @@
-<!-- Filename: Help4.x:Mail_Templates:_Options / Display title: E-mail templates: Opties -->
+<!-- Filename: Help4.x:Mail_Templates:_Options  / Display title: E-mailsjablonen: Opties -->
 
 ## Beschrijving
 
-E-mail templates: Opties: Stellen algemene parameters in voor alle
-systeem e-mails.
+De pagina Mail Sjablonen: Opties wordt gebruikt om globale parameters in te stellen die worden gebruikt voor alle systeeme-mails.
 
-## Hoe toegang te krijgen
+### Veelvoorkomende Elementen
 
-- Selecteer **Systeem → E-mail templates in het Templates venster**
-  vanuit het beheermenu. Dan...
-  - **Selecteer** de Opties knop in de werkbalk.
+Enkele aspecten van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het tabblad Machtigingen](jdocmanual?article=help/common-elements/edit-permissions).
 
-<img
-src="https://docs.joomla.org/images/thumb/1/1d/Help-4x-Components-Mail-Templates-Options-nl.png/800px-Help-4x-Components-Mail-Templates-Options-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/1/1d/Help-4x-Components-Mail-Templates-Options-nl.png 1.5x"
-data-file-width="1006" data-file-height="441" width="800" height="351"
-alt="Components Mail Templates Options" />
+## Toegang krijgen
 
-## Formulier velden
+- Selecteer **Systeem → Mail Sjablonen in het Sjablonenpaneel** vanuit het
+  Beheerdersmenu. Vervolgens...
+  - Selecteer de **Opties** knop in de Werkbalk.
 
-### E-mails tabblad
+## Screenshot
 
-- **E-mail Formaat.** Selecteer of de mail moet worden verzonden in
-  'Onopgemaakte tekst', 'HTML' of beide formaten.
-- **Instellingen per e-mail template.** Selecteer of ieder template de
-  instellingen mag selecteren.
-- **Kopie verzenden.** Selecteer of een kopie mag worden verzonden.
-- **Bijlagen map.** Geef een relatief pad naar de hoofdmap van uw
-  installatie voor de map met statische bijlagen die u aan de e-mails
-  wilt koppelen.
+![Mail Sjablonen Opties](../../../nl/images/mail/mail-templates-options-mails-tab.png)
 
-### Rechten tabblad
+## Formulier Velden
 
-Om de rechten van deze extensie te wijzigen moet u de volgende
-handelingen uitvoeren.
+### Mail Tabblad
 
-- Selecteer de **Groep** door op de titel aan de linkerzijde te klikken.
-- Zoek de gewenste **Actie**. Mogelijke acties zijn:
-  - **Instellen ACL & Opties**. Gebruikers kunnen de opties en rechten
-    van deze extensie bewerken.
-  - **Configure Options Only.** Users can edit the options except the
-    permissions of this extension.
-  - **Toegang tot beheerdersinterface**. Gebruikers hebben toegang tot
-    de beheerdersinterface van deze extensie.
-  - **Maken:** Gebruikers mogen inhoud voor deze extensie aanmaken.
-  - **Verwijderen:** Gebruikers mogen inhoud in deze extensie
-    verwijderen.
-  - **Bewerken:** Gebruikers mogen inhoud in deze extensie bewerken.
-  - **Bewerk status:** Gebruikers kunnen de status en relevante
-    informatie van inhoud van deze extensie bewerken.
-  - **Bewerk eigen:** Gebruikers mogen de eigen inhoud van deze extensie
-    bewerken.
-- Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
-  Mogelijke instellingen zijn:
-  - '**Overgenomen:'** Overgenomen van gebruikers in deze groep vanuit
-    de Algemene instellingen rechten van deze extensie.
-  - '**Toegestaan:'** Toegestaan voor gebruikers in deze groep. Let op
-    dat wanneer deze actie op één van de hogere niveaus Geweigerd is het
-    'Toegestaan' recht hier geen effect heeft. Een instelling geweigerd
-    kan niet worden overschreven.
-  - '**Geweigerd:'** Geweigerd voor alle gebruikers in deze groep.
-- Klik op **Opslaan** in de **werkbalk** bovenin. Wanneer het scherm
-  herladen wordt zal de nieuwe gecalculeerde rechten voor deze groep en
-  actie weergegeven worden.
+- **Mail Formaat** Selecteer of je e-mails wilt verzenden in Plattetekst, HTML of
+  beide formaten.
+- **Per Sjabloon Mail Instellingen** Selecteer of je elke sjabloon wilt toestaan
+  om instellingen te selecteren.
+- **Kopie Versturen** Selecteer of je een kopie wilt sturen naar ... wie?
+- **Bijlagen Map** Geef een relatief pad naar de root van je
+  installatie voor de map met statische bijlagen die je aan de e-mails wilt toevoegen.
 
-## Werkbalk
+*Vertaald door openai.com*
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
-
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-  This toolbar icon is not shown if you are creating a new item.
-- **Help**. Opent dit helpscherm.

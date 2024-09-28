@@ -1,468 +1,228 @@
-<!-- Filename: Help4.x:Glossary / Display title: Woordenlijst -->
+<!-- Filename: Help4.x:Glossary  / Display title: Woordenlijst -->
 
-De Joomla! woordenlijst is handig voor het leren van veelgebruikte
-termen in Joomla! tutorials, helpvensters en aanvullende documentatie.
+De Joomla! Woordenlijst is nuttig voor het uitleggen van veelvoorkomende termen die worden gebruikt in Joomla! tutorials, helpschermen en geavanceerde documentatie.
 
-## Access Control List
+## Toegangslijst
 
 ## Alias
 
 ## Anker
 
-Een anker wordt gemaakt met behulp van de tag in HTML. In Joomla kan
-door middel van een anker een bladwijzer binnen een HTML pagina
-geplaatst worden (bijvoorbeeld door de
-TinyMCE
-tekstverwerker te gebruiken). Daarmee kan een link gemaakt worden die
-rechtstreeks naar dat punt in het artikel gaat.
+Een anker wordt gemaakt met behulp van de `<a>` tag in HTML. Een anker stelt je in staat om een bladwijzer binnen een HTML-pagina te plaatsen. In Joomla! kun je een anker in een artikel plaatsen (bijvoorbeeld met de TinyMCE-editor). Hierdoor kun je een link maken die direct naar dat punt in het artikel gaat.
 
-De HTML broncode van een anker ziet er als volgt uit:
+De HTML-broncode voor een anker ziet er als volgt uit:
 
-U kunt naar een anker linken binnen dezelfde pagina met behulp van de
-HTML code
+    <a name="my_anchor" title="My Anchor"></a>
 
-Door op de link te klikken wordt men rechtstreeks doorverwezen naar de
-locatie van de ankertag.
+Je kunt naar een anker binnen dezelfde pagina linken met behulp van de HTML-code
 
-Er kan ook een link naar een anker op een andere pagina geplaatst worden
-door "#" en de ankernaam toe te voegen aan het einde van de URL. Wanneer
-de URL van het artikel in het bovenstaande voorbeeld
-http://www.mijnsite.com/mijn_artikel.html is, dan kan er rechtstreeks
-naar het anker op die pagina gelinkt worden met de URL
-http://www.mijnsite.com/mijn_artikel.html#mijn_anker.
+    <a href="#my_anchor" ></a>
+
+Als je op die link klikt, word je rechtstreeks naar de locatie van de ankertag geleid.
+
+Je kunt naar een anker op een andere pagina linken door "#" plus de ankernaam toe te voegen aan het einde van de URL. In het bovenstaande voorbeeld, als de URL voor het artikel `http://www.mysite.com/my_article.html` was, zou je rechtstreeks naar het anker op die pagina kunnen linken met de URL `http://www.mysite.com/my_article.html#my_anchor`.
 
 ## Artikel
 
 ## Cascading Style Sheet (CSS)
 
-Een Cascading Style Sheet ofwel CSS bestand wordt gebruikt om de
-presentatie van een XHTML-pagina te bepalen. Een CSS-bestand zal
-bijvoorbeeld vaak de weergave bepalen van het lettertype, de marges,
-kleuren, achtergrondafbeeldingen en andere aspecten van een webpagina.
-Met CSS kan men de inhoud van een XHTML-pagina scheiden van de weergave.
-In Joomla! zijn CSS bestanden (bijvoorbeeld template.css) normaal
-gesproken een onderdeel van de template.
+Een Cascading Style Sheet of CSS wordt gebruikt om de presentatie van
+een XHTML-pagina te regelen. Bijvoorbeeld, een CSS-bestand bepaalt vaak
+het lettertype, de marges, de kleur, achtergrondafbeeldingen en andere
+aspecten van het uiterlijk van een webpagina. CSS maakt het mogelijk om
+de inhoud van een XHTML-pagina te scheiden van het uiterlijk. In Joomla! 
+zijn CSS-bestanden (bijvoorbeeld template.css) normaal gesproken onderdeel van de template.
 
-#### Zie ook:
-Template,
-Pagina class
-achtervoegsel,
-Module class
-achtervoegsel
+**Zie ook:** Template, Pagina Klasse Suffix, Module Klasse Suffix
 
 ## Categorie
 
-Elk onderdeel van een website, aangedreven door Joomla! of elk ander
-CMS, gebruikt uiteraard een methode voor het logisch weergeven en
-opslaan van de inhoud. De gebruikelijke manier is middels categorieën en
-subcategorieën. Joomla! staat meerdere manieren toe voor het weergeven
-en gebruiken van inhoud middels categorisering. Enkele soorten inhoud
-die categorieën gebruiken zijn
-artikelen
-(de belangrijkste inhoud van webpagina's), advertenties, contactpersonen
-en weblinks.
+Elke Joomla! aangedreven website of elk type CMS-website heeft een methode nodig om de inhoud logisch weer te geven en op te slaan. De gebruikelijke methode is door middel van categorieën en subcategorieën. Joomla! biedt meerdere manieren om inhoud te weergeven en te gebruiken, gecontroleerd door categorisatie. Enkele inhoudstypen die categorisatie hebben, zijn Artikelen (de belangrijkste inhoud van webpagina's), Banners en Contacten.
 
-Ongecategoriseerd is de standaard categorie die wordt toegewezen aan
-alle soorten inhoud. De categorie "Ongecategoriseerd" is nietszeggend en
-kan indien noodzakelijk worden gebruikt voor soorten inhoud die niet
-vallen onder een specifieke categorie.
+Een categorie genaamd *Niet-gecategoriseerd* is de standaardcategorie die aan de meeste inhoudstypen wordt toegewezen. De categorie *Niet-gecategoriseerd* is niet beschrijvend en moet naar behoefte worden gebruikt voor inhoudstypen die niet onder een specifieke categorie vallen.
 
-Bij het maken en toewijzen van categorieën, moet u beschikken over een
-geplande structuur. Dit is bijvoorbeeld een manier hoe verschillende
-Joomla
-artikelen
-over vogels gecategoriseerd kunnen worden. Maak twee artikelcategorieën
-aan met de naam "Dieren" en "Planten". Onder de "Dieren" categorie, kunt
-u subcategorieën met de naam "Vogels" en "Zoogdieren" hebben. Onder de
-categorie "Vogels" kunt u 3 categorieën hebben met de naam "Haviken",
-"Papegaaien" en "Mussen".
+Bij het maken en toewijzen van categorieën, moet je een geplande structuur hebben. Als voorbeeld, dit is een manier om verschillende artikelen over vogels te categoriseren: 
 
+- Maak twee hoofdcategorieën voor artikelen genaamd *Dieren* en *Planten*.
+- Onder de categorie *Dieren*, maak je subcategorieën genaamd *Vogels* en 
+  *Zoogdieren*. 
+- Onder de subcategorie *Vogels*, maak je categorieën genaamd *Haviken*, *Papegaaien* 
+  en *Mussen*. Dit is de resulterende categorie-structuur:
+
+```
 - Dieren
   - Vogels
     - Haviken
     - Papegaaien
     - Mussen
   - Zoogdieren
+```
 
-Bovenstaande voorbeeld kan worden uitgebreid met specifieke artikelen
-over verschillende soorten haviken, papegaaien en mussen. Begin door
-gebruik te maken van een hoofdcategorie "Dieren". Daarna door het maken
-van de subcategorieën "Vogels" en "Zoogdieren" onder de categorie
-"Dieren" en dan "Haviken", "Papegaaien" en "Mussen" als subcategorie
-onder de subcategorie "Vogels".
-
-Now you can create multiple articles in the Hawk, Parrot and Sparrow sub
-categories using the different genus or common names of the specific
-types of these 3 birds.
-
-Categorieën worden onderhouden met behulp van categoriebeheer dat kan
-worden bereikt door in het beheergedeelte (Back-end) te klikken op het
-menu Inhoud en dan Categorieën.
-
-**Zie ook**:
-Artikel
+Nu kun je meerdere artikelen maken in de subcategorieën Havik, Papegaai en Mus, door gebruik te maken van de verschillende geslachts- of veelvoorkomende namen van de specifieke soorten van deze vogels.
 
 ## Chrome
 
-De zichtbare grafische interface-eigenschappen van een toepassing worden
-soms aangeduid als "chrome". Zie <a
-href="https://docs.joomla.org/index.php?title=Het_Toepassen_van_de_aangepaste_module_chrome&amp;action=edit&amp;redlink=1"
-class="new"
-title="Het Toepassen van de aangepaste module chrome (page does not exist)">het
-Toepassen van de aangepaste module chrome</a> voor informatie over het
-wijzigen van het uiterlijk van de modules (met andere woorden, de module
-"chrome").
+De zichtbare grafische interfacekenmerken van een applicatie worden soms
+verwezen naar als *chrome*.
 
-## Core
+## Component
 
-Het woord "kern" of "core" in Joomla! heeft betrekking op de
-gedistribueerde bestanden die nodig zijn voor het maken en beheren van
-een door het Joomla CMS aangedreven website. Deze bestanden kunnen
-worden gedownload vanaf de Joomla website
-<a href="http://www.joomla.org/download.html" class="external text"
-target="_blank"
-rel="noreferrer noopener">http://www.joomla.org/download.html</a>. De
-Joomla "kern" bevat ook een aantal fundamentele functionaliteiten om
-nieuwe Joomla installaties snel en gemakkelijk te laten werken.
-Inbegrepen zijn gebruikersbeheer, artikelbeheer, linkbeheer,
-categoriebeheer, contactbeheer en menubeheer. Er is ook een
-templatebeheer
-met enkele eenvoudige sjablonen om de weergave van de front-end
-(website/gebruiker) te beheren, een
-modulebeheer
-met basismodules,
-pluginbeheer
-met basisplugins en een paar andere "out of the box"
-extensies
-om de functionaliteit van een standaard Joomla-installatie uit te
-breiden. Deze standaard extensies mogen niet worden verward met de
-extensies die beschikbaar zijn om te downloaden vanaf de JED (Joomla!
-Extension-Directory).
+## Kern
 
-#### Zie ook:
-<a href="http://extensions.joomla.org/" rel="noreferrer noopener">Joomla Extension Directory</a>.
+Het woord *kern* in Joomla! heeft betrekking op de gedistribueerde bestanden die nodig zijn om een Joomla CMS-aangedreven website te creëren en te beheren. De Joomla-kern bevat alle benodigde functionaliteit om snel en eenvoudig een nieuwe website te maken en te beheren.
 
-## Database tabelvoorvoegsel
+## Database Tabel Voorvoegsel
 
-Het tabelvoorvoegsel in een database is een string (een paar tekens
-lang) voorafgaand aan de naam van Joomla!'s
-tabellen.
-Met behulp van een voorvoegsel kunnen er meerdere installaties van
-Joomla! draaien met behulp van een enkele database.
+Het database tabel voorvoegsel is een tekenreeks (een paar tekens lang) die wordt voorafgegaan
+aan de naam van Joomla! tabellen. Het gebruik van een voorvoegsel maakt het mogelijk om meerdere 
+installaties van Joomla! te draaien met behulp van één enkele database.
 
-Het database tabelvoorvoegsel kan tijdens de installatie ingesteld
-worden. Naderhand wijzigen is mogelijk, maar vereist toegang tot de
-database via een niet-Joomla medium of een Joomla extensie zoals Akeeba
-Admin Tools en kan leiden tot enige downtime.
+Het database tabel voorvoegsel kan tijdens de installatie worden ingesteld. Het later wijzigen 
+is mogelijk, maar vereist toegang tot de database via een niet-Joomla medium of een Joomla 
+Extensie zoals Akeeba Admin Tools en zal enige downtime veroorzaken.
 
-Extensie
-ontwikkelaars moeten de string `#__` gebruiken als aanduiding van het
-voorvoegsel. Dit zal door het werkelijke voorvoegsel vervangen worden
-bij de verwerking in Joomla.
+Extensie ontwikkelaars moeten de tekenreeks `#__` gebruiken om het voorvoegsel weer te geven.
+Dit wordt tijdens runtime vervangen door het daadwerkelijke voorvoegsel.
 
-## Extensie
-
-## Taal
-
-Talen zijn misschien wel het meest kritische basis
-<a href="https://docs.joomla.org/Extensions" class="mw-redirect"
-title="Extensions">extensie</a> type. Talen worden verpakt als core
-taalpakket of een extensie taalpakket. Deze pakketten bestaan uit INI
-bestanden die sleutel/waarde paren bevatten. Deze sleutel/waarde paren
-verzorgen de vertaling van statische strings binnen de Joomla! broncode.
-Dit maakt het mogelijk dat zowel de Joomla! core en derde partij
-componenten en modules geïnternationaliseerd kunnen worden. Core
-taalpakketten bevatten tevens een XML meta bestand dat de taal
-beschrijft en informatie biedt over de lettertypes die gebruikt worden
-voor het genereren van de inhoud van een PDF.
+## Uitbreiding
 
 ## LDAP
 
+## Taal
+
+Talen zijn misschien wel het meest basale en cruciale extensietype. Talen worden verpakt als een kern-taalpakket of een extensie-taalpakket. Deze pakketten bestaan uit INI-bestanden die sleutel/waarde-paren bevatten om de vertaling van statische tekststrings binnen de Joomla!-broncode te bieden. Dit maakt het mogelijk om zowel de Joomla!-kern als de componenten en modules van derden te internationaliseren. Kern-taalpakketten bevatten ook een XML-metabestand dat de taal beschrijft en informatie geeft over de te gebruiken lettertypen voor de generatie van PDF-inhoud.
+
 ## Menu
 
-Een **menu** in Joomla! bestaat uit een set van **menu-items** die
-gebruikt worden voor het navigeren door een website. Elk menu-item
-bestaat uit een URL naar een pagina op de website en bevat instellingen
-die de inhoud (artikelen, categorie(ën), lijsten etc.) en de stijl
-(module(s), indeling) van die pagina bepalen. Daarnaast heeft ieder menu
-een **menutype**, welke wordt getoond in menubeheer, (zie ook [een nieuw
-menu
-toevoegen](https://docs.joomla.org/Adding_a_new_menu "Special:MyLanguage/Adding a new menu")).
-Het menutype zal de **unieke naam** of
-alias zijn
-die gebruikt wordt om menselijk leesbare URL's te maken als
-zoekmachinevriendelijke
-URL's
-is ingeschakeld. Menu-items kunnen een onbeperkt aantal **subitems**
-hebben.
-
-**Menu's
-aanmaken**
-is vrij eenvoudig. Kies, vanuit het Beheermenu, in het beheergedeelte
-van uw Joomla! site, voor: **Menus\>Menubeheer\>Menu's**. Vul, op de
-geopende **Menubeheer: Toevoegen Menu** pagina uw menutitel in het
-"Titel \*" veld (verplicht), uw menutype in het "Menutype \*" veld
-(verplicht) en, als u dat wilt, de korte menubeschrijving in het
-"Beschrijving" veld (optioneel). Hierna kunt u een **nieuwe menu-items
-toevoegen**
-aan dit nieuwe menu.
-
-Iedere website kan meer dan één menu hebben.
-
-Een menu wordt niet automatisch op de website getoond. Er dient een
-**Menumodule** aangemaakt te worden met behulp van
-
-#### Modulebeheer
-en aan de module aan te geven op welk **Menu** zichtbaar te zijn.
-Vervolgens kunt u aangeven waar de module op de site zichtbaar moet
-worden door een van de beschikbare
-
-#### Moduleposities
-van het actieve
-
-#### Template
-op te geven.
-
-Er is meer controle over wanneer het menu moet verschijnen, door de
-instellingen van de menumodule aan te passen. Zo kunt u aangeven dat hij
-op alle of een paar door u gekozen pagina's moet verschijnen (door de
-module te koppelen aan menu-items), of om hem voor iedereen zichtbaar te
-maken, of alleen specifieke gebruikersgroepen (bijvoorbeeld
-geregistreerde gebruikers).
-
-Het is ook mogelijk Gepleten
-menu's
-aan te maken.
+In Joomla! is een **Menu** een module die een set van **menu-items** bevat die worden gebruikt voor navigatie. Elk menu-item definieert een URL naar een pagina op de site. Het bevat instellingen die de weergave van de pagina inhoud en stijl bepalen.
 
 ## Model-View-Controller
 
 Joomla maakt uitgebreid gebruik van het
-<a href="http://nl.wikipedia.org/wiki/Model-view-controller-model"
-class="external autonumber" target="_blank"
-rel="nofollow noreferrer noopener">[1]</a> ontwerppatroon.
+<a href="http://en.wikipedia.org/wiki/Model-view-controller"
+class="external text" target="_blank"
+rel="nofollow noreferrer noopener">Model-View-Controller</a> (MVC) design
+pattern.
 
-Wanneer Joomla is gestart om een verzoek van een gebruiker te verwerken,
-zoals een 'GET' voor een bepaalde pagina of een 'POST' met gegevens uit
-een formulier, is één van de eerste dingen die Joomla doet, het
-analyseren van de URL om te bepalen welke component verantwoordelijk is
-voor de verwerking van het verzoek, en de controle aan de desbetreffende
-component te geven.
+Wanneer Joomla wordt gestart om een verzoek van een gebruiker te verwerken, zoals een GET
+voor een bepaalde pagina, of een POST met formuliergegevens, is een van de eerste
+dingen die Joomla doet, de URL analyseren om te bepalen welke
+component verantwoordelijk zal zijn voor het verwerken van het verzoek, en de
+controle over te dragen aan die component.
 
-Als de component is ontworpen volgens het MVC-patroon, zal het de
-controle aan de controller doorgeven. De controller is verantwoordelijk
-voor het analyseren van de aanvraag en het bepalen welke model(len)
-nodig zijn om te voldoen aan het verzoek, en welke 'view' moet worden
-gebruikt om het resultaat aan de gebruiker terug te geven.
+Als de component is ontworpen volgens het MVC-patroon, zal het
+de controle doorgeven aan de controller. De controller is verantwoordelijk voor
+het analyseren van het verzoek en het bepalen welke model(len) nodig zullen zijn om
+het verzoek te vervullen, en welke view moet worden gebruikt om de resultaten
+terug te sturen naar de gebruiker.
 
-Het model kapselt de gegevens die worden gebruikt door de component in.
-In de meeste gevallen komen deze gegevens uit een database, ofwel de
-Joomla database, of een andere database, maar het is voor het model ook
-mogelijk om gegevens uit andere bronnen te krijgen, zoals via een web
-services API die draait op een andere server. Het model is ook
-verantwoordelijk voor het bijwerken van de database indien nodig. Het
-doel van het model is de controller en de view te isoleren van de
-details van hoe de gegevens worden opgehaald of weggeschreven.
+Het model omvat de gegevens die door de component worden gebruikt. In de meeste gevallen
+zullen deze gegevens uit een database komen, hetzij de Joomla-database, of een
+externe database, maar het is ook mogelijk voor het model om gegevens te verkrijgen
+van andere bronnen, zoals via een webservices-API die op een andere
+server draait. Het model is ook verantwoordelijk voor het bijwerken van de database waar
+gepast. Het doel van het model is om de controller en
+view te isoleren van de details van hoe gegevens worden verkregen of gewijzigd.
 
-De view is verantwoordelijk voor het genereren van de uitvoer die, door
-de component naar de browser wordt verzonden. Het doet een beroep op het
-model voor alle informatie die het nodig heeft en formatteert het op de
-juiste manier. Bijvoorbeeld, een lijst van data-items verkregen uit het
-model kan in een HTML-tabel worden gezet door de view.
+De view is verantwoordelijk voor het genereren van de output die naar de
+browser wordt gestuurd door de component. Het roept het model aan voor alle informatie die het
+nodig heeft en formatteert deze op de juiste manier. Bijvoorbeeld, een lijst van gegevensitems
+uit het model zou door de view in een HTML-tabel kunnen worden geplaatst.
 
-Aangezien Joomla! modulair is opgezet, is de uitvoer van de component in
-het algemeen slechts een deel van de web-pagina die de gebruiker
-uiteindelijk zal zien. Als de view eenmaal de uitvoer heeft gegenereerd
-geeft de component de controle terug aan het Joomla framework, dat
-vervolgens het template laadt en uitvoert. Het template combineert de
-uitvoer van de component, en de eventuele modules die actief zijn op de
-huidige pagina, zodat het aan de browser als een enkele pagina kan
-worden uitgeleverd.
+Aangezien Joomla is ontworpen om zeer modulair te zijn, is de output van de
+component meestal slechts een deel van de volledige webpagina die de gebruiker
+uiteindelijk zal zien. Zodra de view de output heeft gegenereerd, geeft de
+component de controle terug aan het Joomla-framework, dat vervolgens de
+template laadt en uitvoert. De template combineert de output van de
+component en alle modules die actief zijn op de huidige pagina, zodat
+het als één pagina naar de browser kan worden verzonden.
 
-Om te zorgen voor extra kracht en flexibiliteit voor webontwikkelaars,
-die zich liever bezighouden met het creëren van nieuwe ontwerpen, dan
-met het bewerken van de onderliggende code, splitst Joomla de
-traditionele weergave in een aparte view en lay-out. Het view haalt de
-gegevens uit het model zoals dat in een traditioneel MVC patroon gaat,
-maar stelt dan alleen die gegevens beschikbaar aan de lay-out, die
-verantwoordelijk is voor de opmaak van de gegevens voor de presentatie
-aan de gebruiker. Het voordeel van deze splitsing is dat het Joomla
-template systeem een eenvoudig mechanisme biedt om lay-outs te
-overschrijven in het sjabloon. Deze lay-out overrides (vaak genoemd
-"template overrides" omdat ze een onderdeel vormen van het template,
-terwijl het eigenlijk de lay-out is die wordt overschreven) worden
-gebundeld met het template en geef de template ontwikkelaar volledige
-controle over de uitvoer van de Joomla core en alle geïnstalleerde
-extensies van derden die in overeenstemming zijn met het
-MVC-ontwikkelpatroon.
-
-## Module chrome
-
-## Module class achtervoegsel
-
-Module class achtervoegsel is een parameter in Joomla! modules. Het
-wordt geconfigureerd in het module: \[Bewerken\] venster bij
-"Geavanceerde instellingen". Het instellen van deze parameter laat
-Joomla! ofwel een nieuwe CSS class toevoegen of de bestaande CSS class
-wijzigen van het `div` element voor deze specifieke module.
-
-Wanneer Joomla! een module genereert , maakt het automatisch een CSS
-class genaamd "moduletable" aan om het stylen van de module toe te staan
--- bijvoorbeeld:
-
-Om een nieuwe class aan te maken, voer de parameter in voorafgaand door
-een spatie. Bijvoorbeeld het ingeven van een spatie plus
-"mijnNieuweClass" zal leiden tot een nieuwe CSS class met de naam
-"mijnNieuweClass". De HTML wordt veranderd in
-
-Om de naam te wijzigen van een bestaande class, voer de parameter in
-zonder een spatie. Bijvoorbeeld, het invoeren van "\_mySuffix" (zonder
-spatie) zorgt ervoor dat de HTML wordt veranderd naar
-
-Over het algemeen is het aan te bevelen om een nieuw te maken class
-vooraf te laten gaan door een spatie. Op deze manier zal de CSS-styling
-voor deze module met de standaard class blijven werken. Een nieuwe class
-kan worden gebruikt om iedere gewenste styling toe te voegen aan de
-module, zonder dat de al bestaande CSS-code aangepast hoeft te worden.
-Let op: iedere nieuwe class-naam moet uniek zijn om niet in conflict te
-komen met al bestaande class-namen.
-
-Zie:
-
-## Modulepositie
+Om extra kracht en flexibiliteit te bieden aan webontwerpers, die
+mogelijk alleen bezig zijn met het creëren van nieuwe ontwerpen in plaats van het manipuleren van de
+onderliggende code, splitst Joomla de traditionele view in een aparte view
+en layout. De view haalt gegevens uit het model, zoals in een traditioneel MVC-
+patroon, maar maakt deze gegevens vervolgens gewoon beschikbaar voor de layout, die
+verantwoordelijk is voor het formatteren van de gegevens voor presentatie aan de gebruiker. Het
+voordeel van deze splitsing is dat het Joomla-templatesysteem
+een eenvoudige mechanismen biedt voor layouts om te worden overschreven in de
+template. Deze layout-overschrijvingen (vaak "template-overschrijvingen" genoemd
+omdat ze deel uitmaken van de template, hoewel eigenlijk de
+layout wordt overschreven) worden bij de template gebundeld en geven de
+template-ontwerper volledige controle over alle output van de
+Joomla-core en alle geïnstalleerde derde-partij-extensies die voldoen aan
+het MVC-designpatroon.
 
 ## Module
 
-## Pagina class achtervoegsel
+## Module Class Suffix
 
-Page Class Suffix is a parameter in Joomla! content menu items. It is
-set in a particular menu item: \[Edit Menu Item\] page, under the "Page
-Display" tab. A new page class suffix will cause Joomla! to either add a
-new CSS class or modify the existing CSS class for elements in the
-assigned to this very menu item page layout.
+Een Module Class Suffix is een parameter die in modules wordt gebruikt om een nieuwe CSS-klasse aan een module toe te voegen. Het wordt gebruikt in combinatie met stijlen die zijn gedefinieerd in een user.css-bestand om het standaard uiterlijk van een module te wijzigen.
 
-Wanneer Joomla! een pagina genereert, wordt er automatisch een vooraf
-gedefinieerde CSS class toegevoegd om styling van de pagina toe te
-staan. Bijvoorbeeld, een pagina zou het volgende element kunnen hebben
+De nieuwe klassenaam kan worden gebruikt om elke gewenste opmaak aan de module toe te voegen zonder dat alle bestaande CSS-code opnieuw moet worden gemaakt. Let op dat als je een nieuwe klassenaam maakt, deze een unieke naam heeft en niet in conflict komt met bestaande klassennamen.
 
-Om een nieuwe class te maken, voer de parameter in met een spatie
-ervoor. Bijvoorbeeld, het invoeren van een spatie plus "myNewClass" zal
-leiden tot een nieuwe CSS class genaamd "myNewClass" en het zal worden
-ingevoegd als een class voor de elementen in dat Menu-Item. In het geval
-van het bovenstaande voorbeeld zal dit veranderd worden in
+## Module positie
 
-Om de naam te wijzigen van een bestaande class, voer de parameter in
-zonder een spatie. Bijvoorbeeld, het invoeren van "\_mySuffix" (zonder
-spatie) zorgt ervoor dat de HTML wordt veranderd naar
-
-Over het algemeen is het aan te bevelen om een nieuw te maken class
-vooraf te laten gaan door een spatie. Op deze manier zal de CSS-styling
-voor deze component met de standaard class blijven werken. Een nieuwe
-class kan worden gebruikt om iedere gewenste styling toe te voegen aan
-dit component, zonder dat de al bestaande CSS-code aangepast hoeft te
-worden. Let op: iedere nieuwe class-naam moet uniek zijn om niet in
-conflict te komen met al bestaande class-namen.
-
-**Zie ook:** : Gebruik van Class
-achtervoegsel,
-Gebruik van Pagina Class achtervoegsel in Template
-code
-
-## Patch
+## Module chrome
 
 ## PHP
 
-PHP is een computerscripttaal die is ontworpen voor het maken van
-dynamische webpagina' s. PHP wordt op grote schaal gebruikt voor
-webontwikkeling en kan ingebed worden in
-HTML.
-Het draait over het algemeen op een webserver, de PHP-code als input en
-de webpagina's als output. Joomla is voornamelijk geschreven met behulp
-van de PHP-taal. Voor meer informatie, zie Waar kunt u PHP
-leren?
+PHP is een scripttaal voor computers die is ontworpen voor het maken van dynamische webpagina's. PHP wordt veel gebruikt voor webontwikkeling en kan in HTML worden geïntegreerd. Het draait meestal op een webserver, waarbij het PHP-code als input neemt en webpagina's als output creëert. Joomla! is voornamelijk geschreven in de PHP-taal.
 
-## Gesplitste menu's
+## Pagina Klasse Achtervoegsel
 
-Een <a href="https://docs.joomla.org/Split_menu" class="mw-redirect"
-title="Split menu">split menu</a> is een menu, waarvan verschillende
-niveaus van één menu op twee of meer locaties op één webpagina worden
-weergegeven.
+Een Pagina Klasse Achtervoegsel is een parameter die wordt gebruikt in inhoudsmenu-items om een nieuwe CSS-klasse toe te voegen aan de paginalay-out. Het wordt gebruikt in combinatie met stijlen die zijn gedefinieerd in een user.css-bestand om het standaard uiterlijk van een module te veranderen.
 
-Bijvoorbeeld, over het algemeen worden de menu-items van een topmenu
-bovenaan de pagina weergegeven. Wanneer op één van de items wordt
-geklikt, wordt de gebruiker naar een pagina geleid waar een secundair
-menu, bijvoorbeeld aan de linkerkant van de pagina, het volgende niveau
-menu-items van het topmenu toont.
+De nieuwe klassenaam kan worden gebruikt om elke gewenste stijl aan de pagina toe te voegen zonder dat alle bestaande CSS-code opnieuw hoeft te worden gemaakt. Merk op dat, als je een nieuwe klassenaam aanmaakt, je ervoor zorgt dat deze een unieke naam heeft en niet conflicteert met bestaande klassennamen.
 
-De menu's worden op verschillende locaties op de pagina weergegeven.
-Maar zijn gerelateerd, omdat het ene menu alleen de startniveau-items
-toont, terwijl het andere de items van het tweede niveau toont. Dit idee
-kan worden uitgebreid met menu's voor de items van het derde niveau en
-verder.
+## Patch
 
-Dit kan worden geïmplementeerd in Joomla gebruikmakend van een enkel
-multi-level menu of het maken van meer dan één menu-modules, elk
-verwijzend naar een ander niveau.
-
-**Zie ook**:
-Menu
-
-## Template
-
-Een template is een soort Joomla
-extensie
-die het uiterlijk van de website bepaalt. Het Joomla CMS gebruikt twee
-soorten templates: website
-templates
-en
-De website template bepaalt de manier waarop de website eruit ziet voor
-uw gebruikers die de inhoud bekijken. Het template voor het
-beheergedeelte bepaalt de manier waarop het beheergedeelte eruit ziet,
-het gedeelte waar administratieve taken worden uitgevoerd door een
-Joomla! beheerder. Dit kan bestaan uit normale taken zoals: gebruiker-,
-menu-, artikel-, categorie-, module-, component-, plugin- en
-template-beheer.
-
-**Zie ook**:
-Component,
-Module,
-Plugin
-
-## Upgradepakket
-
-An Upgrade Package in Joomla! is an archive of files that contain the
-files that have changed between Joomla! versions. When this archive is
-unpacked, it replaces the old version of the modified files with the new
-version. For example, if fifty files were changed between version 3.x.1
-and 3.x.2, the upgrade package from 3.x.1 to 3.x.2 would contain these
-fifty files and, when unpacked, would replace these fifty files and
-upgrade the installed version from 3.x.1 to 3.x.2.
-
-Upgradepakketten worden soms ook wel
-patchbestanden
-genoemd. Lees voor het installeren van een upgradpakket eerst de
-release
-notes
-en de upgrade
-instructies
-die bij het upgradepakket horen.
-
-## Plugin
+## Plug-in
 
 ## Zoekmachinevriendelijke URL's
 
-Zoekmachinevriendelijke URL's is een term die normaal gesproken afgekort
-wordt als SEF URL's of verkort als SEF. Gewoonlijk zien Joomla! URL's er
-zo uit:
+Zoekmachinevriendelijke URL's is een term die vaak wordt afgekort als SEF URL's
+of kortweg SEF. Normale Joomla!-URL's zien er ongeveer zo uit:
 
-    http://www.mijnwebsite.nl/index.php?option=com_content&view=section&id=3&Itemid=41
+    http://www.jouwsite.org/index.php?option=com_content&view=section&id=3&Itemid=41
 
-Het is ook mogelijk om Joomla! URL's er uit te laten zien als statische
-HTML pagina's zoals hier:
+Je kunt er optioneel voor kiezen om URL's weer te geven die eruitzien als statische HTML-pagina's zoals deze:
 
-    http://www.mijnwebsite.nl/faq.html
+    http://www.jouwsite.org/faq.html
 
-Sinds Joomla! 1.5 zijn er ingebouwde opties voor het genereren van SEF
-URL's. Deze worden ingeschakeld door het veranderen van de
-"SEO-instellingen" (zoekmachine optimalisatie) op het tabblad Website
-van het Algemene instellingen scherm in het Joomla! beheergedeelte. Er
-zijn ook extensies van derden die SEF URL's voor Joomla! maken.
+Er zijn ingebouwde opties voor het genereren van SEF-URL's. Deze worden ingeschakeld in de 
+*SEO-instellingen* (zoekmachineoptimalisatie) op het tabblad Site van de 
+Globale Configuratiepagina. Er zijn ook externe extensies die 
+SEF-URL's voor Joomla! maken.
+
+## Gesplitste menu's
+
+Een gesplitst menu is waar verschillende niveaus van een enkel menu op twee of meer locaties op een enkele webpagina worden weergegeven.
+
+Een veelvoorkomend voorbeeld is dat een menu met topniveauelementen bovenaan de pagina verschijnt. Wanneer op een van de items wordt geklikt, wordt de gebruiker naar een pagina geleid waar een secundair menu, bijvoorbeeld links op de pagina, tweede-niveauelementen binnen de reikwijdte van het topniveauelement toont.
+
+De menu's verschijnen op verschillende locaties op de pagina, maar zijn gerelateerd omdat een menu alleen topniveauelementen toont terwijl het andere tweede-niveauelementen toont. Dit idee kan worden uitgebreid om menu's voor derde-niveauelementen en verder op te nemen.
+
+Dit kan in Joomla worden geïmplementeerd met behulp van een enkel meerlagenmenu en vervolgens meer dan één menumodule maken die elk naar een ander niveau verwijzen.
+
+## Sjabloon
+
+Een sjabloon is een type Joomla! extensie die de paginaverschijning regelt.
+- Een Sitesjabloon bepaalt het openbare uiterlijk van de site-inhoud.
+- Een Beheerderssjabloon bepaalt het uiterlijk van de site voor 
+  administratieve taken zoals: gebruikers-, menu-, artikel-, categorie-, module-, 
+  component-, plug-in- en sjabloonbeheer.
+
+## Sjabloonstijl
+
+## Upgradepakket
+
+Een Upgradepakket in Joomla! is een pakket met bestanden die de
+gewijzigde bestanden tussen Joomla!-versies bevatten. Wanneer dit archief wordt
+uitgepakt, vervangt het de oude versie van de gewijzigde bestanden met de nieuwe
+versie. Bijvoorbeeld, als vijftig bestanden werden gewijzigd tussen versie 5.1
+en 5.2, zou het upgradepakket deze vijftig bestanden bevatten en instructies
+over hoe de upgrade uit te voeren. Soms omvat dit ook database-updates en
+het verwijderen van niet langer gebruikte bestanden.
+
+*Vertaald door openai.com*
+

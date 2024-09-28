@@ -1,85 +1,38 @@
-<!-- Filename: Help4.x:Mail_Templates / Display title: E-mail templates -->
+<!-- Filename: Help4.x:Mail_Templates  / Display title: E-mailsjablonen -->
 
 ## Beschrijving
 
-E-mail templates worden gebruikt om de weergave van verschillende
-systeem e-mail berichten in te stellen.
+Mail Sjablonen worden gebruikt om systeem e-mailberichten te versturen. De Mail Opties
+stellen gebruikers in staat om Berichten in Platte Tekst of HTML te verzenden, of beide. Als slechts één methode 
+is geselecteerd, zal het alternatief niet aanwezig zijn in het berichtbewerkingsformulier.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-Selecteer **Systeem → Templates venster → E-mail templates**
-vanuit het beheermenu.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Lijstfilters](jdocmanual?article=help/common-elements/list-filters).
+* [Lijstkolom Headers](jdocmanual?article=help/common-elements/list-column-headers).
+* [Lijst Item Volgorde](jdocmanual?article=help/common-elements/list-ordering).
+* [Lijst Paginering](jdocmanual?article=help/common-elements/list-pagination).
+* [Lijst Batchverwerking](jdocmanual?article=help/common-elements/list-batch-process).
 
-<img
-src="https://docs.joomla.org/images/thumb/7/7c/Help-4x-Mail-Templates-screen-nl.png/800px-Help-4x-Mail-Templates-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/7/7c/Help-4x-Mail-Templates-screen-nl.png 1.5x"
-data-file-width="1163" data-file-height="802" width="800" height="552"
-alt="Mail Templates screen" />
+## Hoe te Bereiken
+
+- Selecteer **Systeem → Templates paneel → Mail Templates** in het
+  Beheerdersmenu.
+
+## Screenshot
+
+![Lijst met e-mailsjablonen](../../../nl/images/mail/mail-templates.png)
 
 ## Kolomkoppen
 
-In de tabel met 'E-mail templates' worden de volgende verschillende
-kolommen weergegeven.
+- **Titel** De naam van de sjabloon.
+- **Extensie** De extensie waar deze sjabloon wordt gebruikt.
+- **Sjablonen Bewerken** Vlaggen in deze kolom geven de talen aan waarvoor een aangepaste e-mail sjabloon is aangemaakt. Selecteer een vlag om het bewerkingsformulier voor de sjabloon in die taal te openen.
+- **Beschrijving** Korte beschrijving van het doel van de sjabloon.
+- **ID** Sjabloon ID-naam. Dit is de template_id van het e-mailsjabloonrecord in de `#_mail_templates` tabel in de database.
 
-- **Titel.** De naam van het template.
-- **Component.** De component waar dit template gebruikt wordt.
-- **Templates.** Vlaggen in deze kolom geven talen aan waarvoor een
-  aangepast e-mail template aangemaakt is.
-- **Geen templates.** Vlaggen in deze kolom geven talen aan waarvoor
-  GEEN aangepast e-mail template aangemaakt is.
-- **Beschrijving.** Korte beschrijving van het template.
-- **ID.** Template ID naam. Dit is het template_id van het e-mail
-  template-record in de \#\_mail_templates tabel in de database.
+*Vertaald door openai.com*
 
-## Lijst filters
-
-**Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande Screenshot.
-
-- **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
-  zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
-  aangeeft welke velden doorzocht worden.Om te **Zoeken op ID** geef je
-  "id:x" op, waarbij "x" het item ID nummer is (bijvoorbeeld, "id:19").
-- **Filteropties**. Klik om de extra filters te tonen.
-- **Wissen.** om het filterveld te wissen en de lijst in zijn initiële
-  status te zetten.
-- **Sortering**. Toont het huidige weergave volgorde veld. Er zijn 2
-  manieren om de volgorde aan te passen:
-  - Selecteer uit de uitklaplijst. De volgorde kan oplopend of aflopend
-    zijn.
-  - Klik op een kolomkop.De kolomkop wisselt tussen een oplopend en
-    aflopend volgorde.
-- **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
-  uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de
-
-### Filter opties
-
--
-
-**Selecteer taal**. Selecteer uit de lijst met beschikbare talen.
-
-**Filter by Component.** Select from the list of components that may
-send emails.
-
-### Paginatie
-
-**Paginabesturing** Als het aantal items meer is dan een pagina, zie je
-een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-Screenshot. Het huidige paginanummer heeft een donkere
-achtergrond.
-
-- **Begin**. Klik om naar de eerste pagina te gaan.
-- **Vorig**. Klik om naar de voorafgaande pagina te gaan.
-- **Paginanummers**. Klik om naar de gewenste pagina te gaan.
-- **Volgende**. Klik om naar de volgende pagina te gaan.
-- **Einde**. Klik om naar de laatste pagina te gaan.
-
-## Werkbalk
-
-- **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt.
-- **Help**. Opent dit helpscherm.

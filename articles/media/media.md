@@ -1,112 +1,69 @@
-<!-- Filename: Help4.x:Media / Display title: Media -->
+<!-- Filename: Help4.x:Media  / Display title: Media -->
 
 ## Beschrijving
 
-Mediabeheer is een hulpmiddel voor het beheren van bestanden in de
-\[joomlaroot\]https://docs.joomla.org/images/ map en andere door de
-gebruiker gedefinieerde mappen. Beschikbare hulpmiddelen zijn:
+De Media-component is een hulpmiddel voor het beheren van bestanden in de afbeeldingenmap en andere door de gebruiker gedefinieerde lokale mappen. Beschikbare acties zijn onder andere:
 
-- upload een nieuwe afbeelding (of document)
-- verwijder een bestaande afbeelding
-- hernoem een afbeelding
-- bewerk een afbeelding
-- verkrijg een link naar een afbeelding
-- maak een nieuwe map aan.
+- Een nieuwe afbeelding (of document) uploaden
+- Een bestaande afbeelding verwijderen
+- Een afbeelding hernoemen
+- Een afbeelding bewerken
+- Een afbeeldingslink ophalen
+- Een nieuwe map aanmaken
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke elementen
 
-- **Controlepaneel → Site → Media**
+Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-screen-nl.png/800px-Help-4x-Media-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-screen-nl.png/1200px-Help-4x-Media-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-screen-nl.png/1600px-Help-4x-Media-screen-nl.png 2x"
-data-file-width="2240" data-file-height="1400" width="800" height="500"
-alt="Media screen" />
+## Hoe te openen
 
-## Paginaweergave tabblad
+- **Startdashboard → Site → Media**.
+
+## Screenshot
+
+![Media](../../../nl/images/media/media.png)
+
+## Afbeeldingsweergavegebied
 
 ### Lokaal
 
-Dit gebied toont de structuur van de lokale mappen van uw site,
-standaard de **images** map. [Snelle tip](#quicktips)
+Dit gebied toont de structuur van de lokale site-mappen, standaard de map *afbeeldingen*.
 
-De momenteel geselecteerde map wordt ook getoond in het **Kruimelpad**
-boven het gebied waar de afbeelding wordt getoond.
+De momenteel geselecteerde map wordt weergegeven in de *Broodkruimels* boven het afbeeldingsweergavegebied.
 
-### Afbeeldingen werkbalk
+### Bovenste Balk
 
-- **Selectievak**. Selecteer of Deselecteer alle afbeeldingen. Na het
-  selecteren kunt u individuele afbeeldingen deselecteren. U wilt dit
-  misschien om een set afbeeldingen te verwijderen die niet meer
-  gebruikt worden.
-- **Kruimelpad**. Selecteer een kruimelpad-item om in de map-hiërarchie
-  terug te gaan.
-- **Zoeken**. Als u een groot aantal afbeeldingen in een map heeft kunt
-  u een deel van een afbeeldingsnaam intypen in het zoekvak. Het filter
-  werkt progressief, bijvoorbeeld: door de letter k in te typen worden
-  direct alleen de afbeeldingen met een k zichtbaar, de twee
-  koala-afbeeldingen.
-- **Vergrootglas iconen**. Vergroten of verkleinen de zichtbare grootte
-  van de miniatuurafbeeldingen.
-- **Lijst- of miniatuurweergave iconen**. Wisselt tussen
-  miniatuurweergave en lijst weergave - het icoon verandert naar gelang.
-- **Informatie-icoon**. Toont informatie over dat wat geselecteerd is.
-  Als een afbeelding geselecteerd is toont het de bestandsnaam, map pad,
-  grootte en verschillende andere bestand eigenschappen. Selecteer om
-  het informatiepaneel te wisselen .
+- **Selectievakje** Selecteer of Deselecteer Alle Afbeeldingen. Na selectie kunnen individuele afbeeldingen worden gedeselecteerd.
+- **Broodkruimels** Selecteer een item in de broodkruimels om terug te gaan in de mappenhiërarchie.
+- **Zoeken**. Typ een gedeelte van een afbeeldingsnaam in het zoekvak. Het filter werkt progressief - bijvoorbeeld, door de letter `k` in te voeren in het zoekvak worden de weergegeven afbeeldingen onmiddellijk gereduceerd tot diegenen die een letter `k` bevatten.
+- **Vergrootglasiconen** Verkleinen of vergroten de zichtbare grootte van de miniatuurafbeeldingen.
+- **Lijstweergave of Miniatuurweergave Iconen** Wisselt tussen miniatuur- en lijstweergaven - het pictogram verandert dienovereenkomstig.
+- **Informatie-icoon** Geeft informatie weer over wat is geselecteerd. Als een afbeelding is geselecteerd, worden de bestandsnaam, het mapadres, de grootte en verschillende andere eigenschappen weergegeven. Selecteer om het informatiepaneel te openen of te sluiten.
 
-### Afbeeldingsacties
+### Acties
 
-Hover over een afbeelding en selecteer de menuknop met de 3 streepjes. 6
-iconen verschijnen die de volgende acties bieden:
+Beweeg de muis over een afbeelding en selecteer de menuknop met een beletselteken (...). Zes pictogrammen verschijnen die de volgende acties aanbieden:
 
-1.  **Voorbeeld afbeelding**. Selecteer het vergrootglas-icoon - de
-    afbeelding wordt volledig in een modaal scherm getoond.
-2.  **Bewerk afbeelding**. Selecteer het potlood-icoon om het
-    bewerkscherm te openen. Het stelt u in staat de afbeelding bij te
-    snijden, de grootte aan te passen of te draaien.
-3.  **Afbeelding downloaden**. Selecteer het download icoon - uw
-    computer reageert met de vraag wat u met de download wilt. Of hij
-    slaat het gewoon op of opent het in een applicatie voor
-    afbeeldingen.
-4.  **Krijg een deelbare link**. Selecteer het link icoon om een link
-    naar de afbeelding te krijgen, welke u kunt gebruiken om te delen.
-    Een modaal venster stelt u in staat de link naar het klembord te
-    kopiëren om hem in een email of document te zetten.
-5.  **Afbeelding hernoemen**. Selecteer het hernoem icoon om een modaal
-    venster te openen die u in staat stelt de afbeelding te hernoemen.
-6.  **Afbeelding verwijderen**. Selecteer het prullenbak icoon om de
-    afbeelding te verwijderen. U krijgt de vraag om het te bevestigen.
-    Eenmaal verwijderd is definitief! Kan ook gebruikt worden om een map
-    te verwijderen.
+1. **Voorbeeld** Selecteer het vergrootglaspictogram - de afbeelding wordt op ware grootte weergegeven in een dialoogvenster.
+2. **Bewerken** Selecteer het potloodpictogram om het Mediabewerkingsvenster te openen. Dit stelt u in staat om de afbeelding bij te snijden, te wijzigen of te roteren.
+3. **Downloaden** Selecteer het downloadpictogram - uw computer reageert door te vragen wat u met de download wilt doen. Of hij kan het gewoon opslaan of openen in een afbeeldingsweergave-applicatie.
+4. **Een deelbare link krijgen** Selecteer het linkpictogram om een link naar de afbeelding te krijgen voor gebruik bij het delen. Een dialoogvenster stelt u in staat de link naar uw klembord te kopiëren om deze in een e-mail of document te plakken.
+5. **Naam wijzigen** Selecteer het hernoemingspictogram om een dialoogvenster te openen waar u de naam van de afbeelding kunt wijzigen.
+6. **Verwijderen** Selecteer het prullenbakpictogram om de afbeelding te verwijderen. U wordt gevraagd om te bevestigen. Eenmaal verwijderd is deze voor altijd verdwenen! Kan ook worden gebruikt om een map te verwijderen.
 
-## Werkbalk
+## Tips
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-afbeelding hierboven.
+- Als je afbeeldingen en documenten in aparte lokale mappen wilt houden:
+  1. maak een map aan in de root van je site, bijvoorbeeld **bestanden**
+  2. ga naar de Filesystem - Local plugin en voeg **bestanden** toe 
+      onder **Selecteer directories**.
+  3. Terug in de Media component zie je *afbeeldingen* en *bestanden* als
+      aparte items in het Lokale paneel.
+- De maximale uploadgrootte van Media kan worden veranderd naar een andere hoeveelheid dan
+  `10 MB` in de Media-opties.
+- Je kunt meerdere bestanden tegelijk uploaden of verwijderen.
 
-- **Uploaden**. nl
-- **Nieuwe map aanmaken**. nl
-- **Verwijderen**. nl
-- **Opties**. Opent het venster
-- **Help**. Opent dit helpscherm.
+*Vertaald door openai.com*
 
-## Snelle tips
-
-- Als u afbeeldingen en documenten in aparte lokale mappen wilt bewaren:
-  Maak eer een map aan in de root van uw website, bijvoorbeeld
-  **bestanden**, ga daarna naar de **Bestandssysteem - Lokaal** plugin
-  en en voeg toe **bestanden** onder **Mappen selecteren**. Terug in de
-  mediabeheer component ziet u **images** en **bestanden** als aparte
-  items op het scherm.
-  1.  create a folder in the root of your site, say **files**
-  2.  go to the Filesystem - Local
-      plugin and add **files** under **Select directories**.
-  3.  Back in the Media component you will see *images* and *files* as
-      separate items in the Local panel.
-- De Mediabeheer maximum upload grootte kan veranderd worden in een
-  andere waarde als "10 MB" bij de
-- U kunt op hetzelfde moment meerdere bestanden uploaden.

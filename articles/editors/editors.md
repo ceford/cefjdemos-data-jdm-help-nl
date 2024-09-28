@@ -1,296 +1,167 @@
-<!-- Filename: Help4.x:Editors / Display title: Tekstverwerkers -->
+<!-- Filename: Help4.x:Editors  / Display title: Bewerkers -->
 
 ## TinyMCE
 
-**TinyMCE** is de standaard tekstverwerker voor zowel de website als de
-beheer gebruikers. TinyMCE is een 'WYSIWYG' (wat u ziet is wat u krijgt)
-tekstverwerker die gebruikers een vertrouwde tekstverwerker interface
-geeft bij het bewerken van artikelen en andere inhoud.
+TinyMCE is de standaard editor voor Frontend en Backend gebruikers. De editor biedt gebruikers een vertrouwde tekstverwerkingsinterface voor het bewerken van inhoud.
 
-TinyMCE kan ingesteld worden met drie verschillende sets
-werkbalkknoppen. Dit wordt ingesteld als optie in
-Pluginbeheer
-voor de 'Editor - TinyMCE' plugin.
+TinyMCE kan worden geconfigureerd met 3 verschillende sets van werkbalkknoppen. Dit wordt ingesteld in de Editor - TinyMCE plugin.
 
-### Werkbalk
+### Werkbalken
 
-#### Eenvoudige voorafinstelling
+#### Eenvoudige Preset
 
-De set 2 werkbalk biedt één rij knoppen zoals hieronder weergegeven.
+De set van werkbalk 2 geeft één rij knoppen weer zoals hieronder getoond. De set is standaard toegewezen aan de Openbare gebruikersgroep.
 
-The set is default assigned to the Public user group.
+<img src="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/600px-Help-4x-editor-tinymce-simple-en.png" decoding="async" srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/900px-Help-4x-editor-tinymce-simple-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/1200px-Help-4x-editor-tinymce-simple-en.png 2x" data-file-width="1451" data-file-height="80" width="600" height="33" alt="tinymce eenvoudige preset werkbalk" />
 
-<img
-src="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/600px-Help-4x-editor-tinymce-simple-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/900px-Help-4x-editor-tinymce-simple-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/1200px-Help-4x-editor-tinymce-simple-en.png 2x"
-data-file-width="1451" data-file-height="80" width="600" height="33"
-alt="editor tinymce simple" />
+- Knoppen om tekst vet, onderstreept of doorgehaald te maken.
+- Ongedaan maken en opnieuw doen.
+- Ongeordende lijst, Geordende lijst.
+- Plakken als Tekst: Vaak bevat geselecteerde tekst bij het kopiëren en plakken uit andere bronnen, zoals PDF-bestanden, Tekstdocumenten of webpagina's, opmaakinformatie die niet nodig of gewenst is. Door 'Plakken als Tekst' te gebruiken, wordt alle opmaak uit de tekst verwijderd.
 
-- Knoppen waarmee u tekst vet, onderstreept of doorgehaald kunt maken.
-- Ongedaan maken en Opnieuw uitvoeren.
-- Ongeordende lijst, geordende lijst.
-- Paste as Text: Often when copying and pasting text from other sources,
-  such as PDF files, Text documents, or web pages, the selected text
-  contains formatting information that is not needed or wanted. Using
-  the 'Paste as Text' will strip out all formatting from the text.
+#### Gemiddelde Preset
 
-#### Gemiddelde voorafinstelling
+Set van werkbalk 1 geeft twee rijen knoppen weer zoals hieronder getoond. De set is standaard toegewezen aan de Beheerder en Geregistreerde gebruikersgroep.
 
-The toolbar set 1 provides two rows of buttons as shown below.
+<img src="https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/800px-Help-4x-editor-tinymce-advanced-en.png" decoding="async" srcset="https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/1200px-Help-4x-editor-tinymce-advanced-en.png 1.5x, https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/1600px-Help-4x-editor-tinymce-advanced-en.png 2x" data-file-width="1977" data-file-height="236" width="800" height="95" alt="tinymce gemiddelde preset werkbalk" />
 
-The set is default assigned to the Manager and Registered user group.
+Deze optie biedt dezelfde knoppen zoals gedocumenteerd in Set 2 Werkbalk hierboven. Daarnaast zijn de volgende opties beschikbaar.
 
-<img
-src="https://docs.joomla.org/images/thumb/7/7e/Help-4x-editor-tinymce-advanced-nl.png/800px-Help-4x-editor-tinymce-advanced-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/7e/Help-4x-editor-tinymce-advanced-nl.png/1200px-Help-4x-editor-tinymce-advanced-nl.png 1.5x, https://docs.joomla.org/images/thumb/7/7e/Help-4x-editor-tinymce-advanced-nl.png/1600px-Help-4x-editor-tinymce-advanced-nl.png 2x"
-data-file-width="1976" data-file-height="236" width="800" height="96"
-alt="editor tinymce advanced" />
+#
 
-This option provides all of the same buttons as documented in the Set 2
-Toolbar above. In addition, the following options are available.
+#### Gemiddeld: Bovenste Rij
 
-#### Eerste deel
+- CMS Inhoud: De vervolgkeuzelijst geeft toegang tot een link naar een Artikel, Contact, Veld, Media, Menu of Module.
 
-- CMS Content: The Dropdown list provides access to link to an Article,
-  Contact, Field, Media, Menu, or Module.
+Artikel: Het voorbeeld toont hoe eenvoudig een link naar elk artikel op de huidige site kan worden gemaakt.
 
-Article: The example show how to easily create a link to any article on
-the current site.
+<img src="https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button-en.png/600px-Help-4x-article-quick-link-button-en.png" decoding="async" srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button-en.png/900px-Help-4x-article-quick-link-button-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button-en.png/1200px-Help-4x-article-quick-link-button-en.png 2x" data-file-width="2304" data-file-height="1321" width="600" height="344" alt="artikel selectie dialoog" />
 
-<img
-src="https://docs.joomla.org/images/thumb/1/10/Help-4x-article-quick-link-button-nl.png/600px-Help-4x-article-quick-link-button-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/10/Help-4x-article-quick-link-button-nl.png/900px-Help-4x-article-quick-link-button-nl.png 1.5x, https://docs.joomla.org/images/1/10/Help-4x-article-quick-link-button-nl.png 2x"
-data-file-width="1161" data-file-height="801" width="600" height="414"
-alt="article quick link button" />
+Een link maken naar het gewenste artikel:
 
-Om een koppeling te maken naar het gewenste artikel:
+- Plaats de cursor op het punt in het artikel waar je de gelinkte artikeltitel wilt invoegen.
+- Klik op de Artikelknop om het venster te openen.
+- Klik op de titel om het gewenste artikel in het venster te selecteren. Je kunt de zoek- en filteropties gebruiken om het gewenste artikel te vinden.
+- Een link met de titel van het artikel wordt ingevoegd op de huidige cursuspunt.
+- Indien nodig kun je de linktekst bewerken.
 
-- Plaats de cursor op de plaats in het artikel waar u wilt dat de titel
-  van het gekoppelde artikel moet worden geplaatst.
-- Klik op de Artikel knop om het modale scherm te openen.
-- Klik in het modale scherm op de titel om het gewenste artikel te
-  selecteren. U kunt het filter en zoekknop gebruiken om het gewenste
-  artikel te vinden.
-- Een link met de titel van het artikel zal ingevoegd worden op de
-  huidige positie van de cursor.
-- Indien gewenst kan de tekst van de link aangepast worden.
+Op dezelfde manier kun je linken naar andere items zoals Media, Modules, enzovoort.
 
-In the same way you can link other items like Media, Modules, and so on.
+Pagina Break: Deze knop stelt je in staat om een paginabreak in een artikel in te voegen. Een paginabreak maakt paginanavigatie mogelijk wanneer het artikel wordt weergegeven in een lay-out. Dit is nuttig voor lange artikelen. Wanneer deze knop wordt ingedrukt, wordt een venster weergegeven zoals hieronder:
 
-Page Break: This button allows you to insert a pagebreak inside an
-article. A pagebreak allows for page navigation when the article is
-displayed on a layout. This is useful for long articles. When this
-button is pressed, a window is displayed as shown below:
+<img src="https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-en.png/600px-Help-4x-editor-pagebreak-button-en.png" decoding="async" srcset="https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-en.png/900px-Help-4x-editor-pagebreak-button-en.png 1.5x, https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-en.png/1200px-Help-4x-editor-pagebreak-button-en.png 2x" data-file-width="1542" data-file-height="862" width="600" height="335" alt="paginabreak knop" />
 
-<img
-src="https://docs.joomla.org/images/thumb/4/4d/Help-4x-editor-pagebreak-button-nl.png/600px-Help-4x-editor-pagebreak-button-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/4d/Help-4x-editor-pagebreak-button-nl.png/900px-Help-4x-editor-pagebreak-button-nl.png 1.5x, https://docs.joomla.org/images/thumb/4/4d/Help-4x-editor-pagebreak-button-nl.png/1200px-Help-4x-editor-pagebreak-button-nl.png 2x"
-data-file-width="1542" data-file-height="862" width="600" height="335"
-alt="editor pagebreak button" />
+- **Paginatitel**. Voer de titel in voor de nieuwe pagina (bijvoorbeeld 'Pagina 2').
+- **Inhoudsopgave Alias**. Optioneel veld om weer te geven in de inhoudsopgave voor deze pagina. In een meerdaags artikel toont Joomla een 'inhoudsopgave' voor de pagina waarmee de gebruiker een pagina kan selecteren. Als dit veld leeg is, wordt de paginatitel gebruikt. Als je een andere titel in de inhoudsopgave wilt, voer deze dan hier in.
+- **Pagina Break Invoegen**. Klik op deze knop om de paginabreak in te voegen met de ingevoerde velden. De paginabreak zal worden weergegeven als een grijze gestreepte lijn door het artikel. Let op dat een paginabreak niet kan worden bewerkt. Als je een veld in de paginabreak moet wijzigen, klik dan op het artikel net voorbij de paginabreak, druk op Backspace totdat de paginabreak is verwijderd, en voeg vervolgens een nieuwe paginabreak in met de gewenste informatie.
+- De configuratie wordt ingesteld in de Content - Page Break plugin.
 
-- **Paginatitel**. Voer de titel die getoond moet worden op de nieuwe
-  pagina (bijvoorbeeld, 'Pagina 2').
-- **Inhoudsopgave alias**. Optioneel veld dat wordt getoond in de
-  inhoudsopgave voor deze pagina. In een artikel met meerdere pagina's
-  toont Joomla een 'inhoudsopgave' voor de pagina die de mogelijkheid
-  biedt iedere pagina te selecteren. Als dit veld leeg is zal de
-  paginatitel gebruikt worden. Als u een andere titel in de
-  inhoudsopgave wilt, vul hem dan hier in.
-- **Nieuwe pagina invoegen**. Klik op deze knop om de Nieuwe pagina in
-  te voegen met de opgegeven velden. De nieuwe pagina wordt getoond als
-  een grijze gestippelde lijn over het artikel. Let op dat een nieuw
-  pagina niet bewerkt kan worden. Indien u een veld in de nieuwe pagina
-  wilt bewerken klik dan in het artikel net achter de nieuwe pagina,
-  druk op de Backspace knop totdat de nieuwe pagina verwijderd is. Voeg
-  hierna een nieuwe pagina in met de gewenste informatie.
-- The configuration is set in the Content - Page
-  Break
-  plugin.
+Lees Meer: Met deze knop wordt een Lees meer break in het artikel ingevoegd. Dit wordt weergegeven als een rode gestreepte lijn door het artikel.
 
-Read More: This button inserts a Read more break in the article. This
-shows as a red dotted line across the article.
+- Als een artikel een Lees meer break heeft, wordt aanvankelijk alleen de tekst voor de break, de zogenaamde Intro Tekst, weergegeven, samen met een Lees meer link. Als de gebruiker op deze link klikt, wordt het hele artikel of alleen het deel na de Lees meer link weergegeven. Dit hangt af van de instellingen van de Intro Tekst parameters voor het artikel.
+- De Lees meer break stelt je in staat om ruimte te besparen op pagina's door alleen de Intro Tekst weer te geven.
+- Als je breaks wilt invoegen voor een artikel dat wordt weergegeven in een Artikellay-out, gebruik dan de Pagina Break knop.
 
-- If an article has a Read more break, only the text before the break,
-  called the Intro Text, will initially display, along with a Read more
-  link. If the User clicks this link, either the entire article or just
-  the part after the Read more link is displayed. This depends on the
-  setting of the Intro
-  Text
-  parameters for the article.
-- The Read more break allows you to save space on pages by just showing
-  the Intro Text.
-- If you want to insert breaks for an article shown in an Article
-  Layout, use the Page Break button.
+De knoppen in de CMS inhoud vervolgkeuzelijst kunnen worden uitgeschakeld in Plugins - editors-xtd.
 
-The buttons in the CMS content dropdown list can be disabled in
-Plugins - editors-xtd.
+- Knoppen linksboven maken het mogelijk om tekst cursief te maken. Daarnaast zijn er knoppen voor links, rechts, midden en volledige uitlijning.
+- Formats: Selecteer vooraf gedefinieerde formaten voor Koppen, Inline, Blokken, enzovoort.
+- Inspringen (naar links verplaatsen) en Uitrekken (naar rechts verplaatsen).
+- 3 stippen: tweede werkbalkregel weergeven.
 
-- Buttons in the upper left allow you to make text: italic. Next to that
-  are buttons for align left, right, center, and full.
-- Formaat: Selecteer voorgedefinieerde formaten voor paragraaf, adres,
-  hoofdstuk1, enzovoort.
-- Outdent (move left) and Indent (indent right).
-- 3 dots: Show second Toolbar row.
+#### Gemiddeld: Tweede Rij
 
-#### Tweede deel
-
-- Invoegen/bewerken link: Om een link in te voegen of bewerken,
-  selecteer de link-tekst en druk op deze knop. Een popup venster
-  verschijnt waarin u de details van de link kunt opgeven.
-- Link verwijderen: Selecteer, om een link te verwijderen, de tekst en
-  druk op deze knop.
-- Invoegen/bewerken link. Een <a
-  href="https://docs.joomla.org/index.php?title=%241&amp;action=edit&amp;redlink=1"
-  class="new" title="$1 (page does not exist)">anker</a> is een
-  bladwijzer binnen een artikel die u direct naar dat punt binnen het
-  artikel linkt. Beweeg, om een anker in te voegen, de cursor naar de
-  gewenste locatie binnen het artikel en klik op deze knop. Er wordt een
-  scherm getoond. Voer de naam in van het anker en druk op Ok. Er wordt
-  een klien anker-icoon getoond op de plaats van het anker. U kunt de
-  naam van het anker bewerken door erop te klikken en op deze knop te
-  drukken. U kunt het anker verwijderen door het te selecteren en op de
-  verwijder-knop te drukken.
-- Bewerk broncode: Een popup verschijnt met de HTML broncode, waardoor u
-  de HTML broncode kunt bewerken.
-- Insert a horizontal line: To insert a horizontal line, move the cursor
-  to the desired location within the article and click this button.
-- Tabel: Invoegen nieuwe tabel, tabelrij eigenschappen, tabelcel
-  eigenschappen, voeg rij in voor, voeg rij in na, verwijder rij, kolom
-  invoegen voor, kolom invoegen na, verwijder kolom, splits
-  samengevoegde cellen, tabelcellen samenvoegen.
-- Subscript, superscript, voeg speciale tekens in.
+- Link invoegen/bewerken: Om een link in te voegen of te bewerken, selecteer de gelinkte tekst en druk op deze knop. Een popup-dialoogvenster wordt weergegeven waarmee je details over de link kunt invoeren.
+- Link verwijderen: Om een link te verwijderen, markeer de gelinkte tekst en druk op deze knop.
+- Anker: Een anker is een bladwijzer in een artikel waarmee je rechtstreeks naar dat punt in het artikel kunt linken.
+- Broncode: Een popup toont de HTML-broncode, waardoor je de HTML-broncode kunt bewerken.
+- Horizontale lijn invoegen: Om een horizontale lijn in te voegen, verplaats de cursor naar de gewenste locatie in het artikel en klik op deze knop.
+- Tabel: Nieuwe Tabel Invoegen, Tabel Rij Eigenschappen, Tabel Cel Eigenschappen, Rij Invoegen Voor, Rij Invoegen Na, Rij Verwijderen, Kolom Invoegen Voor, Kolom Invoegen Na, Kolom Verwijderen, Samengevoegde Tabelcellen Splitsen, Tabelcellen Samenvoegen.
+- Onderschrift, Bovenschrift, Speciale Karakter.
 - Voorbeeld tekst in popup.
 
-#### Geavanceerde voorafinstelling
+#### Geavanceerde Preset
 
-The toolbar set 0 provides the most extensive editing options, as shown
-below.
+De set van werkbalk 0 biedt de meest uitgebreide bewerkingsopties, zoals hieronder getoond. De set is standaard toegewezen aan de Beheerder, Editor en Super Gebruikersgroep.
 
-The set is default assigned to the Administrator, Editor, and Super
-Users user group.
+<img src="https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/800px-Help-4x-editor-tinymce-extended-en.png" decoding="async" srcset="https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/1200px-Help-4x-editor-tinymce-extended-en.png 1.5x, https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/1600px-Help-4x-editor-tinymce-extended-en.png 2x" data-file-width="1977" data-file-height="393" width="800" height="159" alt="tinymce geavanceerde preset werkbalk" />
 
-<img
-src="https://docs.joomla.org/images/thumb/e/ef/Help-4x-editor-tinymce-extended-nl.png/800px-Help-4x-editor-tinymce-extended-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/ef/Help-4x-editor-tinymce-extended-nl.png/1200px-Help-4x-editor-tinymce-extended-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/ef/Help-4x-editor-tinymce-extended-nl.png/1600px-Help-4x-editor-tinymce-extended-nl.png 2x"
-data-file-width="1975" data-file-height="392" width="800" height="159"
-alt="editor tinymce extended" />
+Deze optie biedt dezelfde knoppen zoals gedocumenteerd in Set 1 Werkbalk hierboven. Daarnaast zijn de volgende opties beschikbaar.
 
-This option provides all of the same buttons as documented in the Set 1
-Toolbar above. In addition, the following options are available.
+#### Geavanceerd: Bovenste Rij
 
-#### Eerste deel
+- Blokken: Paragraaf, Koppen, Vooraf Opgemaakt.
+- Lettertypen: Selecteer het gewenste lettertype.
+- Lettergrootte: Selecteer de gewenste lettergrootte.
+- Vinden en Vervangen.
+- Afbeelding invoegen/bewerken: Om een afbeelding in te voegen, plaats je de cursor op de gewenste locatie en druk je op deze knop. Een popup-dialoogvenster wordt weergegeven waarin je de Bron, Breedte of Hoogte en andere informatie over de afbeelding kunt invoeren.
 
-- Blocks: Paragraph, Headings, Preformatted.
-- Fonts: Select the desired font.
-- Font Size: Select the desired font size.
-- Find and Replace.
-- Insert/edit image: To insert a image, place the cursor at the desired
-  location and press this button. A popup dialog will display that
-  allows you to enter the Source, Width or Height and other information
-  about the image.
+#### Geavanceerd: Tweede Rij
 
-#### Tweede deel
-
-- Select Text color or Background color.
-- Fullscreen.
+- Selecteer Tekstkleur of Achtergrondkleur.
+- Volledig scherm.
 - Emoticons.
-- Insert media: To insert media, place the cursor at the desired
-  location and press this button. A popup dialog will display that
-  allows you to enter the Type, File or URL, and other information about
-  the media.
-- Direction Left to Right or Direction Right to Left: These buttons
-  allow you to enter or change the text direction, for example for
-  languages that read right to left.
-- Cut, Copy, Paste.
-- Show invisible characters (like paragraph endings).
-- Show blocks.
-- Nonbreaking space.
-- Blockquote.
-- Insert Template.
+- Media invoegen: Om media in te voegen, plaats je de cursor op de gewenste locatie en druk je op deze knop. Een popup-dialoogvenster wordt weergegeven waarin je het Type, Bestand of URL en andere informatie over de media kunt invoeren.
+- Richting van links naar rechts of richting van rechts naar links: Deze knoppen stellen je in staat om de tekst richting in te voeren of te wijzigen, bijvoorbeeld voor talen die van rechts naar links lezen.
+- Knippen, Kopiëren, Plakken.
+- Toon onzichtbare tekens (zoals einde van alinea's).
+- Toon blokken.
+- Niet-breekbare spatie.
+- Blokcitaat.
+- Sjabloon invoegen.
 
-#### Derde deel
+#### Geavanceerd: Derde Rij
 
-- Print the article text.
-- Insert/edit code sample.
-- Insert date/time.
-- Clear formatting.
+- Druk de artikeltekst af.
+- Codevoorbeeld invoegen/bewerken.
+- Datum/tijd invoegen.
+- Opmaak wissen.
 
-### Accessibility
+### Toegankelijkheid
 
-TinyMCE is compatible with screen readers such as
-<a href="https://www.freedomscientific.com/products/software/jaws/"
-rel="nofollow noreferrer noopener">JAWS</a> and
-<a href="https://www.nvaccess.org/" rel="nofollow noreferrer noopener">NVDA</a>.
-You can use it effectively even if you don't use the mouse.
+TinyMCE is compatibel met schermlezers zoals <a href="https://www.freedomscientific.com/products/software/jaws/" rel="nofollow noreferrer noopener">JAWS</a> en <a href="https://www.nvaccess.org/" rel="nofollow noreferrer noopener">NVDA</a>. Je kunt het effectief gebruiken, zelfs als je de muis niet gebruikt.
 
-|                                          |                        |                        |
+| Taak                                    | PC                     | macOS                  |
 |------------------------------------------|------------------------|------------------------|
-| Task                                     | PC                     | macOS                  |
-| Focus/jump to menu bar                   | Alt+F9                 | ⌥+F9                   |
-| Focus/jump to toolbar                    | Alt+F10                | ⌥+F10                  |
-| Focus/jump to element path               | Alt+F11                | ⌥+F11                  |
-| Close menu/submenu/dialog                | Esc                    | esc                    |
-| Return to the editor content area        | Esc                    | esc                    |
-| Navigate left/right through menu/toolbar | Tab and the Arrow Keys | Tab and the Arrow Keys |
+| Focus/spring naar menubalk               | Alt+F9                 | âŒ¥+F9                 |
+| Focus/spring naar werkbalk               | Alt+F10                | âŒ¥+F10                |
+| Focus/spring naar elementpad             | Alt+F11                | âŒ¥+F11                |
+| Menu/submenu/dialoog sluiten             | Esc                    | esc                    |
+| Terugkeren naar het bewerkingsgebied     | Esc                    | esc                    |
+| Navigeren naar links/rechts door menu/werkbalk | Tab en de Pijltjestoetsen | Tab en de Pijltjestoetsen |
 
-Keyboard shortcuts
+Toetsenbord sneltoetsen
 
-See for more information:
+Zie voor meer informatie:
 
-- <a href="https://www.tiny.cloud/docs/advanced/accessibility/"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">TinyMCE - Accessibility</a>
-- A list of available
-  <a href="https://www.tiny.cloud/docs/advanced/keyboard-shortcuts/"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">keyboard shortcuts</a> (pc, mac)
-  within the editor body.
+- <a href="https://www.tiny.cloud/docs/advanced/accessibility/" rel="nofollow noreferrer noopener">TinyMCE - Toegankelijkheid</a>
+- Een lijst van beschikbare <a href="https://www.tiny.cloud/docs/advanced/keyboard-shortcuts/" rel="nofollow noreferrer noopener">toetsenbord sneltoetsen</a> (pc, mac) binnen het editor venster.
+
 
 ## CodeMirror
 
-De CodeMirror editor is ontworpen om HTML-code in een artikel of een
-beschrijving gemakkelijk te kunnen invoeren CodeMirror ondersteunt
-syntax highlighting en auto-voltooiing, zoals in dit screenshot.
+De 'Editor - CodeMirror' is ontworpen om het gemakkelijk te maken om HTML-code in een artikel of beschrijving in te voeren. CodeMirror ondersteunt syntaxisaccentuering en automatisch aanvullen, zoals getoond in deze screenshot.
 
 <img
-src="https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-editor-codemirror-example-nl.png/800px-Help-4x-screenshot-editor-codemirror-example-nl.png"
+src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemirror-example-en.png/800px-Help-4x-screenshot-editor-codemirror-example-en.png"
 decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-editor-codemirror-example-nl.png/1200px-Help-4x-screenshot-editor-codemirror-example-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-editor-codemirror-example-nl.png/1600px-Help-4x-screenshot-editor-codemirror-example-nl.png 2x"
-data-file-width="1977" data-file-height="988" width="800" height="400"
-alt="screenshot editor codemirror example" />
+srcset="https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemirror-example-en.png/1200px-Help-4x-screenshot-editor-codemirror-example-en.png 1.5x, https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemirror-example-en.png/1600px-Help-4x-screenshot-editor-codemirror-example-en.png 2x"
+data-file-width="1977" data-file-height="905" width="800" height="366"
+alt="codemirror voorbeeld" />
 
-- Buttons shown below the edit window provides for access to link to any
-  item of the site.
-- CodeMirror biedt een aantal van dezelfde voordelen van het gebruik van
-  Niet-Editor, maar het maakt het wel wat makkelijker om te werken met
-  HTML code.
-- The configuration is set in the Editor -
-  CodeMirror
-  plugin.
+- De knoppen onder het bewerkingsvenster bieden toegang tot een link naar elk item van de site.
+- CodeMirror biedt enkele van dezelfde voordelen als het gebruik van 'Editor - Geen', maar maakt het iets eenvoudiger om met ruwe HTML-code te werken.
+- De configuratie is ingesteld in de Editor - CodeMirror plugin.
 
-## Geen tekstverwerker
+## Geen
 
-Indien 'Geen tekstverwerker' is geselecteerd voor een gebruiker, wordt
-er een eenvoudige tekstverwerker weergegeven. Hiermee kan ruwe, niet
-geformatteerde HTML ingevoerd worden. Gebruik de werkbalkknop
-'Voorbeeld' om te zien hoe de HTML wordt weergegeven.
+Als 'Editor - Geen' is geselecteerd voor een gebruiker, wordt een eenvoudige teksteditor weergegeven. Hiermee kunt u rauwe, niet-opgemaakte HTML invoeren. U kunt de knop 'Voorbeeld' op de werkbalk gebruiken om een voorbeeld te bekijken van hoe de HTML wordt weergegeven.
 
-De 'Geen tekstverwerker' optie kan handig zijn wanneer er in
-'boilerplate' of aangepaste HTML inhoud ingevoerd wordt, bijvoorbeeld om
-een PayPal link in te voegen. In TinyMCE wordt de HTML opnieuw
-geformatteerd of gedeeltelijk weggehaald tijdens het opslaan. Met als
-gevolg dat complexe HTML niet meer correct werkt.
+Merk op dat de optie 'Geen' nuttig kan zijn als u 'boilerplate' of aangepaste HTML invoert, bijvoorbeeld om een PayPal-link te maken. TinyMCE herformatteert en verwijdert automatisch bepaalde HTML wanneer een bestand wordt opgeslagen. Dit kan ervoor zorgen dat complexe HTML niet correct werkt.
 
-Wanneer dit gebeurt kan de tekstverwerker tijdelijk gewijzigd worden
-naar 'Geen tekstverwerker' om de gewenste inhoud te maken. Let er
-daarbij wel op dat wanneer u de inhoud later opnieuw wilt bewerken
-wederom de tekstverwerker naar 'Geen tekstverwerker' veranderd moet
-worden. Anders gaat de aangepaste HTML verloren wanneer de inhoud
-geopend en opgeslagen wordt met TinyMCE.
+Als dit gebeurt, kunt u tijdelijk de editor wijzigen naar 'Geen' en de gewenste inhoud maken. Merk op dat als u deze inhoud in de toekomst wilt bewerken, u ervoor moet zorgen dat uw editor op 'Geen' is ingesteld. Anders loopt u het risico dat u aangepaste HTML verliest wanneer u de inhoud opent en opslaat met TinyMCE.
 
-The 'Editor - None' plugin has no configuration.
+De 'Editor - Geen' plugin heeft geen configuratie.
+
+*Vertaald door openai.com*
+

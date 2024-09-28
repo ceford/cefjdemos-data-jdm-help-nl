@@ -1,447 +1,185 @@
-<!-- Filename: Help4.x:Articles:_Edit / Display title: Artikelen: Bewerken -->
+<!-- Filename: Help4.x:Articles:_Edit  / Display title: Artikelen: Bewerken -->
 
 ## Beschrijving
 
-Dit scherm wordt gebruikt om een nieuw artikel toe te voegen of een
-bestaand artikel te bewerken, meestal met behulp van een WYSIWYG
-tekstverwerker. De standaard tekstverwerker is TinyMCE maar als een
-andere tekstverwerker is geïnstalleerd kan de standaard tekstverwerker
-een andere zijn voor de gehele site, of voor individuele gebruikers.
+Deze pagina wordt gebruikt om een nieuw artikel toe te voegen of een bestaand artikel te bewerken, meestal met behulp van een Wysiwyg-editor. De standaardeditor is TinyMCE, maar als er andere editors zijn geïnstalleerd, kan de standaardeditor worden ingesteld op iets anders voor de site als geheel of voor individuele gebruikers.
 
-De meeste parameters hebben geschikte standaards maar u wilt misschien
-een bepaalde categorie instellen of Metadata voor specifieke artikelen.
+### Gemeenschappelijke Elementen
 
-## Tutorials
+Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
-[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het Schema Tabblad](jdocmanual?article=help/common-elements/edit-schema).
+* [Het Publicatie Tabblad](jdocmanual?article=help/common-elements/edit-publishing).
+* [Het Associaties Tabblad](jdocmanual?article=help/common-elements/edit-associations).
+* [Het Rechten Tabblad](jdocmanual?article=help/common-elements/edit-permissions).
+* [De Versiegeschiedenis Popup](jdocmanual?article=help/common-elements/edit-version-history).
 
-## Hoe toegang te krijgen
-Selecteer **Inhoud → Artikelen**
+Of in Gebruikersartikelen:
 
-Om een artikel aan te maken:
+* [Een Afbeelding Toevoegen aan een Artikel](jdocmanual?article=user/articles/adding-an-image-to-an-article).
 
-- Klik de **Nieuw** werkbalk knop.
+## Hoe Toegang Krijgen
 
-Om een artikel te bewerken:
+* Selecteer **Inhoud → Artikelen** in het Beheerdersmenu. Of...
+* Selecteer **Artikelen** op het Startdashboard. Vervolgens...
+    * Selecteer een bestaande artikel **Titel** in de lijst om het te bewerken. Of...
+    * Selecteer de **Nieuw** knop in de Werkbalk om een nieuw artikel te maken.
+Je kunt ook een nieuw artikel maken door het **+** pictogram in het Menu of
+Startdashboard te selecteren.
 
-- Selecteer de **titel** in de lijst.
 
-## Schermafbeelding
+## Screenshot
 
-![Articles edit screenshot](../../../nl/images/articles/articles-edit-content-tab.png "Articles edit")
+![Screenshot van het bewerken van artikelen](../../../nl/images/articles/articles-edit-content-tab.png)
 
-## Formulier velden
+## Formuliervelden
 
-- **Titel**. De titel van dit artikel.
-- **Alias**. De interne naam van het artikel. Normaliter, kunt u dit
-  leeg laten en Joomla zal de standaardwaarde invullen. De standaard
-  waarde is de titel of naam in kleine letters en streepjes in plaats
-  van spaties. Meer
-  leren.
+- **Titel** De titel van dit artikel.
+- **Alias** De interne naam van dit artikel. Normaal gesproken kun je dit leeg laten en Joomla vult een standaardwaarde in op basis van de titel, maar dan in kleine letters en met streepjes in plaats van spaties.
 
-### Inhoud tabblad
+### Inhoudstab
 
-#### Linker venster
+#### Linker paneel
 
-- **Artikeltekst**. Dit is waar de inhoud van het artikel wordt
-  geplaatst. Joomla bevat 3 tekstverwerkers, de standaard
-  Tekstverwerker - TinyMCE wordt hier getoond.
+- **Artikeltekst** Dit is waar je de inhoud van het artikel invoert. Joomla bevat 3 editors, de standaard editor - TinyMCE wordt hierboven weergegeven.
 
-  De CMS inhoud drop-down lijst biedt toegang tot een link naar artikelen,
-  contactpersonen, velden, media, menu of module. Meer leren.
-- **Schakelen tekstverwerker**. Er wordt direct onder het tekstvenster
-  een knop Schakelen tekstverwerker zichtbaar. Met deze knop kun je
-  schakelen tussen de TinyMCE tekstverwerker en
+    De CMS-inhoud vervolgkeuzelijst biedt toegang tot koppelingen naar een artikel, contactpersoon, veld, mediabeeld, menu, module, pagina-einde of lees-meer-einde.
 
-#### Rechter venster
+    Het beletselteken-symbool (<span class="icon-ellipsis-h"></span>) schakelt de zichtbaarheid van extra tools in of uit.
+- **Toggle Editor** De knop onder het bewerkingsvenster stelt je in staat om te schakelen tussen de TinyMCE-editor en geen editor. Hiermee kun je de HTML-code bekijken en soms repareren.
 
-- **Status**. De publicatiestatus van dit artikel.
-  - Gepubliceerd: Artikel is zichtbaar op de website.
-  - Gedepubliceerd: Artikel is niet zichtbaar voor gasten op de website.
-    Het kan zichtbaar zijn voor ingelogde gebruikers die [bewerk status
-    rechten](#permissions) hebben om de status van het artikel te
-    bewerken.
-  - Gearchiveerd: Artikel zal niet langer getoond worden in
-    Categorieblog
-    of
-    Categorielijst
-    menu-items.
-  - Verplaatst naar prullenbak: Artikel is verwijderd van de site maar
-    nog steeds in de database. Meer
-    leren.
-- **Categorie**. Selecteer de categorie voor dit artikel.
-- **Speciaal**. Selecteer ja indien dit artikel getoond moet worden in
-  het menu-item voor speciale
-  artikelen.
-- **Toegang**. Selecteer het weergave toegangsniveau van dit artikel. De
-  toegangsniveaus hangen af van wat ingesteld is bij Gebruikers:
-  Toegangsniveaus.
-- **Taal**. Selecteer de taal voor dit item. Wanneer u de meertalige
-  functie
-  in Joomla niet gebruikt, laat dan de standaard ingevulde 'Alle'
-  ongewijzigd.
-- **Tags**. Wijs tags toe aan inhoudsartikelen. U kunt een label
-  selecteren uit de voorgedefinieerde
-  lijst of
-  voer een nieuwe tag in door de naam te typen in het veld en druk op
-  enter.
-- **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
-  (bijvoorbeeld om informatie te documenteren voor dit artikel) en is
-  niet op de website zichtbaar.
-- **Versie notitie**. Optioneel veld om deze versie van dit artikel te
-  identificeren in het
-  versiegeschiedenis.
+#### Rechter paneel
 
-### Afbeeldingen en links tabblad
+- **Status** De publicatiestatus van dit artikel.
+  - *Gepubliceerd* Artikel is zichtbaar op de voorkant van de site.
+  - *Gedepubliceerd* Artikel is niet zichtbaar voor bezoekers op de voorkant van de site. Het kan zichtbaar zijn voor ingelogde gebruikers die toestemming hebben om de status van het artikel te bewerken.
+  - *Gearchiveerd* Artikel wordt niet meer getoond op menu-items of categorieoverzichten.
+  - *Verwijderd* Artikel is van de site verwijderd maar bevindt zich nog steeds in de database.
+- **Categorie** Selecteer de categorie voor dit artikel.
+- **Uitgelicht** Selecteer Ja als het artikel getoond wordt in het uitgelichte menu-item.
+- **Toegang** Selecteer het toegangsniveau voor dit artikel. De toegangsniveaus zijn afhankelijk van de instellingen in Gebruikers: Toegangsniveaus.
+- **Taal** Selecteer de taal voor dit artikel. Laat de standaardinstelling 'Alle' staan als je geen gebruik maakt van de meertalige functie.
+- **Tags** Ken tags toe aan dit artikel. Je kunt een tag selecteren uit een vooraf gedefinieerde lijst of een nieuwe tag invoeren door de naam in het veld te typen en op enter te drukken.
+- **Notitie** Dit is normaal gesproken voor gebruik door de beheerder (bijvoorbeeld om informatie over dit artikel te documenteren) en wordt niet weergegeven op de voorkant.
+- **Versienotitie** Optioneel veld om de versie van dit artikel te identificeren in de versiegeschiedenis van het artikel.
 
-Deze sectie maakt het mogelijk om afbeeldingen en links in een standaard
-weergave aan artikelen toe te voegen.
+### Beelden en Koppelingen tab
 
-**Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de
+**Let op:** Deze tab kan worden verborgen in *Artikel: Opties* door een gebruiker met beheerdersrechten. Het stelt de weergave van afbeeldingen en links in artikelen op gestandaardiseerde lay-outs in.
 
-![Articles edit images and links tab](../../../nl/images/articles/articles-edit-images-tab.png "Articles edit images and links tab")
+![Artikelen bewerk afbeeldingen en koppelingen tab](../../../nl/images/articles/articles-edit-images-tab.png)
 
-#### Afbeelding introtekst
+#### Intro Afbeelding
 
-- **Afbeelding introtekst**. Klik op de knop Selecteren om een
-  afbeelding te selecteren die op een bepaalde locatie in de introtekst
-  van het artikel wordt weergegeven. Dit opent een venster die het
-  mogelijk maakt een afbeelding te selecteren uit de map images. Meer
-  leren.
-- **Beschrijving van afbeelding (Alt-tekst)**. Stelt het Alt attribuut
-  in voor deze afbeelding. Een paar beschrijvende woorden voor
-  schermlezers.
-- **Geen beschrijving**. Aanvinken in de zeldzame omstandigheid van een
-  volledige *Decoratieve afbeelding - geen beschrijving nodig*. Let op
-  dat als de beschrijving van de afbeelding leeg is en het 'Geen
-  beschrijving' vakje niet is aangevinkt, de afbeelding niet voldoet aan
-  de toegankelijkheidscriteria. Als een afbeeldingsbeschrijving aanwezig
-  is heeft dit vinkje geen effect.
-- **Class van de afbeelding**. Elke CSS class kan toegevoegd worden voor
-  eigen styling ideeën. Gebruik voor de positie van afbeeldingen
-  bijvoorbeeld 'float-star' en 'float-end'.
-- **Bijschrift**. Maak een bijschrift voor de afbeelding.
+- **Intro Afbeelding** Klik op de Selecteer-knop om een afbeelding te kiezen die wordt weergegeven op een vaste locatie in de inleidingstekst van dit artikel. Er wordt een venster geopend waarmee je een afbeelding kunt kiezen uit de afbeeldingsmap.
+- **Afbeeldingsbeschrijving (Alt-tekst)** Stel het alt-attribuut in voor deze afbeelding. Een paar beschrijvende woorden voor schermlezers.
+- **Geen Beschrijving** Vink aan in het zeldzame geval van een puur decoratief beeld. Merk op dat als de afbeeldingsbeschrijving leeg is en het selectievakje Geen Beschrijving niet is aangevinkt, de afbeelding niet voldoet aan de toegankelijkheidscriteria. Als er een afbeeldingsbeschrijving aanwezig is, heeft dit selectievak geen effect.
+- **Afbeeldingsklasse** Voeg eventueel een extra CSS-klasse toe voor aangepaste styling.
+  Bijvoorbeeld, voor beeldpositie gebruik float-start of float-end.
+- **Bijschrift** Creëer een bijschrift voor deze afbeelding.
 
-#### Afbeelding volledig artikel
+#### Volledige Artikel Afbeelding
 
-- **Afbeelding volledig artikel**. Klik op de knop Selecteren om een
-  afbeelding te selecteren die op een bepaalde locatie in het volledige
-  artikel wordt weergegeven. Dit opent een venster die het mogelijk
-  maakt een afbeelding te selecteren uit de map images. Meer
-  leren.
-- **Beschrijving van afbeelding (Alt-tekst)**. Stelt het Alt attribuut
-  in voor deze afbeelding. Een paar beschrijvende woorden voor
-  schermlezers.
-- **Geen beschrijving**. Aanvinken in de zeldzame omstandigheid van een
-  volledige *Decoratieve afbeelding - geen beschrijving nodig*. Let op
-  dat als de beschrijving van de afbeelding leeg is en het 'Geen
-  beschrijving' vakje niet is aangevinkt, de afbeelding niet voldoet aan
-  de toegankelijkheidscriteria. Als een afbeeldingsbeschrijving aanwezig
-  is heeft dit vinkje geen effect.
-- **Class van de afbeelding**. Elke CSS class kan toegevoegd worden voor
-  eigen styling ideeën. Gebruik voor de positie van afbeeldingen
-  bijvoorbeeld 'float-start' en 'float-end'.
-- **Bijschrift**. Vul optioneel een bijschrift in voor de afbeelding.
+- **Volledige Artikel Afbeelding** Klik op de Selecteer-knop om een afbeelding te kiezen die wordt weergegeven op een vaste locatie in de volledige tekst van dit artikel. Er wordt een venster geopend waarmee je een afbeelding kunt kiezen uit de afbeeldingsmap.
+- **Afbeeldingsbeschrijving (Alt-tekst)** Stel het alt-attribuut in voor deze afbeelding. Een paar beschrijvende woorden voor schermlezers.
+- **Geen Beschrijving** Vink aan in het zeldzame geval van een puur decoratief beeld. Merk op dat als de afbeeldingsbeschrijving leeg is en het selectievakje Geen Beschrijving niet is aangevinkt, de afbeelding niet voldoet aan de toegankelijkheidscriteria. Als er een afbeeldingsbeschrijving aanwezig is, heeft dit selectievak geen effect.
+- **Afbeeldingsklasse** Voeg extra CSS-klasse toe voor aangepaste styling.
+  Bijvoorbeeld, voor beeldpositie gebruik float-start of float-end.
+- **Bijschrift** Voer een optioneel bijschrift in voor deze afbeelding.
 
 #### Link A
 
-- **Link A**. De URL van de eerste link die wordt weergegeven op een
-  bepaalde locatie in de tekst van het artikel. Dit moet een volledige
-  URL zijn, niet relatief. Bijvoorbeeld, normaal gesproken begint het
-  met `https:`.
-- **Link A tekst**. De tekst die voor link A gebruikt wordt. Indien
-  niets is ingevuld wordt de URL weergegeven.
-- **URL doelvenster**. Stelt de standaard waarde in voor het doelvenster
-  van de eerste link in het artikel. Keuzes zijn:
-  - Openen in het hoofdvenster: Opent de link in het hoofdvenster en
-    vervangt het huidige Joomla artikel.
-  - Openen in een nieuw venster: Opent de link in een nieuw
-    browservenster.
-  - Openen in pop-upvenster: Opent de link in een pop-up venster (zonder
-    volledige navigatie-elementen).
-  - Modaal: Opent de link in een modaal pop-up venster.
-- **Link B**, **Link C**: Zelfde opties als 'Link A'.
+- **Link A** De URL voor de eerste link die op een vaste locatie in de artikeltekst wordt weergegeven. Dit moet een volledige URL zijn, niet relatief. Bijvoorbeeld, het zou normaal beginnen met `https:`.
+- **Link A Tekst** De tekst die wordt gebruikt voor Link A. Als het veld leeg is, wordt de URL weergegeven.
+- **URL Doelvenster** Stelt de standaardwaarde in voor het doel voor de eerste link in dit artikel. Keuzes zijn:
+  - *Open in oudervenster* Opent in het hoofdvenster van de browser, vervangt het huidige Joomla-artikel.
+  - *Open in nieuw venster* Opent de link in een nieuw browservenster.
+  - *Open in pop-up* Opent de link in een pop-up browservenster (zonder volledige navigatiecontroles).
+  - *Modaal* Opent de link in een modaal pop-up venster.
 
-### Opties tabblad
+#### Link B, Link C
 
-**Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de
-Dit is een set opties die u kunt gebruiken om te beheersen hoe dit
-artikel wordt getoond in de Frontend.
+- Dezelfde opties als Link A.
 
-![Options tab](../../../nl/images/articles/articles-edit-options-tab.png "Options Tab")
+### Opties tab
 
-#### Weergave
+**Let op**: Deze tab kan verborgen worden door een gebruiker met beheerdersrechten in de Artikel: Opties. Het is een set opties die worden gebruikt om te bepalen hoe dit artikel op de voorkant wordt weergegeven.
 
-- **Weergave**. Gebruik een layout uit de beschikbare artikelweergave of
+![Opties tab](../../../nl/images/articles/articles-edit-options-tab.png)
 
-- **Titel**. Toon de titel van het artikel.
-- **Gelinkte titels**. Toont de titel als link naar het artikel.
-- **Tags**. Voer één of meer optionele tags in voor dit item. U kunt
-  bestaande tags invoeren door het intikken van de eerste paar letters.
-  U kunt ook nieuwe tags toevoegen door ze hier in te voeren. Meer
-  leren.
-- **Introtekst**.
-  - Toon: De Introtekst van het artikel wordt getoond als men naar het
-    artikel gaat.
-  - Verberg: Alleen het deel van het artikel na de 'Lees meer' wordt
-    getoond.
-- **Positie van artikelinformatie**.
-  - Boven: Plaatst het artikel-informatieblok boven de tekst.
-  - Onder: Plaatst het artikel-informatieblok onder de tekst.
-  - Verdelen: Splitst het artikel-informatieblok in 2 aparte blokken.
-    Eén boven en de ander onder de tekst.
-- **Titel artikelinformatie**. Toont 'Details' boven het
-  artikelinformatie gedeelte.
+#### Lay-out
+
+- **Lay-out** Gebruik een lay-out van de meegeleverde artikelweergave of overschrijvingen in de sjablonen.
+- **Titel** Toon de titel van het artikel.
+- **Gekoppelde Titels** Toon de titel als een link naar het artikel.
+- **Tags** Voer tags in voor dit artikel. Selecteer bestaande tags door de eerste paar letters in te voeren of maak nieuwe tags aan door ze hier in te voeren.
+- **Intro Tekst**
+  - *Toon* De intro tekst van het artikel zal worden weergegeven op een pagina met het volledige artikel.
+  - *Verberg* Alleen het deel van het artikel na de Lees Meer-regel wordt weergegeven op een pagina met het volledige artikel.
+- **Positie van Artikelinformatie**
+  - *Boven* Plaatst het informatieblok boven de tekst.
+  - *Onder* Plaatst het informatieblok onder de tekst.
+  - *Gedeeld* Verdeelt het informatieblok in twee afzonderlijke blokken. Een blok is boven en het andere onder de tekst.
+- **Artikel Info Titel** Toont 'Details' bovenaan het informatieblok.
 
 #### Categorie
 
-- **Categorie**. Toont de categorietitel van een artikel.
-- **Link categorie**. Toont de titel als link naar die categorie.
-- **Hoofdcategorie**. Toont de titel van de hoofdcategorie van een
-  artikel.
-- **Link bovenliggende categorie**. Toont de titel als link naar die
-  categorie.
+- **Categorie** Toon de categorietitel van het artikel.
+- **Link Categorie** Toon de titel als een link naar die categorie.
+- **Hoofdcategorie** Toon de hoofdcategorie titel van het artikel.
+- **Link Hoofdcategorie** Toon de titel als een link naar die categorie.
 
 #### Associaties
 
-- **Associaties**. Toont de geassocieerde vlaggen of taalcodes. Alleen
-  meertaligheid.
+- **Associaties** Toon de geassocieerde vlaggen of taalcodes. Alleen meertalig.
 
 #### Auteur
 
-- **Auteur**. Toont de auteur van een artikel.
-- **Link naar de contactpagina van de auteur**. Toont het als link naar
-  een contactpersonen weergave van die auteur.Let op: De auteur moet
-  als contactpersoon
-  ingesteld
-  zijn.
+- **Auteur** Toon de auteur van het artikel.
+- **Link naar auteur's contactpagina** Toon het als een link naar een contact lay-out voor die auteur. Opmerking: De auteur moet zijn ingesteld als een contactpersoon.
 
 #### Datum
 
-- **Aanmaakdatum**. Toont de aanmaakdatum van een artikel.
-- **Aanpassingsdatum**. Toont de aanpassingsdatum van een artikel.
-- **Publicatiedatum**. Toont de publicatiedatum van een artikel.
+- **Aanmaken Datum** Toon de aanmaakdatum van het artikel.
+- **Wijzigingsdatum** Toon de wijzigingsdatum van het artikel.
+- **Publicatiedatum** Toon de start publicatiedatum van het artikel.
 
 #### Opties
 
-- **Navigatie**. Toont een navigatie link 'vorige' of 'volgende' indien
-  door artikelen gebladerd wordt.
-- **Hits**. Toon het aantal keren dat een artikel getoond is aan
-  gebruikers.
-- **Niet-toegestane links**. Ja: De Introtekst voor beperkte artikelen
-  wordt getoond. Klikken op de 'Lees meer' link heeft tot gevolg dat
-  gebruikers in moeten loggen om de inhoud van het artikel te zien.
-- **Positionering van de links.**
-  - Boven: Links worden boven de inhoud getoond.
-  - Onder: Links worden onder de inhoud getoond.
-- **Lees meer tekst**. Pas de tekst aan die weergegeven wordt voor de
-  standaard tekst "Lees meer".
-- **Browserpaginatitel**. Tekst voor het "Browserpaginatitel" dat
-  gebruikt wordt wanneer het artikel bekeken wordt vanuit een menu item
-  dat niet aan artikelen is gerelateerd. Indien dit veld wordt leeg
-  gelaten, wordt in plaats daarvan de titel van het artikel gebruikt.
+- **Navigatie** Toon navigatielinks, *Vorige* en/of *Volgende*, bij het weergeven van een pagina met het volledige artikel.
+- **Hits** Toon het aantal keren dat het artikel door een gebruiker is weergegeven.
+- **Niet gemachtigde links** Als Ja, wordt de intro tekst voor beperkte artikelen weergegeven. Het klikken op de Lees meer-link vereist inloggen om de volledige inhoud van het artikel te bekijken.
+- **Positionering van de links**
+  - *Boven* Links worden boven de inhoud weergegeven.
+  - *Onder* Links worden onder de inhoud weergegeven.
+- **Lees Meer Tekst** Pas de tekst aan die wordt weergegeven voor de standaardtekst 'Lees meer'.
+- **Browser Paginatitel** Tekst voor de pagina titel van de browser die wordt gebruikt wanneer het artikel wordt bekeken met een menu-item dat geen artikel is. Als dit veld leeg is, wordt de titel van het artikel in plaats daarvan gebruikt.
 
-### Velden tabblad
+### Velden tab
 
-Deze sectie toont de extra velden die gedefinieerd zijn voor dit artikel.
+In dit gedeelte worden de aangepaste velden weergegeven die voor dit artikel zijn gedefinieerd. Dit zijn velden die niet zijn toegewezen aan een veldgroep. Elke veldgroep, indien gedefinieerd, zal verschijnen als een aparte tab.
 
-![Fields tab](../../../nl/images/articles/articles-edit-fields-tab.png "Filds Tab")
+![Velden tab](../../../nl/images/articles/articles-edit-fields-tab.png)
 
-### Schema tab
+### Bewerkingsscherm Configureren tab
 
-![Schema tab](../../../en/images/articles/articles-edit-schema-tab.png "Schema Tab")
+**Let op:** Dit kan worden verborgen door een gebruiker met beheerdersrechten in de Artikel: Opties.
 
-The schema mechanism allows you to enter metadata for individual articles,
-choosing from the following schema types:
+![Bewerkingsscherm configureren tab](../../../nl/images/articles/articles-edit-editor-tab.png)
 
-* None
-* Article
-* BlogPosting
-* Book
-* Event
-* JobPosting
-* Organisation
-* Person
-* Recipe
-* Custom
+- **Publiceer Opties** Als Verbergen, zal het tabblad Publiceer Opties niet worden weergegeven in het Backend. Dit betekent dat Backend-gebruikers de velden in dit tabblad niet zullen kunnen bewerken. Deze velden zullen altijd worden ingesteld op hun standaardwaarden.
+- **Artikel Opties** Als Verbergen, zal het tabblad Artikel Opties niet worden weergegeven in het Backend. Dit betekent dat Backend-gebruikers de velden in dit tabblad niet zullen kunnen bewerken. Deze velden zullen altijd worden ingesteld op hun standaardwaarden.
+- **Administrator Afbeeldingen en Koppelingen** Als Ja, wordt het tabblad Afbeeldingen en Koppelingen weergegeven.
+- **Voorzijde Afbeeldingen en Koppelingen** Als Ja, wordt het tabblad Afbeeldingen en Koppelingen weergegeven in het artikelbewerkingsscherm aan de voorkant.
 
-Each is a plugin which can disable or enable as required. More schmema types
-my be added later or available from third party sources.
 
-### Publiceren tabblad
+## Tips
 
-Deze sectie geeft u de mogelijkheid parameters en Metadata op te geven voor 
-dit artikel.
+- Er zijn 2 methoden om een afbeelding in een artikel in te voegen met behulp van de TinyMCE editor.
+  1. De *CMS Content* dropdownlijst biedt toegang tot het Media scherm.
+  2. De *Insert* dropdownlijst is een eenvoudig formulier dat de afbeeldingsurl vereist. Dit wordt gebruikt voor externe afbeeldingen.
+- Een *Read More* invoeging bespaart ruimte op elke Featured of Blog lay-outpagina door alleen het eerste gedeelte van een artikel weer te geven. *Page Break* invoegingen bieden navigatie over meerdere pagina's voor lange artikelen. Beide kunnen indien gewenst in een enkel artikel worden gebruikt. Bijvoorbeeld, een *Read More* invoeging kan worden geplaatst na de eerste alinea en *Page Break* invoegingen kunnen worden geplaatst na latere groepen van alinea's om een artikel over meerdere pagina's te creëren. Er zou geen paginanavigatie worden weergegeven op de Featured of Blog pagina totdat de gebruiker de Read more link selecteert. Op dat moment zou de inhoudsopgave van het artikel worden weergegeven met links naar elke pagina.
 
-**Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de
+*Vertaald door openai.com*
 
-![Publishing tab](../../../nl/images/articles/articles-edit-publishing-tab.png "Publishing Tab")
-
-#### Publiceren
-
-- **Start publiceren**. Datum en tijd waarop de publicatie moet starten.
-  Maak een artikel voortijdig aan en publiceer het automatisch op een
-  bepaalde tijd in de toekomst.
-- **Stop publiceren**. Datum en tijd om te stoppen met publiceren. Het
-  artikel krijgt automatisch de status gedepubliceerd op een tijdstip in
-  de toekomst.
-- **Begin speciaal**. Datum en tijd om de Speciaal status in te
-  schakelen. Voer artikel voortijdig in en en laat het automatisch de
-  status Speciaal krijgen op een tijdstip in de toekomst.
-- **Einde speciaal**. Datum en tijd om de 'Speciaal' status uit te
-  schakelen. Het artikel krijgt automatisch de status 'Niet speciaal' op
-  een tijdstip in de toekomst.
-- **Aanmaakdatum**. Het tijdstip waarop het artikel gemaakt was. Voer
-  een andere datum en tijd in of klik op het kalender icoon om de
-  gewenste datum te selecteren.
-- **Gemaakt door**. Naam van de gebruiker die dit artikel gemaakt heeft.
-  Dit is standaard de huidig ingelogde gebruiker. Klik op de knop
-  selecteer gebruiker en selecteer een andere gebruiker indien dit
-  aangepast moet worden naar een andere gebruiker.
-- **Gemaakt door alias**. Voer een alias in voor de auteur van dit
-  artikel. Dit geeft de mogelijkheid een andere auteursnaam te tonen.
-- **Aanpassingsdatum**. Datum van laatste wijziging.
-- **Aangepast door**. Gebruikersnaam wie de laatste aanpassing heeft
-  gedaan.
-- **Herzien**. Aantal aanpassingen van dit artikel.
-- **Hits**. Het aantal keren dat een artikel is bekeken.
-- **ID**. Een uniek identificatienummer voor dit artikel, men kan dit
-  nummer niet veranderen. Als een nieuw artikel wordt aangemaakt, is dit
-  veld '0' totdat het wordt opgeslagen.
-
-#### Metadata
-
-- **Metabeschrijving**. Een paragraaf die gebruikt wordt als
-  beschrijving van de pagina. Meer
-  leren.
-- **Trefwoorden**. Invoer voor trefwoorden. Meer
-  leren.
-- **Robots**. De instructies voor web 'robots' die naar deze pagina
-  bladeren. Zet op 'Gebruik algemeen' in
-- **Auteur**. Plek voor een auteursnaam binnen de metadata.
-- **Inhoudsrechten**. Beschrijft wat de rechten van andere zijn om deze
-  inhoud te gebruiken.
-
-### Associaties tabblad
-
-**Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de
-Tabblad wordt alleen getoond bij
-
-![Associations tab](../../../nl/images/articles/articles-edit-associations-tab.png "Associations Tab")
-
-### Configuratie bewerkvenster tabblad
-
-**Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de
-
-![Configure edit screen tab](../../../nl/images/articles/articles-edit-editor-tab.png "Configure edit screen Tab")
-
-- **Publicatie opties**. Indien Verborgen dan wordt het ([Publicatie
-  optie
-  tabblad](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#publishing "Help4.x:Articles: Edit/nl"))
-  niet getoond in het beheergedeelte. Dit betekent dat gebruikers aan de
-  beheerkant niet in staat zijn de velden op dit tabblad te bewerken.
-  Deze velden worden altijd op hun standaard waarde gezet.
-- **Artikel opties**. Indien Verborgen, dan wordt het (Artikel opties
-  tabblad
-  niet getoond in beheer. Dit betekent dat gebruikers in het
-  beheergedeelte niet in staat zijn de velden op dit tabblad te
-  bewerken. Deze velden worden altijd op hun standaard waarde gezet.
-- **Afbeeldingen en links - beheergedeelte**. Indien Ja, dan wordt het
-  (afbeeldingen en links tabblad getoond.
-- **Afbeeldingen en links - website**. Indien Ja, dan verschijnt het
-  afbeeldingen en links tabblad op het bewerkscherm van het artikel op
-  de website.
-
-### Rechten tabblad
-
-**Let op**: Dit kan verborgen worden door een gebruiker met administratie 
-rechten in de Hier kunt u rechten invoeren voor dit artikel. 
-
-![Permissions tab](../../../nl/images/articles/articles-edit-permissions-tab.png "Permissions Tab")
-
-Doe, om de rechten van dit artikel te wijzigen, het volgende.
-
-1.  Selecteer de **Groep** door op de titel aan de linkerzijde te
-    klikken.
-2.  Zoek de gewenste **Actie**.
-    - **Verwijderen**. Gebruikers kunnen dit artikel verwijderen.
-    - **Bewerken**. Gebruikers kunnen dit artikel bewerken.
-    - **Bewerk status**. Gebruikers kunnen de 'gepubliceerd' status en
-      verwante informatie van dit artikel wijzigen.
-3.  Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
-    - **Overgenomen**. Overgenomen voor gebruikers in deze groep uit de
-      algemene
-      instellingen,
-      Artikelbeheer
-      Opties,
-      of
-    - **Toegestaan**. Toegestaan voor gebruikers in deze groep.Let op:
-      Als deze actie 'Geweigerd' is op een van de hogere niveaus, dan
-      heeft de 'Toegestaan' rechten hier geen effect. Een 'Geweigerd'
-      instelling kan niet overschreven worden.
-    - **Geweigerd**. Geweigerd voor gebruikers in deze groep.
-4.  Klik op **Opslaan** in de **werkbalk** bovenin. Wanneer het scherm
-    herladen wordt zal de nieuwe gecalculeerde rechten voor deze groep
-    en actie weergegeven worden.
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screensho) hierboven.
-
-- **Opslaan**. Slaat artikel op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat artikel op en sluit het huidige scherm.
-  - **Opslaan & nieuw**. Slaat artikel op en houdt het bewerkscherm
-    open, klaar voor het aanmaken van een ander artikel.
-  - **Opslaan in menu**. Slaat het item op in het menu-item en opent het
-    menu-item scherm.
-  - **Opslaan als kopie**. Slaat uw wijzigingen op als een kopie van het
-    huidige artikel. Beïnvloed het huidige artikel niet.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-- **Versies**. Opent het item versie geschiedenis scherm om eerdere
-  versies van dit item te tonen. Dit stelt u in staat oudere versies van
-  het item te bekijken en een oudere versie te herstellen. Meer
-  leren.
-- **Voorbeeld**. Opent een modaal venster met een voorbeeld van dit
-  artikel op de site. Vereist gedeelde
-  sessies
-  of ingelogd zijn op de website.
-- **Toegankelijkheid controle**. Opent een scherm dat het resultaat van
-  de toegankelijkheidscontrole van het artikel toont.
-- **Associaties**. Met een bepaalde taal ingesteld voor een artikel
-  geeft het de mogelijkheid tot het naast elkaar bewerken van een andere
-  taal. Dit werkbalk icoon wordt alleen getoond bij
-- **Inline help in-/uitschakelen**. Toon helptekst onder enkele opties.
-- **Help**. Opent dit helpscherm.
-
-## Snelle tips
-
-- Er zijn 2 methodes om een afbeelding in een artikel in te voegen met
-  behulp van de TinyMCE tekstverwerker.
-  1.  De CMS
-      inhoud
-      keuzelijst biedt toegang tot het Media
-      scherm dat
-      afbeelding bestanden laat zien en afbeeldingen laat uploaden.
-  2.  De 'Invoegen' keuzelijst is een eenvoudig formulier waarvan men de
-      afbeelding-URL moet weten. Het wordt gebruikt voor externe
-      afbeeldingen.
-- Lees
-  meer
-  afbrekingen geven de mogelijkheid ruimte te sparen op de startpagina
-  of een blog-weergave pagina door alleen het eerste deel van een
-  artikel te tonen. Pagina
-  afbrekingen
-  bieden meer-pagina navigatie voor lange artikelen. U kunt beide,
-  desgewenst, ook in één artikel gebruiken.Men kan bijvoorbeeld een
-  'Lees meer' regel na de eerste paragraaf van een meer-pagina artikel
-  plaatsen en pagina afbrekingen na iedere pagina. Er is geen pagina
-  navigatie zichtbaar op de voorpagina tot de gebruiker de 'Lees meer'
-  link gebruikt. Dan wordt de inhoudsopgave zichtbaar welke links naar
-  iedere pagina toont.

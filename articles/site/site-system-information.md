@@ -1,199 +1,108 @@
-<!-- Filename: Help4.x:Site_System_Information / Display title: Site Systeem informatie -->
+<!-- Filename: Help4.x:Site_System_Information  / Display title: Systeeminformatie -->
 
 ## Beschrijving
 
-Deze pagina biedt handige informatie over uw host server omgeving,
-inclusief het operating systeem, database en PHP instellingen en mappen
-informatie. Er zijn vijf verschillende tabblad schermen:
-Systeeminformatie, PHP instellingen, Configuratiebestand, Maprechten en
-PHP informatie. Elk scherm biedt gedetailleerde informatie over dat
-aspect van uw Joomla! website. Deze informatie is erg behulpzaam als u
-problemen onderzoekt met uw instellingen.
+De *Systeeminformatie* pagina biedt informatie over de hostserveromgeving. Er zijn vijf verschillende tabpanelen: Systeeminformatie, PHP-instellingen, Configuratiebestand, Maprechten en PHP-informatie. Elk paneel biedt gedetailleerde informatie over dat aspect van de site. Het is nuttig bij het oplossen van installatieproblemen.
 
-- Let op dat geen van deze instellingen veranderd kunnen worden vanaf
-  deze schermen. Dit moet worden gedaan op verschillende plekken van uw
-  Joomla! installatie, afhankelijk van de bepaalde instelling.
-- Veel instellingen van het instellingen bestand scherm kunnen worden
-  aangepast vanuit het Algemene
-  instellingen
-  scherm. Enkele instellingen die hier getoond worden hangen af van uw
-  host server configuratie en kunnen niet vanuit Joomla! veranderd
-  worden.
+- Let op dat geen van deze instellingen kan worden gewijzigd vanuit deze panelen. Dit moet op verschillende locaties in de Joomla!-installatie worden gedaan, afhankelijk van de specifieke instelling.
+- Sommige instellingen kunnen worden gewijzigd vanaf de pagina Globale Configuratie. Andere zijn afhankelijk van de hostserverconfiguratie en kunnen niet van binnen Joomla! worden gewijzigd.
 
-## Hoe toegang te krijgen
+### Algemene Elementen
 
-- Selecteer **Systeem → Gegevens venster → Systeeminformatie**
-  vanuit het Beheer menu.
+Sommige aspecten van deze pagina worden behandeld in aparte helpartikelen:
+
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+
+## Toegang verkrijgen
+
+- Selecteer **Systeem → Informatiepaneel → Systeeminformatie**
+  in het menu van de Beheerder.
 
 ## Schermafbeelding
 
-<img
-src="https://docs.joomla.org/images/thumb/9/9f/Help-4x-system-system-information-nl.png/800px-Help-4x-system-system-information-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/9f/Help-4x-system-system-information-nl.png/1200px-Help-4x-system-system-information-nl.png 1.5x, https://docs.joomla.org/images/9/9f/Help-4x-system-system-information-nl.png 2x"
-data-file-width="1266" data-file-height="934" width="800" height="590"
-alt="system system information" />
+![startdashboard](../../../nl/afbeeldingen/site/systeem-informatie-tabblad.png)
 
-## Gegevens
+## Formulieren Tabs
 
-- Systeem Informatie
-- PHP instellingen
-- Configuratiebestand
-- Maprechten
-- PHP informatie.
+### Systeeminformatie Tab
 
-### Systeeminformatie tabblad
+- **PHP Gebouwd op** Biedt details over het belangrijkste besturingssysteem waarop de webserver draait waarop Joomla draait.
+- **Databasetype** Biedt het type database dat wordt gebruikt door de installatie van Joomla.
+- **Databaseversie** Biedt de huidige versie van de MySQL database die wordt gebruikt door de installatie van Joomla.
+- **Database Collatie** Hoe de MySQL database is gestructureerd voor de informatie die door Joomla! wordt gebruikt.
+- **Database Connectie Collatie** Het karakterset en collatie van de database.
+- **PHP Versie** Biedt de huidige versie van de PHP-server side script die wordt gebruikt voor deze installatie van Joomla.
+- **Webserver** Biedt het huidige type en versie van de webserver waarop de installatie van Joomla! draait.
+- **Webserver naar PHP Interface** Het script dat interactie mogelijk maakt tussen de webserver (in de meeste gevallen, Apache) en de PHP-scripttaal.
+- **Joomla! Versie** Biedt de huidige versie van Joomla!. Het wordt aanbevolen om dit altijd up-to-date te houden en de huidige stabiele release te gebruiken.
+- **User Agent** De samenvatting van het besturingssysteem en de browserinformatie van de lokale machine van de huidige gebruiker die wordt gebruikt om een unieke sessie-ID te creëren voor toegang en functionaliteit binnen de Joomla! website.
 
-Dit scherm toont informatie over de omgeving van het operating systeem
-van uw Joomla! site.
+### PHP-instellingen Tab
 
-- **PHP gebouwd op:** Geeft details over het operating systeem van de
-  webserver waar Joomla! op draait.
-- **Databasetype:** Toont het type database dat gebruikt wordt bij de
-  installatie van Joomla.
-- **Database versie:** Toont de huidige versie van de MySQL database die
-  gebruikt wordt bij de installatie van Joomla.
-- **Database collatie:** Hoe de MySQL database gestructureerd is voor de
-  informatie die door Joomla! gebruikt wordt.
-- **Collatie van de databaseverbinding:** De tekenset en collatie van de
-  database.
-- **PHP versie:** Geeft de huidige versie van het PHP server-side script
-  dat gebruikt wordt voor deze installatie van Joomla!.
-- **Webserver:** Geeft het huidige type en de versie van de webserver
-  van de installatie waarop Joomla! draait.
-- **Webserver naar PHP interface:** Het script dat interactie geeft
-  tussen de webserver (in de meeste gevallen, Apache) en de PHP
-  scripting taal.
-- **Joomla! versie:** Geeft de huidige versie van Joomla!. Het is
-  aanbevolen deze altijd up-to-date te hebben en de huidige stabiele
-  versie te gebruiken.
-- **Gebruikersagent:**De samenvatting van het huidige lokale machine
-  operating systeem van de gebruiker en de browser informatie die
-  gebruikt wordt om een unieke sessie-ID aan te maken voor toegang en
-  functies binnen de Joomla! website.
+![home dashboard](../../../nl/images/site/php-settings-tab.png)
 
-### PHP instellingen tabblad
+Dit scherm toont PHP-informatie. Als een van deze als onjuist wordt gemarkeerd, moeten ze worden gecorrigeerd.
 
-<img
-src="https://docs.joomla.org/images/thumb/6/6b/Help-4x-system-php-settings-nl.png/400px-Help-4x-system-php-settings-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/6/6b/Help-4x-system-php-settings-nl.png 1.5x"
-data-file-width="508" data-file-height="620" width="400" height="488"
-alt="system php settings" />
+- **Veilige Modus** Aanbevolen instelling: UIT
+- **Open basedir** Aanbevolen instelling: Site-afhankelijk
+- **Fouten Weergeven** Aanbevolen instelling: UIT
+- **Korte Open Tags** Aanbevolen instelling: AAN
+- **Bestanden Uploaden** Aanbevolen instelling: AAN
+- **Magic Quotes** Aanbevolen instelling: UIT
+- **Globals Registreren** Aanbevolen instelling: UIT
+- **Output Buffering** Aanbevolen instelling: UIT
+- **Sessiebestand Pad** Aanbevolen instelling: Site-afhankelijk
+- **Sessie Auto Start** Aanbevolen instelling: 0
+- **XML Ingeschakeld** Aanbevolen instelling: JA
+- **Zlib Ingeschakeld** Aanbevolen instelling: JA
+- **Native ZIP Ingeschakeld** Aanbevolen instelling: JA
+- **Uitgeschakelde Functies** Aanbevolen instelling: Site-afhankelijk
+- **Multibyte String (mbstring) Ingeschakeld** Aanbevolen instelling: JA
+- **Iconv Beschikbaar** Aanbevolen instelling: JA
+- **Maximum Input Variabelen** Aanbevolen instelling: 2500
 
-Dit scherm toont de relevante PHP instelling informatie. Indien er iets
-uitgelicht is als incorrect dan moet actie worden ondernomen de situatie
-te herstellen.
+### Configuratiebestand Tab
 
-- **Veilige modus:** Aanbevolen instelling: Uit
-- **Open basedir:** Aanbevolen instelling: Hangt van site af
-- **Toon fouten:** Aanbevolen instelling: Uit
-- **Short Open Tags:** Aanbevolen instelling: Aan
-- **Bestandsuploads:** Aanbevolen instelling: Aan
-- **Magic Quotes:** Aanbevolen instelling: Uit
-- **Register Globals:** Aanbevolen instelling: Uit
-- **Uitvoer buffering:** Aanbevolen instelling: Uit
-- **Sessie save path:** Aanbevolen instelling: Afhankelijk van de site
-- **Sessie auto start:** Aanbevolen instelling: Uit
-- **XML ingeschakeld:** Aanbevolen instelling: Ja
-- **Zlib ingeschakeld:** Aanbevolen instelling: Ja
-- **Native ZIP ingeschakeld:** Aanbevolen instelling: Ja
-- **Uitgeschakelde functies:** Aanbevolen instelling: Afhankelijk van
-  site
-- **Multibyte String (mbstring) ingeschakeld:** Aanbevolen instelling:
-  Ja
-- **Iconv Beschikbaar:** Aanbevolen instelling: Ja
-- **Maximale invoervariabelen:** Aanbevolen instelling: 2500
+![home dashboard](../../../nl/images/site/configuration-file-tab.png)
 
-### Configuratiebestand tabblad
+Deze tab toont de inhoud van het huidige Joomla! *configuration.php* bestand dat is opgeslagen in de `path-to-joomla-root` directory. Dit bestand wordt automatisch voor u aangemaakt wanneer u Joomla! voor het eerst installeert en waar de meeste wijzigingen van de globale configuratie gedeelten van Joomla! worden vastgelegd. Houd er rekening mee dat geen van de instellingen vanaf deze pagina kunnen worden gewijzigd. Gebruik de Global Configuration voor meer informatie over deze instellingen en om wijzigingen aan te brengen.
 
-<img
-src="https://docs.joomla.org/images/thumb/7/7f/Help-4x-system-configuration-file-nl.png/600px-Help-4x-system-configuration-file-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/7f/Help-4x-system-configuration-file-nl.png/900px-Help-4x-system-configuration-file-nl.png 1.5x, https://docs.joomla.org/images/7/7f/Help-4x-system-configuration-file-nl.png 2x"
-data-file-width="961" data-file-height="757" width="600" height="473"
-alt="system configuration file" />
+### Mapmachtigingen Tab
 
-Dit scherm toont de inhoud van het huidige Joomla! *configuration.php*
-bestand dat opgeslagen is in de hoofd **/joomla_root/** map. Dit bestand
-is automatisch voor u aangemaakt als u Joomla! voor het eerst
-installeert en waar de meeste wijzigingen van de globale instellingen
-sectie van Joomla! zijn opgenomen. Denk er aan dat geen van deze
-instellingen op deze pagina aangepast kan worden. Gebruik Algemene
-instellingen
-om meer informatie over deze instellingen te zien en om aanpassingen te
-doen.
+![home dashboard](../../../nl/images/site/folder-permissions-tab.png)
 
-### Maprechten tabblad
+Deze tab toont een lijst van de directories waar de webserver schrijftoegang tot moet hebben. Houd er rekening mee dat alle directories die op deze pagina worden vermeld **Schrijfbaar** zouden moeten zijn. Zo niet, dan moet u mogelijk de machtigingen wijzigen om Joomla! succesvol te kunnen installeren en gebruiken. Het configuration.php bestand is inbegrepen en wordt weergegeven als **Niet Schrijfbaar**.
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f2/Help-4x-system-folder-permissions-nl.png/600px-Help-4x-system-folder-permissions-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/f/f2/Help-4x-system-folder-permissions-nl.png 1.5x"
-data-file-width="798" data-file-height="782" width="600" height="588"
-alt="system folder permissions" />
+### PHP Informatie Tab
 
-Dit scherm toont een lijst met mappen waar de webserver schrijfrechten
-voor moet hebben. Denk eraan dat alle mappen op deze pagina
-**Schrijfbaar** moeten zijn. Indien niet, dan moet u misschien de
-rechten aanpassen, om Joomla! succesvol te installeren en gebruiken.
+![home dashboard](../../../nl/images/site/php-information-tab.png)
 
-### PHP informatie tabblad
+Deze tab toont de configuratie-instellingen van de PHP-server-side scriptingtaal die Joomla! gebruikt, samen met alle bijbehorende systeeminformatie die bijdragen aan de creatie van de webserver. Het is de output van een geïntegreerd php.info script ingebouwd in Joomla!.
 
-<img
-src="https://docs.joomla.org/images/thumb/4/4b/Help-4x-system-php-information-nl.png/600px-Help-4x-system-php-information-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/4b/Help-4x-system-php-information-nl.png/900px-Help-4x-system-php-information-nl.png 1.5x, https://docs.joomla.org/images/4/4b/Help-4x-system-php-information-nl.png 2x"
-data-file-width="983" data-file-height="760" width="600" height="464"
-alt="system php information" />
+PHP is geïnstalleerd en draait op de server (vandaar de server-side hierboven), en daarom worden alle instellingen op de server aangepast. De bezoeker van de website hoeft niets bijzonders op zijn lokale machine te hebben om een extra functionaliteit te bekijken of te gebruiken die PHP aan de website geeft.
 
-Dit scherm toont de volledige instelling van de PHP server side
-script-taal waarop Joomla! draait, samen met alle gekoppelde systeem
-informatie die wordt gebruikt bij het aanmaken van de webserver. Het is
-de uitvoer van een geïntegreerd php.info script dat in Joomla! zit.
+Alle instellingen die waarschijnlijk ooit nodig zijn worden hier weergegeven. Eventuele wijzigingen die nodig zijn, worden aangebracht binnen de *php.ini* en andere configuratiebestanden op de webserver.
 
-PHP is geïnstalleerd en draait op de server (vandaar bovenstaande server
-side) en daarom zijn alle instellingen op de server ingesteld. De
-bezoeker aan de website hoeft niets speciaals te draaien op hun lokale
-machine om te kijken, of extra functionaliteit te hebben die PHP op de
-website biedt.
+Hoeveel controle een website-eigenaar over deze informatie heeft, hangt af van of hij de server bezit of als de serverhost flexibel is in hun klantbenadering.
 
-Alle instellingen die mogelijk nodig zijn worden hier getoond.
-Wijzigingen die noodzakelijk zijn moeten gedaan worden in de *php.ini*
-en andere instellingsbestanden op de webserver.
+Het is een goede gewoonte om de beperkingen van een bepaalde serverinstallatie te kennen. Deze schermuitvoer wordt gebruikt om gedetailleerde informatie te vinden over hoe PHP op de server wordt geïmplementeerd.
 
-Hoeveel controle de eigenaar van een website heeft over de informatie
-hangt af van of ze eigenaar zijn van de server of dat de server-host
-flexibel is in een gebruikersbenadering.
+Voor volledige details over de informatie in de PHP Info tab, bezoek: [http://php.net/phpinfo](http://php.net/phpinfo).
 
-Het is goed de beperkingen van een bepaalde server-installatie te weten.
-Deze schermuitvoer wordt gebruikt om gedetailleerde informatie over hoe
-PHP is geïmplementeerd op de server.
+## Tips
 
-Bezoek, voor volledige details over de informatie op het PHP Info
-scherm:
-<a href="http://php.net/phpinfo"
-rel="nofollow noreferrer noopener">http://php.net/phpinfo</a>.
+- Als je problemen hebt met het installeren van extensies, het uploaden van bestanden of
+  het wijzigen van configuratieopties, controleer dan het tabblad Directory Permissions
+  om er zeker van te zijn dat je toestemming hebt om bestanden op je webserver te schrijven.
+  De *Status* van de mappen moet *Beschrijfbaar* zijn. Zo niet, dan kun je mogelijk geen
+  bestanden in deze mappen uploaden of bewerken.
+- Wanneer je hulp zoekt bij installatieproblemen, bijvoorbeeld in een
+  Joomla! webforum, is het erg nuttig om specifieke informatie over
+  je Joomla! installatie te plaatsen. Deze pagina is een gemakkelijke manier om
+  al deze informatie op één plek te vinden. Nog beter - gebruik de 
+  **Forum Post Assistant** die gedocumenteerd staat bovenaan de 
+  individuele Joomla Forum pagina's, zoals het 
+  [Algemene Vragen](https://forum.joomla.org/viewforum.php?f=834) forum.
 
-## Werkbalk
+*Vertaald door openai.com*
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
-
-- **Downloaden als tekst:** Download de systeemgegevens als
-  tekstbestand.
-- **Downloaden als JSON:** Download de systeemgegevens als JSON bestand.
-- **Help**. Opent dit helpscherm.
-
-## Snelle tips
-
-- Als u problemen heeft met het installeren van extensies, het uploaden
-  van bestanden of het wijzigen van de instellingen opties, controleer
-  dan het map rechten scherm om zeker te weten dat u de rechten heeft om
-  bestanden te schrijven op uw webserver. De "Status" van de mappen
-  zouden "Schrijfbaar" moeten zijn. Zo niet, dan kunt u geen bestanden
-  uploaden of bewerken in deze mappen.
-- Als u hulp zoekt bij instellingen problemen, bijvoorbeeld in een
-  Joomla! webforum, is het handig specifieke informatie over uw Joomla!
-  installatie te plaatsen. Dit scherm is een makkelijke manier om al
-  deze informatie op één plek te vinden.

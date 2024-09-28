@@ -1,117 +1,64 @@
-<!-- Filename: Help4.x:Languages:_Edit_Content_Language / Display title: Talen - Inhoudstaal bewerken -->
-
-<img
-src="https://docs.joomla.org/images/thumb/4/47/Copyedit.png/25px-Copyedit.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/47/Copyedit.png/38px-Copyedit.png 1.5x, https://docs.joomla.org/images/thumb/4/47/Copyedit.png/50px-Copyedit.png 2x"
-data-file-width="200" data-file-height="200" width="25" height="25"
-alt="Copyedit.png" />This Page Needs Your Help
-
-*This page is tagged because it* **NEEDS COMPLETION***. You can help the
-Joomla! Documentation Wiki by <a
-href="https://docs.joomla.org//docs.joomla.org/index.php?title=Help4.x:Languages:_Edit_Content_Language/nl&amp;action=edit"
-class="external text" target="_blank"
-rel="noreferrer noopener">contributing to it</a>.
-<span class="small">More pages that need help similar to this one are
-here.</span>
-<span class="small">**NOTE-If you feel the need is satistified, please
-remove this notice.**</span>*
-**Reason:** The section "Options Tab" needs more information
+<!-- Filename: Help4.x:Languages:_Edit_Content_Language  / Display title: Talen: Bewerk Inhoudstaal -->
 
 ## Beschrijving
 
-In taalbeheer: In bewerken van de inhoudstaal kunt u instellen: de
-titel, SEF, afbeelding, code en beschrijving van de geïnstalleerde
-talen. U kunt het ook de metadata en de beschrijving bijwerken of
-toevoegen.
+De pagina *Talen: Bewerk Inhoudstaal* wordt gebruikt om de parameters van een geïnstalleerde taal in te stellen.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Systeem → Beheren venster → Inhoudstalen** vanuit
-  het beheermenu. Dan...
-  - Selecteer de taalnaam link vanuit de **Titel** kolom.
+Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/6/6a/Help-4x-Extensions-Language-Manager-Edit-screen-nl.png/800px-Help-4x-Extensions-Language-Manager-Edit-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/6/6a/Help-4x-Extensions-Language-Manager-Edit-screen-nl.png 1.5x"
-data-file-width="985" data-file-height="736" width="800" height="598"
-alt="Extensions Language Manager Edit screen" />
+## Toegang verkrijgen
 
-### Formulier velden
+- Selecteer **Systeem → Beheer Paneel → Inhoud Talen** uit het
+  Beheerdersmenu. Vervolgens...
+  - Selecteer de taalnaamlink uit de **Titel** kolom.
 
-### Gegevens tabblad
+## Screenshot
 
-- **Titel.** De naam van de taal zoals hij in de lijst verschijnt.
-- **Titel in moedertaal.** Taaltitel in de moedertaal.
-- **Taaltag.** De taaltag - Vul de taaltag in – voorbeeld: nl-NL voor
-  Nederlands (nl-NL). Dit moet het exacte voorvoegsel zijn van de
-  geïnstalleerde of de te installeren taal.
-- **URL taalcode.** Taalcode voor deze taal. Deze taalcode zal worden
-  opgenomen in de website URL. Let op dat de taalcode uniek moet zijn
-  binnen alle talen.
-- **Afbeelding.** Selecteer vanuit de beschikbare talen bij gebruik van
-  de "Gebruik afbeeldingsvlaggen" de taalwisselaar standaardoptie
-  gebruikt wordt.
-- **Status.** Beschikbare opties zijn Gepubliceerd, Gedepubliceerd,
-  Verplaatst naar prullenbak.
-- **Toegang**. Het
-  Toegangsniveau
-  om het item te bekijken.
-- **Beschrijving**. Vul een beschrijving in voor de taal.
-- **ID**. Dit is een uniek identificatienummer voor dit item,
-  automatisch toegekend door Joomla!. Het wordt gebruikt om het item
-  intern te identificeren en u kunt dit nummer niet veranderen. Als u
-  een nieuw item aanmaakt, is dit veld "0" totdat u het opslaat, waarbij
-  een nieuw ID toegekend wordt.
+![Bewerk details tabblad inhoudstaal talen](../../../nl/images/languages/languages-edit-content-language-details-tab.png)
 
-### Opties tabblad
+## Formuliervelden
 
-<img
-src="https://docs.joomla.org/images/thumb/3/33/Help-4x-Extensions-Language-Manager-Edit-Options-screen-nl.png/600px-Help-4x-Extensions-Language-Manager-Edit-Options-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/33/Help-4x-Extensions-Language-Manager-Edit-Options-screen-nl.png/900px-Help-4x-Extensions-Language-Manager-Edit-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/3/33/Help-4x-Extensions-Language-Manager-Edit-Options-screen-nl.png 2x"
-data-file-width="922" data-file-height="292" width="600" height="190"
-alt="Extensions Language Manager Edit Options screen" />
+### Details Tab
 
-## Werkbalk
+- **Titel** De naam van de taal zoals die in de lijsten zal verschijnen.
+- **Titel in Moedertaal** Titel van de taal in de moedertaal.
+- **Taalcode** Voer de taalcode in, bijvoorbeeld: en-GB voor Engels (en-GB). Dit moet het exacte voorvoegsel zijn dat wordt gebruikt voor de geïnstalleerde of te installeren taal.
+- **URL Taalcode** Taalcode voor deze taal. Deze taalcode zal worden opgenomen in de site URL. Let op: de taalcode moet uniek zijn voor alle talen.
+- **Afbeelding** Selecteer uit de beschikbare afbeeldingen voor deze taal wanneer u de optie *Gebruik Afbeeldingsvlaggen* bij de Taalwisselaar gebruikt.
+- **Status** Beschikbare opties zijn Gepubliceerd, Gedepubliceerd en Verwijderd.
+- **Toegang** Het bekijktoegangsniveau voor dit item.
+- **Beschrijving** Voer een beschrijving voor de taal in.
+- **ID** Dit is een uniek identificatienummer voor dit item dat automatisch door Joomla wordt toegewezen. Het wordt intern gebruikt om het item te identificeren, en u kunt dit nummer niet wijzigen. Bij het maken van een nieuw item wordt in dit veld "0" weergegeven totdat u de nieuwe invoer opslaat, waarna een nieuw ID aan het item wordt toegewezen.
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
+### Opties Tab
 
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Opslaan & nieuw**. Slaat item op en houdt het bewerkscherm open,
-  klaar voor het aanmaken van een ander item.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-  Dit werkbalk icoon wordt niet getoond als een nieuw item wordt
-  aangemaakt.
-- **Help**. Opent dit helpscherm.
+![Languages Edit content language options tab](../../../nl/images/languages/languages-edit-content-language-options-tab.png)
 
-## Snelle tips
+* De **Aangepaste Naam van de Site** kan in verschillende talen verschillen!
+* De **Meta Beschrijving** moet in verschillende talen verschillen!
 
-- Gebruikers kunnen iedere taal gebruiken uit de lijst met
-  geïnstalleerde talen, of door het te koppelen in
-  Gebruikersbeheer
-  of door Menu-item Beheer - Nieuw/Bewerken -
-  gebruikersformulier
-  op de website in te vullen. Dit zal het Joomla systeem afdwingen voor
-  deze gebruiker in deze taal te verschijnen. Als een gebruiker
-  bijvoorbeeld voor Spaans kiest als zijn of haar taal, dan verschijnt
-  de zoekmodule in het Spaans.
-- Deze keuze van de gebruiker wordt niet beïnvloed door de standaard
-  taal die is ingesteld voor de website.
-- Het wijzigen van de taal van een gebruiker of de standaard taal
-  beïnvloed de artikelen en andere inhoud op de website niet.
-- **Belangrijk**: Verwijder de standaard taalbestanden niet
-  (bijvoorbeeld via FTP). Dit veroorzaakt fouten op zowel de website als
-  in het beheergedeelte.
-- Extra talen kunnen worden toegevoegd met behulp van het
+## Tips
 
-- Indien gewenst kunt u de website en één taal tonen en het
-  beheergedeelte in een andere taal. Individuele artikelen kunnen ook
-  gebruikt worden in een andere taal via het geavanceerde instellingen
-  scherm bij het bewerken van het artikel.
+- Gebruikers kunnen elke taal uit de lijst van geïnstalleerde talen gebruiken,
+  door deze toe te wijzen in het gebruikersprofiel
+  of door een Menu Items lijst in te vullen - Nieuw/Bewerk - Gebruikersformulieropmaak
+  aan de voorkant. Dit zorgt ervoor dat de Joomla!-systeem prompts
+  alleen voor deze gebruiker in deze taal worden gegenereerd. Bijvoorbeeld, als een gebruiker
+  Spaans als taal kiest, dan zal de Zoekmodule met prompts in het Spaans worden getoond.
+- De keuze van deze gebruiker wordt niet beïnvloed door de standaardtaal die is ingesteld voor de
+  voorkant.
+- Het veranderen van de taal van een gebruiker of de standaardtaal heeft geen invloed op de
+  artikelen en andere inhoud van de website.
+- **Belangrijk**: Verwijder de standaard taalbestanden niet (bijvoorbeeld,
+  met FTP). Dit zal fouten veroorzaken op zowel de voorkant als de achterkant.
+- Extra talen kunnen worden toegevoegd via de Extensies - Installeren scherm.
+- Indien gewenst, kunt u de voorkantsite in één taal weergeven en de achterkant administratiepagina's in een andere taal. Ook
+  kunnen individuele artikelen worden geconfigureerd om een andere taal te gebruiken in het geavanceerde parameterpaneel
+  bij het bewerken van het artikel.
+
+*Vertaald door openai.com*
+

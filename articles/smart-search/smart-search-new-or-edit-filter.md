@@ -1,102 +1,73 @@
-<!-- Filename: Help4.x:Smart_Search:_New_or_Edit_Filter / Display title: Slim zoeken: Nieuw of bewerk filter -->
+<!-- Filename: Help4.x:Smart_Search:_New_or_Edit_Filter  / Display title: Slim Zoeken: Nieuwe of Bewerk Filter -->
 
 ## Beschrijving
 
-Dit scherm geeft de mogelijkheid een nieuw zoekfilter te maken of een
-bestaande aan te passen.
+Op de pagina *Slim Zoeken: Nieuw of Bewerken Filter* kun je een nieuw zoekfilter maken of een bestaand filter aanpassen.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Componenten → Slim zoeken → Filters** in het
-  beheermenu. Dan...
-  - Selecteer de **Nieuw** knop in de werkbalk om een nieuw filter aan
-    te maken.
-  - Selecteer een titel link in de **Titel** kolom om een bestaand
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
+
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+
+### Handleiding
+
+* Als je nieuw bent bij Slim Zoeken, dan zou je de [Slim Zoeken
+  snelstartgids](https://docs.joomla.org/Smart_Search_quickstart_guide) moeten lezen.
+
+## Hoe te openen
+
+- Selecteer **Componenten → Slim Zoeken → Filters** in het
+  Beheerdersmenu. Vervolgens...
+  - Selecteer de **Nieuw** Toolbar-knop om een nieuwe filter te maken.
+  - Selecteer een titel link in de **Titel** kolom om een bestaande
     filter te bewerken.
 
-## Schermafbeelding
+## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b6/Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-nl.png/800px-Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-nl.png.jpeg"
-decoding="async"
-srcset="https://docs.joomla.org/images/b/b6/Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-nl.png 1.5x"
-data-file-width="1187" data-file-height="1113" width="800" height="750"
-alt="Components Finder Manage Search Filters Edit screen" />
+![slimme zoekopdracht bewerken filter](../../../nl/images/smart-search/smart-search-edit-filter.png)
 
-### Formulier velden
+## Formuliervelden
 
-- **Titel**. De titel van dit item. Dit kan op de pagina weergegeven
-  worden, afhankelijk van de instellingen.
-- **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
-  laten en Joomla zal de standaardwaarde invullen. De standaard waarde
-  is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. Meer
-  leren.
+## Tab Filter Bewerken
 
-## Bewerk filter tabblad
+- **Aantal Kaarten** Het aantal kaarten dat in het filter is opgenomen.
+- **Selectie Wisselen** De knop Selectie Wisselen zal alle
+  selecties op de tegenovergestelde manier veranderen. Dus geselecteerd zal veranderen in
+  niet-geselecteerd en niet-geselecteerd zal veranderen in geselecteerd.
+- **Alles Uitvouwen** De knop Alles Uitvouwen zal alle kaarten openen en de
+  items erin tonen.
+  - **Zoeken op Type** Het getal is het aantal Types zoals Artikelen,
+    Categorieën, Contacten of Nieuws Feeds.
+  - **Zoeken op Auteur** Het getal is het aantal auteurs die items hebben geïndexeerd.
+  - **Zoeken op Categorie** Het getal is het aantal geïndexeerde Categorieën.
+  - **Overige** Alle andere doorzoekbare itemtypes.
 
-- **Aantal schema's.** Het aantal schema's dat het filter bevat.
-- **Selectie omkeren.** De Selectie omkeren knop zal alle selecties
-  omkeren. Zo zullen alle geselecteerde items niet meer geselecteerd
-  worden en alle niet geselecteerde items worden geselecteerd.
-- **Alles uitklappen.** De alles uitklappen knop zal alle mappen openen
-  en de items erin tonen.
+## Opties Tab
 
-### Opties tabblad
+![slimme zoekopdracht bewerkingsfilter opties tab](../../../nl/images/smart-search/smart-search-edit-filter-options-tab.png)
 
-<img
-src="https://docs.joomla.org/images/thumb/4/47/Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-nl.png/800px-Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-nl.png.jpeg"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/47/Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-nl.png/1200px-Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-nl.png.jpeg 1.5x, https://docs.joomla.org/images/4/47/Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-nl.png 2x"
-data-file-width="1214" data-file-height="423" width="800" height="279"
-alt="Components Finder Manage Search Filters subscreen Options tab" />
+### Publicatiepaneel
 
-#### Publicatie venster
+- **Aanmaakdatum** Datum waarop het item is aangemaakt (Artikel, Categorie, Weblink, etc.).
+- **Aangemaakt door** Naam van de Joomla! Gebruiker die dit item heeft aangemaakt. Dit
+  zal standaard de momenteel ingelogde gebruiker zijn. Als u dit wilt wijzigen
+  naar een andere gebruiker, klikt u op de knop Selecteer Gebruiker om een
+  andere gebruiker te selecteren.
+- **Alias** Dit optionele veld stelt u in staat een alias in te voeren voor de
+  Auteur van het filter.
+- **Gewijzigde datum** Datum van de laatste wijziging, alleen voor informatie.
+- **Gewijzigd door** Naam van de gebruiker die de laatste
+  wijziging heeft uitgevoerd, alleen voor informatie.
 
-- **Aanmaakdatum.** Datum dat het item (artikel, categorie, weblink,
-  etc.) aangemaakt is.
-- **Gemaakt door**. Naam van de Joomla! gebruiker die dit item gemaakt
-  heeft. Dit is standaard de huidig ingelogde gebruiker. Klik op de knop
-  selecteer gebruiker en selecteer een andere gebruiker indien dit
-  aangepast moet worden naar een andere gebruiker.
-- **Alias.** Dit optionele veld geeft de mogelijkheid een alias voor de
-  auteur van het filter op te geven.
-- **Aanpassingsdatum:** *(alleen ter informatie)* Datum van laatste
-  wijziging.
-- **Aangepast door:** *(alleen ter informatie)* Gebruikersnaam wie de
-  laatste aanpassing heeft gedaan.
+### Filter Tijdlijnpaneel
 
-#### Tijdlijn filter venster
+- **Wanneer (Startdatum)** Wanneer te zoeken ten opzichte van de startdatum
+  (ervoor, erna of precies).
+- **Startdatum** Formaat JJJJ-MM-DD.
+- **Wanneer (Einddatum)** Wanneer te zoeken ten opzichte van de einddatum (ervoor,
+  erna of precies).
+- **Einddatum** Formaat JJJJ-MM-DD.
 
-- **Wanneer (begindatum).** Hoe moet er relatief tot de begindatum
-  gezocht worden (voor, na of exact).
-- **Begindatum.** Formaat JJJJ-MM-DD.
-- **Wanneer (einddatum).** Hoe moet er relatief tot de einddatum gezocht
-  worden (voor, na of exact).
-- **Einddatum.** Formaat JJJJ-MM-DD.
+*Vertaald door openai.com*
 
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
-
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Opslaan & nieuw**. Slaat item op en houdt het bewerkscherm open,
-  klaar voor het aanmaken van een ander item.
-- **Annuleren/Sluiten**. Sluit het huidige scherm en keert terug naar
-  het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
-  te slaan. Of
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-  Dit werkbalk icoon wordt niet getoond als een nieuw item wordt
-  aangemaakt.
-- **Help**. Opent dit helpscherm.
-
-## Snelle tips
-
-- Slim zoeken is geïntroduceerd in Joomla 3.0 maar wordt niet standaard
-  geactiveerd in die versie.
-- Als u nieuw bent in 'Slim zoeken' zou u moeten lezen [Slim zoeken
-  snelstart
-  gids](https://docs.joomla.org/Smart_Search_quickstart_guide "Smart Search quickstart guide").

@@ -1,56 +1,42 @@
-<!-- Filename: Help4.x:Joomla_Update:_Options / Display title: Joomla update: Opties -->
+<!-- Filename: Help4.x:Joomla_Update:_Options  / Display title: Joomla Update: Opties -->
 
 ## Beschrijving
 
-Joomla! Update opties geeft de mogelijkheid parameters in te stellen die
-gebruikt worden bij het updaten van Joomla!.
+De Joomla Update: Opties-pagina wordt gebruikt om parameters in te stellen die het Joomla core updateproces beheren.
 
-## Hoe toegang te krijgen
+### Algemene Elementen
 
-- Selecteer **Systeem → Joomla** vanuit het beheermenu, Update
-  venster. Dan...
-  - Klik op de **Opties** knop in de werkbalk.
+Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars)
 
-<img
-src="https://docs.joomla.org/images/thumb/6/64/Help-4x-Components-Joomla-Update-Options-nl.png/800px-Help-4x-Components-Joomla-Update-Options-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/6/64/Help-4x-Components-Joomla-Update-Options-nl.png 1.5x"
-data-file-width="1200" data-file-height="722" width="800" height="481"
-alt="Components Joomla Update Options" />
+## Toegang Krijgen
 
-### Formulier velden
+- Selecteer **Systeem → Updatepaneel → Joomla** vanuit het Beheerdersmenu. Daarna...
+  - Selecteer de knop **Opties** in de Werkbalk.
 
-### Update-bron
+## Screenshot
 
-- **Updatekanaal**
-  - **Standaard.** Voor productie websites.
-  - **Volgende Joomla.** Voor ...
-  - **Testen.** Voor Joomla testers. Er verschijnen meer velden.
-  - **Aangepaste URL.** Voor Joomla ontwikkelaars. Er verschijnen meer
-    velden.
-- **Minimale stabiliteit.** De minimale stabiliteit van de extensie
-  updates die u wilt zien. Ontwikkeling is de minst stabiele, stabiel is
-  geschikt voor productie. Wanneer een extensie geen bepaald label heeft
-  wordt aangenomen dat het stabiel is.
-  - **Ontwikkeling.** Voor Joomla-ontwikkelaars websites.
-  - **Alpha.** Voor het testen van Alpha websites.
-  - **Beta.** Voor het testen van beta websites..
-  - **Release kandidaat.** Voor het testen van release kandidaat
-    websites.
-  - **Stabiel.** Voor productie websites.
-- **Aangepaste URL**
+![Joomla update-opties](../../../nl/images/joomla-update/joomla-update-options.png)
 
-## Werkbalk
+## Formuliervelden
 
-Bovenaan de pagina ziet u de werkbalk zoals in de afbeelding hierboven.
-De functies zijn.
+### Bijwerkbron-tabblad
 
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-  Dit werkbalk icoon wordt niet getoond als een nieuw item wordt
-  aangemaakt.
-- **Help**. Opent dit helpscherm.
+- **Bijwerk kanaal**
+  - **Standaard** Deze instelling zorgt ervoor dat Joomla een melding geeft wanneer een nieuwe kleine of patchversie beschikbaar is voor de huidige hoofdversie.
+  - **Joomla Next** Deze instelling zorgt ervoor dat Joomla een melding geeft wanneer een nieuwe stabiele hoofdversie beschikbaar is en alle bestaande kleine versies en extensies up-to-date zijn.
+  - **Testen** Voor Joomla Testers. Meer velden zullen verschijnen.
+  - **Aangepaste URL** Voor Joomla Ontwikkelaars. Meer velden zullen verschijnen.
+- **Minimale Stabiliteit** De minimale stabiliteit van de extensie-updates die u wilt zien. Ontwikkeling is het minst stabiel, Stabiel is productiekwaliteit. Als een extensie geen niveau specificeert, wordt er aangenomen dat deze Stabiel is.
+  - **Ontwikkeling** Voor Joomla Ontwikkelaars sites.
+  - **Alpha** Voor Alpha testsites.
+  - **Beta** Voor Beta testsites.
+  - **Release Candidate** Voor Release Candidate sites.
+  - **Stabiel** Voor Productiesites.
+- **Mogelijk incompatibele extensies selectievakje** Toont het selectievakje in de pre-update controle als een van de extensies op uw site mogelijk incompatibel is met de versie van Joomla waarnaar u upgradet.
+  *Opmerking:* het selectievakje wordt weergegeven bij upgraden naar een nieuwe Joomla-versiefamilie (kleine of hoofdversie).
+- **Bevestig Backup Selectievakje** Toont het selectievakje om te bevestigen dat u een backup heeft gemaakt en klaar bent om de update uit te voeren in de laatste stap voordat de update daadwerkelijk wordt toegepast.
+
+*Vertaald door openai.com*
+

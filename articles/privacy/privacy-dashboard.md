@@ -1,79 +1,52 @@
-<!-- Filename: Help4.x:Privacy_Dashboard / Display title: Privacy dashboard -->
+<!-- Filename: Help4.x:Privacy_Dashboard  / Display title: Privacy Dashboard -->
+
 
 ## Beschrijving
 
-Dit scherm toont een lijst met gebruikers privacyverzoek type, status en
-aantal verzoeken.
+De *Privacy Dashboard* pagina toont het type gebruikersprivacyverzoek, de status en
+het aantal verzoeken.
 
-#### Handleidingen
+### Tutorials
 
-- Privacy overzicht - Inhoud en
-  workflow
-- De Privacy Tool
-  Suite
+- [Privacy Overzicht - Inhoud en Workflow](https://docs.joomla.org/Help4.x:Components_Privacy_Outline/en)
+- [De Privacy Toolkit](https://docs.joomla.org/J3.x:Privacy/en)
+  (Gedetailleerde Tutorial van Joomla 3)
+- [Informatieverzoek Workflow](https://docs.joomla.org/J3.x:Information_Request_Workflow_in_Privacy_Component/en)
+  (Gedetailleerde Tutorial van Joomla 3)
 
-(gedetailleerde handleiding uit Joomla 3)
+## Hoe te benaderen
 
-- Informatie verzoek
-  workflow
+- Selecteer **Gebruikers → Privacy Dashboard icoon** in het beheerdermenu.
 
-(gedetailleerde handleiding uit Joomla 3)
+## Screenshot
 
-## Hoe toegang te krijgen
+![privacy-dashboard](../../../nl/images/privacy/privacy-dashboard.png)
 
-- Selecteer **Gebruikers → Privacy dashboard icoon** in het
-  beheermenu.
+## Dashboardpanelen
 
-## Schermafbeelding
+### Privacy Status
 
-<img
-src="https://docs.joomla.org/images/thumb/1/10/Help-4x-component-privacy-dashboard-nl.png/800px-Help-4x-component-privacy-dashboard-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/10/Help-4x-component-privacy-dashboard-nl.png/1200px-Help-4x-component-privacy-dashboard-nl.png 1.5x, https://docs.joomla.org/images/1/10/Help-4x-component-privacy-dashboard-nl.png 2x"
-data-file-width="1240" data-file-height="851" width="800" height="549"
-alt="component privacy dashboard" />
+- **Gepubliceerd privacybeleid** Of er een privacybeleid beschikbaar is. Navigeer naar *Plugins → System - Privacy Consent* en selecteer je Privacybeleid Artikel. Zodra dit is gepubliceerd, kun je je privacybeleid artikel vanaf deze pagina bewerken.
+- **Gepubliceerde aanvraagformulier menu-item** Of het menu-item (dat gebruikers in staat stelt om verzoeken te sturen) is gepubliceerd of niet gepubliceerd. Om het aan te maken, navigeer naar je Menu → Nieuw menu-item toevoegen → Menu-itemtype: Verzoek maken. Zodra dit is gepubliceerd, kun je je menu-item vanaf dit scherm bewerken.
+- **Uitstaande dringende verzoeken** Aantal dringende verzoeken die ouder zijn dan het aantal dagen ingesteld in de Componentopties (van 10 tot 29 dagen).
+- **Mailverzending ingeschakeld**
+- **Versleuteling van databaseverbinding**
 
-## Dashboard venster
+### Privacyverzoeken
 
-### Privacy verzoeken
+- **Verzoektype** Toont de twee verschillende soorten verzoeken
+  - *Exporteren* wanneer een gebruiker een verzoek heeft ingediend om zijn gegevens te exporteren
+  - *Verwijderen* wanneer een gebruiker een verzoek heeft ingediend om te worden verwijderd.
+- **Status** Toont de status van het verzoek
+  - *Ongeldig* een supergebruiker heeft het verzoek ongeldig verklaard
+  - *In afwachting* wanneer een gebruiker een verzoek heeft ingediend maar dit verzoek nog niet heeft bevestigd. Gebruikers hebben twee manieren om te bevestigen: door de URL te bezoeken die vermeld staat in de e-mail die naar de gebruiker is gestuurd of door het token uit de e-mail te kopiëren en te plakken in het formulier op de opgegeven URL. Het token is 24 uur geldig.
+  - *Bevestigd* de gebruiker heeft zijn verzoek bevestigd.
+  - *Voltooid* een supergebruiker heeft het verzoek voltooid
+- **Aantal verzoeken** Toont het aantal verzoeken voor elk type. Dit blok toont ook het totale aantal verzoeken en het aantal actieve verzoeken.
 
-- *Type verzoek.* Toont de twee verschillende types van verzoeken
-  - Export: wanneer een gebruiker een verzoek heeft verzonden voor het
-    exporteren van hun data.
-  - Verwijderen: wanneer een gebruiker een verzoek heeft verzonden om
-    verwijderd te worden.
-- *Status* Toont de status van het verzoek
-  - Ongeldig: een Supergebruiker heeft het verzoek ongeldig verklaard
-  - In afwachting: wanneer een gebruiker een verzoek heeft verzonden,
-    maar het verzoek nog niet bevestigd heeft. Gebruikers hebben 2
-    manieren om te bevestigen: door de URL te bezoeken uit de e-mail die
-    de gebruiker ontvangt of door de sleutel uit de e-mail in het
-    formulier te plakken waar u uitkomt via de URL. De sleutel is 24 uur
-    geldig.
-  - Bevestigd: de gebruiker heeft zijn verzoek bevestigd.
-  - Voltooid: een Supergebruiker heeft het verzoek afgehandeld en
-    voltooid.
-- *\# verzoeken.* Toont het aantal verzoeken van ieder type Dit blok
-  toont ook het totaal aantal verzoeken en het aantal actieve verzoeken.
+## Tips
 
-### Privacy status
+- Selecteer een Verzoektype om de lijst met verzoeken van dat type te bekijken.
 
-- *Privacybeleid gepubliceerd.* (Gepubliceerd/Gedepubliceerd)
-  Controleert of er een privacybeleid gepubliceerd is. Navigeer naar
-  Plugins → Systems - Privacy toestemming en selecteer uw Privacy
-  artikel. Wanneer deze gepubliceerd is kunt u via dit scherm uw
-  Privacybeleid bewerken.
-- *Informatieverzoek formulier menu-item gepubliceerd.*
-  (Gepubliceerd/Gedepubliceerd) Controleert of het menu-item (dat
-  gebruikers in staat stelt een verzoek te versturen) gepubliceerd is.
-  Navigeer, om het menu-item aan e maken, naar uw menu → Nieuw
-  menu-item toevoegen → Menu-itemtype: Verzoek aanmaken. Wanneer dit
-  menu-item gepubliceerd is kunt u, via dit scherm, het menu-item
-  bewerken.
-- *Openstaande urgente verzoeken.* Aantal urgente verzoeken welke ouder
-  zijn dat het aantal dagen dat ingesteld is bij de opties van het
-  component (van 10 tot 29 dagen).
+*Vertaald door openai.com*
 
-## Snelle tips
-
-- Klik op een Type verzoek om de verzoeken te bekijken.

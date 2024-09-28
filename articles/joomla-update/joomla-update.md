@@ -1,110 +1,68 @@
-<!-- Filename: Help4.x:Joomla_Update / Display title: Joomla update -->
+<!-- Filename: Help4.x:Joomla_Update  / Display title: Joomla Update -->
+
+# Joomla Update
 
 ## Beschrijving
 
-Dit scherm geeft Joomla! de mogelijkheid snel te updaten via een
-updatepakket vanuit de Joomla! code repsoitory.
+Deze pagina maakt het mogelijk om Joomla! bij te werken met een updatepakket uit de Joomla! 
+code repository. Het is het beste en veiligste om Joomla zichzelf te laten bijwerken via deze
+methode.
 
-## Hoe toegang te krijgen
+## Hoe te Toegang Te Krijgen
 
-- Selecteer **Home Controlepaneel → Update Checks
-  venster → Joomla ... icoon** vanuit het beheermenu. Of...
-- Selecteer **Systeem → Update venster → Joomla** vanuit het
-  beheermenu.
+In het **Home Dashboard → Meldingenpaneel** zal het Joomla-pictogram een van de volgende berichten hebben:
+- **Joomla is up-to-date**
+- **X.Y.Z Beschikbaar - Nu updaten!**
 
-## Schermafbeelding
+Selecteer het pictogram.
 
-<img
-src="https://docs.joomla.org/images/thumb/0/0e/Help-4x-joomla-update-manager-screen-default-nl.png/800px-Help-4x-joomla-update-manager-screen-default-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/0/0e/Help-4x-joomla-update-manager-screen-default-nl.png 1.5x"
-data-file-width="1159" data-file-height="463" width="800" height="320"
-alt="joomla update manager screen default" />
+Ook zal het **Systeem → Updatepaneel → Joomla** een vinkje weergeven, wat betekent dat alles up-to-date is, of een versienummer, wat betekent dat er een nieuwe versie beschikbaar is.
 
-U beschikt al over de nieuwste Joomla versie, u hoeft dus niets te doen.
+## Screenshot
 
-## Functies
+Als je site up-to-date is, zie je dit scherm:
 
-- **Controleer op updates.** Klik op de werkbalk knop om te zien of er
-  updates beschikbaar zijn.
+![Upload & Update](../../../en/images/joomla-update/upload-update-up-to-date.png)
 
-#### Het update-scherm als er een update beschikbaar is.
+Als een update beschikbaar is, zie je dit scherm:
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-joomla-update-manager-with-updates-screen-nl.png"
-class="new"
-title="File:Help-4x-joomla-update-manager-with-updates-screen-nl.png">800px</a>
+![Upload & Update](../../../en/images/joomla-update/upload-update-available.png)
 
-### Live update
+Als je een hoofd- of subversie bijwerkt, zie je een pre-update controlescherm:
 
-U heeft NIET de nieuwste versie van Joomla, u kunt de nieuwste update
-vanaf dit scherm installeren. Druk, om dit te doen, op de 'Installeer de
-update' knop in de werkbalk en Joomla zal de nieuwste core bestanden
-installeren.
+![pre update check](../../../en/images/joomla-update/upload-update-pre-update-check.png)
 
-#### Het scherm tijdens het updaten.
+Selecteer elk van de drie menu-items om te zien of er iets aandacht nodig heeft.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-joomla-update-manager-updating-screen-nl.png"
-class="new"
-title="File:Help-4x-joomla-update-manager-updating-screen-nl.png">800px</a>
+## Start Update
 
-### Upload en update
+Als je niet de nieuwste versie van Joomla gebruikt, kun je de
+laatste update vanaf deze pagina installeren. Zorg ervoor dat je een back-up hebt gemaakt
+en vink het selectievakje **Ik ben me ervan bewust...** aan om aan te geven dat je dit hebt gedaan. Klik vervolgens
+op de knop **Start Update** en Joomla zal de nieuwste versie installeren.
 
-**Controleer de grootte van het update pakket!** Als het groter is dan
-uw PHP Upload Size of POST size dan mislukt het. U kunt deze groottes
-verhogen. Anders...
+Het updatescherm toont een voortgangsbalk tijdens de update.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/82/Help-4x-joomla-update-manager-screen-upload-nl.png/800px-Help-4x-joomla-update-manager-screen-upload-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/8/82/Help-4x-joomla-update-manager-screen-upload-nl.png 1.5x"
-data-file-width="1150" data-file-height="717" width="800" height="499"
-alt="joomla update manager screen upload" />
+### Uploaden en Bijwerken
 
-U kunt deze functie om Joomla te updaten gebruiken als uw server achter
-een firewall zit of dat u anderszins geen contact met de updateservers
-kunt krijgen. Download eerst het Joomla upgrade pakket in ZIP formaat
-vanaf de officiële Joomla download pagina.
+Je kunt deze knop gebruiken om Joomla bij te werken als je server achter een
+firewall zit of om een andere reden geen contact kan maken met de update servers. Download eerst
+het Joomla Upgrade Package in ZIP-formaat van de officiële
+Joomla downloadpagina.
 
-De installatie methode kan de volgende waardes hebben:
+Je moet je PHP-instellingen voor *upload_max_filesize* en *post_max_size* instellen op 64Mb
+en je PHP-geheugenlimiet op 256 Mb. Anders kan de update mislukken. Een
+goede reden om die back-up te maken!
 
-- Schrijf bestanden direct
-- Hybride (gebruik FTP alleen indien noodzakelijk
-- Schrijf bestanden met gebruik van FTP
+![upload en installeren](../../../en/images/joomla-update/upload-update-upload-install.png)
 
-De eerste methode wordt aangeraden.
+## Update-opties
 
-### Voor ontwikkelaars
+Met de knop Opties op de werkbalk kun je het type update selecteren:
 
-Er zijn opties om het type update te selecteren:
+- **Standaard** Dit wordt gebruikt voor sites die ingesteld zijn om bij de geïnstalleerde versie te blijven.
+- **Joomla Next** Dit wordt gebruikt voor sites die normaal gesproken overgaan naar de volgende grote
+  versie zodra een stabiele versie wordt uitgebracht.
+- **Aangepaste URL** Voor ontwikkelaars om een updatebron te selecteren.
 
-- **Standaard.** Dit moet voor productie-websites gebruikt worden.
-- **Volgende Joomla.** voor ...
-- **Testen.** voor ...
-- **Aangepaste URL.** voor ontwikkelaars.
-
-Selecteer de **Opties** knop in de werkbalk om de huidige selectie te
-bekijken of aan te passen.
-
-Als u de 'Aangepaste URL' bij de Joomla update instelt na het kiezen van
-**Controleer op updates** dan ziet u een extra tabblad, Voor-update
-controle:
-
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-joomla-update-manager-screen-nl.png"
-class="new"
-title="File:Help-4x-joomla-update-manager-screen-nl.png">800px</a>
-
-En het 'Live update' scherm staat klaar:
-
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-joomla-update-manager-screen-customnl.png"
-class="new"
-title="File:Help-4x-joomla-update-manager-screen-customnl.png">800px</a>
-
-## Snelle tips
-
-- U kunt kijken bij de Joomla! Update Quick
-  Iconen
-  in het beheer Controlepaneel.
+*Vertaald door openai.com*

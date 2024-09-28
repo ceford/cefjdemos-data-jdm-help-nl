@@ -1,121 +1,60 @@
-<!-- Filename: Help4.x:Menus / Display title: Menu's -->
+<!-- Filename: Help4.x:Menus  / Display title: Menu's -->
 
 ## Beschrijving
 
-Menu's geven gebruikers de mogelijkheid door de site te navigeren. Een
-menu is een object dat één of meer menu-items bevat. Ieder menu-item
-wijst naar een logische pagina op de site. Een menu module is
-noodzakelijk om het menu op de pagina te plaatsen. Eén menu kan meer dan
-een module hebben. Eén module kan bijvoorbeeld alleen de eerste niveau
-menu-items tonen en de tweede module kan de menu-items van het tweede
-niveaus tonen.
+Menu's stellen een gebruiker in staat om door de site te navigeren. Een menu is een object dat een of meer menu-items bevat. Elk menu-item verwijst naar een logische pagina op de site. Een menu-module is nodig om het menu op de pagina te plaatsen. Eén menu kan meer dan één module hebben. Bijvoorbeeld, een module kan alleen de eerste niveau menu-items tonen en een tweede module kan de niveau 2 menu-items tonen.
 
-De menulijst biedt een overzicht van de menu's op een Joomla website.
-Dit omvat de details van gepubliceerde, gedepubliceerde en items in de
-prullenbak en de namen van gelinkte modules van ieder individueel menu.
+De *Menu's* pagina biedt een overzicht van de beschikbare menu's op een Joomla site. Dit omvat de details van het aantal items dat is gepubliceerd, niet-gepubliceerd en verwijderd, en de namen van gekoppelde modules voor elk afzonderlijk menu.
 
-Het proces voor het toevoegen van een menu aan de site is normaliter als
-volgt:
+Het proces voor het toevoegen van een menu aan de site verloopt normaal gesproken als volgt:
 
-1.  Maak een nieuw menu aan (via dit scherm).
-2.  Maak een of meer nieuwe menu-items aan voor het menu. Ieder
-    menu-item zal een specifiek menu-itemtype hebben.
-3.  Maak een of meer menu modules aan om het menu op de site te tonen.
-    Als u de modules aanmaakt, selecteert u op welke pagina's de modules
-    getoond worden.
+1.  Maak een nieuw menu aan (gebruik deze pagina).
+2.  Maak een of meer nieuwe menu-items voor het menu aan. Elk menu-item heeft een specifiek menu-item type.
+3.  Maak een of meer menu-modules aan om het menu op de site weer te geven.
+    - Selecteer de menu-items (pagina's) die de module zullen weergeven.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Menu's → Beheren** vanuit het beheermenu.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Lijstfilters](jdocmanual?article=help/common-elements/list-filters).
+* [Lijstkolomkoppen](jdocmanual?article=help/common-elements/list-column-headers).
+* [Lijstvolgorde](jdocmanual?article=help/common-elements/list-ordering).
+* [Paginering van lijsten](jdocmanual?article=help/common-elements/list-pagination).
 
-<img
-src="https://docs.joomla.org/images/thumb/6/61/Help-4x-menus-menu-manager-menus-nl.png/800px-Help-4x-menus-menu-manager-menus-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/6/61/Help-4x-menus-menu-manager-menus-nl.png 1.5x"
-data-file-width="1159" data-file-height="690" width="800" height="476"
-alt="menus menu manager menus" />
+## Toegang krijgen
+
+- Selecteer **Menu's → Beheren** in het beheerdersmenu.
+
+## Screenshot
+
+![menulijst](../../../nl/images/menus/menus-list.png)
 
 ## Kolomkoppen
 
-Klikken op de titel van een kolom zal de tabelweergave sorteren op die
-kolom. Een neer-pijl naast de kolomtitel betekent aflopend en een pijl
-naar boven betekent een oplopende volgorde. De standaard sorteervolgorde
-is op **ID#** in oplopende volgorde.
+- **Titel** De naam van het menu.
+- **Menu-items** Een link naar de menu-items voor het menu.
+- **\# Gepubliceerd** Aantal gepubliceerde menu-items in dit menu.
+- **\# Niet gepubliceerd** Aantal niet-gepubliceerde menu-items in dit menu.
+- **\# Verwijderd** Aantal verwijderde menu-items in dit menu.
+- **Gekoppelde Modules** Een dropdownlijst toont de naam, toegangsrechten en sjabloonpositie
+  van eventuele menumodules die aan het menu zijn gekoppeld.
 
-- **Selectievakje**. Vink dit vakje aan om één of meer items te
-  selecteren. Vink het vakje in de kolomkop aan om alle selectievakjes
-  aan te vinken. Nadat één of meer vakjes zijn aangevinkt kan op een
-  werkbalkknop geklikt worden om een actie uit te voeren op de
-  geselecteerde item(s). De meeste acties via de werkbak, zoals
-  Publiceren en Depubliceren kunnen op meerdere items tegelijkertijd
-  uitgevoerd worden. Andere, zoals Bewerken, werken alleen voor één
-  item. Indien er meerdere items geselecteerd zijn en op Bewerken wordt
-  geklikt, opent het het eerste item om het te bewerken.
-- **Titel**. De naam van het menu.
-- **\# Gepubliceerd**. Aantal gepubliceerde menu-items in dit menu.
-- **\# Gedepubliceerd**. Aantal gedepubliceerde menu-items in dit menu.
-- **\# Verplaatst naar prullenbak**. Aantal naar de prullenbak
-  verplaatste menu-items in dit menu.
-- **Gelinkte modules**. Toont menu modules gekoppeld aan het menu. De
-  kolom toont de modulenaam, toegangsniveau en positie op het template.
-- **ID**. Dit is een uniek identificatienummer voor dit item,
-  automatisch toegekend door Joomla!. Het wordt gebruikt om het item
-  intern te identificeren en u kunt dit nummer niet veranderen. Als u
-  een nieuw item aanmaakt, is dit veld "0" totdat u het opslaat, waarbij
-  een nieuw ID toegekend wordt.
+## Tips
+- De genummerde knoppen leiden naar een gefilterde lijst van de menu-items voor dat menu.
+- Een menu moet een korte beschrijvende titel hebben die geschikt is voor gebruik in lijsten en
+  dropdownlijsten.
+- De *Beschrijving* is een handige herinnering aan het doel waarvoor het menu
+  is gemaakt.
+- Als een menu geen bijbehorende modules heeft, is de knop in de kolom *Gekoppelde Modules*
+  een link naar een *Voeg een module toe voor dit menu* modaal dialoogvenster.
+- Als je een bestaand menu verwijdert, vergeet dan niet dat ook alle menu-items
+  van het betreffende menu worden verwijderd. Er is een waarschuwingsbericht:
 
-## Werkbalk
+  **Weet je zeker dat je deze menu's wilt verwijderen? Bevestigen zal de
+  geselecteerde menutypen, al hun menu-items en de bijbehorende menumodules verwijderen.**
+- Het hoofdmenu heeft het standaardmenu-item van de site. Het **mag niet worden verwijderd**! Het standaardmenu-item definieert de pagina die wordt weergegeven bij een bezoek aan de URL van het domein van de site, zoals `www.example.com`. De site zal niet functioneren als het wordt verwijderd. Het is meestal het *Home* menu-item, maar het kan worden ingesteld op elk menu-item, inclusief een menu-item in een verborgen menu. Als het standaardmenu-item wordt gewijzigd, zorg er dan voor dat dat menu-item ook niet wordt verwijderd!
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
+*Vertaald door openai.com*
 
-- **Nieuw**. Opent het bewerk scherm om een nieuwe menu te maken.
-- **Bewerken**. Opent het scherm voor het bewerken van het geselecteerde
-  menu. Als er meer dan één menu is geselecteerd (indien van
-  toepassing), wordt alleen het eerste menu geopend. Het
-  bewerkingsscherm kan ook worden geopend door te klikken op de Naam van
-  het menu.
-- **Verwijderen:** Verwijderd de geselecteerde menus. Werkt met één of
-  meerdere menus geselecteerd. Het verwijderen van een menu verwijdert
-  ook alle menu-items die het bevat en gekoppelde menu-modules. Bij het
-  klikken op 'Verwijderen' wordt u gevraagd te bevestigen dat u de
-  geselecteerde menu's wilt verwijderen. Klikken op de OK knop zal de
-  menu's verwijderen. Klik op 'Annuleren' op het verwijderen af te
-  breken.
-- **Opnieuw opbouwen.** Ververst en stelt de menu tabel opnieuw samen.
-  Normaal hoeft u de tabel *niet* opnieuw op te bouwen. Deze functie
-  voorziet in het geval de data in de tabel corrupt raakt.
-- **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt. Zie
-- **Help**. Opent dit helpscherm.
-
-## Snelle tips
-
-- Het is raadzaam een beschrijvende titel aan nieuwe menu's te geven
-  omdat u het in het *Beheren* menu ziet. Het is een goed idee het
-  *Beschrijving* veld te vullen met informatie over het menu. Als u een
-  korte titel in het *Module titel* veld invult, dan kunt u de
-  menu-module identificeren met behulp van die titel in modulebeheer.
-- Hoewel u een kopie van een geselecteerd menu kunt aanmaken door op de
-  *Opslaan als kopie* werkbalk knop te drukken, kunt u ook in
-  modulebeheer een andere instantie aanmaken.
-- Gebruik, als u een nieuw menu aanmaakt, alleen alfanumerieke tekens
-  zonder spaties in het *Unieke naam* veld. Het is verstandig alleen
-  a-z, 0-9 en underscore (\_) tekens te gebruiken.
-- Als u geen *Moduletitel* opgeeft, dan wordt er geen module aangemaakt
-  en kan het menu niet getoond worden op de website. U kunt echter
-  modulebeheer later gebruiken om een nieuwe mod_mainmenu module aan te
-  maken en het aan het menu koppelen.
-- Als u een bestaand menu verwijderd, vergeet dan niet dat alle
-  menu-items van dat menu ook verwijderd worden.
-- Het Hoofdmenu is uw standdard menu-item, het zou dan ook **niet
-  verwijderd moeten worden**. Het standaard menu-item bepaalt de pagina
-  die getoond wordt als u www.*uwsite*.top-domein bezoekt en uw site
-  werkt niet als het verwijderd wordt. Het is normaliter uw Home menu
-  item maar het kan worden ingesteld op ieder menu-item inclusief een
-  menu-item in een verborgen menu. Als u het standaard menu-item
-  verandert, zorg er dan voor dat u ook dat menu-item niet verwijdert!
-  Het menu met het standaard menu-item wordt aangegeven door een
-  sterretje (\*) in het *Menu's* menu.

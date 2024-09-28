@@ -1,54 +1,53 @@
-<!-- Filename: Help4.x:Components_Patch_Tester_Options / Display title: Componenten - Patchtester - Opties -->
+<!-- Filename: Help4.x:Components_Patch_Tester_Options  / Display title: Opties voor Patch Tester -->
 
 ## Beschrijving
 
-De Joomla! patchtester wordt door testers gebruikt om te controleren dat
-code aanpassingen, aangeleverd door ontwikkelaars, doen wat ze zouden
-moeten doen zonder ongewenste bijwerkingen. De opties pagina wordt
-gebruikt om een verbinding met Github op te zetten.
+De *Joomla! Patch Tester* wordt door testers gebruikt om te controleren of codepatches die door ontwikkelaars zijn geproduceerd daadwerkelijk doen wat ze moeten doen, zonder ongewenste bijwerkingen. De pagina *Opties* wordt gebruikt om de verbinding met Github in te stellen.
 
-Meer informatie:
+### Algemene Elementen
 
-- <a
-  href="https://brian.teeman.net/joomla/873-a-dummies-guide-to-joomla-bug-testing"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">A Dummies Guide to Joomla Bug
-  Testing</a>
+Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
-More Information: [A Dummies Guide to Joomla Bug Testing](https://brian.teeman.net/joomla/873-a-dummies-guide-to-joomla-bug-testing)
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het Tabblad Machtigingen](jdocmanual?article=help/common-elements/edit-permissions).
 
-## Hoe toegang te krijgen
+Meer Informatie: [Een Dummy's Gids voor Joomla Bug Testing](https://brian.teeman.net/joomla/873-a-dummies-guide-to-joomla-bug-testing)
 
-- Selecteer **Componenten → Joomla! patchtester** in het beheermenu.
-  - Klik op de *Opties* knop in de werkbalk.
+## Hoe te Benaderen
 
-## Schermafbeelding
+- Selecteer **Componenten → Patch Tester** uit het Beheerdersmenu.
+  - Selecteer de knop *Opties* in de Werkbalk.
 
-![Patchtester Options form](../../../en/images/joomla-patchtester/patchtester-options-github-repository-tab.png)
+## Screenshot
 
-### Formulier velden
+![Patchtester Opties formulier](../../../nl/images/joomla-patchtester/patchtester-options-github-repository-tab.png)
 
-### GitHub repository tabblad
+## Formuliervelden
 
-- **GitHub repository** De standaard is Joomla! CMS. Gebruik die.
+### GitHub Repository-tab
 
-### GitHub authenticatie tabblad
+- **GitHub Repository** De standaardinstelling is `Joomla! CMS`. Gebruik deze.
 
-U heeft een Github account of Github token nodig. Helemaal gratis -
-Bekijk het GitHub authenticatie tabblad voor de details.
+### Github Authenticatie-tab
 
-![Patchtester Options github authentication tab](../../../en/images/joomla-patchtester/patchtester-options-github-authentication-tab.png)
+Je hebt een GitHub-account en een GitHub-token nodig. Alles is gratis - zie de GitHub Authenticatie-tab voor details.
 
-- **GitHub authenticatie methode** Kies voor de Token methode. De
-  inloggegevens methode zal vanaf november 2020 niet meer werken.
-- **GitHub token** Voer de token in die u van GitHub krijgt.
+![Patchtester Opties github authenticatie tab](../../../nl/images/joomla-patchtester/patchtester-options-github-authentication-tab.png)
 
-### CI server-instellingen tabblad
+- **GitHub Authenticatiemethode** Kies de Token-methode. De
+  Inloggegevens-methode werkt niet vanaf september 2020.
+- **GitHub Token** Plak de token verkregen van GitHub.
 
-Deze instellingen worden gebruikt voor het automatisch testen. Gebruik
-de standaards voor handmatig testen.
+### CI Serverinstellingen-tab
 
-![Patchtester Options github ci server settings tab](../../../en/images/joomla-patchtester/patchtester-options-ci-server-settings-tab.png)
+Deze instellingen worden gebruikt voor geautomatiseerde tests. Gebruik de standaardinstellingen voor
+handmatige tests.
 
-- **CI-serveradres** Standaard: `https://ci.joomla.org`
-- **Schakelen tussen CI-integratie** Standaard: Uit
+![Patchtester Opties github ci server instellingen tab](../../../nl/images/joomla-patchtester/patchtester-options-ci-server-settings-tab.png)
+
+- **CI Serveradres** Standaard: `https://ci.joomla.org`
+- **CI Integratie Schakelen** Standaard: Uit
+
+
+*Vertaald door openai.com*
+

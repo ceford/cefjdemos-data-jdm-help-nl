@@ -1,157 +1,81 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Article / Display title: Menu-item: Aanmaken artikel -->
+<!-- Filename: Help4.x:Menu_Item:_Create_Article  / Display title: Artikel Maken -->
 
 ## Beschrijving
 
-Het 'Maak artikel' menu-item geeft de mogelijkheid aan gebruikers om een
-artikel in te dienen via de website. Normaliter is dit alleen
-beschikbaar voor gebruikers die ingelogd zijn op de website.
+Het menu-item *Artikel aanmaken* stelt gebruikers in staat om een artikel in te dienen via de site-interface. Normaal gesproken is dit alleen beschikbaar voor gebruikers die zijn ingelogd op de Frontend van de site. Gebruikers moeten toestemming hebben om artikelen te maken.
 
-Gebruikers moeten rechten hebben om artikelen aan te maken. Indien de
-maak-artikel pagina wordt getoond op de website, dan worden de
-voorbeeld-schermen getoond uit de volgende [schermvoorbeeld](#frontend)
-sectie.
+### Gemeenschappelijke elementen
 
-## Hoe toegang te krijgen
-Selecteer **Menu's → \[naam van het menu\]**
+Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
-Om een menu-item aan te maken:
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het Details Tabblad](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [Het Link Type Tabblad](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [Het Paginadisplay Tabblad](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [Het Metadata Tabblad](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [Het Associaties Tabblad](jdocmanual?article=help/common-elements/edit-associations).
+* [Het Moduletoewijzing Tabblad](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
 
-1.  Klik de **Nieuw** werkbalk knop.
-2.  Klik op de 'Menu-itemtype' **selectie** knop.
-3.  Selecteer het **Artikelen** item.
-4.  Selecteer het **Maak artikel** item.
+## Toegang Verkrijgen
 
-Om een menu-item te bewerken:
+Selecteer **Menu's → \[naam van het menu\]** vanuit het Administrator-menu.
 
-- Selecteer de **titel** in de lijst.
+Om een Menu-item toe te voegen:
 
-## Schermafbeelding
+1.  Selecteer de **Nieuw** knop in de Werkbalk.
+2.  Selecteer de *Menu-itemtype* **Selecteer** knop.
+3.  Selecteer het item **Artikelen** in het popup-dialoogvenster.
+4.  Selecteer het item **Artikel Aanmaken**.
 
-<img
-src="https://docs.joomla.org/images/thumb/5/55/Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png/800px-Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/55/Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/55/Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png/1600px-Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png 2x"
-data-file-width="2880" data-file-height="1263" width="800" height="351"
-alt="Menus Item Articles Create Article screen" />
+Om een Menu-item te bewerken:
 
-## Formulier velden
+- Selecteer een **Titel** uit de lijst
 
-- **Titel**. De titel die wordt getoond voor dit menu item.
-- **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
-  laten en Joomla zal de standaardwaarde invullen. De standaard waarde
-  is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. Meer leren.
+## Screenshot
+
+![Menu Item Artikelen Maak Artikel details tab](../../../nl/images/menu-items/articles-create-article-details-tab.png)
+
+## Formuliervelden
+
+- **Titel** De titel die zal worden weergegeven voor dit menu-item.
+- **Alias** De interne naam van het menu-item. Normaal gesproken kun je dit leeg laten en Joomla zal automatisch een standaardwaarde invullen, namelijk de Titel in kleine letters en met streepjes in plaats van spaties.
 
 ### Details
 
-#### Linker venster
+#### Linker Paneel
 
-- **Menu-itemtype**. Het menu-item type dat geselecteerd is toen het
-  mneu-item aangemaakt werd. Dit kan een van de core menu-item types
-  zijn of een menu-item type geleverd door een geïnstalleerde extensie.
-- **Link**. De door het systeem gegenereerde link voor dit menu-item.
-  Dit veld kan niet veranderd worden en is alleen ter informatie.
-- **Doelvenster**. Selecteer uit de uitklaplijst.
-- **Templatestijl**. Selecteer uit de uitklaplijst.
+- **Menu-itemtype** Het Menu-itemtype dat is geselecteerd toen dit menu-item werd aangemaakt. Dit kan een van de kernmenu-itemtypen zijn of een menu-itemtype geleverd door een geïnstalleerde extensie.
+- **Link** De systeemgegenereerde link voor dit menu-item. Dit veld kan niet worden gewijzigd en is alleen voor informatie.
+- **Doelscherm** Selecteer uit de dropdownlijst.
+- **Sjabloonstijl** Selecteer uit de dropdownlijst.
 
-#### Rechter venster
+#### Rechter Paneel
 
-- **Menu**. Toont in welk menu de link zal verschijnen.
+- **Menu** Toont in welk menu de link zal verschijnen.
 
 ### Opties
 
-<img
-src="https://docs.joomla.org/images/thumb/5/5e/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png/600px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/5e/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/5e/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png 2x"
-data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Menus Item Articles Create Article options subscreen" />
+![Menu Item Artikelen Maak Artikel details tab](../../../nl/images/menu-items/articles-create-article-options-tab.png)
 
-- **Specifieke categorie**.
-  - Ja: Articles will be assigned to the specified category. The user
-    will not be able to select a category.
-  - Nee: The user may select the category from the list box. Only
-    categories for which the user has 'Create' permission will show.
-- **Versturen/Annuleren doorverwijzing**. Selecteer de pagina waarnaar
-  de gebruiker zal worden doorgeleid na het toevoegen van een artikel en
-  na annuleren.
-- **Aangepaste doorverwijzing bij annuleren**.
-  - Ja: Set a page to redirect to when user Cancels article submission.
-  - Nee: When user Cancels article submission, the user is redirected to
-    the 'Submission/Cancel Redirect' page.
+- **Specifieke Categorie**
+  - *Ja* Artikelen worden toegewezen aan de gespecificeerde categorie. De gebruiker kan geen categorie selecteren.
+  - *Nee* De gebruiker kan de categorie selecteren uit de lijst. Alleen categorieën waarvoor de gebruiker *Maak* toestemming heeft, worden weergegeven.
+- **Bij indiening/annulering doorverwijzen** Selecteer de pagina waarnaar de gebruiker wordt doorgestuurd na een succesvolle artikelindiening.
+- **Aangepaste doorverwijzing bij annulering**
+  - *Ja* Stel een pagina in om naar door te verwijzen wanneer de gebruiker de artikelindiening annuleert.
+  - *Nee* Wanneer de gebruiker de artikelindiening annuleert, wordt de gebruiker doorgestuurd naar de *Bij indiening/annulering doorverwijzen* pagina.
 
-### Algemene opties
+## Voorbeeld Voorkant Screenshot
 
-Zie Menu's: Nieuw
-menu-item
-voor hulp over velden die algemeen zijn in alle menu-itemtypes,
-inclusief:
+Deze Screenshot toont de Joomla kern Voorkant Sjabloon **Cassiopeia** met alle
+Bewerkingslay-outopties ingesteld op 'Verbergen'.
 
-- Rechter
-  venster
-- Linktype
-- Paginaweergave
-- Metadata
-- Associaties
-- Moduletoewijzing
+[articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
-## Werkbalk
+## Tips
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-afbeelding hierboven.
+Een ongeautoriseerde gebruiker zal normaal gesproken een foutmelding krijgen bij het selecteren van een
+*Artikel aanmaken* menu-item. Om deze reden is het gebruikelijk om het menu-item een weergave-Toegangsniveau te geven dat alleen kan worden gezien door gebruikers die geautoriseerd zijn om artikelen toe te voegen.
 
-- **Opslaan**. Slaat menu-item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat menu-item op en sluit het huidige scherm.
-  - **Opslaan & nieuw**. Slaat menu-item op en houdt het bewerkscherm
-    open, klaar voor het aanmaken van een ander menu-item.
-- **Annuleren/Sluiten**. Sluit het huidige scherm en keert terug naar
-  het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
-  te slaan.
-- **Help**. Opent dit helpscherm.
+*Vertaald door openai.com*
 
-## Website schermafbeelding
-
-nl
-
-#### Inhoud
-
-<img
-src="https://docs.joomla.org/images/thumb/d/d2/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/d2/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png 1.5x, https://docs.joomla.org/images/thumb/d/d2/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png 2x"
-data-file-width="1731" data-file-height="1278" width="600" height="443"
-alt="Menus Item Articles Create Article frontend content" />
-
-#### Velden
-
-<img
-src="https://docs.joomla.org/images/thumb/5/53/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/53/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/53/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png 2x"
-data-file-width="1728" data-file-height="481" width="600" height="167"
-alt="Menus Item Articles Create Article frontend fields" />
-
-#### Publicatie
-
-<img
-src="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/5b/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png 2x"
-data-file-width="1729" data-file-height="1116" width="600" height="387"
-alt="Menus Item Articles Create Article frontend publishing" />
-
-#### Taal
-
-<img
-src="https://docs.joomla.org/images/thumb/c/ca/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/ca/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png 1.5x, https://docs.joomla.org/images/thumb/c/ca/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png 2x"
-data-file-width="1728" data-file-height="329" width="600" height="114"
-alt="Menus Item Articles Create Article frontend language" />
-
-## Snelle tips
-
-- Een gebruiker die niet de juiste rechten heeft zal meestal een
-  foutmelding krijgen wanneer hij op het Maak artikel menu-item klikt.
-  Het is dan ook gebruikelijk om dit menu-item alleen weer te geven voor
-  gebruikers die rechten hebben om artikelen toe te voegen.

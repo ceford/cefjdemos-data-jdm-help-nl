@@ -1,30 +1,24 @@
-<!-- Filename: Help4.x:Privacy:_Extension_Capabilities / Display title: Privacy: Extensie mogelijkheden -->
+<!-- Filename: Help4.x:Privacy:_Extension_Capabilities  / Display title: Privacy: Mogelijkheden van Extensies -->
 
 ## Beschrijving
 
-Op dit scherm kunt u de informatie bekijken die is verzameld van
-extensies die hun privacy gerelateerde mogelijkheden aan dit systeem
-rapporteren
+De pagina *Privacy: Uitbreidingsmogelijkheden* toont de informatie die is verzameld 
+van extensies die hun privacygerelateerde mogelijkheden rapporteren.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-U kunt toegang krijgen tot de Extensie mogelijkheden door middel van het
-menu **Gebruikers → Privacy → Mogelijkheden**.
+Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/3/36/Help-4.x-component-privacy-information-requests-nl.png/800px-Help-4.x-component-privacy-information-requests-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/3/36/Help-4.x-component-privacy-information-requests-nl.png 1.5x"
-data-file-width="1111" data-file-height="1086" width="800" height="782"
-alt="Help 4.x component privacy information requests nl.png" />
+## Hoe te openen
 
-## Werkbalk
+Selecteer **Gebruikers → Privacy → Mogelijkheden** uit het Beheerdersmenu.
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
+## Screenshot
 
-- **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt.
-- **Help**. Opent dit helpscherm.
+![privacy-extensie mogelijkheden](../../../nl/images/privacy/privacy-capabilities.png)
+
+Er zijn geen gebruikersacties op deze pagina, behalve het uitvouwen en lezen van de individuele rapporten.
+*Vertaald door openai.com*
+

@@ -1,125 +1,48 @@
-<!-- Filename: Help4.x:Banners:_Options / Display title: Advertenties: Opties -->
+<!-- Filename: Help4.x:Banners:_Options  / Display title: Banners: Opties -->
 
 ## Beschrijving
 
-Advertentie opties instellingen geven de mogelijkheid tot het instellen
-van parameters die algemeen gebruikt worden voor alle advertenties.
+De *Banners: Opties* zijn globale instellingen voor alle banners. Ze kunnen worden overschreven in individuele banners.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Componenten → Advertenties** in het beheermenu. Dan
-  ...
-  - Selecteer de **Opties** knop in de werkbalk. De **Opties** knop is
-    beschikbaar op 'Advertenties', 'Categorieën', 'Adverteerders' en
-    'Volgen' pagina's.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
+
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het Tabblad Machtigingen](jdocmanual?article=help/common-elements/edit-permissions).
+
+## Toegang krijgen
+
+- Selecteer **Componenten → Banners** in het menu van de Beheerder. Vervolgens...
+  - Selecteer de **Opties** knop in de Toolbar. De **Opties** knop is beschikbaar op de pagina's van Banners, Categorieën, Cliënten en Tracks.
 
 ## Schermafbeelding
 
-<img
-src="https://docs.joomla.org/images/thumb/9/94/Help-4x-Banner-Options-screen-nl.png/800px-Help-4x-Banner-Options-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/94/Help-4x-Banner-Options-screen-nl.png/1200px-Help-4x-Banner-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/9/94/Help-4x-Banner-Options-screen-nl.png 2x"
-data-file-width="1264" data-file-height="764" width="800" height="484"
-alt="Banner Options screen" />
+![Opties voor banners client-tab](../../../nl/images/banners/banners-options-client-tab.png)
 
-### Formulier velden
+## Formulieren Velden
 
-### Adverteerder tabblad
+### Client Tab
 
-- **Aankooptype:**
-  (Ongelimiteerd/Jaarlijks/Maandelijks/Wekelijks/Dagelijks). Dit wordt
-  gebruikt om aan te geven hoe de adverteerder de vertoningen van de
-  advertentie heeft aangeschaft.
-- **Volg weergaves.** (Ja/Nee) Of het aantal keer dat de advertentie
-  getoond is al dan niet moet worden geteld.
-- **Volg klikken.** (Ja/Nee) Of al dan niet het aantal klikken geteld
-  moet worden.
-- **Meta trefwoorden voorvoegsel.** Bij corresponderende meta
-  trefwoorden, alleen zoeken naar meta trefwoorden met dit voorvoegsel
-  (verbetert de prestatie).
+- **Koop Type** Selecteer de periode waarvoor de banner is gekocht.
+  Een van Onbeperkt, Jaarlijks, Maandelijks, Wekelijks of Dagelijks.
+- **Impressies Bijhouden** Of het aantal keren dat een Banner wordt weergegeven wordt geteld.
+- **Inclusief Impressies Door Zoekmachines** Ja of Nee.
+- **Clicks Bijhouden** Of het aantal keren dat op een Banner wordt geklikt wordt geteld. Ja of Nee.
+- **Trefwoord Voorvoegsel** Bij het matchen van trefwoorden (voor het matchen van Banners met Artikelen op basis van Trefwoorden), zoek alleen naar trefwoorden met dit voorvoegsel. Dit kan de prestaties verbeteren.
 
-### Geschiedenis tabblad
+### Geschiedenis Tab
 
-Deze sectie geeft u de mogelijkheid versie historie opties in te stellen
-voor advertenties, adverteerders en advertentiecategorieën.
+Dit gedeelte stelt u in staat om versiegeschiedenisopties in te stellen voor Banners, Banner Cliënten en Banner Categorieën.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c1/Help-4x-Banner-Options-screen-history-tab-nl.png/800px-Help-4x-Banner-Options-screen-history-tab-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/c/c1/Help-4x-Banner-Options-screen-history-tab-nl.png 1.5x"
-data-file-width="912" data-file-height="404" width="800" height="354"
-alt="Banner Options screen history tab" />
+![Banners Opties geschiedenis tab](../../../nl/images/banners/banners-options-history-tab.png)
 
-- **Versies inschakelen.** (Ja/Nee). Of wel of niet versie historie voor
-  deze component moet worden opgeslagen. Indien Nee, versie historie zal
-  niet worden opgeslagen voor component items of voor de categorieën van
-  deze component.
-- **Maximum aantal versies.** Het maximum aantal versies dat opgeslagen
-  wordt voor een item. Als een item opgeslagen wordt en het maximum
-  aantal bereikt bereikt is, zal de oudste versie automatisch verwijderd
-  worden. Indien op 0, zullen versies nooit automatisch verwijderd
-  worden. Specifieke versies kunnen ook gemarkeerd worden als "Bewaren"
-  en zullen niet automatisch verwijderd worden. Let op dat versies
-  handmatig verwijderd kunnen worden via de verwijder knop op het
-  Versie
-  historie
-  scherm.
+- **Versies Inschakelen** Of versiegeschiedenis voor dit onderdeel wordt opgeslagen. Indien Nee, wordt de versiegeschiedenis niet opgeslagen voor onderdelen of voor de categorieën van dit onderdeel.
+- **Maximale Versies** Het maximale aantal versies dat voor een item wordt opgeslagen. Als een item wordt opgeslagen en het maximale aantal versies is bereikt, wordt de oudste versie automatisch verwijderd. Indien ingesteld op 0, worden versies nooit automatisch verwijderd. Ook kunnen specifieke versies worden gemarkeerd als *Altijd Bewaren* en zullen ze niet automatisch worden verwijderd. Houd er rekening mee dat versies handmatig kunnen worden verwijderd met de Verwijderknop in het Versiegeschiedenis-scherm.
 
-### Rechten tabblad
+## Tips
 
-Deze sectie toont rechteninstellingen voor advertenties. Het scherm ziet
-er als volgt uit.
+- Vergeet niet, deze keuzes worden wereldwijd toegepast.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Banner-Options-screen-permissions-tab-nl.png/800px-Help-4x-Banner-Options-screen-permissions-tab-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/b/b5/Help-4x-Banner-Options-screen-permissions-tab-nl.png 1.5x"
-data-file-width="906" data-file-height="830" width="800" height="733"
-alt="Banner Options screen permissions tab" />
+*Vertaald door openai.com*
 
-Om de rechten van deze extensie te wijzigen moet u de volgende
-handelingen uitvoeren.
-
-- Selecteer de **Groep** door op de titel aan de linkerzijde te klikken.
-- Zoek de gewenste **Actie**. Mogelijke acties zijn:
-  - **Instellen ACL & Opties**. Gebruikers kunnen de opties en rechten
-    van deze extensie bewerken.
-  - **Alleen instellingenopties**. Gebruikers kunnen van deze extensie
-    de opties bewerken, behalve de rechten.
-  - **Toegang tot beheerdersinterface**. Gebruikers hebben toegang tot
-    de beheerdersinterface van deze extensie.
-  - **Maken:** Gebruikers mogen inhoud voor deze extensie aanmaken.
-  - **Verwijderen:** Gebruikers mogen inhoud in deze extensie
-    verwijderen.
-  - **Bewerken:** Gebruikers mogen inhoud in deze extensie bewerken.
-  - **Bewerk status:** Gebruikers kunnen de status en relevante
-    informatie van inhoud van deze extensie bewerken.
-  - **Bewerk eigen:** Gebruikers mogen de eigen inhoud van deze extensie
-    bewerken.
-- Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
-  Mogelijke instellingen zijn:
-  - '**Overgenomen:'** Overgenomen van gebruikers in deze groep vanuit
-    de Algemene instellingen rechten van deze extensie.
-  - '**Toegestaan:'** Toegestaan voor gebruikers in deze groep. Let op
-    dat wanneer deze actie op één van de hogere niveaus Geweigerd is het
-    Toegestaan-recht hier geen effect heeft. Een Geweigerd-instelling
-    kan niet worden overschreven.
-  - '**Geweigerd:'** Geweigerd voor alle gebruikers in deze groep.
-- Klik op **Opslaan** in de **werkbalk** bovenin. Wanneer het scherm
-  herladen wordt zal de nieuwe gecalculeerde rechten voor deze groep en
-  actie weergegeven worden.
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de afbeelding hierboven.
-De functies zijn.
-
-- **Opslaan.** Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-- **Help**. Opent dit helpscherm.
-
-## Snelle tips
-
-- Denk er aan dat deze keuzes algemeen gelden.

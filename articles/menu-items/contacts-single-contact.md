@@ -1,286 +1,102 @@
-<!-- Filename: Help4.x:Menu_Item:_Single_Contact / Display title: Menu-item: Een enkele contactpersoon -->
+<!-- Filename: Help4.x:Menu_Item:_Single_Contact  / Display title: Enkel Contact -->
 
 ## Beschrijving
 
-Het **Enkel contactpersoon** wordt gebruikt om een menu-link te tonen
-voor één enkel contactpersoon met extra instellingen zoals
-contactpersoon details, contactpersoon formulier, e-mail onderwerp en
-berichtfilters.
+Het **Single Contact** menu-itemtype wordt gebruikt om een menulink te tonen voor een enkele 
+contactpersoon met optionele instellingen zoals Contactgegevens, Contactformulier en filters voor 
+e-mailonderwerp en bericht.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-Om een nieuw enkel contactpersoon menu-item aan te maken:
+Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-- Selecteer **Menu's → \[naam van het menu\]** vanuit het beheermenu
-  (bijvoorbeeld, **Menu's → Hoofdmenu**). Dan...
-  - Selecteer de **Nieuw** knop in de werkbalk. Dan...
-  - Klik op de Menu-itemtype selectie knop. <img
-    src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
-    decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Menu Item Type Select Button" />
-  - Selecteer in de modale dialoog het 'Contactpersonen' item om een
-    lijst te openen en selecteer daarna het **Enkel contactpersoon**
-    item.
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het Details Tabblad](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [Het Link Type Tabblad](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [Het Paginaweergave Tabblad](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [Het Metadata Tabblad](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [Het Associaties Tabblad](jdocmanual?article=help/common-elements/edit-associations).
+* [Het Module Toewijzing Tabblad](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
 
-Om een enkel contactpersoon menu-item te bewerken:
+## Hoe Te Toegangen
 
-- Selecteer de titel in de Menus: Item lijst.
+Om een nieuw Menu Item voor Enkele Contacten te maken:
 
-## Schermafbeelding
+- Selecteer **Menu's → \[naam van het menu\]** uit het Beheerdersmenu
+  (bijvoorbeeld, **Menu's → Hoofdmenu**). Vervolgens...
+  - Selecteer de **Nieuw** knop in de Werkbalk. Vervolgens...
+  - Selecteer de Menu Item Type Selecteer knop.
+  - Selecteer in het modale dialoogvenster het Object Contacten om een lijst te openen en
+    selecteer vervolgens het item **Enkel Contact**.
 
-<img
-src="https://docs.joomla.org/images/thumb/a/a1/Help-4x-Menus-Menu-Item-Contact-Single-screen-nl.png/800px-Help-4x-Menus-Menu-Item-Contact-Single-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/a/a1/Help-4x-Menus-Menu-Item-Contact-Single-screen-nl.png 1.5x"
-data-file-width="1099" data-file-height="883" width="800" height="643"
-alt="Menus Menu Item Contact Single screen" />
+Om een bestaand Menu Item voor Enkel Contact te bewerken:
 
-## Formulier velden
+- Selecteer de Titel in de lijst Menu's: Items.
 
-- **Titel**. De titel die wordt getoond voor dit menu item.
-- **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
-  laten en Joomla zal de standaardwaarde invullen. De standaard waarde
-  is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. Meer
-  leren.
+## Screenshot
 
-### Details tabblad
+![Menu-item tabblad details van één contactpersoon](../../../nl/images/menu-items/contacts-single-contact-details-tab.png)
 
-#### Linker venster
+## Formulier Velden
 
-- **Menu-itemtype**. Het menu-item type dat geselecteerd is toen het
-  mneu-item aangemaakt werd. Dit kan een van de core menu-item types
-  zijn of een menu-item type geleverd door een geïnstalleerde extensie.
-- **Selecteer contactpersoon**. Selecteer de contactpersoon voor dit
-  menu-item.
-- **Link**. De door het systeem gegenereerde link voor dit menu-item.
-  Dit veld kan niet veranderd worden en is alleen ter informatie.
-- **Doelvenster.** Selecteer uit de uitklaplijst.
-- **Templatestijl.** Selecteer uit de uitklaplijst.
+- **Menutitel** De titel die voor dit menu-item wordt weergegeven.
+- **Alias** De interne naam van het item. Normaal gesproken kun je dit
+  veld leeg laten en Joomla zal een standaardwaarde invullen: Titel in kleine letters en
+  met streepjes in plaats van spaties.
 
-#### Rechter venster
+### Contact Weergave-opties
 
-- **Menu**. Toont in welk menu de link zal verschijnen.
-- **Hoofditem.** Het bovenliggend menu-item voor dit menu-item. Gebruikt
-  om vast te stellen of een menu-item top-niveau item of een sub-menu
-  item is. Selecteer 'Menu-item root' (de standaard waarde) als dit een
-  top-niveau menu-item is. Selecteer anders het Menu-item dat het
-  bovenliggende item van het item is.
-- **Volgorde.** U kunt de volgorde van een item binnen een lijst als
-  volgt veranderen:
-  - Als het lijstfilter opties een positie filter hebben, selecteer dan
-    de gewenste positie. Dit beperkt de lijst tot de items die toegekend
-    zijn aan die positie.
-  - Selecteer het volgorde icoon <img
-    src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
-    decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Ordering column header icon" /> in de
-    tabelkop om het het actieve volgorde item te maken. De volgorde
-    iconen in iedere rij veranderen van licht naar donker grijs en de
-    pijl verandert in een sleepsymbool als u eroverheen gaat.
-  - Selecteer één van de volgorde iconen <img
-    src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
-    decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Ordering drag icon" /> en
-    sleep het naar boven of beneden om de positie van die rij in de
-    lijst te veranderen. De items worden in de nieuwe volgorde binnen de
-    positie getoond.
-- **Status**. De publicatiestatus van het item.
-- **Start publiceren**. Datum en tijd waarop de publicatie moet starten.
-  Gebruik dit veld wanneer u voortijdig inhoud wilt toevoegen die
-  automatisch op een bepaalde tijd in de toekomst gepubliceerd moet
-  worden.
-- **Beëindig publiceren**. Datum en tijd om te stoppen met publiceren.
-  Gebruik dit veld als u inhoud automatisch de status gedepubliceerd
-  wilt geven op een tijdstip in de toekomst (bijvoorbeeld wanneer het
-  niet meer van toepassing is).
-- **Standaard pagina**. Indien Ja, is dit menu-item de standaard of home
-  pagina van de website. Er mag exact één menu-item ingesteld zijn als
-  standaard pagina. U kunt de standaard pagina op twee manieren
-  wijzigen:
-  1.  Klik op de Home kolom van het gewenste menu-item op het Menu's:
-      Items
-      scherm.
-  2.  Open het menu-item voor de nieuwe standaard pagina en wijzig de
-      Standaard pagina instellingen op Ja.
-- **Toegang**. Het
-  Toegangsniveau
-  om het item te bekijken.
-- **Taal**. Item taal.
-- **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
-  (bijvoorbeeld om informatie te documenteren voor dit item) en is niet
-  op de website zichtbaar.
+Contact Weergave-opties regelen het uiterlijk van de lijstweergave.
 
-### Weergave opties voor contactpersonen
+![Menu-item Enkele contact contact weergave tab](../../../nl/images/menu-items/contacts-single-contact-contact-display-options-tab.png)
 
-Weergave opties voor contactpersonen bepaald de weergave van de lijst
-lay-out.
+- **Contactcategorie** Toon of verberg de Contactcategorie weergave. 
+    De volgende opties zijn beschikbaar:
+    - *Gebruik Globaal* Gebruik de standaardwaarde van het contactoptiescherm.
+    - *Verbergen* Toon de categorienaam van de contacten niet.
+    - *Toon Zonder Link* Toon de categorienaam van de contacten alleen als koptekst gestileerde
+      tekst.
+    - *Toon Met Link* Toon de categorienaam van de contacten als koptekst gestileerde tekst
+      gelinkt aan de categorie.
+- **Contact Selectielijst** Toon of verberg de optie om de gebruiker toe te staan een 
+  keuzelijst van alle contacten in één contactcategorie te gebruiken.
+- **Naam** Toon of verberg de *Naam* van het contact.
+- **Tags** Toon of verberg de tags van het contact.
+- **Contactinformatie** Als ingesteld op Weergeven, zijn de volgende velden beschikbaar:
+  - **Positie van het Contact** Toon of verberg de *Positie van het Contact*.
+  - **E-mail** Toon of verberg het *E-mailadres* van het contact.
+  - **Straatnaam** Toon of verberg de *Straatnaam* van het contact.
+  - **Stad of Wijk** Toon of verberg de *Stad of Wijk* van het contact.
+  - **Provincie of Grondgebied** Toon of verberg de *Provincie of Grondgebied* van het contact.
+  - **Postcode** Toon of verberg de *Postcode* van het contact.
+  - **Land** Toon of verberg het *Land* van het contact.
+  - **Telefoon** Toon of verberg de *Telefoon* van het contact.
+  - **Mobiele telefoon** Toon of verberg de *Mobiele telefoon* van het contact.
+  - **Fax** Toon of verberg de *Fax* van het contact.
+  - **Website** Toon of verberg de *Website* van het contact.
+  - **Afbeelding** Toon of verberg de *Afbeelding* van het contact.
+- **vCard** Weergeven van de *vCard* van het contact.
+- **Overige Informatie** Weergeven van de *Overige Informatie* van het contact.
+- **Gebruikersartikelen** Weergeven van de *Artikelen* van het contact.
+- **\# Artikelen om te Weergeven** Het aantal artikelen van het contact dat weergegeven moet worden.
+- **Contact Links** Toon of verberg de *aanvullende links* van het contact. Dit kunnen
+  links zijn naar sociale media accounts, zoals Twitter, Facebook, Skype...
+- **Link \<letter\> Label**. Labels (A tot E) om het getoonde
+  linklabel te overschrijven.
 
-<img
-src="https://docs.joomla.org/images/thumb/4/4d/Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-nl.png/600px-Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/4d/Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-nl.png 1.5x, https://docs.joomla.org/images/4/4d/Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-nl.png 2x"
-data-file-width="1080" data-file-height="535" width="600" height="297"
-alt="Menus Menu Item Contact Category contact display options parameters" />
+### Mailopties
 
-- **Weergave**. Bepaalt de stijl waarin de secties van het
-  contactformulier getoond worden.
+![Menu-item Enkele contact mailopties tab](../../../nl/images/menu-items/contacts-single-contact-mail-options-tab.png)
 
-De volgende opties zijn beschikbaar.
+- **Contactformulier** Toon of verberg het *contactformulier* van het contact.
+- **Kopie naar Verzender Verzenden** Toon of verberg een
+  selectievakje waarmee een verzender een kopie van de e-mail naar zichzelf kan sturen.
+- **Sessiecookies Controleren** Controleer of er een sessiecookie bestaat. Gebruikers zonder
+  cookies ingeschakeld kunnen geen e-mails versturen.
+- **Aangepast Antwoord** Zet het aangepaste bericht antwoord aan of uit voor het contactformulier
+  verzender.
+- **Contactdoorsturing** Voer een alternatieve URL in om de verzender na een succesvol
+  verzonden contactformulier naar te verwijzen.
 
-- *Gebruik algemeen:* Gebruik de standaard waarde uit de contactpersonen
-  opties.
-- *Sliders:* Weergave van contactpersoon in een slider.
-- *Tabs:* Weergave van contactpersoon in tabs.
-- *Direct:* Directe weergave van contactpersoon.
-- **Contactpersonencategorie**. Instellingen voor de weergave van de
-  categorie contactpersonen.
+*Vertaald door openai.com*
 
-De volgende opties zijn beschikbaar.
-
-- *Gebruik algemeen:* Gebruik de standaard waarde uit de contactpersoon
-  opties.
-- *Verberg:* De categorienaam van de contactpersonen niet weergeven.
-- *Toon zonder link:* Toon categorienaam van de contactpersonen alleen
-  als koptekst.
-- *Toon met link* Toon categorienaam van de contactpersonen als koptekst
-  gelinkt aan de categorie.
-- **Slectielijstlijst met contactpersonen**. Geef de gebruikers de
-  mogelijkheid een lijst met alle contactpersonen in een categorie te
-  tonen. Stel een van de volgende opties in:
-- *Gebruik algemeen:* Gebruik de standaard waarde uit de contactpersoon
-  opties.
-- *Toon:* Om gebruikers toe te staan een contactpersoon te selecteren
-  uit een lijst.
-- *Verberg:* Toon geen lijst met contactpersonen
-- **Tags**. Toon of verberg de tags voor dit item.
-
- **Algemene contact velden in de weergave** zijn:
-
-- **Naam**. Geeft de *Naam* van de contactpersoon weer.
-- **Positie van contactpersoon**. Geeft de *Positie van contactpersoon*
-  van de contactpersoon weer.
-- **E-mail**. Geeft de *E-mail* van de contactpersoon weer.
-- **Adres**. Geeft de *Adres* van de contactpersoon weer.
-- **Woonplaats**. Geeft de *Woonplaats* van de contactpersoon weer.
-- **Provincie**. Geeft de *Provincie* van de contactpersoon weer.
-- **Postcode**. Geeft de *Postcode* van de contactpersoon weer.
-- **Land**. Geeft de *Land* van de contactpersoon weer.
-- **Telefoon**. Geeft de *Telefoon* van de contactpersoon weer.
-- **Mobiel**. Geeft de *Mobiel* van de contactpersoon weer.
-- **Fax**. Geeft de *Fax* van de contactpersoon weer.
-- **Website**. Geeft de *Website* van de contactpersoon weer.
-- **Overige gegevens**. Geeft de *Overige gegevens* van de
-  contactpersoon weer.
-- **Afbeelding**. Geeft de *Afbeelding* van de contactpersoon weer.
-- **vCard**. Geeft de *vCard* van de contactpersoon weer.
-- **Toon artikelen van gebruiker**. Geeft de *Artikelen* van de
-  contactpersoon weer.
-- **\# Artikelen**. Geeft de *Artikelen om te tonen* van de
-  contactpersoon weer.
-- **Toon links**. Geeft de *Extra links* van de contactpersoon weer. Dit
-  kunnen links zijn naar Social media accounts, zoals Twitter, Facebook,
-  Skype etc.
-
-Alle **Opties voor contactpersonen velden** hebben de volgende optie
-beschikbaar:
-
-- *Gebruik algemeen:* Gebruik de standaard waarde uit de contactpersonen
-  opties.
-- *Toon:* Toon dit veld.
-- *Verberg:* Toon dit veld niet.
-- **Link Label**.
-  Labels (5) om de standaard link labels te overschrijven.
-
-### E-mail opties
-
-De e-mail opties bepalen de weergaven van het  → *Contactformulier*
-als dit is geactiveerd.
-
-<img
-src="https://docs.joomla.org/images/thumb/2/25/Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-nl.png/600px-Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/25/Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-nl.png 1.5x, https://docs.joomla.org/images/2/25/Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-nl.png 2x"
-data-file-width="1102" data-file-height="288" width="600" height="157"
-alt="Menus Menu Item Contact Category single contact mail options parameters" />
-
-- **Toon contactformulier**. Geeft de *contactformulier* van de
-  contactpersoon weer.
-
-De volgende opties zijn beschikbaar:
-
-- *Gebruik algemeen:* Gebruik de standaard waarde uit de contactpersoon
-  opties.
-- *Toon:* Geeft het contactformulier weer.
-- *Verberg:* Geeft het contactformulier niet weer.
-- **Verstuur een kopie naar de afzender**. Toont een checkbox om het de
-  afzender mogelijk te maken een kopie van het formulier naar zichzelf
-  te sturen.
-
-De volgende opties zijn beschikbaar:
-
-- *Gebruik algemeen:* Gebruik de standaard waarde uit de contactpersoon
-  opties.
-- *Toon:* Geeft het contactformulier weer.
-- *Verberg:* Geeft het contactformulier niet weer.
-- **Sessiecontrole**. Controleert op de aanwezigheid van een
-  sessiecookie. Dit houdt in dat gebruikers die cookies uitgeschakeld
-  hebben geen e-mails kunnen versturen.
-
-De volgende opties zijn beschikbaar:
-
-- *Gebruik algemeen:* Gebruik de standaard waarde uit de contactpersonen
-  opties.
-- *Ja:* Check op sessiecookie.
-- *Nee:* Check niet op sessiecookie.
-- **Aangepast antwoord**. Schakelt het automatisch antwoord in of uit.
-
-De volgende opties zijn beschikbaar:
-
-- *Gebruik algemeen:* Gebruik de standaard waarde uit de contactpersonen
-  opties.
-- "Ja:" Stuur een geautomatiseerde e-mail als antwoord op het
-  contactformulier.
-- *Nee:* Stuur geen geautomatiseerd e-mail als antwoord op het
-  contactformulier.
-- **Contactpersoon doorverwijzing**. Voer een alternatieve url in waar
-  de gebruiker naar wordt doorverwezen na het versturen van de e-mail.
-
-### Algemene opties
-
-Zie Menu's: Bewerken/Nieuw
-item
-voor hulp over velden die algemeen zijn in alle menu-itemtypes de
-volgende tabbladen:
-
-- **Linktype**
-- **Paginaweergave**
-- **Metadata**
-- **Associaties**
-- **Moduletoewijzing**
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
-
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Opslaan & nieuw**. Slaat item op en houdt het bewerkscherm open,
-  klaar voor het aanmaken van een ander item.
-- **Opslaan als kopie**. Slaat uw wijzigingen op als een kopie van het
-  huidige item. Beïnvloed het huidige item niet. Dit werkbalk icoon
-  wordt niet getoond bij het aanmaken van een nieuw item.
-- **Annuleren/Sluiten**. Sluit het huidige scherm en keert terug naar
-  het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
-  te slaan. Of
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-  This toolbar icon is not shown if you are creating a new item.
-- **Help**. Opent dit helpscherm.
-
-## Snelle tips
-
-- De Lijst Categorie-indeling is een handige manier om een compact
-  overzicht van contacten in een categorie te geven waarin gefilterd en
-  gezocht kan worden.

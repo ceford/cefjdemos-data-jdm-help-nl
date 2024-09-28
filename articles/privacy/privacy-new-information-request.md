@@ -1,39 +1,30 @@
-<!-- Filename: Help4.x:Privacy:_New_Information_Request / Display title: Privacy: Nieuw informatieverzoek -->
+<!-- Filename: Help4.x:Privacy:_New_Information_Request  / Display title: Privacy: Nieuw Informatie Verzoek -->
 
 ## Beschrijving
 
-In dit scherm kunt u een nieuw informatieverzoek aanmaken.
+De *Privacy: Nieuw Informatieverzoek* pagina wordt door een beheerder gebruikt om
+een nieuw informatieverzoek aan te maken dat mogelijk niet via de site is ingediend.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Gebruikers → Privacy → Verzoeken** in het
-  beheermenu. Dan...
-  - Selecteer de **Nieuw** knop in de werkbalk.
+Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/3/3d/Help-4x-component-privacy-information-request-nl.png/800px-Help-4x-component-privacy-information-request-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/3/3d/Help-4x-component-privacy-information-request-nl.png 1.5x"
-data-file-width="1139" data-file-height="437" width="800" height="307"
-alt="component privacy information request" />
+## Hoe te openen
 
-### Formulier velden
+- Selecteer **Gebruikers → Privacy → Verzoeken** in het Administrator menu. Vervolgens...
+  - Selecteer de **Nieuwe** knop in de Werkbalk.
 
-- **E-mailadres.** Voer het e-mailadres in van de eigenaar van de
-  informatie die aangevraagd wordt
-- **Status van verzoek.** De status van het informatieverzoek
-- **Type verzoek.** (*Exporteren*/*Verwijderen*) Het soort
-  informatieverzoek.
+## Screenshot
 
-## Werkbalk
+![privacy nieuwe informatieaanvraag](../../../nl/images/privacy/privacy-new-information-request.png)
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
+## Formuliervelden
 
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Annuleren/Sluiten**. Sluit het huidige scherm en keert terug naar
-  het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
-  te slaan.
-- **Help**. Opent dit helpscherm.
+- **E-mail** Voer het e-mailadres in van de persoon die eigenaar is van de gevraagde informatie
+- **Aanvraagstatus** De status van de informatieaanvraag
+- **Aanvraagtype** Het type van de gevraagde informatie.
+
+*Vertaald door openai.com*
+

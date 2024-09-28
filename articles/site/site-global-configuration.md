@@ -1,471 +1,211 @@
-<!-- Filename: Help4.x:Site_Global_Configuration / Display title: Algemene instellingen -->
+<!-- Filename: Help4.x:Site_Global_Configuration  / Display title: Algemene Configuratie -->
 
 ## Beschrijving
 
-De Algemene instellingen scherm geeft u de mogelijkheid de Joomla site
-in te stellen met uw persoonlijke instellingen. Instellingen op dit
-scherm gelden voor de hele site.
+Het scherm Algemene Configuratie stelt je in staat om de Joomla-site te configureren met jouw persoonlijke instellingen. Instellingen die in dit scherm gemaakt worden, gelden voor de hele site.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- **Systeem → Instellingen → Algemene instellingen**
+Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het Tabblad Machtigingen](jdocmanual?article=help/common-elements/edit-permissions).
 
-<img
-src="https://docs.joomla.org/images/thumb/f/ff/Help-4x-global-configuration-screen-nl.png/750px-Help-4x-global-configuration-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/ff/Help-4x-global-configuration-screen-nl.png/1125px-Help-4x-global-configuration-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/f/ff/Help-4x-global-configuration-screen-nl.png/1500px-Help-4x-global-configuration-screen-nl.png 2x"
-data-file-width="2720" data-file-height="1700" width="750" height="469"
-alt="global configuration screen" />
+## Hoe te benaderen
 
-## Formulier velden
+- Selecteer **Systeem Paneel → Globale Configuratie** vanuit het startdashboard. Of...
+- Selecteer **Systeem → Instellingen Paneel → Globale Configuratie** vanuit het beheerdersmenu.
 
-### Website
+## Screenshot
 
-Volledige
-afbeelding.
+![wereldwijde configuratie site tab](../../../nl/images/site/global-configuration-site-tab.png)
 
-#### Website
+## Formuliervelden
 
-- **Website naam**. Vul de naam van uw website in. Deze wordt gebruikt
-  op diverse locaties (bijvoorbeeld op de administratie titelbalk in uw
-  browser en Website offline pagina's).
-- **Website offline**. Selecteer of de website bereikbaar is voor
-  bezoekers. Meer
-  leren.
-  - **Offline bericht**.
-    - Gebruik aangepast bericht: Het aangepaste offline bericht gebruikt
-      de waarde die gedefinieerd is in het 'Aangepast bericht' veld.
-    - Gebruik standaard bericht van websitetaal: Het standaard offline
-      bericht gebruikt de waarde die gedefinieerd is in het site ini
-      taalbestand van de standaard ingestelde taal.
-  - **Offline afbeelding**. Selecteer een afbeelding om weer te geven op
-    de standaard offline pagina. Zorg dat de afbeelding minder dan 400px
-    breed is.
-- **Bewerken vanaf website**. Selecteer of er inline bewerkiconen
-  gebruikt worden voor modules en menu-items.
-- **Standaard tekstverwerker**. Selecteer de standaard WYSIWYG
-  tekstverwerker. Geregistreerde gebruikers kunnen hun voorkeuren
-  wijzigen in de persoonlijke gegevens wanneer u deze optie toestaat.
-- **Standaard Captcha**. Selecteer de standaard captcha voor uw website.
-  U kunt de vereiste informatie voor uw captcha plugin invullen in
-  Pluginbeheer.
-- **Standaard toegangsniveau**. Selecteer het standaard toegangsniveau
-  voor nieuwe items.
-- **Standaard lijstlengte**. Stelt de standaard lijstlengte in op het
-  Backend voor alle gebruikers.
-- **Standaard feedlimiet**. Selecteer het aantal artikelen dat in de
-  feed(s) moet worden weergegeven.
-- **E-mailadres feed**. De RSS en Atom nieuwsfeeds bevatten het
-  e-mailadres van de auteur.
-  - Auteur e-mail: Selecteer e-mailadres auteur om het e-mailadres van
-    elke auteur te gebruiken (uit
-    gebruikersbeheer
-    in de nieuwsfeed.
-  - E-mailadres website: Selecteer e-mailadres website om het
-    [e-mailadres](#fromemail) van de website toe te voegen aan ieder
-    artikel.
+### Tabblad Site
 
-#### Metadata
+#### Paneel Site
 
-- **Algemene metabeschrijving van website**. Vul een algemene
-  beschrijving van de website in die gebruikt kan worden door
-  zoekmachines.
-- **Robots**. Robots instructies.
-  - index, follow: Indexeer deze pagina en volg de links op deze pagina.
-  - noindex, follow: Indexeer deze pagina niet, maar volg de links op de
-    pagina toch. U wilt dit bijvoorbeeld misschien doen op een pagina
-    met sitemap waarvan u wilt dat de links geïndexeerd worden, maar dat
-    de pagina zelf niet verschijnt in zoekmachines.
-  - index, nofollow: Indexeer deze pagina, maar volg geen link op de
-    pagina. U wilt dit bijvoorbeeld misschien voor een evenementen
-    kalender, waarvan u wilt dat de pagina verschijnt in zoekmachines,
-    maar waarvan elk evenementen niet geïndexeerd hoeft te worden.
-  - noindex, nofollow: Indexeer deze pagina niet en volg geen link op
-    deze pagina.
-- **Inhoudsrechten**. Beschrijf welke rechten anderen hebben om deze
-  inhoud te gebruiken. Dit wordt naar zoekmachines verzonden met behulp
-  van de 'rights' meta tag in de HTML kop.
-- **Auteur metatag**. Toon de auteur metatags wanneer artikelen bekeken
-  worden.
-- **Joomla! versie**. Bepaalt of de 'generator' meta tag in de koptekst
-  van het HTML document in de Frontend en in Atom feeds de exacte versie
-  van de Joomla website bevat. Om veiligheidsredenen wordt aangeraden om
-  het te verbergen.
+- **Sitenaam** Voer de naam van de website in. Deze zal op verschillende locaties worden gebruikt (bijvoorbeeld in de titelbalk van de Backend-browser en op Site Offline-pagina's).
+- **Site Offline** Selecteer of toegang tot de Frontend beschikbaar is.
+- **Offline Bericht**
+    - *Verbergen*
+    - *Gebruik Aangepast Bericht* Het bericht maakt gebruik van de waarde die gedefinieerd is in het veld *Aangepast Bericht*.
+    - *Gebruik Standaard Bericht in Site Taal* Het bericht maakt gebruik van de waarde die gedefinieerd is in het ini-bestand van de site-taal.
+- **Offline Afbeelding** Selecteer een afbeelding die op de offline pagina wordt weergegeven. Zorg ervoor dat de afbeelding minder dan 400px breed is.
+- **Frontend Bewerken** Selecteer bewerken voor modules en menu-items.
+- **Standaard Editor** Selecteer de standaard teksteditor. Geregistreerde Gebruikers kunnen hun voorkeur wijzigen in hun persoonlijke gegevens.
+- **Standaard Captcha** Selecteer de standaard captcha voor uw site. Mogelijk moet u de vereiste informatie invoeren in de captcha plug-in.
+- **Standaard Toegangsniveau** Selecteer het standaard toegangsniveau voor nieuwe items.
+- **Standaard Lijstlimiet** Stelt de standaard lengte van lijsten in de Backend voor alle gebruikers in.
+- **Standaard Feedlimiet** Selecteer het aantal content-items om weer te geven in de feeds.
+- **Feed E-mailadres** De RSS- en Atom-nieuwsfeeds bevatten het e-mailadres van de auteur.
+  - *Auteur E-mail* Voeg het e-mailadres van de artikel auteur uit het Gebruikersprofiel toe aan de nieuwsfeed.
+  - *Site E-mail* Voeg het *Van E-mailadres* van de site toe aan elk artikel.
 
-#### SEO
+#### Paneel Metadata
 
-- **Zoekmachinevriendelijke URL's**. Selecteer of URL's geoptimaliseerd
-  moeten worden voor zoekmachines.
-- **Gebruik URL herschrijven**
-  - Apache en Litespeed: Hernoem 'htaccess.txt' naar '.htaccess'
-    <a href="https://httpd.apache.org/docs/2.4/howto/htaccess.html"
-    class="external text" target="_blank"
-    rel="nofollow noreferrer noopener">Meer leren.</a>
-  - IIS: Hernoem 'web.config.txt' naar 'web.config'
-  - NginX: de configure your
-    server
-  - Andere servers of indien onbekend: Raadpleeg het hostingbedrijf.
-- **Voeg een achtervoegsel (suffix) aan URL's toe**. Wanneer ja is
-  ingesteld, wordt een achtervoegsel (suffix) aan de URL toegevoegd
-  gebaseerd op het documenttype.
-- **Unicode aliassen**. Kies tussen transliteratie en unicode aliassen.
-  Transliteratie is standaard.
-- **Websitenaam in paginatitels**. Laat alle paginatitels beginnen of
-  eindigen met de websitenaam (bijvoorbeeld: "Naam van mijn website -
-  Naam van het artikel").
+- **Site Meta Beschrijving** Voer een beschrijving in van de algemene website die door zoekmachines gebruikt zal worden.
+- **Robots** Robotinstructies.
+  - *index, follow* Indexeer deze pagina en volg de links op deze pagina.
+  - *noindex, follow* Niet indexeren deze pagina, maar volg nog steeds de links op de pagina. Zoals bij een sitemap waar je de links wilt laten indexeren maar niet de pagina zelf.
+  - *index, nofollow* Indexeer deze pagina, maar volg geen enkele link op de pagina. Bijvoorbeeld bij een evenementenkalender waar je de pagina wilt tonen in zoekmachines maar niet elke gebeurtenis wilt indexeren.
+  - *noindex, nofollow* Indexeer deze pagina niet en volg de links niet.
+- **Inhoudsrechten** Beschrijf welke rechten anderen hebben om deze inhoud te gebruiken. Dit wordt aan zoekmachines meegedeeld via de `rights`-metatag in de HTML-kop.
+- **Auteur Metatag** Toon de auteur metatag bij het bekijken van artikelen.
+- **Joomla Versie** Regelt of de `generator`-metatag in de HTML-header van het document in de Frontend en in Atomfeeds de exacte versie van de Joomla-site bevat. Het wordt aanbevolen dit te verbergen om veiligheidsredenen.
 
-#### Cookie
+#### Paneel SEO
 
-- **Cookie-domein**. Domeinnaam die gebruikt wordt voor de instellingen
-  van sessie cookies. Laat de domeinnaam voorafgaan door '.' als de
-  cookie ook voor subdomeinen geldig is.
-- **Cookie-pad**. Pad waarvoor de cookie geldig is.
+- **Zoekmachinevriendelijke URL's** Selecteer of de URL's geoptimaliseerd zijn voor zoekmachines.
+- **Gebruik URL-Herschrijving**
+  - *Apache and Litespeed* Hernoem `htaccess.txt` naar `.htaccess`.
+  - *IIS* Hernoem `web.config.txt` naar `web.config`.
+  - *NginX* Je moet je server configureren.
+  - *Other* Als je het niet zeker weet, raadpleeg dan je hostingbedrijf.
+- **Voeg Suffix toe aan URL** Als ja, zal het systeem een achtervoegsel aan de URL toevoegen die gebaseerd is op het documenttype.
+- **Unicode Aliassen** Kies tussen transliteratie en unicode aliassen. Transliteratie is de standaard.
+- **Sitenaam in Paginatitels** Begin of eindig alle Paginatitels met de sitenaam (bijvoorbeeld, *Mijn Sitenaam - Mijn Artikelnaam*).
 
-### Systeem
+#### Paneel Cookies
 
-Volledige
-afbeelding.
+- **Cookie Domein** Domein dat wordt gebruikt bij het instellen van sessiecookies. Voorzie domein van een '.' als de cookie voor alle subdomeinen geldig moet zijn.
+- **Cookie Pad** Pad waar de cookie geldig zou zijn.
 
-#### Foutopsporing
+### Tabblad Systeem
 
-- **Foutopsporing systeem**. Wanneer dit geactiveerd is worden
-  diagnostische informatie, vertalingsfouten en SQL fouten weergegeven
-  (indien aanwezig). De informatie wordt onderaan iedere pagina die u
-  bekijkt in Joomla! weergegeven. Het wordt niet geadviseerd de
-  foutenopsporing modus blijvend in te schakelen wanneer uw website
-  online is.
-- **Debug Language**. Selecteer of de foutopsporings indicatoren
-  \*\*...\*\* of ??...?? voor de Joomla taalbestanden worden
-  weergegeven. Taal foutopsporing werkt zonder dat systeem foutopsporing
-  geactiveerd is, maar u krijgt niet de toegevoegde gedetailleerde
-  verwijzingen die behulpzaam kunnen zijn bij het corrigeren van fouten.
-  - **Taalweergave**. Selecteer of de taalconstante of de taalwaarde
-    moet worden weergegeven bij het debuggen van de taalstrings.
+![globale configuratie systeem tabblad](../../../nl/images/site/global-configuration-system-tab.png)
 
-#### Cache
+#### Paneel Debug
 
-- **Systeemcache**. In of uitschakelen cachen en instellen van
-  cacheniveau. Meer
-  leren.
-  - Conservatief cachen: kleinere systeemcache.
-  - Progressief cachen: sneller, grotere systeemcache, inclusief het
-    renderen van modulecache. Niet aan te bevelen voor extreem grote
-    websites.
-  - **Cache-afhandeling**.
-    - Bestand: Het oorspronkelijke cache-mechanisme is bestand
-      gebaseerd. Zorg ervoor dat de cache-mappen schrijfbaar zijn.
-  - **Platform specifieke caching**. Inschakelen als HTML-uitvoer op
-    mobiele apparaten van andere apparaten verschilt.
-  - **Cachetijd (minuten)**. De maximum tijdsduur in minuten, om een
-    cachebestand op te slaan voordat het vernieuwd wordt.
-  - **Pad naar de cachemap**. Geef een beschrijfbare map op om
-    cachebestanden in op te slaan, als u de standaard map niet wilt
-    gebruiken.
+- **Debug Systeem** Als ingeschakeld wordt diagnostische informatie, taalvertaling en SQL-fouten (indien aanwezig) weergegeven. De informatie wordt onderaan elke pagina die je bekijkt in de Joomla Backend en Frontend weergegeven. Het is niet raadzaam de debug-modus geactiveerd te hebben bij een live website.
+- **Debug Taal** Schakel in om de foutopsporingsindicatoren `**...**` of `??...??` te zien in de pagina-uitvoer waar Joomla Taalbestanden worden gebruikt om string-sleutels naar hun vertaalde waarden te vertalen. Het eerste formaat geeft aan dat de string succesvol is vertaald. Het tweede geeft aan dat de tekst in normale taal is ingevoerd en niet vertaald kan worden.
+  - **Taalweergave** Selecteer of u de taalconstante of de taalwaarde wilt weergeven bij het debuggen van de taalstrings.
 
-#### Sessie
+#### Paneel Cache
 
-- **Sessie-afhandeling**. Het mechanisme waarmee Joomla een gebruiker
-  identificeert wanneer deze verbonden is via de website gebruikmakend
-  van tijdelijke cookies.
-  - Database: De database sessieafhandeling is de standaard afhandeling
-    omdat het de enige is die Joomla volledig zelf kan instellen en
-    controleren.
-  - Bestandssysteem: De bestandssyteem afhandeling zal wat sneller zijn
-    als de database afhandeling, maar het heeft nodig dat PHP juist is
-    ingesteld, anders crasht het en wordt Joomla volledig onbruikbaar.
-    - **Session Save Path**. Selecteer, om het te gebruiken
-      'Bestandssysteem' en voer daarna een volledig bestandssysteem pad
-      in in het 'Sessie opslagpad' veld dat verschijnt. Zorg ervoor dat
-      het pad voldoende rechten voor PHP heeft om bestanden te lezen en
-      schrijven en of 'session garbage collection' ingeschakeld is om
-      bestanden te verwijderen.Als dit pad niet ingeschakeld is, zal
-      Joomla vertrouwen op de PHP session.save_path INI instelling of
-      terugvallen op de temp map van het systeem (zoals gedefinieerd
-      door de sys_get_temp_dir() PHP functie).Als geen van deze paden
-      zijn ingesteld of dat de rechten fout zijn, dan is het over en
-      uit. Om hier uit te komen moer het configuration.php bestand
-      bewerkt worden en \$session_handler = 'database' ingesteld worden.
-  - Andere handlers (APCu, Memcached, Redis, en WinCache) berusten alle
-    op optionele PHP extensies en kunnen beschikbaar zijn als uw systeem
-    ze ondersteund. APCu of WinCache hoeven niet beter te zijn dan de
-    "plain" filesysteem optie. De Memcached en Redis handlers zijn
-    overkill voor Joomla in een typische shared hosting omgeving. Dit
-    type handlers zijn succesvol als u Joomla toepast in a load balanced
-    omgeving waar meerdere servers zijn betrokken en de sessiegegevens
-    voor de toepassing beschikbaar moeten zijn op alle servers.
-- **Sessie levensduur (minuten)**. Gebruiker automatisch uitloggen nadat
-  deze inactief is geweest voor het aantal ingestelde minuten. Stel dit
-  niet te hoog in.
-- **Shared (gedeelde) sessie**. Indien geactiveerd wordt de
-  gebruikerssessie gedeeld tussen het frontend en het beheergedeelte van
-  de site. Let op dat het wijzigen van deze waarde alle bestaande
-  sessies op de site ongeldig maakt.Dit is niet beschikbaar als de
-  [Forceer HTTPS](#forcehttps) optie staat op 'Alleen administrator'.
-- **Volg sessie metadata**.
-  - Wanneer ingeschakeld, zullen aanvullende metagegevens over een
-    gebruikerssessie (met inbegrip van hun gebruikersnaam, gebruikers-ID
-    en de toepassing waarmee zij zijn aangemeld) worden opgeslagen in de
-    sessie-databasetabel.
-  - Wanneer uitgeschakeld, zijn functies die afhankelijk zijn van deze
-    gegevens niet beschikbaar.
+- **Systeemcache** Schakel cache in en stel het cacheniveau in.
+  - *Conservatief niveau* kleinere systeemcache.
+  - *Progressief niveau* snellere, grotere systeemcache inclusief module renderers cache. Niet geschikt voor extreem grote sites.
+  - **Cache Handler**
+    - *Bestand* Native caching-mechanisme is gebaseerd op bestandsopslag. Zorg ervoor dat de cachemappen beschrijfbaar zijn.
+  - **Platform Specifieke Caching** Schakel in wanneer HTML-uitvoer op mobiele apparaten verschilt van andere apparaten.
+  - **Cache Tijd (minuten)** De maximale tijd in minuten dat een cachebestand wordt opgeslagen voordat het vernieuwd wordt.
+  - **Pad naar Cachemap** Specificeer een beschrijfbare map om cachebestanden op te slaan als je niet de standaardmap wilt gebruiken.
 
-### Server
+#### Paneel Sessie
 
-Volledige
-afbeelding.
+- **Sessie Handler** Het mechanisme waarmee Joomla een Gebruiker identificeert zodra ze zijn verbonden met de website via niet-permanente cookies.
+  - *Database* De databasesessie handler is de standaardhandler omdat dit de enige is die Joomla volledig kan configureren en controleren.
+  - *Bestandssysteem* De bestandssysteem handler is iets sneller dan de databasesessiehandler, maar vereist dat PHP correct wordt geconfigureerd, anders kan deze crashen en wordt Joomla volledig onbruikbaar.
+    - *Sessiebestand Pad* Voer een volledig bestandssysteem pad in. Zorg ervoor dat het pad de juiste rechten heeft voor PHP om bestanden te lezen en te schrijven en, indien 'session garbage collection' is ingeschakeld, om bestanden te verwijderen. Als dit pad niet is ingesteld, zal Joomla vertrouwen op de PHP `session.save_path INI` configuratie of terugvallen naar de systeemtijdelijke directory (zoals gedefinieerd door de sys_get_temp_dir() PHP functie). Als geen van deze paden zijn geconfigureerd of de rechten niet juist zijn, dan is het spel voorbij. Om te herstellen, bewerk het configuration.php bestand en stel `$session_handler = 'database'` in.
+  - *Andere handlers* APCu, Memcached, Redis en WinCache zijn afhankelijk van optionele PHP-extensies en kunnen beschikbaar zijn als je systeem deze ondersteunt. APCu of WinCache zijn mogelijk niet beter dan de *eenvoudig* bestandssysteem optie. De Memcached en Redis handlers zijn overkill voor Joomla in een typische shared hosting-omgeving. Deze types handlers slagen als je Joomla implementeert in een load balanced omgeving waar meerdere servers betrokken zijn en je de sessiegegevens van de applicatie beschikbaar moet hebben over alle servers.
+- **Sessie Levensduur (minuten)** Automatisch uitloggen van een Gebruiker nadat deze een bepaald aantal minuten inactief is geweest. Stel dit niet te hoog in.
+- **Gedeelde Sessies** Indien ingeschakeld, wordt een gebruikerssessie gedeeld tussen de Frontend- en Backendsecties van de site. Merk op dat het wijzigen van deze waarde alle bestaande sessies op de site ongeldig maakt. Dit is niet beschikbaar wanneer de [Forceer HTTPS](#forcehttps) optie is ingesteld op *Alleen Beheerder*.
+- **Sessiemetadata bijhouden**
+  - *Ja* Extra metadata over een gebruikerssessie (inclusief hun gebruikersnaam, gebruikers-ID en de applicatie waarin ze zijn ingelogd) wordt geregistreerd in de sessiedatabase tabel.
+  - *Nee* Functies die afhankelijk zijn van deze gegevens zijn niet beschikbaar.
 
-#### Server
+### Tabblad Server
 
-- **Pad naar map met tijdelijke opslag (tmp)**. Kies een schrijfbare map
-  om tijdelijke bestanden op te slaan.
-- **GZIP paginacompressie**.
-  - Ja: Joomla kan de gegenereerde HTML-pagina's automatisch comprimeren
-    met GZip, waardoor ze kleiner worden en de snelheid van de site
-    wordt verhoogd.
-  - Nee: Schakel het uit als de server dat al doet of als het conflicten
-    geeft met extensies van derden.
-- **Foutrapportage**. Deze parameter stelt het niveau van foutrapportage
-  in dat door PHP gebruikt moet worden op de Joomla site.
-  - Systeemstandaard: Leaves the level of error reporting to that set up
-    in the server.
-  - Geen: Switches off error reporting.
-  - Eenvoudig: Override the server setting to give a basic level of
-    reporting.
-  - Maximum: Override the server setting to reporting of all
-    errors.Should your Joomla site fail to the extent that it is not
-    possible to use the administrator page to activate error reporting,
-    you can switch on full error reporting by editing the
-    'configuration.php' file. Changing the '\$error_reporting' parameter
-    in that file to a value of 'maximum' is the equivalent to setting
-    Error Reporting to 'Maximum'.
-- **Forceer HTTPS**. Forceer toegang voor de geselecteerde delen om
-  alleen met HTTPS (versleutelde HTTP verbindingen met het https://
-  protocolvoorvoegsel) te verschijnen en forceer ook veilige cookies.
-  Opmerking: HTTPS dient ingeschakeld te zijn op de server om gebruik te
-  kunnen maken van deze optie.
+![globale configuratie server tabblad](../../../nl/images/site/global-configuration-server-tab.png)
 
-#### Locatie
+#### Paneel Server
 
-- **Tijdzone website**. Kies een stad uit de lijst om de weergave van
-  datum en tijd in te stellen.
+- **Pad naar Tijdelijke Map** Specificeer een beschrijfbare map om tijdelijke bestanden op te slaan.
+- **Gzip Pagina Compressie**
+  - *Ja* Automatisch de gegenereerde HTML-pagina's comprimeren met Gzip, waardoor ze kleiner worden en de snelheidsscore van uw site toeneemt.
+  - *Nee* Als uw server dit al voor u doet of als het conflicteert met extensies van derden.
+- **Fout Rapportage** Deze parameter stelt het niveau van foutrapportage in dat door PHP op de Joomla-site wordt gebruikt.
+  - *Systeemstandaard* Laat het foutrapportage niveau over aan wat in de server is ingesteld.
+  - *Geen* Schakelt foutrapportage uit.
+  - *Eenvoudig* Overschrijft de serverinstelling om een basisniveau van rapportage te geven.
+  - *Maximum* Overschrijft de serverinstelling om alle fouten te rapporteren. Als uw Joomla-site zodanig faalt dat het niet mogelijk is om de beheerderspagina te gebruiken om foutrapportage in te schakelen, kan je volledige foutrapportage inschakelen door het `configuration.php` bestand te bewerken. Het instellen van `$error_reporting = 'maximum'` is gelijk aan het instellen van *Fout Rapportage* op *Maximum*.
+- **Forceer HTTPS** Forceer toegang tot de site in de geselecteerde gebieden alleen via HTTPS (versleutelde HTTP-verbindingen met het https://-protocol voorvoegsel) en forceer ook het gebruik van beveiligde cookies. Let op, u moet HTTPS ingeschakeld hebben op uw server om deze optie te kunnen gebruiken.
 
-#### Webservices
+#### Paneel Locatie
 
-- **CORS inschakelen**. Cross-Origin Resource Sharing
-  (<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">CORS</a>) stelt scripts die in een
-  browser worden uitgevoerd in staat om te communiceren met bronnen van
-  een andere oorsprong.
-  - **Access-Control-Allow-Origin**. Bepaalt de oorsprong om webservices
-    te benaderen op deze website, teruggestuurd als antwoord op een
-    'preflight' verzoek. Standaard: \* (=all).
-  - **Access-Control-Allow-Headers**. Bepaalt de header(s) die, in
-    antwoord op een 'preflight' verzoek, teruggestuurd worden.
-    Standaard: Content-Type,X-Joomla-Token.
-  - **Access-Control-Allow-Methods**. Bepaalt de webservice-methode(s)
-    die toegang hebben tot deze site, die teruggestuurd word(t)(en) als
-    reactie op een 'preflight' verzoek. Standaard: alle beschikbare
-    methodes voor de gevraagde route.
+- **Website Tijdzone** Kies een stad in de lijst om de datum en tijd voor weergave in te stellen.
 
-#### Proxy
+#### Paneel Web Services
 
-- **Achter Load balancer**. Schakel, als de site zich achter een 'Load
-  balancer' of 'Reverse-proxy' bevindt, deze instelling in zodat
-  IP-adressen en andere instellingen binnen Joomla automatisch rekening
-  houden met deze instelling.
-- **Outbound proxy inschakelen**. Sommige hosts staan standaard geen
-  netwerktoegang van de site naar de buitenwereld toe en eisen dat er
-  handmatig een uitgaande proxy geconfigureerd wordt.
-  - **Outbound proxy host**. Host (domein) naam of IP-adres.
-  - **Outbound proxy poort**.
-  - **Outbound proxy gebruikersnaam**. Laat dit leeg als de uitgaande
-    proxy geen authenticatie vereist.
-  - **Outbound proxy wachtwoord**.
+- **Schakel CORS In** Cross-Origin Resource Sharing of [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) stelt scripts die in een browser draaien in staat om te communiceren met bronnen van een andere oorsprong.
+  - **Access-Control-Allow-Origin** Geeft de oorsprong op die toegang heeft tot Webservices op deze site, teruggestuurd als antwoord op een preflight-verzoek. Standaard: `*` (=alle).
+  - **Access-Control-Allow-Headers** Geeft de header(s) terug die als antwoord op een preflight-verzoek worden verzonden. Standaard: `Content-Type,X-Joomla-Token`.
+  - **Access-Control-Allow-Methods** Geeft de Webservice methode(n) aan die toegang hebben tot deze site, teruggestuurd als antwoord op een preflight-verzoek. Standaard: alle methodes beschikbaar voor de aangevraagde route.
 
-#### Database
+#### Paneel Proxy
 
-- **Databasetype**. Het gebruikte type database dat u tijdens de
-  installatie hebt gekozen.Bewerk dit veld niet tenzij u moet migreren
-  naar een ander type database, eventueel veroorzaakt door het verhuizen
-  naar een andere hosting provider.
-- **Host**. De hostnaam van uw database die u tijdens de installatie
-  hebt ingevoerd.Bewerk dit veld niet tenzij u moet migreren naar een
-  ander type database, eventueel veroorzaakt door het verhuizen naar een
-  andere hosting provider.
-- **Database gebruikersnaam**. De gebruikersnaam waarmee u toegang hebt
-  tot uw database welke tijdens de installatie werd ingevoerd.Bewerk dit
-  veld niet tenzij u moet migreren naar een ander type database,
-  eventueel veroorzaakt door het verhuizen naar een andere hosting
-  provider.
-- **Database wachtwoord**. Het wachtwoord dat gebruikt moet worden om de
-  database te benaderen.Bewerk dit veld niet tenzij u moet migreren naar
-  een ander type database, eventueel veroorzaakt door het verhuizen naar
-  een andere hosting provider.
-- **Databasenaam**. De naam van uw database die u tijdens de installatie
-  hebt ingevoerd.Bewerk dit veld niet tenzij u moet migreren naar een
-  ander type database, eventueel veroorzaakt door het verhuizen naar een
-  andere hosting provider.
-- **Voorvoegsel databasetabel**. Het voorvoegsel (prefix) voor de
-  databasetabel die u tijdens de installatie hebt ingevoerd.Bewerk dit
-  veld niet tenzij u moet migreren naar een ander type database,
-  eventueel veroorzaakt door het verhuizen naar een andere hosting
-  provider.
-- **Connectie encryptie**.
+- **Achter Load Balancer** Als uw site zich achter een load balancer of reverse proxy bevindt, schakel deze instelling in zodat IP-adressen en andere configuraties binnen Joomla hier automatisch rekening mee houden.
+- **Schakel Uitgaande Proxy In** Sommige hosts staan standaard geen toegang vanaf uw site naar de buitenwereld toe en vereisen handmatige configuratie van een uitgaande proxy.
+  - **Uitgaande Proxy Host** Host (domein) naam of IP-adres.
+  - **Uitgaande Proxy Poort**
+  - **Uitgaande Proxy Gebruikersnaam** Laat leeg als uw uitgaande proxy geen authenticatie vereist.
+  - **Uitgaande Proxy Wachtwoord**
+
+#### Paneel Database
+
+- **Database Type** Het type database dat in gebruik is, geselecteerd tijdens het installatieproces. Bewerk dit veld niet tenzij het absoluut noodzakelijk is (bijvoorbeeld bij de overdracht van de database aan een nieuwe hostingprovider).
+- **Host** De hostnaam voor uw database ingevoerd tijdens het installatieproces. Bewerk dit veld niet tenzij het absoluut noodzakelijk is (bijvoorbeeld bij de overdracht van de database aan een nieuwe hostingprovider).
+- **Database Gebruikersnaam** De gebruikersnaam voor toegang tot uw database ingevoerd tijdens het installatieproces. Bewerk dit veld niet tenzij het absoluut noodzakelijk is (bijvoorbeeld bij de overdracht van de database aan een nieuwe hostingprovider).
+- **Database Wachtwoord** Het wachtwoord dat wordt gebruikt voor toegang tot de database. Bewerk dit veld niet tenzij het absoluut noodzakelijk is (bijvoorbeeld bij de overdracht van de database aan een nieuwe hostingprovider).
+- **Database Naam** De naam van uw database ingevoerd tijdens het installatieproces. Bewerk dit veld niet tenzij het absoluut noodzakelijk is (bijvoorbeeld bij de overdracht van de database aan een nieuwe hostingprovider).
+- **Database Tabel Voorvoegsel** Het voorvoegsel dat gebruikt wordt voor uw database tabellen, aangemaakt tijdens het installatieproces. Bewerk dit veld niet tenzij het absoluut noodzakelijk is (bijvoorbeeld bij de overdracht van de database aan een nieuwe hostingprovider).
+- **Verbinding Encryptie**
   - Standaard (server gecontroleerd)
-  - Eén weg authenticatie
-    - **Controleer servercertificaat**.
-      - **Pad naar CA bestand**. Bestandssysteem pad.
-  - Twee-traps authenticatie
-    - **Pad naar privé sleutelbestand**. Bestandssysteem locatie.
-    - **Pad naar certificaatbestand**. Bestandssysteem locatie.
-    - **Controleer servercertificaat**.
-      - **Pad naar CA bestand**. Bestandssysteem pad.
-    - **Ondersteunde Cipher Suit: (optioneel)**. Niet verplicht (alleen
-      aanbevolen voor ervaren gebruikers) – zie, voor meer details, de
-      documentatie van uw database.
+  - Eenrichtingsauthenticatie
+    - **Verifieer Server Certificaat**
+      - **Pad naar CA Bestand** Bestandssysteem pad.
+  - Tweezijdige authenticatie
+    - **Pad naar Privé Sleutel Bestand** Bestandssysteem locatie.
+    - **Pad naar Certificaat Bestand** Bestandssysteem locatie.
+    - **Verifieer Server Certificaat**
+      - **Pad naar CA Bestand** Bestandssysteem pad.
+    - **Ondersteunde Cipher Suite (optioneel)** Geen invoer vereist (alleen aanbevolen voor ervaren gebruikers). Zie voor meer details de documentatie van uw database.
 
-#### E-mail
+#### Paneel Mail
 
-- **Mail versturen**.
-  - Ja: Selecteer ja om het verzenden van mail in te schakelen.
-  - Nee: Selecteer nee om het verzenden van mail uit te schakelen.
-    Aanbevolen wordt de website offline te zetten wanneer de
-    mailverzending wordt uitgeschakeld.
-- **Groepsmail uitschakelen**.
-  - Ja: Selecteer ja om groepsmail uit te schakelen.
-  - Nee: Selecteer nee om het te activeren.
-- **E-mail afzender**. Het e-mailadres dat gebruikt wordt om e-mails van
-  uw website te versturen.
-- **Afzendernaam**. De tekst die weergegeven wordt in het veld "Van:"
-  wanneer er e-mails vanaf de website verstuurd worden.
-- **Beantwoorden aan e-mail**. Het e-mailadres dat gebruikt wordt om
-  reacties van gebruik(s) te ontvangen.
-- **Beantwoorden aan naam**. Tekst getoond in het "Aan:"-veld als
-  gebruiker(s) reageren op ontvangen e-mail.
-- **Mailer**. Selecteer de mailer om e-mails te versturen via de
-  website.
+- **Mail Verzenden**
+  - *Ja* Schakel e-mail verzenden in.
+  - *Nee* Schakel e-mail verzenden uit. Het wordt aanbevolen de site offline te zetten wanneer de mailfunctie wordt uitgeschakeld.
+- **Massa Mail Uitschakelen**
+  - *Ja* Schakel de Massa Mail Gebruikersfunctie uit.
+  - *Nee* Maak de Massa Mail Gebruikersfunctie actief.
+- **Van E-mail** Het e-mailadres dat wordt gebruikt om site e-mails te verzenden.
+- **Van Naam** Tekst die wordt weergegeven in het headerveld *Van:* bij het verzenden van een site e-mail. Meestal de sitenaam.
+- **Antwoord-aan E-mail** Het e-mailadres dat wordt gebruikt om antwoorden van eindgebruikers te ontvangen.
+- **Antwoord-aan Naam** Tekst die wordt weergegeven in het headerveld *Aan:* wanneer eindgebruikers op een ontvangen e-mail reageren.
+- **Mailer** Selecteer welke mailer moet worden gebruikt voor het verzenden van site e-mail.
 
-### Loggen
+### Tabblad Loggen
 
-Volledige
-afbeelding.
+![globale configuratie loggen tabblad](../../../nl/images/site/global-configuration-logging-tab.png)
 
-#### Loggen
+#### Paneel Loggen
 
-- **Pad naar logmap**. Joomla kan optioneel een logboekbestand bijhouden
-  van activiteiten van zichzelf en extensies van derden. Geef het
-  absoluut pad naar een map die beschrijfbaar is door PHP; als het
-  ontbreekt of niet beschrijfbaar is, zal Joomla helemaal niet laden. Om
-  veiligheidsredenen moet er geen map gebruikt worden met toegang tot
-  systeembrede mappen zoals '/tmp'.
-- **Log bijna alles**. Logt alles, behalve verouderde API's.
-- **Log verouderde API**. Logt verouderde API's.
+- **Pad naar Logmap** Joomla kan optioneel een logbestand bijhouden van zijn eigen en derde partij extensie operaties. Geef het absolute pad naar een map die door PHP beschrijfbaar is; als deze ontbreekt of niet beschrijfbaar is, wordt Joomla helemaal niet geladen. Gebruik om veiligheidsredenen geen map met systeem brede toegang zoals `/tmp`.
+- **Log Bijna Alles** Logt alles, behalve verouderde APIs.
+- **Log Verouderde API** Logt verouderde APIs.
 
-#### Aangepast loggen
+#### Paneel Aangepast Loggen
 
-- **Log prioriteiten**. Kan gebruikt worden om aangepast loggen te
-  beheren. Selecteer de events die u in het logbestand wilt zien.
-  Standaard is 'All'. De item(s) kunnen geselecteerd/niet-geselecteerd
-  worden door op de uitklaplijst te klikken.
-- **Log categorieën**. Een door komma's gescheiden lijst met log
-  categorieën die opgenomen of uitgesloten moeten worden. Gebruikelijke
-  log categorieën zijn, maar zijn niet beperkt tot: 'database',
-  'databasequery', 'database-error', 'deprecated' en 'jerror'. Indien
-  leeg is custom loggen uitgeschakeld.
-- **Log categoriemodus**. Stelt de modus in van bovenstaande log
-  categorieën.
+- **Log Prioriteiten** Kan worden gebruikt voor het beheren van aangepast loggen. Selecteer de gebeurtenissen die je in het logbestand wilt zien. Standaard is *Alles*. De item(s) kunnen geselecteerd of gedeselecteerd worden door op de dropdownlijst te klikken.
+- **Log Categorieën** Een door komma's gescheiden lijst van logcategorieën om in te sluiten of uit te sluiten. Veelvoorkomende logcategorieën zijn, maar zijn niet beperkt tot: `database`, `databasequery`, `database-error`, `deprecated` en `jerror`. Als het leeg is, is aangepast loggen uitgeschakeld.
+- **Log Categorie Modus** Stelt de modus in voor de hierboven genoemde lijst met logcategorieën.
 
-### Tekstfilters
+### Tabblad Tekstfilters
 
-Volledige
-afbeelding.
+![globale configuratie tekstfilters tabblad](../../../nl/images/site/global-configuration-text-filters-tab.png)
 
-Dit zijn de tekstfilters die toegepast worden op alle
-tekstverwerkervelden in de geselecteerde groepen.
+Deze tekstfilterinstellingen worden toegepast op alle tekstredacteervelden die door gebruikers in de geselecteerde groepen worden ingediend.
 
-Met deze filteropties kan meer controle uitgeoefend worden op de HTML
-die toegevoegd wordt. Dit kan zo streng en zo vrij ingesteld worden al
-naar gelang het beste bij de website past. Het filteren gebeurt op basis
-van opt-in en de standaard instellingen bieden een goede bescherming
-tegen markup die gewoonlijk geassocieerd wordt met aanvallen op de
-website.
+Met deze filteropties heb je meer controle over de HTML die je contentproviders indienen. Je kunt zo streng of soepel zijn als je nodig acht voor je website. De filtering is opt-in en de standaardinstellingen bieden goede bescherming tegen opmaak die vaak wordt geassocieerd met websiteaanvallen.
 
-### Rechten
+## Tips
 
-Volledige
-afbeelding.
+- De meeste van deze instellingen kunnen eenmalig worden ingesteld en daarna met rust worden gelaten.
+- Als er grote wijzigingen moeten worden aangebracht, overweeg dan de site offline te halen om deze te testen en ervoor te zorgen dat alles naar behoren werkt.
+- De instellingen worden opgeslagen in het `configuration.php` bestand in de hoofdmap van de site. De permissies van dit bestand worden ingesteld op alleen-lezen (444) nadat wijzigingen via de Global Configuration-pagina zijn gemaakt, en moeten eigenaars-toestemming voor schrijven (644) krijgen voordat ze met een teksteditor worden bewerkt.
 
-Beheer de instellingen van de rechten voor onderstaande groepen.
+*Vertaald door openai.com*
 
-- **Inloggen website**. Sta toe, of weiger het inloggen op de website
-  voor gebruikers in de geselecteerde groep.
-- **Inloggen beheer**. Sta toe, of weiger het inloggen op het
-  beheergedeelte voor gebruikers in de geselecteerde groep.
-- **Web services inloggen**. Sta Web services inloggen voor gebruikers
-  in de geselecteerde groep al dan niet toe.
-- **Offline toegang**. Sta toe, of weiger het inloggen als de site
-  offline is voor gebruikers in de geselecteerde groep. Sta gebruikers
-  in de groep toegang tot de website toe wanneer de website offline is.
-- **Supergebruiker**. Sta gebruikers in de geselecteerde groep alle
-  handelingen op de hele website toe ongeacht andere
-  rechteninstellingen.
-- **Alleen instellingenopties**. Sta toe of weiger de instellingenopties
-  van gebruikers in de geselecteerde groep. De instelling staat
-  gebruikers uit de groep toe om de opties van deze extensie te
-  bewerken, uitgezonderd de rechten.
-- **Toegang tot beheerdersinterface**. Sta gebruikers in de
-  geselecteerde groep toegang toe tot alle beheerdersinterfaces behalve
-  de algemene instellingen.
-- **Maken**. Sta gebruikers in de geselecteerde groep toe om inhoud aan
-  elke extensie toe te voegen.
-- **Verwijderen**. Sta toe of weiger het verwijderen door gebruikers in
-  de geselecteerde groep. Verwijderen staat gebruikers in deze groep toe
-  om inhoud van elke extensie te verwijderen.
-- **Bewerken**. Toestaan of weigeren voor Bewerken voor de gebruikers in
-  deze groep. Bewerken staat de gebruikers in deze groep toe om inhoud
-  van elke extensie te bewerken.
-- **Bewerk status**. Sta toe of weiger de bewerk status voor gebruikers
-  in de geselecteerde groep. Bewerk status staat gebruikers in de groep
-  toe om de status van inhoud van elke extensie te bewerken.
-- **Bewerk eigen**. Sta toe of weiger het bewerken van eigen inhoud door
-  gebruikers in de geselecteerde groep. Bewerk eigen staat gebruikers in
-  deze groep toe om inhoud van zichzelf te bewerken.
-- **Bewerk waarde extra veld**. Sta gebruikers in de groep toe om elk
-  waarde van een veld in elke extensie te bewerken.
-
-Indien deze instelling wijzigen worden ze toegepast op deze en alle
-subgroepen, componenten en inhoud.
-
-- Merk op dat **Geweigerd** elke overgenomen instelling zal overrulen,
-  evenals de instellingen in elke subgroep, component of inhoud. In
-  conflictsituaties gaat **Weigeren** voor.
-- **Niet ingesteld** is gelijk aan **Geweigerd** maar kan gewijzigd
-  worden in de subgroepen, componenten en inhoud.
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de
-afbeelding hierboven.
-
-- **Opslaan**. Slaat de algemene instellingen opties op en blijft op het
-  huidige scherm.
-- **Opslaan & sluiten**. Slaat de algemene instellingen opties op en
-  sluit het huidige scherm.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-- **Inline help in-/uitschakelen**.
-- **Help**. Opent dit helpscherm.
-
-## Snelle tips
-
-- De meeste, zo niet alle, instellingen kunnen eenmaal ingesteld worden
-  en daarna zo blijven.
-- Als er belangrijke wijzigingen aangebracht moeten worden, overweeg dan
-  de site offline te halen om testen en zeker te weten dat alles goed
-  werkt.
-- De instellingen worden opgeslagen in '\[Joomla\]/configuration.php'. U
-  moet of de FTP-layer activeren of het 'configuration.php' bestand
-  schrijfbaar maken om uw wijzigingen op te slaan.

@@ -1,47 +1,31 @@
-<!-- Filename: Help4.x:Private_Messages:_Write / Display title: Privéberichten: Opstellen -->
+<!-- Filename: Help4.x:Private_Messages:_Write  / Display title: Privéberichten: Schrijven -->
 
 ## Beschrijving
 
-Dit scherm laat u privéberichten schrijven en verzenden aan anderen met
-de juiste
-Gebruikersroep
-rechten.
+De pagina *Privéberichten: Schrijven* wordt gebruikt om privéberichten te versturen naar anderen met de juiste gebruikersgroeprechten.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Gebruikers → Berichten → Privéberichten → +**
-  vanuit het beheermenu.
-- Selecteer **Gebruikers → Berichten → Privéberichten** en klik
-  op het "Nieuw" icoon op het 'Privéberichten' scherm.
+Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
+
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+
+## Hoe te Toegang Krijgen
+
+- Selecteer **Gebruikers → Berichten → Privéberichten → + icoon** in het
+  Beheerdersmenu. Of...
+- Selecteer **Gebruikers → Berichten → Privéberichten** en selecteer
+  vervolgens de knop *Nieuw* in de Privéberichtenwerkbalk.
 
 ## Schermafbeelding
 
-<img
-src="https://docs.joomla.org/images/thumb/8/86/Help-4x-Components-Messaging-Write-screen-nl.png/800px-Help-4x-Components-Messaging-Write-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/8/86/Help-4x-Components-Messaging-Write-screen-nl.png 1.5x"
-data-file-width="1070" data-file-height="894" width="800" height="668"
-alt="Components Messaging Write screen" />
+![privéberichten schrijven](../../../nl/images/private-messages/private-messages-write.png)
 
-## Gegevens
+## Formuliervelden
 
-- **Ontvanger.** De ontvanger van het bericht. Klik op de "Selecteer
-  gebruiker" knop om de pop-up te openen en selecteer daarna uit de
-  lijst met namen de gebruiker aan wie u het bericht wilt sturen.
-- **Onderwerp.** Het onderwerp van het bericht. Net zoals het onderwerp
-  in een e-mail. Het helpt als dit een korte beschrijving van het
-  bericht is.
-- **Bericht.** De berichttekst. Net zoals de tekst van een e-mail helpt
-  het als het bericht betekenisvol is en relatief kort wordt gehouden.
+- **Ontvanger** De ontvanger van het bericht. Gebruik het *Selecteer Gebruiker* icoon om een popup te openen en kies vervolgens de gebruiker naar wie je een bericht wilt sturen.
+- **Onderwerp** Het onderwerp van het bericht. Net als het onderwerp van een e-mail, helpt het als dit een korte beschrijving van de inhoud van het bericht is.
+- **Bericht** De hoofdtekst van het bericht. Net als de hoofdtekst van een e-mail, helpt het als het bericht betekenisvol en relatief kort wordt gehouden.
 
-## Werkbalk
+*Vertaald door openai.com*
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
-
-- **Verzenden:** Verzend het bericht. Let er op dat de ontvanger, het
-  onderwerp en het berichtveld niet leeg mag zijn.
-- **Annuleren/Sluiten**. Sluit het huidige scherm en keert terug naar
-  het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
-  te slaan.
-- **Help**. Opent dit helpscherm.

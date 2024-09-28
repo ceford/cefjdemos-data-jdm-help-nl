@@ -1,81 +1,55 @@
-<!-- Filename: Help4.x:Languages:_Edit_Override / Display title: Talen: Overrides bewerken -->
+<!-- Filename: Help4.x:Languages:_Edit_Override  / Display title: Talen: Override Bewerken -->
 
 ## Beschrijving
 
-Overrides geven de mogelijkheid een 'core' Joomla taalstring te
-overschrijven.
+In de Joomla-code worden tekstreeksen die in de Gebruikersinterface moeten verschijnen, of dit nu de Site-interface of de Beheerder-interface is, uitgedrukt als string-constanten. Bijvoorbeeld, de string *Uw sessie is verlopen. Gelieve opnieuw in te loggen.* wordt uitgedrukt als `JLIB_ENVIRONMENT_SESSION_EXPIRED`. De tekstreeks kan in elke taal worden vertaald. De standaardtaal is Brits Engels. Er zijn duizenden van dergelijke reeksen in een Joomla-installatie.
 
-In de Joomla code wordt van teksten die verschijnen in de
-gebruikersinterface, zowel op de website als op de beheerdersinterface,
-verwacht dat ze als string worden worden opgenomen. Bijvoorbeeld, de
-string *Uw sessie is verlopen. Log opnieuw in.* wordt weergegeven via
-*JLIB_ENVIRONMENT_SESSION_EXPIRED*. De tekst kan vertaald worden in
-welke taal dan ook. De standaard taal is Brits Engels. Er zitten
-duizende van zulke strings in de Joomla installatie.
+Als een string niet geschikt is voor uw site, kunt u de Taaloverschrijvingsfunctie gebruiken om het origineel te vervangen. De pagina *Talen: Overschrijvingen* toont een lijst van bestaande overschrijvingen, dus deze is aanvankelijk leeg.
 
-Als de string niet passend is voor uw site kunt u de taaloverride
-functie gebruiken om het origineel te vervangen.
+### Gemeenschappelijke elementen
 
-## Hoe toegang te krijgen
+Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
-- Selecteer **Systeem → Beheren venster → Taal overrides**.
-  Dan...
-  - Selecteer een **Taal en website deel** vanuit de uitklaplijst.
-    Dan...
-- Selecteer de **Nieuw** knop in de werkbalk om een nieuwe override aan
-  te maken. Of...
-    - Selecteer de constante link in de **Constante** kolom om een
-      bestaande override te bewerken.
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-## Schermafbeelding
+## Hoe Toegang te Krijgen
 
-<img
-src="https://docs.joomla.org/images/thumb/a/a1/Help-4x-Extensions-Language-Manager-Overrides-Edit-screen-nl.png/800px-Help-4x-Extensions-Language-Manager-Overrides-Edit-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/a/a1/Help-4x-Extensions-Language-Manager-Overrides-Edit-screen-nl.png 1.5x"
-data-file-width="1159" data-file-height="921" width="800" height="636"
-alt="Extensions Language Manager Overrides Edit screen" />
+- Selecteer **Systeem → Beheer Paneel → Taal Overschrijvingen**. Dan...
+  - Selecteer een **Taal en Client** uit de keuzelijst. Dan...
+    - Selecteer de **Nieuw** knop in de Werkbalk om een nieuwe overschrijving te maken.
+      Of...
+    - Selecteer de constante link in de **Constante** kolom om een bestaande overschrijving te bewerken.
 
-### Formulier velden
+## Screenshot
 
-#### Rechter venster: Zoektekst die u wilt wijzigen
+![Talen Bewerken Overschrijven](../../../nl/images/languages/languages-edit-override.png)
 
-- **Zoeken op.** Begin hier! U kent waarschijnlijk eerder de waarde
-  (verlopen) dan de constante (\_EXPIRED). In alle gevallen, is de
-  zoekopdracht hoofdletter ongevoelig voor de gedeeltelijke taalstring.
-- **Zoektekst.** Voer de tekst in waarop gezocht moet worden en druk op
-  de **Zoeken** knop.
-- **Zoekresultaten.** Een lijst met taalstrings die de zoekterm bevatten
-  verschijnen in een apart venster. Selecteer degene die u zoekt. De
-  constante en tekst wordt gekopieerd naar het **Maak een nieuwe
-  override** venster, met de tekst **Bewerk deze override** indien u een
-  bestaande override bewerkt.
+## Formuliervelden
 
-#### Linker venster: Maak een nieuwe override aan of Bewerk deze override
+### Rechterpaneel: Zoek naar de tekst die je wilt wijzigen
 
-- **Taal constante.** Dit is de constante die in de code van de
-  ontwikkelaar wordt gebruikt. Als de waarde niet bestaat in de code,
-  dan wordt de string nooit gebruikt.
-- **Tekst.** Dit is waar u de standaard waarde overschrijft met uw eigen
+- **Zoeken Naar** Begin hier! Je kent waarschijnlijk eerder de Waarde
+  (verlopen) dan de Constante (`_VERLOPEN`). In beide gevallen is de zoekopdracht
+  niet hoofdlettergevoelig voor een deel van de string.
+- **Zoektekst** Voer de tekst in om naar te zoeken en selecteer de knop *Zoeken*.
+- **Zoekresultaten** Een lijst met strings die de zoekterm bevatten
+  verschijnt in een apart Resultatenpaneel onder het Rechter paneel. Selecteer de 
+  gewenste tekst. De constante en tekst worden gekopieerd naar het 
+  *linkerpaneel* om bijgewerkt en opgeslagen te worden.
+
+### Linker paneel: Maak een Nieuwe Override of Bewerk deze Override
+
+- **Taal** en **Locatie** Deze werden geselecteerd voordat dit
+  bewerkingsformulier werd geopend en kunnen niet worden gewijzigd.
+- **Taal Constante** Dit is de string die door de
+  ontwikkelaar in de code wordt gebruikt. Als de waarde niet in de code bestaat, zal de string
+  nooit worden gebruikt.
+- **Tekst** Dit is waar je de standaardterm overschrijft met jouw
   versie.
-- **Bestand.** Dit is waar het override-bestand staat in het
-  bestandssysteem. U wilt dit misschien weten bij het oplossen van
-  problemen.
+- **Voor Beide Locaties** Selecteer om de override toe te passen op zowel de front-end als
+  back-end.
+- **Bestand** Dit toont waar het override-bestand zich bevindt in het bestands-
+  systeem. Dit kan nodig zijn voor probleemoplossingen.
 
-## Werkbalk
+*Vertaald door openai.com*
 
-Bovenaan de pagina ziet u de filterbalk zoals in de afbeelding
-hierboven. De functies zijn:
-
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Opslaan & nieuw**. Slaat item op en houdt het bewerkscherm open,
-  klaar voor het aanmaken van een ander item.
-- **Annuleren/Sluiten**. Sluit het huidige scherm en keert terug naar
-  het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
-  te slaan. Of
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-  Dit werkbalk icoon wordt niet getoond als een nieuw item wordt
-  aangemaakt.
-- **Help**. Opent dit helpscherm.

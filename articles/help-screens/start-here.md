@@ -1,63 +1,36 @@
-<!-- Filename: Help4.x:Start_Here / Display title: Begin hier -->
+<!-- Filename: Help5.x:Start_Here  / Display title: Begin hier -->
 
-Joomla!  4.x
+## Hulp met Joomla!
 
-## Hulp met Joomla! 4
+Voor hulp met een specifieke beheerderspagina, kun je binnen de Joomla-beheerinterface de **Help** werkbalkknop selecteren voor meer informatie over de pagina. Deze bevindt zich aan de rechterkant van de werkbalk, net onder de titelbalk. Voorbeeld:
 
-Voor hulp met een specifieke beheerpagina binnen de Joomla
-beheer-interface kunt u de **Help** werkbalk knop gebruiken voor meer
-informatie over de pagina. Hij staat rechts van de werkbalk net onder de
-titelbalk. Voorbeeld:
+![help werkbalk](../../../nl/images/help-screens/start-here-top-bars.png)
 
-<img
-src="https://docs.joomla.org/images/0/07/Help-4x-Start-Here-Help-toolbar-nl.png"
-decoding="async" data-file-width="437" data-file-height="107"
-width="800" height="196" alt="Start Here Help toolbar" />
+Er verschijnt een modaal dialoogvenster in het midden van het scherm met helpinformatie specifiek voor die pagina.
 
-Er komt een modal scherm op in het midden van het scherm welke
-help-informatie bevat voor de betreffende pagina.
+## Hulp Scherm Versie Kennisgeving
 
-## Helpscherm versie kennisgeving
-
-Deze helpschermen zijn voor de Joomla! 4 versie. Soms zorgen Joomla
-updates er voor dat helpschermen verschillen van de pagina die ze
-ondersteunen. Er kunnen nieuwe of verwijderde opties zijn, of
-verschillen in functionaliteit. Anderszins, blijven alle helpschermen
-werken zoals verwacht. Denk eraan altijd **uw Joomla! versie zo snel
-mogelijk bij te werken** om profijt te hebben van nieuwe functies en/of
-veiligheid verbeteringen.
+Deze Hulp Schermen zijn voor Joomla! Versie 4, 5 en 6. Soms zorgen Joomla updates
+ervoor dat een Hulp scherm verschilt van de pagina die het ondersteunt. Het kan zijn
+dat er nieuwe of verwijderde opties zijn of verschillen in functionaliteit. Verder
+zullen alle hulp schermen nog steeds functioneren zoals verwacht. Onthoud dat je 
+altijd **je Joomla! versie moet updaten** zo snel mogelijk om te profiteren
+van nieuwe functies en/of beveiligingsverbeteringen.
 
 ## Aan de slag
 
-Als u nog maar pas met Joomla! werkt, zult u waarschijnlijk 'stress'
-hebben ervaren bij het leren van een nieuw systeem. Nieuwe terminologie,
-nieuwe manieren om dingen te doen, zelfs het internet is misschien nieuw
-voor u. Laat deze gids iets van deze 'stress' verlichten.
+Als je onlangs bent begonnen met werken met Joomla, heb je waarschijnlijk de pijn ervaren van het leren van een nieuw systeem. Nieuwe terminologie, nieuwe manieren om dingen te doen, misschien zelfs het web zelf is nieuw voor je. Laat deze gids dan wat van die pijn verlichten.
 
-- Aan de slag met Joomla!
-  4
-- Aan de slag: Website- en
-  Beheerder-templates
-- Aan de slag: Een artikel
-  toevoegen
-- Aan de slag: Een menu-item
-  toevoegen
-- Aan de slag: Een categorie
-  toevoegen
-- Aan de slag: Een module
-  toevoegen
+- [Aan de slag: Introductie tot Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla "Introductie tot Joomla!")
+- [Aan de slag: Artikelen en Categorieën](jdocmanual?article=user/getting-started/articles-and-categories "Artikelen en Categorieën")
+- [Aan de slag: Het toevoegen van een Artikel](jdocmanual?article=user/getting-started/adding-an-article "Het toevoegen van een Artikel")
+- [Aan de slag: Het toevoegen van een Categorie](jdocmanual?article=user/getting-started/adding-a-category "Het toevoegen van een Categorie")
+- [Aan de slag: Het toevoegen van een Menu-item](jdocmanual?article=user/getting-started/adding-a-menu-item "Het toevoegen van een Menu-item")
+- [Aan de slag: Het toevoegen van een Module](jdocmanual?article=user/getting-started/adding-a-module "Het toevoegen van een Module")
 
-## Uw website veilig houden
+## Uw website beveiligd houden
 
-- Joomla!
-  beveiligingschecklist
+- [Beveiliging: Beste Praktijken](jdocmanual?article=user/security/best-practices "Beveiliging: Beste Praktijken")
 
-## Meer informatie per lezersprofiel
+*Vertaald door openai.com*
 
-- Administrators
-- Web
-  Designers
-- Ontwikkelaars
-- Beoordelers
-- Meer
-  gebruikersprofielen...

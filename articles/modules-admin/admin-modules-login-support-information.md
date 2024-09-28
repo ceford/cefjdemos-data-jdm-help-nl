@@ -1,168 +1,47 @@
-<!-- Filename: Help4.x:Admin_Modules:_Login_Support_Information / Display title: Beheerder modules: Inlog ondersteuningsinformatie -->
+<!-- Filename: Help4.x:Admin_Modules:_Login_Support_Information  / Display title: Modules: Loginsupportinformatie -->
 
 ## Beschrijving
 
-Deze module toont enkele handige links naar Joomla supportsites op het
-inlogscherm.
+De module *Inlog Ondersteuningsinformatie* toont enkele nuttige links naar Joomla 
+ondersteuningssites op het inlogscherm.
 
-## Hoe toegang te krijgen
+### Algemene Elementen
 
-- Selecteer **Systeem → Beheren venster → Beheerder modules**
-  vanuit het beheermenu. Dan...
-  - Om een nieuwe module aan te maken: selecteer de **Nieuw** knop uit
-    de werkbalk. Dan...
-    - Selecteer het gewenste moduletype.
+Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
+
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [De Modules: Module Tab](jdocmanual?article=help/modules/modules-module-tab).
+* [De Modules: Geavanceerd Tab](jdocmanual?article=help/modules/modules-advanced-tab).
+* [De Machtigingen Tab](jdocmanual?article=help/common-elements/edit-permissions).
+
+## Hoe te Toegang
+
+- Selecteer **Systeem → Beheer Paneel → Beheerder Modules** uit
+  het Beheerder menu. Vervolgens...
+  - Om een nieuw module te maken: selecteer de **Nieuw** knop uit de Toolbar. Vervolgens...
+    - Selecteer het vereiste moduletype.
   - Om een bestaande module te bewerken:
-    - Zoek de module in de lijst met geïnstalleerde modules en selecteer
-      de titel-link in de **Titel** kolom.
+    - Zoek de module in de lijst van geïnstalleerde modules en selecteer de
+      titel link in de **Titel** kolom.
 
-## Schermafbeelding
+## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/d/d7/Help-4x-extensions-module-manager-login_support-nl.png/800px-Help-4x-extensions-module-manager-login_support-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/d/d7/Help-4x-extensions-module-manager-login_support-nl.png 1.5x"
-data-file-width="981" data-file-height="783" width="800" height="639"
-alt="extensions module manager login support" />
+![modules login support information module tab](../../../nl/images/modules-admin/modules-login-support-information-module-tab.png)
 
-## Formulier velden
+## Formuliervelden
 
-- **Titel.** De titel van de module. Dit is ook de titel die wordt
-  weergegeven in de module afhankelijk van de *Toon Titel* formulierveld
+- **Titel** De titel van de module. Dit is ook de titel die wordt weergegeven
+  voor de module, afhankelijk van het *Toon Titel* formulier veld.
 
-### Module tabblad
+### Module Tab
 
-#### Linker venster
+#### Linker Paneel
 
-- **Inlog ondersteuningsinformatie.** Deze module toont op het
-  inlogscherm enkele handige links naar Joomla support sites.
-- **Forum URL.** De standaard is <a href="https://forum.joomla.org/"
-  rel="noreferrer noopener">https://forum.joomla.org/</a>
-- **Documentatie URL.** De standaard is
-  <a href="https://docs.joomla.org/"
-  rel="noreferrer noopener">https://docs.joomla.org/</a>
-- **Nieuws URL.** De standaard is
-  <a href="https://www.joomla.org/"
-  rel="noreferrer noopener">https://www.joomla.org/</a>
+- **Login Ondersteuningsinformatie** Deze module toont enkele nuttige links
+  naar Joomla ondersteuningssites op het inlogscherm.
+- **Forum URL** De standaard is `https://forum.joomla.org/`
+- **Documentatie URL** De standaard is `https://docs.joomla.org/`
+- **Nieuws URL** De standaard is `https://www.joomla.org/`
 
-#### Rechter venster
+*Vertaald door openai.com*
 
-- **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
-  getoond of verborgen moet worden. De titel wordt degene in het
-  formulierveld hierboven.
-- **Positie.** Kies de module
-  positie
-  waarop u wilt dat de module getoond wordt. Een aangepaste module
-  positie mag opgegeven worden om te gebruiken met de load positie
-  plugin
-  of er kan op de positie knop gedrukt worden om een module positie te
-  selecteren uit het template.
-- **Status**. De publicatiestatus van het item.
-- **Start publiceren**. Datum en tijd waarop de publicatie moet starten.
-  Gebruik dit veld wanneer u voortijdig inhoud wilt toevoegen die
-  automatisch op een bepaalde tijd in de toekomst gepubliceerd moet
-  worden.
-- **Beëindig publiceren**. Datum en tijd om te stoppen met publiceren.
-  Gebruik dit veld als u inhoud automatisch de status gedepubliceerd
-  wilt geven op een tijdstip in de toekomst (bijvoorbeeld wanneer het
-  niet meer van toepassing is).
-- **Toegang**. Het
-  Toegangsniveau
-  om het item te bekijken.
-- **Module volgorde.** Dit toont een drop-down lijst met iedere module
-  op de positie waar de huidige module op staat. Dit is de zowel
-  volgorde waarin de modules getoond worden op de website als op de
-  Modulebeheer
-  pagina.
-- **Taal**. Item taal.
-- **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
-  (bijvoorbeeld om informatie te documenteren voor dit item) en is niet
-  op de website zichtbaar.
-
-### Geavanceerd tabblad
-
-<img
-src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png/600px-Help-4x-modules-manager-admin-module-site-advanced-options-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png/900px-Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 1.5x, https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 2x"
-data-file-width="1003" data-file-height="532" width="600" height="318"
-alt="modules manager admin module site advanced options" />
-
-- **Weergave.** Als u één of meer alternatieve lay-outs voor een module
-  heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
-  de layout voor de module hier selecteren.
-- **Module class.** Een achtervoegsel dat toegevoegd wordt aan de CSS
-  class van de Module. Dit stelt u in staat aangepaste CSS stijlen aan
-  te maken die alleen op deze module worden toegepast. U kunt dan het
-  "user.css" bestand van uw template aanpassen om de stijl toe te voegen
-  aan de nieuwe class. Geef deze parameter op met een voorafgaande
-  spatie om een nieuwe CSS class voor deze module aan te maken. Geef de
-  parameter zonder voorafgaande spatie om de CSS class naam voor deze
-  module aan te passen.
-- **Cachen.** Gebruik algemeen/Niet cachen. Of de inhoud van deze module
-  al dan niet gecached moet worden. Het instellen van "Gebruik algemeen"
-  zal de cache instellingen uit de Algemene instellingen gebruiken.
-- **Cachetijd.** Het aantal seconden waarvoor de cache van het item
-  lokaal wordt opgeslagen. Deze kan veilig op de standaardwaarde blijven
-  staan.
-- **Modulestijl.** U kunt deze optie gebruiken om de template-stijl voor
-  deze positie te overschrijven.
-- **Module-tag.** De HTML tag waar de module in geplaatst wordt. Dit is
-  standaard een div tag maar andere HTML5 elementen kunnen ook worden
-  gebruikt.
-- **Bootstrap grootte.** (waarden 0 tot 12) Dit stelt u in staat de
-  breedte van de module in te stellen via het span element uit
-  bootstrap.
-- **Koptekst-tag.** De HTML tag die gebruikt moet worden voor de header
-  of titel van de module. Dit kan een h1, h2, h3, h4, h5, h6 of een p
-  tag zijn. Let op dat u een module stijl (chrome) moet gebruiken met
-  *html5* of uw eigen stijlen toevoegen in */html/modules.php*.
-- **Koptekst class.** Hier kunt u optionele CSS classes toevoegen aan
-  het header of titel element.
-
-### Rechten tabblad
-
-<img
-src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png/600px-Help-4x-modules-manager-admin-module-administrator-permissions-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png/900px-Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x, https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 2x"
-data-file-width="977" data-file-height="665" width="600" height="408"
-alt="modules manager admin module administrator permissions" />
-
-Doe, om de rechten te veranderen, het volgende.
-
-- Selecteer de **Groep** door links op de titel te klikken.
-- Zoek de gewenste **Actie**. Mogelijke acties zijn:
-  - **Verwijderen**. Gebruikers kunnen deze categorie verwijderen.
-  - **Bewerken**. Gebruikers kunnen de module bewerken.
-  - **Bewerk status**. Gebruikers kunnen de gepubliceerde status en de
-    verwante informatie van de module wijzigen.
-- Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
-  Mogelijke instellingen zijn:
-  - '**Overgenomen:'** Overgenomen van gebruikers in deze groep vanuit
-    de Algemene instellingen, Artikelen: Opties of Categorie rechten.
-  - '**Toegestaan:'** Toegestaan voor gebruikers in deze groep. Let op
-    dat wanneer deze actie op één van de hogere niveaus Geweigerd is het
-    'Toegestaan' recht hier geen effect heeft. Een instelling geweigerd
-    kan niet worden overschreven.
-  - '**Geweigerd:'** Geweigerd voor alle gebruikers in deze groep.
-- Klik op **Opslaan** in de **werkbalk**. Wanneer het scherm wordt
-  vernieuwd, tonen de berekende instellingen de effectieve rechten voor
-  deze groep en actie.
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
-
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Opslaan & nieuw**. Slaat item op en houdt het bewerkscherm open,
-  klaar voor het aanmaken van een ander item.
-- **Opslaan als kopie**. Slaat uw wijzigingen op als een kopie van het
-  huidige item. Beïnvloed het huidige item niet. Dit werkbalk icoon
-  wordt niet getoond bij het aanmaken van een nieuw item.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-  This toolbar icon is not shown if you are creating a new item.
-- **Help**. Opent dit helpscherm.

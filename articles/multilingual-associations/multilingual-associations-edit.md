@@ -1,133 +1,42 @@
-<!-- Filename: Help4.x:Multilingual_Associations:_Edit / Display title: Meertaligheid associaties: Bewerken -->
+<!-- Filename: Help4.x:Multilingual_Associations:_Edit  / Display title: Meertalige Associaties: Bewerken -->
 
 ## Beschrijving
 
-Wordt gebruikt om associaties tussen talen toe te voegen en te bewerken
-die op uw meertalige websites worden getoond.
+De pagina *Meertalige Verbindingen: Verbindingen Bewerken* toont een Referentie-item en een Doel-item naast elkaar op bredere schermen en gestapeld op smallere schermen. De modus naast elkaar stelt je in staat om de referentie en het doel op één lijn te brengen voor het gemak van vertaling.
 
-## Hoe toegang te krijgen
+De velden in de Referentie en Doel zijn dezelfde als die in het bewerkingsformulier voor een enkel item, maar de lay-out is aangepast aan de beperkte kolombreedte.
 
-Om een associatie aan te maken:
+### Gemeenschappelijke Elementen
 
-- **Componenten → Meertaligheid associaties**
-  1.  Selecteer **item-type**.
-  2.  Selecteer **taal**.
-  3.  Klik op de '**Doeltaal'** in de Niet geassocieerd kolom om een
-      nieuwe associatie aan te maken.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-Om een associatie te bewerken:
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-- **Componenten → Meertaligheid associaties**
-  1.  select **Item Type**.
-  2.  select **Language**.
-  3.  Klik op '**Doeltaal'** in de associatie kolom om een bestaande
-      associatie te bewerken.
+## Hoe te Toegang
 
-## Schermafbeelding
+* Selecteer **Components → Meertalige Associaties** uit het Beheerdersmenu.
+  * Selecteer een **Itemtype** uit de *- Selecteer Itemtype -* dropdown lijst.
+  * Selecteer **Taal** uit de *- Selecteer Taal -* dropdown lijst. Dit 
+    wordt de Referentietaal.
+* Om een Associatie te bewerken: Selecteer een Doeltaal uit de **Geassocieerd** kolom.
+* Om een Associatie toe te voegen: Selecteer een Doeltaal uit de **Niet Geassocieerd** kolom.
 
-<img
-src="https://docs.joomla.org/images/thumb/6/60/Help-4x-Components-Assocations-Edit-screen-nl.png/800px-Help-4x-Components-Assocations-Edit-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/60/Help-4x-Components-Assocations-Edit-screen-nl.png/1200px-Help-4x-Components-Assocations-Edit-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/6/60/Help-4x-Components-Assocations-Edit-screen-nl.png/1600px-Help-4x-Components-Assocations-Edit-screen-nl.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Components Assocations Edit screen" />
+## Screenshot
 
-Het meertaligheid associatie bewerkscherm toont de inhoud van het item
-in de bron en het doel naast elkaar. Het zijn beide scrollbare vensters
-met de Opties onder het tekstverwerker gebied.
+![Referentie- en doelitems naast elkaar](../../../nl/images/multilingual-associations/multilingual-associations-edit.png)
 
-### Formulier velden
+In dit voorbeeld zijn de items Artikelen. Elk is een scrollbaar venster met de itemopties onder het tekstbewerkingsgebied (niet weergegeven).
 
-Dit scherm hangt af van het gekozen item, ga dus naar:
+## Formuliervelden
 
-### Content
-
-- Artikelen
-- Artikelen
-  categorieën
-- Contactpersonen
-- Contactpersonen
-  categorieën
-- Menu's
-- Nieuwsfeeds
-- Nieuwsfeed
-  categorieën
-
-### Afbeeldingen en links
-
-- Artikelen
-
-### Opties
-
-- Artikelen
-- Artikelen
-  categorieën
-- Contactpersonen
-  categorieën
-- Nieuwsfeeds
-- Nieuwsfeed
-  categorieën
-
-### Publicatie
-
-- Artikelen
-- Artikelen
-  categorieën
-- Contactpersonen
-- Contactpersonen
-  categorieën
-- Nieuwsfeeds
-- Nieuwsfeed
-  categorieën
-
-### Associaties
-
-- Artikelen
-- Artikelen
-  categorieën
-- Contactpersonen
-- Contactpersonen
-  categorieën
-- Nieuwsfeeds
-- Nieuwsfeed
-  categorieën
-
-### Instellen bewerkscherm
-
-- Artikelen
-
-### Rechten
-
-- Artikelen
-- Artikelen
-  categorieën
-- Contactpersonen
-  categorieën
-- Nieuwsfeed
-  categorieën
-
-### Overige informatie
-
-- Contactpersonen
-
-### Toon
-
-- Contactpersonen
-
-### Formulier
-
-- Contactpersonen
+De formuliervelden zijn die van het geselecteerde type item en worden hier dus niet behandeld.
 
 ## Werkbalk
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-afbeelding hierboven.
+- **Referentie opslaan** Slaat de referentie op en blijft op het huidige scherm.
+- **Doel opslaan** Slaat het doel op en blijft op het huidige scherm.
+- **Referentie kopiëren naar doel** Kopieert alle referentievelden naar de doelvelden.
+- **Sluiten** Sluit het huidige scherm en keert terug naar het vorige scherm zonder wijzigingen die u mogelijk hebt aangebracht op te slaan.
 
-- **Verwijzing opslaan**. Slaat de verwijzing op en blijft in het
-  huidige scherm.
-- **Doel opslaan**. Slaat het doel op en blijf in het huidige scherm.
-- **Kopieer verwijzing naar doel**. Kopieert alle velden naar de
-  doelvelden.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-- **Help**. Opent dit helpscherm.
+*Vertaald door openai.com*
+

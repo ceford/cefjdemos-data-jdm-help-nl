@@ -1,85 +1,44 @@
-<!-- Filename: Help4.x:User_Notes:_New_or_Edit / Display title: Gebruikersnotities: Nieuw of bewerken -->
+<!-- Filename: Help4.x:User_Notes:_New_or_Edit  / Display title: Gebruikersnotities: Nieuw of Bewerken -->
 
 ## Beschrijving
 
-Gebruikersnotities zijn stukjes informatie die aan geregistreerde
-gebruikers kunnen worden gekoppeld op uw Joomla! site. Deze
-gebruikersnotities kunnen bijvoorbeeld commentaar over 'beledigende' of
-'moeilijke' gebruikers, etc bevatten.
+Gebruikersnotities zijn informatiestukken die toegewezen kunnen worden aan geregistreerde gebruikers op een Joomla! site. Bijvoorbeeld, gebruikersnotities kunnen opmerkingen bevatten over 'beledigende' of 'moeilijke' gebruikers.
 
-In dit scherm kunt u nieuwe gebruikersnotities aanmaken en bestaande
-bewerken. De 'tekstverwerker' is de gekozen 'tekstverwerker' voor
-huidige gebruiker. Bijvoorbeeld TinyMCE, JCE of Codemirror.
+De pagina *Gebruikersnotities: Nieuw of Bewerken* wordt gebruikt om een nieuwe gebruikersnotitie aan te maken of een bestaande gebruikersnotitie te bewerken.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Gebruikers → Gebruikersnotities** vanuit het
-  beheermenu. Dan...
-  - Selecteer **Nieuw** vanuit de werkbalk om een nieuwe notitie aan te
-    maken. Of...
-  - Selecteer een link vanuit de **Onderwerp** kolom om een bestaande
-    notitie te bewerken.
-- Of selecteer **Gebruikers → Beheren** vanuit het beheermenu.
-  Dan...
-  - Zoek een gebruiker op gebruikersnaam of e-mailadres. Dan...
-  - Selecteer **Notitie toevoegen** om een nieuwe notitie aan te maken.
-    Of...
-  - Selecteer **Toon lijst met notities** vanuit de drop-down lijst,
-    welke alleen getoond wordt als er voor deze gebruiker noties
-    bestaan. Of...
-  - Selecteer **Toon notitie** vanuit de drop-down lijst om de notities
-    in een pop-up te tonen.
+Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-users-notes-nl.png/800px-Help-4x-users-notes-nl.png.jpeg"
-decoding="async"
-srcset="https://docs.joomla.org/images/a/a0/Help-4x-users-notes-nl.png 1.5x"
-data-file-width="1112" data-file-height="768" width="800" height="553"
-alt="users notes" />
+## Hoe te benaderen
 
-## Gegevens
+- Selecteer **Gebruikers → Gebruikersnotities** in het Beheerdersmenu. Dan...
+  - Selecteer **Nieuw** in de Werkbalk om een nieuwe notitie te maken. Of...
+  - Selecteer een link in de kolom **Onderwerpen** om een bestaande notitie te bewerken.
+- Of Selecteer **Gebruikers → Beheren** in het Beheerdersmenu. Dan...
+  - Zoek naar een gebruiker op Gebruikersnaam of E-mail. Dan...
+  - Selecteer **Een Notitie Toevoegen** om een nieuwe notitie te maken. Of...
+  - Selecteer **Notitielijst Weergeven** in de vervolgkeuzelijst, die alleen wordt weergegeven als
+    er notities voor deze gebruiker bestaan. Of...
+  - Selecteer **Notitie Weergeven** in de vervolgkeuzelijst om notities in een
+    pop-up venster weer te geven.
 
-- **Onderwerp:** Het onderwerp van de notitie.
-- **Gebruiker:** De gebruiker voor wie de notitie is. U kunt een
-  bestaande gebruiker selecteren.
-- **Categorie:** (*Ongecategoriseerd*). De categorie waar deze notitie
-  aan toegewezen is.
-- **Status:** (*Gepubliceerd*/*Gedepubliceerd*/*Verplaatst naar
-  prullenbak*). Stel publicatiestatus in.
-- **Herzieningsdatum:** De herzieningsdatum is een handmatig ingevoerde
-  datum die u kunt gebruiken al naar gelang de manier waarop deze in uw
-  workflow past. Voorbeelden hiervan zijn het veld vullen met een datum
-  waarop u wilt dat een gebruiker wordt beoordeeld, of de meest recente
-  datum waarop een gebruiker voor het laatst door u is beoordeeld.
-- **Notitie versie:** Vul optioneel een notitie in voor deze versie van
-  het item.
-- **Notitie:** Voer de notitie in.
+## Screenshot
 
-## Werkbalk
+![gebruikers gebruikersnotities nieuw of bewerken](../../../nl/images/users/users-user-notes-new-or-edit.png)
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
+## Formuliervelden
 
-- **Opslaan:** Slaat de gebruikersnotitie op en blijf op het huidige
-  scherm.
+- **Onderwerp** De onderwerpregel voor de notitie.
+- **Gebruiker** Selecteer een bestaande gebruiker voor deze notitie. Een gebruiker kan meerdere notities hebben.
+- **Categorie** De categorie waaraan dit item is toegewezen.
+- **Status** Stel de publicatiestatus in.
+- **Beoordelingsdatum** Beoordelingsdatum is een handmatig ingevoerde datum die u kunt gebruiken zoals
+  passend voor uw workflow. Voorbeelden zouden zijn om een datum in te voeren waarop u een gebruiker wilt beoordelen of de laatste datum waarop u de gebruiker hebt beoordeeld.
+- **Versieopmerking** Voer een optionele opmerking in voor deze versie van het item.
+- **Notitie** Voer de notitie in.
 
-**Opslaan & sluiten**. Slaat de gebruikersnotitie op en sluit het
-huidige scherm.
+*Vertaald door openai.com*
 
-- **Opslaan & nieuw** - Slaat de gebruikersnotitie op en houdt het
-  bewerkscherm open, klaar voor het aanmaken van een andere
-  gebruikersnotitie.
-- **Opslaan als kopie** - Slaat uw wijzigingen op als kopie van de
-  huidige gebruikersnotitie. Beïnvloed de huidige gebruikersnotitie
-  niet. Dit werkbalk icoon wordt niet getoond bij het aanmaken van een
-  nieuwe gebruikersnotitie.
-- **Versies:** Opent het item versie geschiedenis scherm om eerdere
-  versies van dit item te tonen. Dit stelt u in staat oudere versies van
-  het item te bekijken en een oudere versie te herstellen. Zie Versie
-  historie
-  voor meer informatie.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-- **Help**. Opent dit helpscherm.

@@ -1,65 +1,34 @@
-<!-- Filename: Help4.x:Privacy:_Consents / Display title: Privacy: Toestemmingen -->
+<!-- Filename: Help4.x:Privacy:_Consents  / Display title: Privacy: Toestemmingen -->
 
 ## Beschrijving
 
-Dit scherm biedt een lijst met privacy toestemmingen die gesorteerd kan
-worden.
+De pagina *Privacy: Toestemmingen* biedt een sorteerbare lijst van privacybeleidstoestemmingen.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Gebruikers → Privacy → Toestemmingen** in het
-  beheermenu.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Lijstfilters](jdocmanual?article=help/common-elements/list-filters).
+* [Lijstkolomkoppen](jdocmanual?article=help/common-elements/list-column-headers).
+* [Lijstpaginatie](jdocmanual?article=help/common-elements/list-pagination).
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-component-privacy-consents-nl.png"
-class="new"
-title="File:Help-4x-component-privacy-consents-nl.png">800px</a>
+## Hoe te openen
+
+- Selecteer **Gebruikers → Privacy → Toestemmingen** in het Beheerdersmenu.
+
+## Screenshot
+
+![privacy toestemmingen](../../../nl/images/privacy/privacy-consents.png)
 
 ## Kolomkoppen
 
-1.  **Gebruikersnaam.**
-2.  **Gebruikers ID.** Het ID van de gebruiker die heeft ingestemd met
-    het privacybeleid
-3.  **Onderwerp.** Instemming met het privacybeleid
-4.  **Inhoud.** Toont informatie over de gebruikersinformatie die met
-    zijn instemming is opgeslagen (Gebruikers IP, gebruikte browser ...)
-5.  **Aangemaakt.** Geeft aan wanneer de toestemming is gegeven door de
-    gebruiker
-6.  **ID.** Dit is een uniek identificatienummer voor de
-    privacytoestemming dat automatisch door Joomla wordt toegewezen. Het
-    wordt gebruikt om het item intern te identificeren. U kunt dit
-    nummer niet aanpassen.
+*  **Gebruikersnaam**
+*  **Gebruikers-ID** De ID van de gebruiker die akkoord ging met het Privacybeleid.
+*  **Onderwerp** Het beleid waarmee is ingestemd.
+*  **Inhoud** Toont informatie over de opgeslagen gebruikersinformatie en
+    waarin is toegestemd (IP van de gebruiker, gebruikte browser ...).
+*  **Aangemaakt** Geeft aan wanneer de gebruiker toestemming heeft gegeven.
 
-## Lijst filters
+*Vertaald door openai.com*
 
-**Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande Screenshot.
-
-- **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
-  zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
-  aangeeft welke velden doorzocht worden.Om te **Zoeken op ID** geef je
-  "id:x" op, waarbij "x" het item ID nummer is (bijvoorbeeld, "id:19").
-- **Filteropties**. Klik om de extra filters te tonen.
-- **Wissen.** om het filterveld te wissen en de lijst in zijn initiële
-  status te zetten.
-- **Sortering**. Toont het huidige weergave volgorde veld. Er zijn 2
-  manieren om de volgorde aan te passen:
-  - Selecteer uit de uitklaplijst. De volgorde kan oplopend of aflopend
-    zijn.
-  - Klik op een kolomkop.De kolomkop wisselt tussen een oplopend en
-    aflopend volgorde.
-- **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
-  uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
-
-- **Toestemming afwijzen.** Actief als er een item geselecteerd is.
-- **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt.
-- **Help**. Opent dit helpscherm.

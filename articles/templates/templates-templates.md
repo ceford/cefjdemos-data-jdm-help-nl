@@ -1,73 +1,35 @@
-<!-- Filename: Help4.x:Templates:_Templates / Display title: Templates: Templates -->
+<!-- Filename: Help4.x:Templates:_Templates  / Display title: Sjablonen: Sjablonen -->
 
 ## Beschrijving
 
-Het **Templates: Templates** scherm geeft de mogelijkheid om templates
-te zien en bewerken, welke in Joomla zijn geïnstalleerd.
+De **Templates: Sjablonen** pagina stelt je in staat om sjablonen te bekijken en te bewerken die op je Joomla!-site zijn geïnstalleerd.
 
-## Hoe krijg ik toegang
+### Gemeenschappelijke Elementen
 
-Selecteer **Systeem → Templates venster → Website templates**
-vanuit het beheermenu. Of... Selecteer **Systeem → Templates
-venster → Beheer templates** vanuit het beheermenu.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Lijstfilters](jdocmanual?article=help/common-elements/list-filters).
+* [Kolomkoppen van de Lijst](jdocmanual?article=help/common-elements/list-column-headers).
+* [Paginering van de Lijst](jdocmanual?article=help/common-elements/list-pagination).
 
-De beheerder en website templateschermen hebben dezelfde weergave. Het
-website templatescherm staat hier.
+## Hoe te benaderen
 
-<img
-src="https://docs.joomla.org/images/thumb/9/92/Help-4x-Extensions-Template-Manager-Templates-screen-nl.png/800px-Help-4x-Extensions-Template-Manager-Templates-screen-nl.png.jpeg"
-decoding="async"
-srcset="https://docs.joomla.org/images/9/92/Help-4x-Extensions-Template-Manager-Templates-screen-nl.png 1.5x"
-data-file-width="1137" data-file-height="412" width="800" height="290"
-alt="Extensions Template Manager Templates screen" />
+- Selecteer **Systeem → Sjablonenpaneel → Sitesjablonen** vanuit het
+  Beheerdersmenu. Of...
+- Selecteer **Systeem → Sjablonenpaneel → Beheerdersjablonen**
+  vanuit het Beheerdersmenu.
 
-## Kolomkoppen
+## Screenshot
 
-Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
+De schermen voor de Beheerder en Sitetemplates gebruiken dezelfde indeling. Hier is het scherm voor Sitetemplates afgebeeld.
 
-- **Afbeelding.** Een miniatuurafbeelding zoals het template eruit ziet.
-- **Template.** De naam van het template. Selecteer de naam om de
-  templatebestanden te bewerken.
-- **Versie.** Het versienummer van het item.
-- **Datum.** De datum dat het item aangemaakt is door de ontwikkelaar.
-- **Auteur.** De ontwikkelaar van het template.
-- **Overschreven bestanden.** Indien het originele template niet
-  bijgewerkt is sinds er een override is aangemaakt toont deze kolom een
-  groen **Up-to-date** bericht. Als het originele template bijgewerkt is
-  wordt er een geel **Wijziging(en) gevonden** bericht getoond.
+![Templates sitetemplates lijst](../../../nl/images/templates/templates-site-templates-list.png)
 
-## Lijst filters
+## Lijst Filters
 
-- **Website of Beheerder.** Of het template voor de website of het
-  beheerdeel is.
+- **Site of Beheerder** Selecteer Site- of Beheerder-sjablonen.
 
-**Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande Screenshot.
 
-- **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
-  zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
-  aangeeft welke velden doorzocht worden.Om te **Zoeken op ID** geef je
-  "id:x" op, waarbij "x" het item ID nummer is (bijvoorbeeld, "id:19").
-- **Filteropties**. Klik om de extra filters te tonen.
-- **Wissen.** om het filterveld te wissen en de lijst in zijn initiële
-  status te zetten.
-- **Sortering**. Toont het huidige weergave volgorde veld. Er zijn 2
-  manieren om de volgorde aan te passen:
-  - Selecteer uit de uitklaplijst. De volgorde kan oplopend of aflopend
-    zijn.
-  - Klik op een kolomkop.De kolomkop wisselt tussen een oplopend en
-    aflopend volgorde.
-- **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
-  uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de
+*Vertaald door openai.com*
 
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
-
-- **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt.
-- **Help**. Opent dit helpscherm.

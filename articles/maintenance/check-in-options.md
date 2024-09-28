@@ -1,26 +1,29 @@
-<!-- Filename: Help4.x:Components_Check-in_Configuration / Display title: Componenten -  Check-in - Instellingen -->
+<!-- Filename: Help4.x:Check-in:_Options  / Display title: Inchecken: Opties -->
 
 ## Beschrijving
 
-Standaardrechten voor de check-in component.
+Standaard permissies gebruikt voor de Incheck Component.
 
-### Common Elements
+### Algemene Elementen
 
-Some aspects of this page are covered in separate Help articles:
+Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
-* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het Tabblad Rechten](jdocmanual?article=help/common-elements/edit-permissions).
 
-## Hoe toegang te krijgen
+## Hoe te Toegang
 
-- Selecteer **Systeem → Algemene check-in** scherm vanuit het beheermenu. Dan...
-  - Klik op de **Opties** knop rechtsboven aan het scherm. Dit opent het
-    **Inchecken - Opties scherm**.
+- Selecteer **Systeem → Onderhoudspanel → Globale Incheck** uit
+  het Beheerdersmenu.
+- Selecteer de **Opties** knop in de Werkbalk.
 
-## Schermafbeelding
+## Screenshot
 
-![Checkin options](../../../nl/images/maintenance/check-in-options.png)
+![Incheckopties](../../../nl/images/maintenance/check-in-options.png)
 
-## Snelle tips
+## Tips
 
-- Denk er aan dat deze keuzes algemeen gelden.
+- Onthoud dat deze keuzes wereldwijd worden toegepast.
+
+*Vertaald door openai.com*
+

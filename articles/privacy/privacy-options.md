@@ -1,48 +1,36 @@
-<!-- Filename: Help4.x:Privacy:_Options / Display title: Privacy: Opties -->
+<!-- Filename: Help4.x:Privacy:_Options  / Display title: Privacy: Opties -->
 
 ## Beschrijving
 
-Standaard opties om het aantal dagen (van 1 tot 29 dagen) in te stellen
-om een verzoek als dringend te beschouwen. Het toont een bericht in het
-Privacy dashboard scherm wanneer er verzoeken zijn die ouder zijn dan
-het gespecificeerde aantal dagen. De standaard instelling is 14 dagen.
+De *Privacy: Opties* pagina wordt gebruikt om het aantal dagen in te stellen waarin een verzoek als urgent wordt beschouwd.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Gebruikers → Privacy → Verzoeken** in het
-  beheermenu. Of...
-- Selecteer **Gebruikers → Privacy → Mogelijkheden** in het
-  beheermenu. Of...
-- Selecteer **Gebruikers → Privacy → Toestemmingen** in het
-  beheermenu. Dan...
-  - Klik op de **Opties** knop in de werkbalk.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/d/d9/Help-4.x-component-privacy-options-nl.png/800px-Help-4.x-component-privacy-options-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/d/d9/Help-4.x-component-privacy-options-nl.png 1.5x"
-data-file-width="1170" data-file-height="479" width="800" height="328"
-alt="Help 4.x component privacy options nl.png" />
+## Hoe Toegang Krijgen
 
-### Formulier velden
+- Selecteer **Gebruikers → Privacy → Verzoeken** in het Beheerdersmenu. Of...
+- Selecteer **Gebruikers → Privacy → Mogelijkheden** in het Beheerdersmenu. Of...
+- Selecteer **Gebruikers → Privacy → Toestemmingen** in het Beheerdersmenu. Dan...
+  - Selecteer de knop **Opties** op de Werkbalk.
 
-### Opties tabblad
+## Screenshot
 
-- **Aantal dagen om een verzoek 'Dringend' te beschouwen.** (*1 tot 29
-  dagen*). Hier kan het aantal dagen waarna een verzoek als dringend
-  wordt gezien worden ingesteld. Het toont een bericht in het Privacy
-  dashboard wanneer er verzoeken zijn die ouder zijn dan het
-  gespecificeerde aantal dagen.
+![privacy opties](../../../nl/images/privacy/privacy-options.png)
 
-## Werkbalk
+## Formulieren Velden
 
-Bovenaan de pagina ziet u de werkbalk zoals in de afbeelding hierboven.
-De functies zijn.
+### Opties Tab
 
-- **Opslaan.** Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-- **Help**. Opent dit helpscherm.
+- **Dagen Om Verzoek Als Dringend Te Beschouwen** Dit stelt je in staat
+  om het aantal dagen in te stellen om een verzoek als dringend te beschouwen. Het
+  zal een melding weergeven op het Privacy Dashboard wanneer er
+  verzoeken ouder zijn dan het opgegeven aantal dagen. Het bereik is van 1 dag tot 
+  29 dagen. 
+
+
+*Vertaald door openai.com*
+

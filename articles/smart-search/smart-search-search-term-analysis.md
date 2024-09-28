@@ -1,36 +1,32 @@
-<!-- Filename: Help4.x:Smart_Search:_Search_Term_Analysis / Display title: Slim zoeken: Zoekterm-analyse -->
+<!-- Filename: Help4.x:Smart_Search:_Search_Term_Analysis  / Display title: Slim Zoeken: Zoektermanalyse -->
 
 ## Beschrijving
 
-Toont een lijst met zinnen die gebruikt zijn bij het doorzoeken van de
-site door bezoekers. De 'slim zoeken' component-optie - **Verzamel
-zoekstatistieken** moet op **Ja** staan om statistieken te kunnen
-verzamelen.
+De *Smart Search: Zoekterm Analyse* pagina toont een lijst met zinnen die door sitebezoekers 
+zijn gebruikt voor het zoeken op de site. De optie **Zoekstatistieken Verzamelen** van de Smart Search 
+component moet op **Ja** staan om statistieken te verzamelen.
 
-## Hoe toegang te krijgen
+## Hoe te Toegangen
 
-- Selecteer **Componenten → Slim zoeken → Statistieken** in het
-  beheermenu.
+- Selecteer **Componenten → Slim Zoeken → Zoektermen** vanuit het
+  Beheerdersmenu.
 
-## Schermafbeelding
+## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/0/04/Help-4x-Component-Smart-Search-Searches-screen-nl.png/800px-Help-4x-Component-Smart-Search-Searches-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/0/04/Help-4x-Component-Smart-Search-Searches-screen-nl.png 1.5x"
-data-file-width="1004" data-file-height="572" width="800" height="456"
-alt="Component Smart Search Searches screen" />
+![smart search zoekterm analyse](../../../nl/images/smart-search/smart-search-search-term-analysis.png)
 
 ## Kolommen
 
-- **Zoekterm**. De zoektekst opgegeven door de gebruiker.
-- **Hits.** Het aantal keren dat een item is gebruikt.
-- **Resultaten.** Het aantal items als resultaat van het zoeken.
+- **Zoekterm** De zoekterm die door de sitegebruiker is ingevoerd.
+- **Hits** Het aantal keren dat deze term is gebruikt.
+- **Resultaten** Het aantal items dat voortkomt uit de zoekopdracht.
 
 ## Werkbalk
 
-Bovenaan de pagina ziet u de werkbalk zoals in de afbeelding hierboven.
-De functies zijn.
+Bovenaan de pagina zie je de werkbalk zoals weergegeven in de bovenstaande schermafbeelding. De functies zijn:
 
-- **Herstellen**. Zet de zoeklog terug op zijn initiële, lege status.
-  *Waarschuwing: Dit wist alle eerdere statistische zoek-informatie.*
+- **Reset**. Reset de zoeklog naar de oorspronkelijke, lege staat.
+  *Waarschuwing: Dit wist alle eerdere zoekstatistieken.*
+
+*Vertaald door openai.com*
+

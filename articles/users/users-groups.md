@@ -1,79 +1,55 @@
-<!-- Filename: Help4.x:Users:_Groups / Display title: Gebruikers: Groepen -->
+<!-- Filename: Help4.x:Users:_Groups  / Display title: Gebruikers: Groepen -->
 
 ## Beschrijving
 
-Gebruikersgroepen beheren welke acties een gebruiker mag uitvoeren op de
-site en welke objecten een gebruiker mag zien. Dit scherm geeft u de
-mogelijkheid om gebruikersgroepen aan te maken, bekijken, bewerken en
-verwijderen.
+Gebruikersgroepen bepalen welke acties een gebruiker kan uitvoeren op een site. Acties
+omvatten zaken zoals het bekijken van een artikel, het maken van een artikel, het wijzigen
+van opties voor een component of inloggen. De sitebeheerder wijst 
+machtigingen toe voor verschillende acties aan elke groep. Machtigingen voor acties kunnen 
+op verschillende locaties in de componenthiërarchie worden toegewezen, bijvoorbeeld 
+in de Globale Configuratie, componentopties of module-opties. Als een gebruikersgroep 
+geen toestemming heeft voor een bepaalde actie, kan een gebruiker in die groep 
+die actie niet uitvoeren.
 
-## Hoe toegang te krijgen
+Bekijktoegangscontrole wordt geïmplementeerd door het gebruik van **Toegangsniveaus**, 
+waaraan één of meer gebruikersgroepen zijn toegewezen. Activa zoals artikelen,
+menu-items of modules worden toegewezen aan een toegangsniveau. Een gebruiker die lid is van 
+een groep die is toegewezen aan een specifiek toegangsniveau, kan elk activum bekijken dat 
+is toegewezen aan dat toegangsniveau.
 
-- Selecteer **Gebruikers → Groepen** vanuit het beheermenu.
+Gebruikersgroepen kunnen worden gerangschikt in een hiërarchie waarin alle kindgroepen
+de actie-machtigingen en toegangsniveaus van een oudergroep erven. Wanneer 
+zorgvuldig gebruikt, kan deze functie veel tijd besparen door duplicatie te voorkomen bij 
+het opzetten van een sitebeveiligingssysteem.
 
-## Schermafbeelding
+De pagina *Gebruikers: Groepen* toont de huidige gebruikersgroepen in hiërarchie. Deze kan worden
+gebruikt om nieuwe gebruikersgroepen te maken en groepen te verwijderen die niet langer nodig zijn.
+Verwijder geen enkele van de standaard gebruikersgroepen!
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f5/Help-4x-users-user-manager-user-groups-nl.png/800px-Help-4x-users-user-manager-user-groups-nl.png.jpeg"
-decoding="async"
-srcset="https://docs.joomla.org/images/f/f5/Help-4x-users-user-manager-user-groups-nl.png 1.5x"
-data-file-width="1081" data-file-height="754" width="800" height="558"
-alt="users user manager user groups" />
+### Gemeenschappelijke Elementen
 
-## Kolomkoppen
+Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
-In de tabel met de gebruikers van de Joomla! website, zie je
-verschillende kolommen. Hier lees je wat ze betekenen en wat er in deze
-kolom wordt getoond.
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Lijstfilters](jdocmanual?article=help/common-elements/list-filters).
+* [Lijstkolomkoppen](jdocmanual?article=help/common-elements/list-column-headers).
+* [Lijstpaginering](jdocmanual?article=help/common-elements/list-pagination).
 
-- **Selectievakje**. Vink dit vakje aan om één of meer items te
-  selecteren. Vink het vakje in de kolomkop aan om alle selectievakjes
-  aan te vinken. Nadat één of meer vakjes zijn aangevinkt kan op een
-  werkbalkknop geklikt worden om een actie uit te voeren op de
-  geselecteerde item(s). De meeste acties via de werkbak, zoals
-  Publiceren en Depubliceren kunnen op meerdere items tegelijkertijd
-  uitgevoerd worden. Andere, zoals Bewerken, werken alleen voor één
-  item. Indien er meerdere items geselecteerd zijn en op Bewerken wordt
-  geklikt, opent het het eerste item om het te bewerken.
-- **Groep titel**. De naam van de groep.
-- **Rechten**. Link naar het geavanceerde rechten rapport wat de
-  precieze rechten voor een gebruikersgroep over alle assets toont in uw
-  Joomla installatie.
-- **Actieve gebruikers**. (vinkje) Het aantal van actieve gebruikers in
-  deze groep (klik op het aantal om ze te zien).
-- **Gedeactiveerde gebruikers**. (kruis) Het aantal gedeactiveerde
-  gebruiker in deze groep (klik op het aantal om ze te zien).
-- **ID**. Dit is een uniek identificatienummer voor dit item,
-  automatisch toegekend door Joomla!. Het wordt gebruikt om het item
-  intern te identificeren en u kunt dit nummer niet veranderen. Als u
-  een nieuw item aanmaakt, is dit veld "0" totdat u het opslaat, waarbij
-  een nieuw ID toegekend wordt.
+## Toegang krijgen
 
-## Lijst filters
+- Selecteer **Gebruikers → Groepen** in het Administrator-menu.
 
-Bovenaan de pagina ziet u de filterbalk zoals in de afbeelding
-hierboven. De functies zijn:
+## Screenshot
 
-- **Zoeken**. Filter op gedeeltelijke groepsnaam of groep-ID. Voer een
-  deel van de groepsnaam in en druk op het zoek-icoon om de
-  overeenkomende namen te vinden. Druk op wissen om het zoekveld leeg te
-  maken en de lijst met groepen te herstellen.
+![gebruikersgroepen](../../../nl/afbeeldingen/gebruikers/gebruikersgroepen-lijst.png)
 
-## Werkbalk
+## Tips
 
-Bovenaan de pagina ziet u de werkbalk zoals in de afbeelding hierboven.
-De functies zijn:
+- Selecteer de naam van een groep om de eigenschappen van de groep te bewerken.
+- Selecteer het Machtigingspictogram om de machtigingen van de groep voor toegang tot elke
+  asset te controleren. Dit wordt vaak gebruikt om problemen met toegangsrechten op te lossen.
+- Selecteer een nummer van Ingeschakelde Gebruikers om een lijst van ingeschakelde gebruikers in die groep te zien.
+- Selecteer een nummer van Geblokkeerde Gebruikers om een lijst van geblokkeerde gebruikers in die groep te zien.
 
-- **Nieuw**. Opent het bewerk scherm om een nieuwe user group te maken.
-- **Verwijderen:** Verwijderd de geselecteerde user groups. Werkt met
-  één of meerdere user groups geselecteerd. Als je een groep verwijderd
-  waar gebruikers aan toegevoegd zijn, zullen deze gebruikers de rechten
-  verliezen die men had voor deze groep. Het is aan te bevelen om eerst
-  alle gebruikers te verwijderen voor je de groep verwijderd.
-- **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt.
-- **Help**. Opent dit helpscherm.
+*Vertaald door openai.com*
 
-## Snelle tips
-
-- Klik op de groepsnaam om de eigenschappen van de groep te bewerken.

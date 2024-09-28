@@ -1,276 +1,97 @@
-<!-- Filename: Help4.x:News_Feed:_Options / Display title: Nieuwsfeeds: Opties -->
+<!-- Filename: Help4.x:News_Feed:_Options  / Display title: Nieuwsfeed: Opties -->
 
 ## Beschrijving
 
-Nieuwsfeed opties instellingen geven de mogelijkheid tot het instellen
-van parameters die algemeen gebruikt worden voor alle nieuwsfeeds.
+De configuratiepagina *Nieuwsfeed: Opties* staat het instellen van parameters toe die wereldwijd voor alle nieuwsfeeds worden gebruikt.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Componenten → Nieuwsfeeds → Feeds** vanuit het
-  beheermenu. Of...
-- Selecteer **Componenten → Nieuwsfeeds → Categorieën** vanuit
-  het beheermenu. Dan ...
-  - Klik op de *Opties* knop in de werkbalk.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het Tabblad Machtigingen](jdocmanual?article=help/common-elements/edit-permissions).
 
-<img
-src="https://docs.joomla.org/images/thumb/9/9c/Help-4x-Component-Newsfeed-Manager-Options-screenshot-nl.png/800px-Help-4x-Component-Newsfeed-Manager-Options-screenshot-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/9/9c/Help-4x-Component-Newsfeed-Manager-Options-screenshot-nl.png 1.5x"
-data-file-width="1165" data-file-height="848" width="800" height="582"
-alt="Component Newsfeed Manager Options screenshot" />
+## Hoe te Toegang
 
-### Formulier velden
+- Selecteer **Componenten → Nieuws Feeds → Feeds** uit het
+  Beheerdersmenu. Of...
+- Selecteer **Componenten → Nieuws Feeds → Categorieën** uit het
+  Beheerdersmenu. Dan...
+  - Selecteer de *Opties* knop op de Toolbar.
 
-### Nieuwsfeed tabblad
+## Screenshot
 
-Deze instellingen zijn van toepassing op alle nieuwsfeeds, behalve als
-ze veranderd zijn voor een specifiek nieuwsfeed menu-item of nieuwsfeed
+![Keuzemogelijkheden nieuwsoverzichten nieuwsoverzicht tabblad](../../../nl/images/news-feeds/news-feeds-options-news-feed-tab.png)
 
-- **Kies een weergave.** Standaard gebruikte weergave voor items.
-- **Versies inschakelen.** (Ja/Nee). Of wel of niet versie historie voor
-  deze component moet worden opgeslagen. Indien Nee, versie historie zal
-  niet worden opgeslagen voor component items of voor de categorieën van
-  deze component.
-- **Maximum aantal versies.** Het maximum aantal versies dat opgeslagen
-  wordt voor een item. Als een item opgeslagen wordt en het maximum
-  aantal bereikt bereikt is, zal de oudste versie automatisch verwijderd
-  worden. Indien op 0, zullen versies nooit automatisch verwijderd
-  worden. Specifieke versies kunnen ook gemarkeerd worden als "Bewaren"
-  en zullen niet automatisch verwijderd worden. Let op dat versies
-  handmatig verwijderd kunnen worden via de verwijder knop op het
-  Versie
-  historie
-  scherm.
-- **Feedafbeelding.** (Toon/Verberg). Toon of verberg de feedafbeelding.
-- **Feedbeschrijving.** (Toon/Verberg). Toon of verberg de
-  feedbeschrijving.
-- **Feedinhoud.** (Toon/Verberg). Toon of verberg de feedinhoud.
-- **Aantal tekens.** Maximaal aantal weer te geven tekens per feed. Dit
-  geeft de mogelijkheid de grootte van het feed te beperken.
-- **Feedweergave volgorde.** (Meest recent eerst/oudste eerst). De
-  volgorde die gebruikt wordt voor weergave van de feed.
-- **Uitlijning eerste afbeelding.** (Rechts/Links/Geen). Bepaalt
-  plaatsing van de afbeelding op de pagina.
-- **Uitlijning tweede afbeelding.** (Rechts/Links/Geen). Bepaalt
-  plaatsing van de afbeelding op de pagina.
-- **Toon Tags.** (Toon/Verberg). Toon of verberg de tags van het feed.
+## Formuliervelden
 
-### Categorie tabblad
+### News Feed Tab
 
-Categorie opties bepalen hoe feeds getoond worden als u via een
-categorie feeds bekijkt.
+Deze instellingen gelden voor alle News Feeds tenzij ze worden gewijzigd voor een specifiek menu-item of News Feed.
 
-<img
-src="https://docs.joomla.org/images/9/91/Help-4x-Component-Newsfeed-Manager-Options-category-options-subscreen-nl.png"
-decoding="async" data-file-width="706" data-file-height="611"
-width="706" height="611"
-alt="Component Newsfeed Manager Options category options subscreen" />
+- **Kies een lay-out** Selecteer een lay-out om te gebruiken voor artikelen.
+- **Versies inschakelen** Of je wel of niet versiegeschiedenis wilt opslaan voor deze component. Als deze optie op *Nee* staat, wordt de versiegeschiedenis niet opgeslagen voor componentitems of voor de categorieën van deze component.
+- **Maximale versies** Het maximale aantal versies dat voor een item moet worden opgeslagen. Als een item wordt opgeslagen en het maximale aantal versies is bereikt, wordt de oudste versie automatisch verwijderd. Als deze optie op 0 staat, worden versies nooit automatisch verwijderd. Ook kunnen specifieke versies worden gemarkeerd als *Voor altijd bewaren* en worden niet automatisch verwijderd. Let op dat versies handmatig kunnen worden verwijderd met behulp van de Verwijderknop in het versiegeschiedenis-scherm.
+- **Feed-afbeelding** Toon of verberg de feed-afbeelding.
+- **Feedbeschrijving** Toon of verberg de feedbeschrijving.
+- **Feedinhoud** Toon of verberg de feedinhoud.
+- **Aantal tekens** Het maximale aantal tekens dat voor elke feed wordt weergegeven. Dit is een manier om de grootte van de feed te beperken.
+- **Volgorde van feedweergave** De volgorde waarin de feeds worden weergegeven.
+- **Eerste afbeelding zweven** Waar de afbeelding op de pagina wordt weergegeven.
+- **Tweede afbeelding zweven** Waar de afbeelding op de pagina wordt weergegeven.
+- **Tags weergeven** Toon of verberg de tags van de feed.
 
-- **Kies een weergave.** (Blog/List/van component). Laat u de standaard
-  weergave selecteren die getoond wordt als u op een categorie link
-  klikt. Indien u een alternatieve weergave aanmaakt voor een
-  categorieweergave, dan kunt u die als standaard kiezen.
-- **Categorietitel.** (Toon/Verberg) Toon of verberg de titel van de
-  categorie.
-- **Beschrijving van categorie.** (Toon/Verberg) Toon of verberg de
-  beschrijving van de categorie.
-- **Afbeelding van categorie.** (Toon/Verberg) Toon of verberg de
-  afbeelding van de categorie.
-- **Subcategorieniveaus.** (Geen/Alle/1-5). Categorieën in Joomla kunnen
-  in een hiërarchie aangemaakt worden. Dit laat u bepalen hoeveel
-  niveaus van subcategorieën getoond worden bij het tonen van een
-  categorie lijst.
-- **Lege categorieën.** (Toon/Verberg). Toon of verberg de categorieën
-  die geen items of subcategorieën bevatten.
-- **Beschrijvingen subcategorieën.** (Toon/Verberg) Toon of verberg de
-  beschrijving van subcategorieën die getoond worden.
-- **\# Feeds in categorie**. (Toon/Verberg) Toon of verberg het aantal
-  nieuwsfeeds in een categorie.
-- **Toon tags.** (Toon/Verberg) Tonen of verbergen van de tags voor een
-  categorie.
+### Categorie Tab
 
-### Categorieën tabblad
+![Opties categorie tab nieuwsfeeds](../../../nl/images/news-feeds/news-feeds-options-category-tab.png)
 
-Deze instellingen zijn van toepassing op nieuwsfeed categorieën opties
-behalve als ze veranderd worden in een bepaald menu-item.
+- **Kies een lay-out** Selecteer Blog, Lijst of een door de gebruiker gedefinieerde lay-out om standaard te tonen wanneer een categorielink is geselecteerd.
+- **Categorietitel** Toon of verberg de titel van de categorie.
+- **Categoriebeschrijving** Toon of verberg de beschrijving van de categorie.
+- **Categorieafbeelding** Toon of verberg de categorieafbeelding.
+- **Subcategorie niveaus** Categorieën in Joomla kunnen in een hiërarchie worden gemaakt. Deze optie bepaalt hoeveel niveaus van subcategorieën worden getoond bij een categorie-weergave, *Geen*, *Alle* of een aantal van 1 tot 5.
+- **Lege categorieën** Toon of verberg categorieën die geen items of subcategorieën bevatten.
+- **Beschrijving van subcategorieën** Toon of verberg de beschrijvingen voor weergegeven subcategorieën.
+- **\# Feeds in categorie** Toon of verberg het aantal nieuwsfeeds in de categorie.
+- **Tags weergeven** Toon of verberg de tags voor een enkele categorie.
 
-<img
-src="https://docs.joomla.org/images/6/61/Help-4x-Component-Newsfeed-Manager-Options-categories-options-subscreen-nl.png"
-decoding="async" data-file-width="703" data-file-height="460"
-width="703" height="460"
-alt="Component Newsfeed Manager Options categories options subscreen" />
+### Categoriën Tab
 
-- **Hoofdniveau categoriebeschrijving.** (Toon/Verberg). Toon of verberg
-  de beschrijving van de hoofdcategorie.
-- **Subcategorieniveaus.** (Alle/1-5). Het aantal weer te geven
-  subcategorieniveaus.
-- **Lege categorieën.** (Toon/Verberg). Toon of verberg de categorieën
-  die geen items of subcategorieën bevatten.
-- **Beschrijving subcategorieën.** (Toon/Verberg). Toon of verberg de
-  beschrijving van elke subcategorie.
-- **\# Feeds in categorie**. (Toon/Verberg) Toon of verberg het aantal
-  nieuwsfeeds in een categorie.
+![Opties categorieën tab nieuwsfeeds](../../../nl/images/news-feeds/news-feeds-options-categories-tab.png)
 
-### Lijstweergave tabblad
+- **Beschrijving van hoofdcategorie** Toon of verberg de beschrijving van de hoofdcategorie.
+- **Subcategorie niveaus** Hoeveel niveaus in de hiërarchie moeten worden getoond.
+- **Lege categorieën** Toon of verberg categorieën die geen items en geen subcategorieën bevatten.
+- **Beschrijving van subcategorieën** Toon of verberg de beschrijving van elke subcategorie.
+- **\# Feeds in categorie** Toon of verberg het aantal nieuwsfeeds in de categorie.
 
-Deze instellingen zijn van toepassing op feed-lijstopties behalve als ze
-veranderd worden in een bepaald menu-item.
+### Lijst lay-outs Tab
 
-<img
-src="https://docs.joomla.org/images/7/76/Help-4x-Component-Newsfeed-Manager-Options-list-options-subscreen-nl.png"
-decoding="async" data-file-width="703" data-file-height="521"
-width="703" height="521"
-alt="Component Newsfeed Manager Options list options subscreen" />
+![Opties lijst lay-outs tab nieuwsfeeds](../../../nl/images/news-feeds/news-feeds-options-list-layouts-tab.png)
 
-- **Filterveld.** Het Filterveld maakt een tekstveld aan waar een
-  gebruiker een veld kan opgeven dat gebruikt moet worden om de
-  artikelen te filteren die getoond moeten worden. Een voorbeeld hoe dit
-  eruit ziet op de website wordt hieronder getoond.
+- **Filterveld** Het filterveld creëert een tekstveld waarin een gebruiker een veld kan invoeren om de weergegeven artikelen in de lijst te filteren.
+  - *Verbergen* Toon geen filterveld.
+  - *Titel* Filter op artikel titel.
+  - *Auteur* Filter op naam van de auteur.
+  - *Hits* Filter op het aantal keer dat het artikel is bekeken.
+- **Weergave selecteren** Toon of verberg de bedieningsknop die de gebruiker toestaat het aantal weer te geven items in de lijst te selecteren.
+- **Tablekoppen** Toon of verberg koppen boven de artikelenlijst.
+- **\# Artikelen** Toon of verberg het aantal artikelen in elke feed.
+- **Feed-links** Toon of verberg de URL van de feedlinks.
+- **Paginering** Verberg of Toon pagineringsondersteuning. Paginering biedt paginalinks onderaan de pagina waarmee de gebruiker naar extra pagina's kan navigeren.
+- **Resultaten Paginering** Toon of verberg het huidige paginanummer en het totale aantal pagina's (bijvoorbeeld, *Pagina 1 van 2*) onderaan elke pagina. Gebruik Globaal zal de standaardwaarde uit de componentopties gebruiken.
 
-<img
-src="https://docs.joomla.org/images/d/d8/Help-4x-article-category-list-filter-field-nl.png"
-decoding="async" data-file-width="265" data-file-height="53" width="265"
-height="53" alt="article category list filter field" />
+### Integratie Tab
 
-De mogelijke opties hiervoor (in het beheergedeelte menu-item bewerken)
-staan hieronder.
+![Opties integratie tab nieuwsfeeds](../../../nl/images/news-feeds/news-feeds-options-integration-tab.png)
 
-- *Verberg:* Toon geen filterveld.
-- *Titel:* Filter op artikeltitel.
-- *Auteur:* Filter op de naam van de auteur.
-- *Hits:* Filter op het aantal hits van artikelen.
-- **Toon selecteer.** (Toon/Verberg) Of het Toon \# getoond of verborgen
-  moet worden, welke de gebruiker de mogelijkheid geeft het aantal items
-  te selecteren dat getoond wordt in de lijst. Een voorbeeld wordt
-  hieronder getoond.
+- **IDs verwijderen uit URLs** Of je wel of niet de database-id van een nieuwsfeed in een link wilt weergeven.
 
-<img
-src="https://docs.joomla.org/images/9/9d/Help-4x-article-category-list-display-select-nl.png"
-decoding="async" data-file-width="81" data-file-height="215" width="81"
-height="215"
-alt="article category list display select" />
+## Tips
 
-Indien er meer items zijn dan dit aantal kunnen de pagina
-navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
-gebruikt worden om te navigeren tussen de pagina's. Wanneer u een groot
-aantal items heeft is het handig de filteropties te gebruiken die boven
-de kolomkoppen wordt getoond, en waarmee de items gelimiteerd kunnen
-worden.
+- Als je een beginnende gebruiker bent, kun je hier de standaardwaarden behouden totdat je meer leert over het gebruik van globale opties.
+- Als je een gevorderde gebruiker bent, kun je tijd besparen door hier geschikte standaardwaarden in te stellen. Wanneer je menu-items instelt en nieuwsfeed-menu-items creëert, kun je de standaardwaarden voor de meeste opties accepteren.
+- Alle waarden die hier zijn ingesteld, kunnen worden overschreven op het niveau van menu-item, categorie of nieuwsfeed.
 
-- **Tabelkoppen.** (Toon/Verberg) Tabelkoppen tonen een kop boven de
-  lijst met artikelen zoals hieronder getoond.
+*Vertaald door openai.com*
 
-<img
-src="https://docs.joomla.org/images/1/13/Help-4x-chunk-article-category-list-table-headings-nl.png"
-decoding="async" data-file-width="881" data-file-height="150"
-width="881" height="150"
-alt="chunk article category list table headings" />
-
-Indien ingesteld op *Toon* dan wordt deze kop getoond boven een lijst.
-Anders wordt de lijst zonder kop getoond.
-
-- **\# Artikelen.** (Toon/Verberg). Of het aantal artikelen in iedere
-  feed getoond moet worden.
-- **Feedlinks.** (Toon/verberg).Of de URL van de feed al dan niet
-  getoond moet worden.
-- **Pagination.** Hide or Show Pagination support. Pagination provides
-  page links at the bottom of the page that allow the User to navigate
-  to additional pages. These are needed if the listed items will not fit
-  on one page. An example is shown below.
-
-<img src="https://docs.joomla.org/images/8/81/Help30-pagination-en.png"
-decoding="async" data-file-width="299" data-file-height="29" width="299"
-height="29" alt="Help30 pagination en.png" />
-
-The following options are available.
-
-- *Use Global:* Use the default value from the component options screen.
-- *Auto:* Pagination links shown if needed.
-- *Show:* Pagination links shown if needed.
-- *Hide:* Pagination links not shown. Note: In this case, Users will not
-  be able to navigate to additional pages.
-- **Pagination Results.** Hide or Show the current page number and total
-  pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
-  will use the default value from the component options.
-
-### Integratie tabblad
-
-Deze opties bepalen de weergave van de nieuwsfeeds.
-
-<img
-src="https://docs.joomla.org/images/e/e0/Help-4x-Component-Newsfeed-Manager-Options-integration-options-subscreen-nl.png"
-decoding="async" data-file-width="697" data-file-height="267"
-width="697" height="267"
-alt="Component Newsfeed Manager Options integration options subscreen" />
-
-- **Verwijder ID's uit URL's.** (Ja of Nee) Of al dan niet de
-  database-ID van een artikel in een link moet worden getoond.
-
-### Rechten tabblad
-
-Deze sectie toont de rechten voor feeds. Het volgende scherm is
-zichtbaar.
-
-<img
-src="https://docs.joomla.org/images/1/10/Help-4x-Component-Newsfeed-Manager-Options-permissions-options-subscreen-nl.png"
-decoding="async" data-file-width="703" data-file-height="717"
-width="703" height="717"
-alt="Component Newsfeed Manager Options permissions options subscreen" />
-
-Om de rechten van deze extensie te wijzigen moet u de volgende
-handelingen uitvoeren.
-
-- Selecteer de **Groep** door op de titel aan de linkerzijde te klikken.
-- Zoek de gewenste **Actie**. Mogelijke Acties zijn:
-  - **Instellen ACL & Opties**. Gebruikers kunnen de opties en rechten
-    van deze extensie bewerken.
-  - **Alleen instellingenopties**. Gebruikers kunnen van deze extensie
-    de opties bewerken, behalve de rechten.
-  - **Toegang tot beheerdersinterface**. Gebruikers hebben toegang tot
-    de beheerdersinterface van deze extensie.
-  - **Maken:** Gebruikers mogen inhoud voor deze extensie aanmaken.
-  - **Verwijderen:** Gebruikers mogen inhoud in deze extensie
-    verwijderen.
-  - **Bewerken:** Gebruikers mogen inhoud in deze extensie bewerken.
-  - **Bewerk status:** Gebruikers kunnen de status en relevante
-    informatie van inhoud van deze extensie bewerken.
-  - **Bewerk eigen:** Gebruikers mogen de eigen inhoud van deze extensie
-    bewerken.
-- Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
-  Mogelijke instellingen zijn:
-  - '**Overgenomen:'** Overgenomen van gebruikers in deze groep vanuit
-    de Algemene instellingen rechten van deze extensie.
-  - '**Toegestaan:'** Toegestaan voor gebruikers in deze groep. Let op
-    dat wanneer deze actie op één van de hogere niveaus Geweigerd is het
-    Toegestaan-recht hier geen effect heeft. Een Geweigerd-instelling
-    kan niet worden overschreven.
-  - '**Geweigerd:'** Geweigerd voor alle gebruikers in deze groep.
-- Klik op **Opslaan** in de **werkbalk** bovenin. Wanneer het scherm
-  herladen wordt zal de nieuwe gecalculeerde rechten voor deze groep en
-  actie weergegeven worden.
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de afbeelding hierboven.
-De functies zijn.
-
-- **Opslaan.** Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-- **Help**. Opent dit helpscherm.
-
-## Snelle tips
-
-- Als u een beginnend gebruiker bent, , dan kunt u de de standaard
-  waarden aanhouden totdat u meer heeft geleerd over het gebruik van de
-  algemene opties.
-- Als u een gevorderde gebruiker bent, kunt u tijd besparen door hier
-  goede standaard waarden in te stellen. Als u menu-items maakt en
-  nieuwsfeeds aanmaakt, dan kunt u de standaard waarden voor de meeste
-  opties aanvaarden.
-- Alle waarden die hier ingesteld worden kunnen overschreven worden op
-  het menu-item, categorie of nieuwsfeed niveau.

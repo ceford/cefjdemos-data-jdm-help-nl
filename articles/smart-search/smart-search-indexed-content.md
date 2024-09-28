@@ -1,165 +1,67 @@
-<!-- Filename: Help4.x:Smart_Search:_Indexed_Content / Display title: Slim zoeken: Geïndexeerde inhoud -->
+<!-- Filename: Help4.x:Smart_Search:_Indexed_Content  / Display title: Slim Zoeken: Geïndexeerde Inhoud -->
 
 ## Beschrijving
 
-Dit scherm toont een lijst met alle inhoud-items die geïndexeerd zijn in
-Slim zoeken. Als de lijst leeg is
+De *Slimme Zoeken: Geïndexeerde Inhoud* pagina toont een lijst van alle inhoudsitems
+die zijn geïndexeerd in Slimme Zoeken.
 
-- Zorg ervoor dat de Slim zoeken plugin geactiveerd is.
-  - Om te controleren of de Slim zoeken plugin geactiveerd is:
-    - Selecteer **Systeem** vanuit het beheermenu en dan **Plugins**
-      vanuit het Beheren venster.
-    - Selecteer "content" vanuit de fileropties **-Selecteer type-**
-      lijst.
-    - Vind "Slim zoeken" in de lijst met getoonde plugins.
-    - Als er een groen vinkje staat in de Status kolom voor Slim zoeken,
-      dan is de Slim zoeken plugin geactiveerd. Als er een rood kruis
-      staat dan is de Slim zoeken plugin momenteel gedeactiveerd.
-  - Om de Slim zoeken plugin te activeren:
-    - Klik op het rode kruis. Dit zou moeten veranderen in een groen
-      vinkje, wat aangeeft dat de Slim zoeken plugin geactiveerd is.
+### Gemeenschappelijke Elementen
+
+Enkele elementen van deze pagina worden behandeld in aparte Help-artikelen:
+
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Lijstfilters](jdocmanual?article=help/common-elements/list-filters).
+* [Kolomkoppen van de Lijst](jdocmanual?article=help/common-elements/list-column-headers).
+* [Lijst Item Volgorde](jdocmanual?article=help/common-elements/list-ordering).
+* [Paginanummering van de Lijst](jdocmanual?article=help/common-elements/list-pagination).
+
+### Tutorial
+
+* Als u nieuw bent met Slimme Zoeken, lees dan de 
+  [Slimme Zoeken snelstartgids](https://docs.joomla.org/Smart_Search_quickstart_guide).
+
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten → Slim zoeken → Indexeren** in het
-  beheermenu.
+- Selecteer **Componenten → Smart Search → Index** via het Administratormenu.
 
-## Schermafbeelding
+## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/0/00/Help-4x-Components-Finder-Manage-Indexed-Content-screen-nl.png/800px-Help-4x-Components-Finder-Manage-Indexed-Content-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/0/00/Help-4x-Components-Finder-Manage-Indexed-Content-screen-nl.png 1.5x"
-data-file-width="1186" data-file-height="888" width="800" height="599"
-alt="Components Finder Manage Indexed Content screen" />
+![smart search geïndexeerde inhoud](../../../nl/images/smart-search/smart-search-indexed-content.png)
 
-## Een index aanmaken
+## Index Maken
 
-Klik op het Indexeren werkbalk icoon. Dit opent een scherm dat de
-voortgang van het indexeringsproces toont. Het indexeringsproces kan
-enige tijd duren, afhankelijk van het aantal inhoud-items op uw site en
-het aantal zoekwoorden en zinnen in ieder inhoud-item. Een
-voortgangsbalk geeft aan hoever het indexeringsproces tot nu toe is
-gevorderd. Sluit het venster niet totdat het indexeren voltooid is. Op
-sites met een grote hoeveelheid inhoud kan dit lang duren (tientallen
-minuten).
+Selecteer de **Index** knop in de werkbalk. Dit opent een venster om de voortgang van de indexeringsbewerking te tonen. De indexeringsbewerking kan enige tijd duren, afhankelijk van het aantal inhoudsitems op de site en het aantal zoekwoorden en -zinnen in elk inhoudsitem. Een voortgangsbalk zal aangeven hoeveel van het indexeringsproces er tot nu toe is voltooid. Sluit dit venster niet totdat het indexeren is voltooid. Op sites met een grote hoeveelheid inhoud kan dit lang duren (tientallen minuten).
 
-## Kolomkoppen
-
-In de tabel met de geïndexeerde inhoud van de Joomla! website, ziet u
-verschillende kolommen. Hier leest u wat deze betekenen en wat er in
-elke kolom wordt getoond.
-
-<img
-src="https://docs.joomla.org/images/3/3a/Help31-Components-Smart-Search-Manager-columns-nl.png"
-decoding="async" data-file-width="702" data-file-height="25" width="702"
-height="25"
-alt="Help31 Components Smart Search Manager columns nl.png" />
-
-- **Selectievakje**. Vink dit vakje aan om één of meer items te
-  selecteren. Vink het vakje in de kolomkop aan om alle selectievakjes
-  aan te vinken. Nadat één of meer vakjes zijn aangevinkt kan op een
-  werkbalkknop geklikt worden om een actie uit te voeren op de
-  geselecteerde item(s). De meeste acties via de werkbak, zoals
-  Publiceren en Depubliceren kunnen op meerdere items tegelijkertijd
-  uitgevoerd worden. Andere, zoals Bewerken, werken alleen voor één
-  item. Indien er meerdere items geselecteerd zijn en op Bewerken wordt
-  geklikt, opent het het eerste item om het te bewerken.
-- **Status**. De status van het inhoud-item binnen Slim zoeken.
-  Gepubliceerde items worden getoond met een groen vinkje;
-  niet-gepubliceerde items door een rood kruis. U kunt de status van een
-  item wijzigen door op het icoon te klikken. Het wijzigen van de status
-  op dit scherm beïnvloed alleen of het item beschikbaar is in
-  zoekresultaten en beïnvloed de inhoud zelf niet.
-- **Titel**. De titel van het inhoud-item.
-- **Type**. Het type van het inhoud-item.
-- **Laatst aangepast**. De datum waarop het inhoud-item voor het laatst
-  is geïndexeerd. Iedere wijziging aan de geïndexeerde velden van een
-  inhoud-item zal automatisch zorgen dat het inhoud-item opnieuw
-  geïndexeerd wordt.
-- **Gegevens**. De gegevens van een inhoud-item (Begin publicatie, Einde
-  publicatie, Begin inhoud, Einde inhoud).
-- **Ruwe URL**. De ruwe (niet-SEF) URL die gebruikt zal worden om het
-  inhoud-item op te halen in zoekresultaten.
-
-## Lijst filters
-
-**Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande Screenshot.
-
-- **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
-  zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
-  aangeeft welke velden doorzocht worden.Om te **Zoeken op ID** geef je
-  "id:x" op, waarbij "x" het item ID nummer is (bijvoorbeeld, "id:19").
-- **Filteropties**. Klik om de extra filters te tonen.
-- **Wissen.** om het filterveld te wissen en de lijst in zijn initiële
-  status te zetten.
-- **Sortering**. Toont het huidige weergave volgorde veld. Er zijn 2
-  manieren om de volgorde aan te passen:
-  - Selecteer uit de uitklaplijst. De volgorde kan oplopend of aflopend
-    zijn.
-  - Klik op een kolomkop.De kolomkop wisselt tussen een oplopend en
-    aflopend volgorde.
-- **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
-  uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de
-
-#### Filteropties
-
-- **Filter op publicatie status**. Kies of alleen gepubliceerde of
-  gedepubliceerde inhoud-items getoond moeten worden door het gewenste
-  item uit de drop-down lijst te selecteren. De publicatie status in
-  Slim zoeken is onafhankelijk van de publicatie status elders.
-- **Filter op type inhoud**. Selecteer het inhoud-item type uit de
-  drop-down lijst.
-- **Zoek Inhoudsschema**. Optioneel, gebruikt om te zoeken in de titel
-  van het inhoudsschema.
+U moet de indexering uitvoeren nadat nieuwe inhoud op de website is geïntroduceerd, waar de Smart Search-functie niet automatisch van op de hoogte is. Bijvoorbeeld, batchimport van nieuwe inhoud waarbij de importeur niet automatisch Smart Search triggert om elk nieuw inhoudsitem te indexeren. OPMERKING: De Smart Search-indexering kan ook via de command-line interface (CLI) worden uitgevoerd indien nodig. Zie Automatische Smart Search-indexering instellen.
 
 ## Werkbalk
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
+- **Index** Voert de Smart Search indexering uit. Er verschijnt een klein popup
+  venster met een voortgangsbalk die vordert terwijl het indexeringsproces
+  door de site-inhoud werkt.
+- **Acties** Selecteer een selectievakje om de vervolgkeuzelijst te activeren.
+  - **Publiceren** Maakt de geselecteerde items beschikbaar voor bezoekers van de website.
+  - **Niet publiceren** Maakt de geselecteerde items niet beschikbaar voor bezoekers
+    van de website.
+- **Verwijderen** Verwijdert de geselecteerde contentitems. Werkt met één of meerdere
+  geselecteerde contentitems. Het verwijderen van een contentitem uit Smart Search
+  verwijdert het alleen uit de index en heeft geen invloed op het contentitem zelf.
+- **Onderhoud**
+  - **Optimaliseren**
+  - **Index wissen** Zuivert de Smart Search index door alle index tabellen te legen.
+    Om Smart Search te blijven gebruiken selecteer de Index knop in de Werkbalk na het
+    zuiveren. WAARSCHUWING: Het zuiveren van de index maakt ook de inhoudsfilters leeg.
+    Deze moeten handmatig opnieuw worden ingevoerd na een Zuiver-Index cyclus.
+- **Statistieken** Toont enkele basisstatistieken over Smart Search.
 
-- **Indexeren**. Voert de Slim zoeken indexering uit. Er verschijnt een
-  klein pop-up scherm met een voortgangsbalk, welke door loopt terwijl
-  het indexeringsproces zich door de inhoud van uw website werkt. Sluit
-  dit pop-up scherm niet totdat het proces geëindigd is. Op sites met
-  een grote hoeveelheid inhoud kan dit lang duren (tientallen minuten).
-  U moet de indexering draaien nadat nieuwe inhoud is geplaatst op uw
-  website waar de Slim zoeken functie geen weet van heeft. Batch
-  importeren van nieuwe inhoud triggert bijvoorbeeld Slim zoeken niet
-  automatisch om nieuwe inhoud te indexeren. Let op: De Slim zoeken
-  indexering kan, indien gewenst, ook gedraaid worden vanaf de
-  command-line interface (CLI). Zie
-- **Publish**. Makes the selected items available to visitors to your
-  website.
-- **Unpublish.** Makes the selected items unavailable to visitors to
-  your website.
-- **Statistieken:** Toont een aantal standaard statistieken op Slim
-  zoeken
-- **Verwijderen:** Verwijderd de geselecteerde inhoud-items. Werkt met
-  één of meerdere inhoud-items geselecteerd. Verwijderen van een
-  inhoud-item uit Slim zoeken verwijdert het alleen uit de index en
-  beïnvloed het inhoud-item zelf niet.
-- **Opschonen index**. Leegt de Slim zoeken index door het legen van
-  alle index tabellen. Om Slim zoeken te blijven gebruiken moet u op het
-  Indexeren icoon drukken in de werkbalk na het opschonen. WAARSCHUWING:
-  Opschonen van de index leegt ook de inhoud-filters . U moet handmatig
-  de inhoud-filter instellingen opnieuw inbrengen na een
-  opschoon-cyclus.
-- **Help**. Opens this help screen.
-- **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt. Kijk bij Slim zoeken:
-  Opties
-  voor meer details.
+## Tips
 
-## Snelle tips
+- Als je de indexer uitvoert en je krijgt een *undefined null* fout, controleer dan
+  de permissies van de Joomla `/logs` directory. De webserver moet schrijfrechten
+  hebben op die directory zodat de indexer werkt.
+- Als de lijst leeg is, zorg er dan voor dat de Smart Search plug-in
+  is ingeschakeld.
 
-- Slim zoeken is geïntroduceerd in Joomla 3.0 maar wordt niet standaard
-  geactiveerd in die versie.
-- Als u nieuw bent bij Slim zoeken, dan zou u de Slim zoeken snelstart
-  gids
-  moeten lezen.
-- Als u de indexering uitvoert en een "undefined null" fout krijgt,
-  controleer dan de rechten op de Joomla `/logs` map. De webserver heeft
-  schrijfrechten op die map nodig om te indexeren.
+*Vertaald door openai.com*
+

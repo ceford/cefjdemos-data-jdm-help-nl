@@ -1,323 +1,103 @@
-<!-- Filename: Help4.x:Site_Modules:_Articles_-_Category / Display title: Site modules: Artikelen - Categorie -->
+<!-- Filename: Help4.x:Site_Modules:_Articles_-_Category  / Display title: Modules: Artikelen - Categorie -->
 
 ## Beschrijving
 
-Deze module toont een lijst met gepubliceerde artikelen uit een of meer
-categorieën.
+De module *Artikelen - Categorie* toont een lijst van gepubliceerde
+artikelen uit één of meer categorieën.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Systeem → Beheren → Website modules** vanuit het
-  beheermenu. Dan...
-  - Om een nieuwe module aan te maken: selecteer de **Nieuw** knop uit
-    de werkbalk. Dan...
-    - Selecteer het gewenste moduletype.
+Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikelen:
+
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [De Modules: Tab Modules](jdocmanual?article=help/modules/modules-module-tab).
+* [De Modules: Menu-toewijzingstab](jdocmanual?article=help/modules/modules-menu-assignment-tab).
+* [De Modules: Geavanceerde Tab](jdocmanual?article=help/modules/modules-advanced-tab).
+* [De Machtigingen Tab](jdocmanual?article=help/common-elements/edit-permissions).
+
+<!-- Te Doen: Een tutorial die laat zien hoe je deze module gebruikt -->
+
+## Hoe te Toegangen
+
+- Selecteer **Systeem → Beheer Paneel → Site Modules** uit het
+  Beheerdersmenu. Vervolgens...
+  - Om een nieuwe module te maken: selecteer de **Nieuw** knop in de Toolbar. Vervolgens...
+    - Selecteer het vereiste moduletype.
   - Om een bestaande module te bewerken:
-    - Zoek de module in de lijst met geïnstalleerde modules en selecteer
-      de titel-link in de **Titel** kolom.
+    - Zoek de module in de lijst van geïnstalleerde modules en selecteer de
+      titel link in de **Titel** kolom.
 
-## Schermafbeelding
+## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/7/79/Help-4x-modules-site-module-manager-module-articles-category-nl.png/800px-Help-4x-modules-site-module-manager-module-articles-category-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/7/79/Help-4x-modules-site-module-manager-module-articles-category-nl.png 1.5x"
-data-file-width="1188" data-file-height="1356" width="800" height="913"
-alt="modules site module manager module articles category" />
+![module tab van de artikelen categorie](../../../nl/images/modules-site/modules-articles-category-module-tab.png)
 
-### Formulier velden
+## Formuliervelden
 
-- **Titel.** De titel van de module. Dit is ook de titel die wordt
-  weergegeven in de module afhankelijk van de *Toon Titel* formulierveld
+- **Titel** De titel van de module. Dit is ook de titel die wordt weergegeven
+  voor de module afhankelijk van het *Titel Weergeven* formulier veld.
 
-### Module tabblad
+### Module Tabblad
 
-#### Linker venster
+#### Linker Paneel
 
-- **Modus:** (*Normaal*/*Dynamisch*). Selecteer de modus die u wilt
-  gebruiken. Als de normale modus is gekozen kan de module verder
-  ingesteld worden en zal een statische lijst met artikelen worden
-  weergegeven in het menu-item waaraan de module toegewezen is. Als de
-  dynamische modus gekozen wordt kan de module nog steeds normaal
-  ingesteld worden maar wordt de categorie optie niet meer gebruikt. In
-  plaats daarvan detecteert de module dynamisch of het in een
-  categorieweergave geladen wordt en zal een lijst met artikelen binnen
-  de categorie weergeven. Wanneer de dynamische modus is gekozen kan men
-  het beste de module op alle pagina's tonen, de module bepaald
-  automatisch of er iets dynamisch weergegeven kan worden.
-- **Toon op artikelpagina:** (*Ja*/*Nee*). Selecteer of de lijst van
-  artikelen wel of niet op een artikelpagina getoond moet worden. Dit
-  betekent dat de module alleen dynamisch getoond wordt op
-  categoriepagina's.
+- **Modus** Selecteer de modus om te gebruiken. Als Normale Modus is gekozen, configureer dan eenvoudig de module en hij zal een statische lijst van Artikelen weergeven op de menupagina's die u aan de module toewijst. Als Dynamische Modus is gekozen, kunt u de module nog steeds normaal configureren, maar nu zal de Categorie-optie niet langer worden gebruikt. In plaats daarvan detecteert de module dynamisch of u zich op een Categorie-weergave bevindt en geeft hij de lijst van artikelen binnen die Categorie weer. Wanneer Dynamische Modus is gekozen, is het het beste om de module in te stellen om op alle pagina's weer te geven, omdat hij dynamisch zal bepalen of er al dan niet iets moet worden weergegeven.
+- **Weergeven op Artikelpagina** Dit item verschijnt als *Dynamische* modus is geselecteerd. Selecteer om een Artikellijst van Artikelpagina's weer te geven of te verbergen. Dit betekent dat de module zich alleen dynamisch op Categoriepagina's zal weergeven.
 
-#### Rechter venster
+### Filteropties Tabblad
 
-- **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
-  getoond of verborgen moet worden. De titel wordt degene in het
-  formulierveld hierboven.
-- **Positie.** Kies de module
-  positie
-  waarop u wilt dat de module getoond wordt. Een aangepaste module
-  positie mag opgegeven worden om te gebruiken met de load positie
-  plugin
-  of er kan op de positie knop gedrukt worden om een module positie te
-  selecteren uit het template.
-- **Status**. De publicatiestatus van het item.
-- **Toegang**. Het
-  Toegangsniveau
-  om het item te bekijken.
-- **Module volgorde.** Dit toont een drop-down lijst met iedere module
-  op de positie waar de huidige module op staat. Dit is de zowel
-  volgorde waarin de modules getoond worden op de website als op de
-  Modulebeheer
-  pagina.
-- **Start publiceren**. Datum en tijd waarop de publicatie moet starten.
-  Gebruik dit veld wanneer u voortijdig inhoud wilt toevoegen die
-  automatisch op een bepaalde tijd in de toekomst gepubliceerd moet
-  worden.
-- **Beëindig publiceren**. Datum en tijd om te stoppen met publiceren.
-  Gebruik dit veld als u inhoud automatisch de status gedepubliceerd
-  wilt geven op een tijdstip in de toekomst (bijvoorbeeld wanneer het
-  niet meer van toepassing is).
-- **Taal**. Item taal.
-- **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
-  (bijvoorbeeld om informatie te documenteren voor dit item) en is niet
-  op de website zichtbaar.
+![artikelen categorie filteropties tabblad](../../../nl/images/modules-site/modules-articles-category-filtering-options-tab.png)
 
-### Moduletoewijzing tabblad
+- **Uitgelichte Artikelen** Toon of verberg of selecteer Alleen Uitgelichte Artikelen.
+- **Aantal** Het aantal items om weer te geven. De standaardwaarde van 0 zal
+  alle artikelen weergeven.
+- **Categorie Filter Type** Opnemen of uitsluiten van de geselecteerde categorieën.
+- **Categorie** Selecteer een of meer categorieën.
+- **Artikelen voor Subcategorieën** Opnemen of uitsluiten van artikelen in subcategorieën.
+- **Categorie Diepte** Het aantal subcategorieën niveaus om te retourneren.
+- **Auteur Filter Type** Opnemen of uitsluiten van artikelen door de geselecteerde auteurs.
+- **Auteurs** Selecteer een of meer auteurs uit de lijst.
+- **Auteur Alias Filter Type** Opnemen of uitsluiten van de geselecteerde auteur aliassen.
+- **Auteur Aliassen** Selecteer een of meer auteur aliassen uit de lijst.
+- **Artikel IDs om uit te sluiten** Voer elke Artikel ID apart in op een nieuwe regel.
+- **Datum Filteren** Selecteer het type datumfiltering.
+- **Datum Bereik Veld** Selecteer welk datumveld bereik moet worden gebruikt.
+- **Begindatum bereik** Als Datum Bereik hierboven is geselecteerd, voer dan een begindatum in.
+- **Einddatum** Als Datum Bereik hierboven is geselecteerd, voer dan een einddatum in.
+- **Relatieve Datum** Als Relatieve Datum hierboven is geselecteerd, voer dan een numerieke dagwaarde in. Resultaten worden opgehaald relatief aan de huidige datum en de ingevoerde waarde.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png/800px-Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png/1200px-Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 1.5x, https://docs.joomla.org/images/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 2x"
-data-file-width="1267" data-file-height="725" width="800" height="458"
-alt="modules manager site module menu assignment tab" />
+### Sorteeropties Tabblad
 
-- **Moduletoewijzing.** Selecteer **Op alle pagina's**, **Geen
-  pagina's**, **Alleen op de geselecteerde pagina's** of **Op alle
-  pagina's behalve de geselecteerden** uit de lijst.
-- **Menuselectie.** Wanneer de laatste twee opties gekozen worden zal er
-  een lijst worden weergegeven met alle menu-items zoals in het
-  schermafdruk hierboven is te zien. Dit geeft u de mogelijkheid om de
-  menu-links te kiezen waarmee de module geassocieerd moet worden. U
-  kunt hier kiezen op welke pagina's de module zichtbaar moet zijn. Zie
-  Hoe kunt u een module toewijzen aan specifieke
-  pagina's?
-  voor meer informatie.
+![artikelen categorie sorteeropties tabblad](../../../nl/images/modules-site/modules-articles-category-ordering-options-tab.png)
 
-### Opties voor filteren tabblad
+- **Veld om op te Sorteren** Selecteer een veld uit de lijst. Uitgelichte
+  Sorteren moet alleen worden gebruikt wanneer de Filteroptie voor Uitgelichte
+  Artikelen is ingesteld op *Alleen*.
+- **Sorteer Volgorde** Selecteer de volgorde van artikel sorteren.
 
-<img
-src="https://docs.joomla.org/images/thumb/d/d4/Help-4x-modules-site-module-manager-module-articles-category-filtering-options-nl.png/800px-Help-4x-modules-site-module-manager-module-articles-category-filtering-options-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/d/d4/Help-4x-modules-site-module-manager-module-articles-category-filtering-options-nl.png 1.5x"
-data-file-width="1186" data-file-height="693" width="800" height="467"
-alt="modules site module manager module articles category filtering options" />
+### Groepeeropties Tabblad
 
-- **Speciale artikelen:** (*Toon*/*Verberg*/*Alleen*). Selecteer om
-  speciale artikelen te tonen, verbergen of alleen te tonen.
-- **Aantal:** Het aantal items dat getoond moet worden. De standaard
-  waarde van 0 zal alle artikelen tonen.
-- **Categorie filtertype:** (*Inclusief*/*Exclusief*). Selecteer
-  inclusief om de geselecteerde categorieën op te nemen, exclusief om de
-  geselecteerde categorieën uit te sluiten.
-- **Categorie:** Selecteer alstublieft een of meer categorieën.
-- **Subcategorie artikelen:** (*Inclusief*/*Exclusief*). Neem artikelen
-  van onderliggende categorieën op of sluit ze uit.
-- **Categoriebereik:** Het aantal onderliggende categorieën dat terug
-  moet worden gegeven.
-- **Auteur filtertype:** (*Inclusief*/*Exclusief*). Selecteer inclusief
-  om de geselecteerde auteurs op te nemen, exclusief om de geselecteerde
-  auteurs uit te sluiten.
-- **Auteurs:** Selecteer een of meer auteurs uit onderstaande lijst.
-- **Auteur alias filtertype:** (*Inclusief*/*Exclusief*). Selecteer
-  inclusief om de geselecteerde auteur aliassen op te nemen, exclusief
-  om de geselecteerde auteur aliassen uit te sluiten.
-- **Auteur aliassen:** Selecteer een of meer auteur aliassen uit
-  onderstaande lijst.
-- **Artikel IDs om uit te sluiten:** Voer ieder artikel-ID in op een
-  nieuwe regel.
-- **Datumfilter:** (*Uit*/*Datum-bereik*/*Relatieve datum*). Selecteer
-  Datumfilter type.
-- **Datumbereikveld:** (*Aanmaakdatum*/*Aanpassingsdatum*/*Startdatum
-  publicatie*). Selecteer op welk datumveld het datumbereik toegepast
-  moet worden.
-- **Startdatum:** Indien hierboven datumbereik is geselecteerd geef dan
-  een startdatum in.
-- **Einddatum:** Als hierboven datumbereik is gekozen, voer dan een
-  einddatum in.
-- **Relatieve datum:** Als hierboven relatieve datum is geselecteerd,
-  geef dan een numerieke dagwaarde in. Het resultaat wordt opgehaald
-  relatief tot de huidige datum en de waarde die u opgeeft.
+![artikelen categorie groepeeropties tabblad](../../../nl/images/modules-site/modules-articles-category-grouping-options-tab.png)
 
-### Opties voor sorteren tabblad
+- **Artikel Groepering** Selecteer een artikel groeperingsmethode uit de lijst.
+- **Groepering Volgorde** Selecteer de groeperingsvolgorde.
+- **Maand en Jaar Weergaveformaat** Voer een geldig datumformaat in.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c6/Help-4x-modules-site-module-manager-module-articles-category-ordering-options-nl.png/800px-Help-4x-modules-site-module-manager-module-articles-category-ordering-options-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/c/c6/Help-4x-modules-site-module-manager-module-articles-category-ordering-options-nl.png 1.5x"
-data-file-width="1140" data-file-height="435" width="800" height="305"
-alt="modules site module manager module articles category ordering options" />
+### Weergaveopties Tabblad
 
-- **Artikelveld sortering:** (*Volgorde artikelen*/*Volgorde speciale
-  artikelen*/*Hits*/*Titel*/*ID*/*Alias*/*Aanmaakdatum*/...). Selecteer
-  op welk veld artikelen gesorteerd moeten worden. Speciaal zou alleen
-  moeten worden gebruikt als de filteropties van speciale artikelen
-  staan op 'Alleen'.
-- **Richting sortering:** (*Aflopend*/*Oplopend*). Selecteer de richting
-  waarop artikelen gesorteerd moeten worden.
+![artikelen categorie weergaveopties tabblad](../../../nl/images/modules-site/modules-articles-category-display-options-tab.png)
 
-### Opties voor groeperen tabblad
+- **Gelinkte Titels** Toon titels als links naar artikelen.
+- **Datum** Toon of verberg de artikel datum.
+- **Datum Veld** Selecteer het datumveld om weer te geven.
+- **Datum Formaat** Voer een geldig datumformaat in.
+- **Categorie** Toon of verberg de categorienaam van het artikel.
+- **Hits** Toon of verberg het aantal hits van het artikel.
+- **Auteur** Toon of verberg de naam van de auteur of auteur alias.
+- **Introtekst** Toon of verberg de introtekst van het artikel.
+- **Introtekst Limiet** Het maximale aantal tekens om weer te geven.
+- **Toon "Lees Meer"** Toon of verberg de *Lees meer...* link als het hoofdtekst van het artikel is voorzien.
+- **Toon Titel met Lees Meer** Toon of verberg de titel van het artikel in de *Lees meer...* link.
+- **Lees Meer Limiet** Beperk het aantal tekens van de artikel titel om weer te geven in de *Lees meer...* link.
 
-<img
-src="https://docs.joomla.org/images/thumb/a/af/Help-4x-modules-site-module-manager-module-articles-category-grouping-options-nl.png/800px-Help-4x-modules-site-module-manager-module-articles-category-grouping-options-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/a/af/Help-4x-modules-site-module-manager-module-articles-category-grouping-options-nl.png 1.5x"
-data-file-width="1151" data-file-height="348" width="800" height="242"
-alt="modules site module manager module articles category grouping options" />
+*Vertaald door openai.com*
 
-- **Groepering voor artikelen:** (*Geen*/*Jaar*/*Maand en
-  Jaar*/*Auteur*/*Categorie*). Selecteer hoe u wilt dat artikelen
-  gegroepeerd worden.
-- **Richting groepering:** (*Aflopend*/*Oplopend*). Selecteer de
-  richting waarop artikelgroepen gesorteerd moeten worden.
-- **Maand en jaar weergaveformaat:** Voer alstublieft een juist
-  datumformaat in.
-
-### Weergave opties tabblad
-
-<img
-src="https://docs.joomla.org/images/thumb/a/a2/Help-4x-modules-site-module-manager-module-articles-category-display-options-nl.png/800px-Help-4x-modules-site-module-manager-module-articles-category-display-options-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/a/a2/Help-4x-modules-site-module-manager-module-articles-category-display-options-nl.png 1.5x"
-data-file-width="1141" data-file-height="441" width="800" height="309"
-alt="modules site module manager module articles category display options" />
-
-- **Gelinkte titels:** (*Ja*/*Nee*).
-- **Datum:** (*Toon*/*Verberg*). Selecteer 'Toon' als u de datum wilt
-  tonen.
-- **Datumveld:** (*Aanmaakdatum*/*Aanpassingsdatum*/*Startdatum
-  publicatie*). Selecteer welk datumveld getoond moet worden.
-- **Datumformaat:** Voer alstublieft een juist datumformaat in.
-- **Categorie:** (*Toon*/*Verberg*). Selecteer 'Toon' als u de
-  categorienaam wilt tonen.
-- **Hits:** (*Toon*/*Verberg*). Selecteer 'Toon' als u wilt dat de hits
-  voor ieder artikel getoond moeten worden.
-- **Auteur:** (*Toon*/*Verberg*). Selecteer 'Toon' als uw wilt dat de
-  auteur (of, indien beschikbaar, auteur-alias in plaats daarvan)
-  getoond moet worden.
-- **Introtekst:** (*Toon*/*Verberg*). Selecteer 'Toon' als u de
-  introtekst wilt tonen.
-- **Introtekst limiet:** Geef alstublieft een numerieke limietwaarde in.
-  De introtekst wordt afgekapt op het ingegeven aantal tekens.
-- **Toon "Lees meer":** (*Toon*/*Verberg*). Indien ingesteld op 'Toon'
-  wordt de 'Lees meer..' link getoond als er een hoofdtekst is in het
-  artikel.
-- **Titel met "Lees meer":** (*Toon*/*Verberg*). Indien ingesteld 'Toon'
-  dan wordt de titel van het artikel getoond op de 'Lees meer..'-knop.
-- **Lees meer limiet:** Stel een limiet in op het aantal tekens in
-  artikeltitels die getoond moeten worden op de 'Lees meer..'-knop.
-
-### Geavanceerd tabblad
-
-<img
-src="https://docs.joomla.org/images/thumb/c/c0/Help-4x-modules-site-module-manager-module-articles-category-advanced-options-nl.png/800px-Help-4x-modules-site-module-manager-module-articles-category-advanced-options-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/c/c0/Help-4x-modules-site-module-manager-module-articles-category-advanced-options-nl.png 1.5x"
-data-file-width="1124" data-file-height="486" width="800" height="346"
-alt="modules site module manager module articles category advanced options" />
-
-- **Weergave.** Als u één of meer alternatieve lay-outs voor een module
-  heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
-  de layout voor de module hier selecteren.
-- **Module class.** Een achtervoegsel dat toegevoegd wordt aan de CSS
-  class van de Module. Dit stelt u in staat aangepaste CSS stijlen aan
-  te maken die alleen op deze module worden toegepast. U kunt dan het
-  "user.css" bestand van uw template aanpassen om de stijl toe te voegen
-  aan de nieuwe class. Geef deze parameter op met een voorafgaande
-  spatie om een nieuwe CSS class voor deze module aan te maken. Geef de
-  parameter zonder voorafgaande spatie om de CSS class naam voor deze
-  module aan te passen.
-- **Cachen.** Gebruik algemeen/Niet cachen. Of de inhoud van deze module
-  al dan niet gecached moet worden. Het instellen van "Gebruik algemeen"
-  zal de cache instellingen uit de Algemene instellingen gebruiken.
-- **Cachetijd.** Het aantal seconden waarvoor de cache van het item
-  lokaal wordt opgeslagen. Deze kan veilig op de standaardwaarde blijven
-  staan.
-- **Modulestijl.** U kunt deze optie gebruiken om de template-stijl voor
-  deze positie te overschrijven.
-- **Module-tag.** De HTML tag waar de module in geplaatst wordt. Dit is
-  standaard een div tag maar andere HTML5 elementen kunnen ook worden
-  gebruikt.
-- **Bootstrap grootte.** (waarden 0 tot 12) Dit stelt u in staat de
-  breedte van de module in te stellen via het span element uit
-  bootstrap.
-- **Koptekst-tag.** De HTML tag die gebruikt moet worden voor de header
-  of titel van de module. Dit kan een h1, h2, h3, h4, h5, h6 of een p
-  tag zijn. Let op dat u een module stijl (chrome) moet gebruiken met
-  *html5* of uw eigen stijlen toevoegen in */html/modules.php*.
-- **Koptekst class.** Hier kunt u optionele CSS classes toevoegen aan
-  het header of titel element.
-
-### Rechten tabblad
-
-<img
-src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png/800px-Help-4x-modules-manager-admin-module-administrator-permissions-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x"
-data-file-width="977" data-file-height="665" width="800" height="545"
-alt="modules manager admin module administrator permissions" />
-
-Doe, om de rechten te veranderen, het volgende.
-
-- Selecteer de **Groep** door links op de titel te klikken.
-- Zoek de gewenste **Actie**. Mogelijke acties zijn:
-  - **Verwijderen**. Gebruikers kunnen deze categorie verwijderen.
-  - **Bewerken**. Gebruikers kunnen de module bewerken.
-  - **Bewerk status**. Gebruikers kunnen de gepubliceerde status en de
-    verwante informatie van de module wijzigen.
-- Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
-  Mogelijke instellingen zijn:
-  - '**Overgenomen:'** Overgenomen van gebruikers in deze groep vanuit
-    de Algemene instellingen, Artikelen: Opties of Categorie rechten.
-  - '**Toegestaan:'** Toegestaan voor gebruikers in deze groep. Let op
-    dat wanneer deze actie op één van de hogere niveaus Geweigerd is het
-    'Toegestaan' recht hier geen effect heeft. Een instelling geweigerd
-    kan niet worden overschreven.
-  - '**Geweigerd:'** Geweigerd voor alle gebruikers in deze groep.
-- Klik op **Opslaan** in de **werkbalk**. Wanneer het scherm wordt
-  vernieuwd, tonen de berekende instellingen de effectieve rechten voor
-  deze groep en actie.
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de afbeelding hierboven.
-De functies zijn.
-
-- **Opslaan.** Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Opslaan & nieuw**. Slaat item op en houdt het bewerkscherm open,
-  klaar voor het aanmaken van een ander item.
-- **Opslaan als kopie**. Slaat uw wijzigingen op als een kopie van het
-  huidige item. Beïnvloed het huidige item niet. Dit werkbalk icoon
-  wordt niet getoond bij het aanmaken van een nieuw item.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-- **Help**. Opent dit helpscherm.
-
-## Website schermafbeelding
-
-*Voorbeeld frontend afbeeldingen zijn generieke afbeeldingen die gebruik
-maken van de Joomla! core met gratis geleverde frontend templates. De
-werkelijke weergave is afhankelijk van de geïnstalleerde aanpaste
-template en de template stijl van de Joomla! website.* Artikel categorie
-module:
-
-<img
-src="https://docs.joomla.org/images/0/0f/Help-4x-module-manager-articles-category-frontend-screenshot-nl.png"
-decoding="async" data-file-width="278" data-file-height="303"
-width="278" height="303"
-alt="module manager articles category frontend screenshot" />
-
-De module type naam voor deze module is "mod_articles_category". Het is
-gerelateerd aan de inhoud component.

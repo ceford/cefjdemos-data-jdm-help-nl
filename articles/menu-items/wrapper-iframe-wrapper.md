@@ -1,185 +1,55 @@
-<!-- Filename: Help4.x:Menu_Item:_Iframe_Wrapper / Display title: Menu-item: Iframe wrapper -->
+<!-- Filename: Help4.x:Menu_Item:_Iframe_Wrapper  / Display title: Iframe Wrapper  -->
+
 
 ## Beschrijving
 
-De 'Iframe wrapper' wordt gebruikt om een pagina aan te maken met
-opgenomen inhoudvia een
-<a href="https://en.wikipedia.org/wiki/HTML_element#Frames"
-class="extiw" title="wikipedia:HTML element">IFrame</a> met controle
-over de iframe grootte, breedte en hoogte.
+Het *Iframe Wrapper* menu-item type wordt gebruikt om een pagina te maken met ingebedde inhoud met behulp van een IFrame, waarbij je controle hebt over de iframe-grootte, breedte en hoogte.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-Om een nieuw 'Iframe wrapper' menu-item aan te maken:
+Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikelen:
 
-- Selecteer **Menu's → \[naam van het menu\]** uit het drop-down
-  menu in de back-end van uw Joomla! installatie (bijvoorbeeld
-  **Menu's → Hoofdmenu**).
-- Klik op de knop Nieuw in de werkbalk om een nieuw menu-item te maken.
-- Klik op de Menu-itemtype selectie knop <img
-  src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
-  decoding="async" data-file-width="124" data-file-height="43" width="124"
-  height="43" alt="Menu Item Type Select Button" /> en
-  klik vervolgens op de 'Iframe wrapper' menu-item link onder Wrapper.
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Het Details Tabblad](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [Het Link Type Tabblad](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [Het Paginaweergave Tabblad](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [Het Metadata Tabblad](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [Het Associaties Tabblad](jdocmanual?article=help/common-elements/edit-associations).
+* [Het Module Toewijzing Tabblad](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
 
-Om een bestaand 'Iframe wrapper' menu-item te bewerken, klikt u op de
-titel in
+## Hoe Toegang Krijgen
 
-## Schermafbeelding
+Om een nieuw IFrame Wrapper Menu Item aan te maken:
 
-<img
-src="https://docs.joomla.org/images/thumb/1/14/Help-4x-Menus-Menu-Item-Wrapper-nl.png/800px-Help-4x-Menus-Menu-Item-Wrapper-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/1/14/Help-4x-Menus-Menu-Item-Wrapper-nl.png 1.5x"
-data-file-width="980" data-file-height="886" width="800" height="723"
-alt="Menus Menu Item Wrapper" />
+- Selecteer **Menu's → \[naam van het menu\]** vanuit het Beheerdersmenu (bijvoorbeeld, **Menu's → Hoofdmenu**). Vervolgens...
+  - Selecteer de **Nieuw** knop in de Toolbar. Vervolgens...
+  - Selecteer de Menu Item Type Select-knop.
+  - In de modale dialoog selecteer het Gebruikers item om een lijst te openen en selecteer daarna het **Iframe Wrapper** menu item.
 
-## Formulier velden
+Om een bestaand *IFrame Wrapper* menu item te bewerken:
 
-- **Titel**. De titel die wordt getoond voor dit menu item.
-- **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
-  laten en Joomla zal de standaardwaarde invullen. De standaard waarde
-  is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. Meer
-  leren.
+- Selecteer de Titel in de *Menu: Items* lijst.
 
-### Details tabblad
+## Screenshot
 
-#### Linker venster
+![Iframe wrapper details tab](../../../nl/images/menu-items/wrapper-iframe-wrapper-details-tab.png)
 
-- **Menu-itemtype**. Het menu-item type dat geselecteerd is toen het
-  mneu-item aangemaakt werd. Dit kan een van de core menu-item types
-  zijn of een menu-item type geleverd door een geïnstalleerde extensie.
-- **URL**. Veld om een URL in te vullen (website adres).
+## Formulier Velden
 
-In het algemeen is het een goed idee altijd http:// of https:// toe te
-voegen bij het opgeven van een URL. Er is een Automatisch
-toevoegen
-functie om een URL te laten voorafgaan met http:// tenzij hij het
-voorvoegsel in de URL ziet. *Let op - Gebruik het relatieve pad naar een
-website adres in de Joomla installatie. als uw Joomla! website
-`http://www.example.com` is, gebruik dan ` /html_docs/example.html`
-zonder `http://www.example.com` en zorg dat de 'Automatisch toevoegen'
-functie uitgeschakeld is.*
+### Scrollbalk Parameters Tab
 
-- **Link**. De door het systeem gegenereerde link voor dit menu-item.
-  Dit veld kan niet veranderd worden en is alleen ter informatie.
-- **Doelvenster.** Selecteer uit de uitklaplijst.
-- **Templatestijl.** Selecteer uit de uitklaplijst.
+![Iframe wrapper scrollbalk parameters tab](../../../nl/images/menu-items/wrapper-scroll-bar-parameters-tab.png)
 
-#### Rechter venster
+- **Breedte** Breedte van het IFrame-venster. Voer een aantal pixels in of een percentage. Bijvoorbeeld, *550* betekent 550 pixels; *75%* betekent 75% van de
+  `<main>` container breedte. Een absoluut aantal pixels kan breder zijn dan de container en lay-outproblemen veroorzaken. Bij twijfel, probeer 100%.
+- **Hoogte** Hoogte van het IFrame-venster. Voer een aantal pixels in. Bijvoorbeeld, *550* betekent 550 pixels.
 
-- **Menu:** (*Hoofdmenu*/*Gebruikersmenu*/...). Toont in welk menu een
-  link wordt weergegeven.
-- **Hoofditem:** (*Menu-item root*/...). Selecteer een hoofditem
-- **Volgorde:** Volgorde is beschikbaar na opslaan
-- **Status:** (*Gepubliceerd*/*Gedepubliceerd*/*Verplaatst naar
-  prullenbak*). Stel publicatiestatus in.
-- **Standaard pagina:** (*Ja*/*Nee*). Stel dit menu in als standaard of
-  startpagina van de website. U dient altijd een standaard pagina
-  ingesteld te hebben.
-- **Toegang:** (*Gast*/*Publiek*/*Geregistreerd*/*Speciaal*/*Super
-  gebruikers*). Toegangsniveau voor deze inhoud.
-- **Taal:** (*Alle*/*English (en-GB)*/*Nederlands (NL)*). Wijs een taal
-  toe aan dit menu-item
-- **Notitie:** Een optionele notitie die getoond wordt in menubeheer.
+### Geavanceerd Tab
 
-### Instellingen scrollbalken tabblad
+![Iframe wrapper geavanceerd tab](../../../nl/images/menu-items/wrapper-advanced-tab.png)
 
-<img
-src="https://docs.joomla.org/images/4/4a/Help-4x-Menus-Menu-Item-Wrapper-Scroll-Bar-parameters-screenshot-nl.png"
-decoding="async" data-file-width="653" data-file-height="296"
-width="653" height="296"
-alt="Menus Menu Item Wrapper Scroll Bar parameters screenshot" />
+- **Auto hoogte** Automatisch de hoogte instellen op de hoogte van de externe pagina. *Opmerking* - Dit werkt alleen als de externe pagina zich op **dezelfde domein** bevindt. Bijvoorbeeld, `http://www.example.com` de externe html moet in de `example.com` root structuur staan. Subdomeinen zullen niet werken, aangezien een subdomein als een apart domein wordt beschouwd.
+- **Auto toevoegen** Automatisch webadres voorvoegen met http://. Deze functie zal automatisch detecteren en geen voorvoegsel toevoegen aan een URL die al http:// of https:// in de URL gebruikt.
+- **Lui Laden** ...
 
-- **Scrollbalken:** "(Nee/Ja/Automatisch)" Al dan niet opnemen van
-  horizontale en verticale schuifbalken, nee of ja. Automatisch zal de
-  schuifbalken automatisch toevoegen wanneer dat nodig door de omvang
-  van de ingesloten pagina.
-- **Breedte:** Breedte van het IFrame-venster. Voer een aantal pixels in
-  of geef een percentage (%). Bijvoorbeeld, "550" betekend 550 pixels.
-  "75%" betekent 75% van de breedte van de pagina.
-- **Hoogte:** Hoogte van het IFrame-venster. Voer een aantal pixels in
-  of geef een percentage (%). Bijvoorbeeld, "550" betekend 550 pixels.
-  "75%" betekent 75% van de hoogte van de pagina.
 
-### Geavanceerd tabblad
-
-<img
-src="https://docs.joomla.org/images/0/0b/Help-4x-Menus-Menu-Item-Wrapper-Advanced-options-screenshot-nl.png"
-decoding="async" data-file-width="697" data-file-height="296"
-width="697" height="296"
-alt="Menus Menu Item Wrapper Advanced options screenshot" />
-
-- **Automatische hoogte**. Automatisch de hoogte instellen op de hoogte
-  van de externe pagina. *Let op* - dit werkt alleen als de externe
-  pagina op **hetzelfde domein** staat. Bijvoorbeeld,
-  `http://www.example.com` de externe html moet in de `example.com` root
-  bestandstructuur staan. Subdomeinen werken niet, aangezien een
-  subdomein beschouwd wordt als een apart domein.
-- **Automatisch toevoegen**. Automatisch het webadres laten voorafgaan
-  door http://. Deze functie zal automatisch constateren of een URL al
-  http:// of https:// bevat en deze niet toevoegen.
-- **Framerand**. Voeg een rand toe rond het iframe venster.
-
-### Linktype tabblad
-
-Zie de Menu's: Nieuw
-Item
-pagina.
-
-(ToDo - make chunk)
-
-### Paginaweergave
-
-Zie de Menu's: Nieuw
-item
-pagina.
-
-(ToDo - make chunk)
-
-### Metadata tabblad
-
-Zie de Menu's: Nieuw
-Item
-pagina.
-
-(ToDo - make chunk)
-
-### Associaties tabblad
-
-Als de taal in het 'Details tabblad' niet op 'Alle' staat verschijnt
-hier een lijst met talen met de mogelijkheid om alternatieve talen te
-selecteren waarin deze pagina getoond moet worden.
-
-<img
-src="https://docs.joomla.org/images/8/87/Help-4x-Menus-Menu-Item-Wrapper-Associations-screenshot-nl.png"
-decoding="async" data-file-width="829" data-file-height="223"
-width="829" height="223"
-alt="Menus Menu Item Wrapper Associations screenshot" />
-
-### Moduletoewijzing tabblad
-
-Zie Menu Item Manager: Nieuw
-menu-item
-voor hulp met betrekking tot de
-
-#### Moduletoewijzing
-velden.
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
-
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Opslaan & nieuw**. Slaat item op en houdt het bewerkscherm open,
-  klaar voor het aanmaken van een ander item.
-- **Opslaan als kopie**. Slaat uw wijzigingen op als een kopie van het
-  huidige item. Beïnvloed het huidige item niet. Dit werkbalk icoon
-  wordt niet getoond bij het aanmaken van een nieuw item.
-- **Annuleren/Sluiten**. Sluit het huidige scherm en keert terug naar
-  het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
-  te slaan.
-- **Help**. Opent dit helpscherm.

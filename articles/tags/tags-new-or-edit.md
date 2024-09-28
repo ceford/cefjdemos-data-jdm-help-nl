@@ -1,185 +1,106 @@
-<!-- Filename: Help4.x:Tags:_New_or_Edit / Display title: Tags: - Nieuw of bewerken -->
+<!-- Filename: Help4.x:Tags:_New_or_Edit  / Display title: Tags: Nieuw of Bewerken -->
 
 ## Beschrijving
 
-Wordt gebruikt om tags toe te voegen of te bewerken, welke gebruikt
-kunnen worden om inhoud te per tag-naam op uw Joomla! website te tonen.
+De pagina *Tags: Nieuw of Bewerken* wordt gebruikt om tags toe te voegen of te bewerken die kunnen worden gebruikt om site-inhoud weer te geven op tagnaam.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Componenten → Tags** in het beheermenu. Dan ...
-  - Selecteer de **Nieuw** knop in de werkbalk om een nieuwe tag aan te
-    maken.
-  - Selecteer een Tag titel vanuit de **Titel** kolom van de lijst om
-    een bestaande tag te bewerken.
+Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
+
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+
+## Toegang Verkrijgen
+
+- Selecteer **Componenten → Tags** in het Administrator menu. Vervolgens:
+  - Selecteer de '**Nieuw'** knop in de Toolbar om een nieuwe Tag aan te maken.
+  - Selecteer een Tag's Titel uit de **Titel** kolom van de lijst om een bestaande tag te bewerken.
 
 ## Schermafbeelding
 
-<img
-src="https://docs.joomla.org/images/thumb/4/42/Help-4x-Components-Tags-Tags-Edit-screen-nl.png/800px-Help-4x-Components-Tags-Tags-Edit-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-Components-Tags-Tags-Edit-screen-nl.png/1200px-Help-4x-Components-Tags-Tags-Edit-screen-nl.png 1.5x, https://docs.joomla.org/images/4/42/Help-4x-Components-Tags-Tags-Edit-screen-nl.png 2x"
-data-file-width="1285" data-file-height="891" width="800" height="555"
-alt="Components Tags Tags Edit screen" />
+![tags bewerk tag details tabblad](../../../nl/images/tags/tags-edit-tag-details-tab.png)
 
-### Formulier velden
+## Formuliervelden
 
-- **Titel.** De naam van dit item. Dit veld is verplicht.
-- **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
-  laten en Joomla zal de standaardwaarde invullen. De standaard waarde
-  is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. Meer
-  leren.
+- **Titel** De naam van dit item. Dit veld is verplicht.
+- **Alias** De interne naam van het item. Normaal gesproken kun je dit
+  leeg laten en Joomla zal een standaardwaarde invullen met de titel in kleine letters en
+  met koppeltekens in plaats van spaties.
 
-### Taggegevens tabblad
+### Tag Details-tabblad
 
-- **Beschrijving.** Beschrijf het doel van deze tag.
+#### Linkerpaneel
 
-### Gegevens (zijbalk)
+- **Omschrijving** Geef het doel van deze tag op.
 
-- **Hoofd**. Het item (categorie, menu-item, enzovoort) dat bovenliggend
-  is aan het item dat bewerkt wordt.
-- **Status**. De publicatiestatus van het item.
-- **Toegang**. Het
-  Toegangsniveau
-  om het item te bekijken.
-- **Taal**. Item taal.
-- **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
-  (bijvoorbeeld om informatie te documenteren voor dit item) en is niet
-  op de website zichtbaar.
-- **Notitie versie**. Optioneel veld om deze versie van dit item te
-  identificeren in het
-  versiegeschiedenis
-  venster.
+#### Rechterpaneel
 
-### Opties tabblad
+- **Ouder** Het item (categorie, menu-item, enzovoort) dat de
+  ouder is van het item dat wordt bewerkt.
+- **Status** De gepubliceerde status van het item.
+- **Toegang** Het kijktoegangsniveau voor dit item.
+- **Taal** Ta(a)l(en) van het item.
+- **Notitie** Dit veld is normaal gesproken bedoeld voor gebruik door de sitebeheerder (bijvoorbeeld om informatie over dit item te documenteren) en wordt niet weergegeven in
+  de frontend van de site.
+- **Versie notitie** Optioneel veld om deze versie van het item te identificeren in het venster met de versiegeschiedenis van het item.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/88/Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-nl.png/800px-Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/88/Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-nl.png/1200px-Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-nl.png 1.5x, https://docs.joomla.org/images/8/88/Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-nl.png 2x"
-data-file-width="1271" data-file-height="807" width="800" height="508"
-alt="Components Tags Tags Edit Options Details Tab" />
+### Opties-tabblad
 
-#### Opties venster
+![tags bewerk tag opties-tabblad](../../../nl/images/tags/tags-edit-options-tab.png)
 
-- **Weergave**. Gebruik een layout uit de beschikbare componentweergave
-  of overschrijft de templates.
-- **CSS class van de taglink**. Voeg specifieke CSS classen toe voor de
-  taglink. Indien niets is ingevuld wordt 'label label-info' toegevoegd
-  door de standaard tagweergave.
+#### Optiepaneel
 
-#### Afbeeldingen venster
+- **Lay-out** Gebruik een lay-out van de meegeleverde componentweergave of overrides
+  in de sjablonen.
+- **CSS-klasse voor taglink** Voeg specifieke CSS-klassen toe voor de taglink.
+  Indien leeg, wordt *label label-info* toegevoegd door de standaard tag lay-out.
 
-- **Teaser afbeelding.** De afbeelding die wordt weergegeven als deel
-  van een lijst.
-- **Uitlijning.** Float attribuut voor de afbeelding.
-- **Alt.** Alt tekst voor de afbeelding.
-- **Bijschrift.** De caption voor de afbeelding.
-- **Volledige afbeelding.** Een afbeelding die getoond wordt in de
-  individuele tagweergave.
+#### Afbeeldingspanelen
 
-### Publicatie tabblad
+- **Teaserafbeelding** De afbeelding die als onderdeel van de lijst zal worden weergegeven.
+- **Float** Float-attribuut voor de afbeelding.
+- **Alt** Alt-tekst voor de afbeelding.
+- **Bijschrift** Het bijschrift voor de afbeelding.
+- **Volledige afbeelding** Een afbeelding die zal worden weergegeven in de weergave van een enkele tag.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/be/Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-nl.png/800px-Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/be/Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-nl.png/1200px-Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-nl.png 1.5x, https://docs.joomla.org/images/b/be/Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-nl.png 2x"
-data-file-width="1288" data-file-height="630" width="800" height="391"
-alt="Components Tags Tags Edit Publishing Options Tab" />
+### Publiceren-tabblad
 
-- **Aanmaakdatum.** Datum dat het item (artikel, categorie, weblink,
-  etc.) aangemaakt is.
-- **Gemaakt door**. Naam van de Joomla! gebruiker die dit item gemaakt
-  heeft. Dit is standaard de huidig ingelogde gebruiker. Klik op de knop
-  selecteer gebruiker en selecteer een andere gebruiker indien dit
-  aangepast moet worden naar een andere gebruiker.
-- **Gemaakt door alias**. Dit optionele veld geeft u de mogelijkheid een
-  alias in te voeren voor deze auteur voor dit artikel. Dit geeft de
-  mogelijkheid een andere auteursnaam voor dit artikel te tonen.
-- **Aanpassingsdatum**. Datum van laatste wijziging.
-- **Aangepast door**. Gebruikersnaam wie de laatste aanpassing heeft
-  gedaan.
-- **Hits**. Het aantal keren dat een item is bekeken.
-- **ID**. Dit is een uniek identificatienummer voor dit item,
-  automatisch toegekend door Joomla!. Het wordt gebruikt om het item
-  intern te identificeren en u kunt dit nummer niet veranderen. Als u
-  een nieuw item aanmaakt, is dit veld "0" totdat u het opslaat, waarbij
-  een nieuw ID toegekend wordt.
-- **Metabeschrijving**. Een optionele paragraaf die gebruikt wordt als
-  beschrijving van de pagina in de HTML uitvoer. Dit wordt in het
-  algemeen getoond in het resultaat van zoekmachines. Indien opgegeven
-  maakt dit een HTML meta element met de attribuutnaam 'description' en
-  een inhoud attribuut gelijk aan de opgegeven tekst.
-- **Trefwoorden**. Optionele invoer voor trefwoorden. Dient ingevoerd
-  worden gescheiden door komma's (bijvoorbeeld, "katten, honden,
-  huisdieren") en mag ingevoerd worden met hoofdletters of kleine
-  letters. (bijvoorbeeld, "KATTEN" zal kloppen met "katten" of
-  "Katten"). Trefwoorden kunnen op verschillende manieren gebruikt
-  worden:
-  1.  Om zoekmachine en andere systemen te helpen de inhoud van het
-      artikel te classificeren.
-  2.  In combinatie met advertentie tags, om specifieke advertenties te
-      tonen gebaseerd op de inhoud van het artikel. Stel bijvoorbeeld
-      dat u één advertentie voor hondenproducten heeft en een andere
-      voor katproducten. U kunt uw hondenadvertentie tonen als uw
-      gebruiker een artikel over honden leest en uw kat advertentie als
-      er een kat gerelateerd artikel wordt getoond. Om dit te doen moet
-      u:
-      - Voeg de trefwoorden "hond" en "kat" toe aan de juiste Artikelen.
-      - Voeg de Tags "hond" en "kat" toe aan de juiste advertenties op
-        het Advertentiebeheer
-        Nieuw/Bewerk
-        scherm.
-      - Stel de Advertentiemodule parameter 'Zoek op Tags' in op 'Ja' in
-        het Advertentiemodule
-        bewerk
-        scherm.
-  3.  Alleen voor artikelen, in combinatie met de [Gerelateerde
-      artikelen
-      module](https://docs.joomla.org/Help40:Site_Modules:_Articles_-_Related/nl "Special:MyLanguage/Help40:Site Modules: Articles - Related/nl"),
-      om artikelen te tonen die minstens één gemeenschappelijk trefwoord
-      delen. Als bijvoorbeeld het huidige artikel de trefwoorden
-      "katten, honden, apen" heeft, dan worden artikelen met slechts één
-      van deze trefwoorden getoond in de gerelateerde artikelen module.
-- **Auteur**. Optionele plek voor een auteursnaam binnen de metadata.
-  Indien opgegegeven maakt dit een HTML meta element aan met het 'name'
-  attribuut 'author' en het 'content' attribuut zoals hier opgegeven.
-- **Robots**. De instructies voor web 'robots' die naar deze pagina
-  bladeren.
-  - *index, follow:* Indexeer deze pagina en volg de links op deze
-    pagina.
-  - *noindex, follow:* Indexeer deze pagina niet, maar volg de links op
-    de pagina toch. U wilt dit bijvoorbeeld misschien doen op een pagina
-    met sitemap waarvan u wilt dat de links geïndexeerd worden, maar dat
-    de pagina zelf niet verschijnt in zoekmachines.
-  - *index, nofollow:* Indexeer deze pagina, maar volg geen link op de
-    pagina. U wilt dit bijvoorbeeld misschien voor een evenementen
-    kalender, waarvan u wilt dat de pagina verschijnt in zoekmachines,
-    maar waarvan elk evenementen niet geïndexeerd hoeft te worden.
-  - *noindex, nofollow:* Indexeer deze pagina niet en volg geen link op
-    deze pagina.
-  - *Gebruik algemeen:* Ingesteld bij
+![tags bewerk tag publiceren-tabblad](../../../nl/images/tags/tags-edit-publishing-tab.png)
 
-## Werkbalk
+#### Publiceerpaneel
 
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
+- **Gemaakt op** Datum waarop het item (artikel, categorie, enz.) is gemaakt.
+- **Gemaakt door** Naam van de Joomla-gebruiker die dit item heeft gemaakt. Dit
+  wordt standaard ingesteld op de gebruiker die momenteel is ingelogd. Als je dit wilt veranderen
+  in een andere gebruiker, klik dan op de knop Selecteer gebruiker om een andere gebruiker te selecteren.
+- **Gemaakt door alias** Dit optionele veld stelt je in staat een alias in te voeren voor deze auteur voor dit artikel. Dit stelt je in staat om een andere auteursnaam voor dit artikel weer te geven.
+- **Laatst aangepast op** Datum van de laatste wijziging.
+- **Laatst aangepast door** Gebruikersnaam van degene die de laatste wijziging heeft uitgevoerd.
+- **Revisie** ...
+- **Hits** Het aantal keer dat een item is bekeken.
+- **ID** Dit is een uniek identificatienummer voor dit item dat automatisch wordt toegewezen door Joomla. Het wordt gebruikt om het item intern te identificeren,
+  en je kunt dit nummer niet wijzigen. Bij het maken van een nieuw item geeft dit veld "0" weer totdat je het nieuwe item opslaat, waarna een nieuw ID wordt toegewezen.
 
-- **Opslaan**. Slaat item op en blijft op het huidige scherm.
-- **Opslaan & sluiten**. Slaat item op en sluit het huidige scherm.
-- **Opslaan & nieuw**. Slaat item op en houdt het bewerkscherm open,
-  klaar voor het aanmaken van een ander item.
-- **Opslaan als kopie**. Slaat uw wijzigingen op als een kopie van het
-  huidige item. Beïnvloed het huidige item niet. Dit werkbalk icoon
-  wordt niet getoond bij het aanmaken van een nieuw item.
-- **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
-  scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
-  Dit werkbalk icoon wordt niet getoond als een nieuw item wordt
-  aangemaakt.
-- **Versies**. Opent het item versie geschiedenis scherm om eerdere
-  versies van dit item te tonen. Dit stelt u in staat oudere versies van
-  het item te bekijken en een oudere versie te herstellen. Zie Versie
-  historie
-  voor meer informatie.
-- **Help**. Opent dit helpscherm.
+#### Metagegevenspaneel
+
+- **Meta Omschrijving** Een optionele paragraaf die als beschrijving van de pagina in de HTML-output kan worden gebruikt. Dit wordt over het algemeen weergegeven in de resultaten van zoekmachines. Als je iets invoert, creëert dit een HTML-meta-element met een naamattribuut van `<description>` en een inhoudsattribuut gelijk aan de ingevoerde tekst.
+- **Sleutelwoorden** Optionele invoer voor sleutelwoorden. Moeten met komma's worden gescheiden (bijvoorbeeld: katten, honden, huisdieren) en mogen in hoofd- of kleine letters worden ingevoerd. (Bijvoorbeeld: *KATTEN* zal overeenkomen met *katten* of *Katten*). Sleutelwoorden kunnen op verschillende manieren worden gebruikt:
+  1.  Om zoekmachines en andere systemen te helpen de inhoud van het artikel te classificeren.
+  2.  In combinatie met bannertags, om specifieke banners weer te geven
+      op basis van de inhoud van het artikel. Bijvoorbeeld, stel dat je één banner hebt met een advertentie voor hondenproducten en een andere banner voor kattenproducten. Je kunt je hondenbanner weergeven wanneer een gebruiker een
+      hond-gerelateerd artikel bekijkt en je kattenbanner voor een kat-gerelateerd artikel. Hiervoor doe je het volgende:
+      - Voeg de sleutelwoorden "hond" en "kat" toe aan de juiste artikelen.
+      - Voeg de tags "hond" en "kat" toe aan de juiste banners in Banners: Bewerken.
+      - Stel de parameter 'Zoeken op tags' van de bannermodule in op "Ja" in de lijst met Site Modules: Banners.
+  3.  Alleen voor artikelen, in combinatie met de module Artikelen - Gerelateerd,
+      om artikelen weer te geven die ten minste één sleutelwoord gemeen hebben. Bijvoorbeeld, als het huidige weergegeven artikel de sleutelwoorden "katten, honden, apen" heeft, worden alle andere artikelen met ten minste een van deze sleutelwoorden weergegeven in de module 'Artikelen - Gerelateerd'.
+- **Auteur** Optionele invoer voor een auteursnaam binnen de metadata. Als je iets invoert, creëert dit een HTML-meta-element met het naamattribuut 'auteur' en het inhoudsattribuut zoals hier ingevoerd.
+- **Robots** De instructies voor web'robots' die naar deze pagina browsen.
+  - *index, follow* Indexeer deze pagina en volg de links op deze pagina.
+  - *noindex, follow* Indexeer deze pagina niet, maar volg nog steeds de links op de pagina. Bijvoorbeeld, je wilt dit misschien doen voor een site-mappagina waar je wilt dat de links worden geïndexeerd maar je wilt niet dat deze pagina in zoekmachines verschijnt.
+  - *index, nofollow* Indexeer deze pagina, maar volg geen enkele link op de pagina. Bijvoorbeeld, je wilt dit misschien doen voor een evenementenagenda, waar je wilt dat de pagina in zoekmachines verschijnt, maar je wilt niet dat elk evenement wordt geïndexeerd.
+  - *noindex, nofollow* Indexeer deze pagina niet en volg geen enkele link op de pagina.
+  - *Gebruik Globaal* Ingesteld in Globale Configuratie: Metadata-instellingen.
+
+*Voorzien van vertaling door openai.com*
+

@@ -1,60 +1,40 @@
-<!-- Filename: Help4.x:Extensions:_Languages / Display title: Extensies: Talen -->
+<!-- Filename: Help4.x:Extensions:_Languages  / Display title: Extensies: Talen -->
 
 ## Beschrijving
 
-Dit scherm geeft u de mogelijkheid talen te installeren. Het toont alle
-beschikbare talen en de huidige versie.
+Deze pagina stelt u in staat om talen te installeren. Het toont alle beschikbare
+talen en de beschikbare taalversie, die mogelijk niet synchroon loopt met
+Joomla versies. Dit kan leiden tot het verschijnen van Engelse tekstlabels
+binnen niet-Engelse pagina's.
 
-## Hoe toegang te krijgen
+### Gemeenschappelijke Elementen
 
-- Selecteer **Systeem → Installeren venster → Talen** vanuit het
-  beheermenu.
+Sommige elementen van deze pagina worden in afzonderlijke Help-artikelen behandeld:
 
-## Schermafbeelding
+* [Werkbalken](jdocmanual?article=help/common-elements/toolbars).
+* [Lijstfilters](jdocmanual?article=help/common-elements/list-filters).
+* [Kolomkoppen van de Lijst](jdocmanual?article=help/common-elements/list-column-headers).
+* [Lijstitem Volgorde](jdocmanual?article=help/common-elements/list-ordering).
+* [Paginering van de Lijst](jdocmanual?article=help/common-elements/list-pagination).
 
-<img
-src="https://docs.joomla.org/images/thumb/9/96/Help-4x-Extensions-Extension-Manager-InstallLanguages-screen-nl.png/800px-Help-4x-Extensions-Extension-Manager-InstallLanguages-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/9/96/Help-4x-Extensions-Extension-Manager-InstallLanguages-screen-nl.png 1.5x"
-data-file-width="1142" data-file-height="538" width="800" height="377"
-alt="Extensions Extension Manager InstallLanguages screen" />
+## Hoe te Toegangen
+
+- Of: selecteer **Systeem → Installeren → Talen Installeren** vanuit het
+  beheerdersmenu.
+- Of: selecteer **Systeem → Beheren → Talen** vanuit het
+  beheerdersmenu en dan:
+  - Selecteer de knop *Talen Installeren* op de werkbalk.
+
+## Screenshot
+
+![Extensies talen installeren](../../../nl/images/extensions/languages-install.png)
 
 ## Kolomkoppen
 
-- **Taal.** De naam van de taal, soms met een nationale variant zoals
-  Duits Oostenrijks of Duits Duits.
-- **Taaltag.** Dit is een combinatie van de ISO taalcodes (twee tekens)
-  en de landcodes.
-- **Versie.** Het versienummer van het beschikbare taalpakket.
-- **Gegevens URL.** URL van het taalpakket.
+- **Taal** Naam van de taal, soms met een nationale variatie zoals Duits AT of Duits DE.
+- **Taalcode** Dit is een combinatie van tweeletterige ISO-taalcodes en landcodes.
+- **Versie** De versie van het beschikbare taalpakket.
+- **Details URL** URL van het taalpakket.
 
-## Lijst filters
+*Vertaald door openai.com*
 
-**Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande Screenshot.
-
-- **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
-  zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
-  aangeeft welke velden doorzocht worden.Om te **Zoeken op ID** geef je
-  "id:x" op, waarbij "x" het item ID nummer is (bijvoorbeeld, "id:19").
-- **Filteropties**. Klik om de extra filters te tonen.
-- **Wissen.** om het filterveld te wissen en de lijst in zijn initiële
-  status te zetten.
-- **Sortering**. Toont het huidige weergave volgorde veld. Er zijn 2
-  manieren om de volgorde aan te passen:
-  - Selecteer uit de uitklaplijst. De volgorde kan oplopend of aflopend
-    zijn.
-  - Klik op een kolomkop.De kolomkop wisselt tussen een oplopend en
-    aflopend volgorde.
-- **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
-  uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de
-
-## Werkbalk
-
-Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#Schermafbeelding) hierboven. De functies zijn.
-
-- **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt.
-- **Help**. Opent dit helpscherm.
