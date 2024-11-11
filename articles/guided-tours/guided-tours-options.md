@@ -18,7 +18,7 @@ De pagina *Rondleidingen: Opties* wordt behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Opties voor begeleide rondleidingen](../../../nl/images/guided-tours/guided-tours-options.png)
+![Opties voor begeleide rondleidingen](../../../en/images/guided-tours/guided-tours-options.png)
 
 De items in het tabblad Begeleide Rondleidingen worden goed uitgelegd in de Inline Help.
 

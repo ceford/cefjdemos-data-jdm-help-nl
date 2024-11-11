@@ -70,7 +70,7 @@ Om een Menu-item te bewerken:
 Deze Screenshot toont de Joomla kern Voorkant Sjabloon **Cassiopeia** met alle
 Bewerkingslay-outopties ingesteld op 'Verbergen'.
 
-[articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
 ## Tips
 
