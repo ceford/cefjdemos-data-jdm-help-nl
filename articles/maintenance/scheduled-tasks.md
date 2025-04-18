@@ -1,4 +1,4 @@
-<!-- Filename: Help5.x:Scheduled_Tasks / Display title: Geplande Taken -->
+<!-- Filename: Help5.x:Scheduled_Tasks / Display title: Geplande taken -->
 
 ## Beschrijving
 
@@ -49,29 +49,4 @@ De volgende schermafbeelding toont een lijst van beschikbare taken. Sommige zijn
 
 Elke taak heeft zijn eigen taakspecifieke parameters die vanzelfsprekend zouden moeten zijn. Bijvoorbeeld, de taak **Site Offline** heeft alleen zin als de **Taak Bewerken → Basisvelden → Uitvoeringsregel** is ingesteld op **Handmatige Uitvoering**.
 
-## Geplande Taken Opties
-
-Selecteer de knop Opties in de Werkbalk om geplande taken te configureren.
-
-### Tabblad Taken configureren
-
-![task timeout setting](../../../nl/images/maintenance/scheduled-tasks-options-configure-tasks.png)
-
-- **Taak Time-out** De standaard is 300 seconden.
-
-### Luie Planner-tabblad
-
-![lazy schedule setting](../../../nl/images/maintenance/scheduled-tasks-options-lazy-scheduler.png)
-
-- **Ingeschakelde** Taken worden geactiveerd door sitebezoekers.
-- **Uitgeschakelde** Taken moeten worden geactiveerd door een extern cron-job.
-- **Verzoekinterval** De standaard is 300 seconden.
-
-### Web Cron-tabblad
-
-![web cron setting](../../../nl/images/maintenance/scheduled-tasks-options-lazy-scheduler.png)
-
-- **Web Cron** Uitgeschakeld is de standaardinstelling. Ingeschakeld vereist een hash om de taak te activeren. Voor de eerste keer opslaan is er een bericht dat een sleutel vereist is. Na het opslaan is er een veld met een Webcron-link url om te kopiëren.
-
 *Vertaald door openai.com*
-
