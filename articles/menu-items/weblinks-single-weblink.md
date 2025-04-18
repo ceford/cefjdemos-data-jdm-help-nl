@@ -24,7 +24,7 @@ Om een nieuw **Single Weblink** menu-item te maken:
   - Selecteer de knop Nieuw in de Toolbar. Vervolgens...
   - Selecteer de knop Menu-item Type Selecteren.
   - Selecteer het Weblinks item in de modale dialoog om een lijst te openen en vervolgens
-	selecteer het **Single Weblink** item.
+    selecteer het **Single Weblink** item.
 
 Om een bestaand **Single Weblink** menu-item te bewerken:
 
@@ -38,4 +38,3 @@ Om een bestaand **Single Weblink** menu-item te bewerken:
 Alle invoervelden van het formulier worden behandeld in de *Common Elements*.
 
 *Vertaald door openai.com*
-

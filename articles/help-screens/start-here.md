@@ -21,16 +21,16 @@ van nieuwe functies en/of beveiligingsverbeteringen.
 
 Als je onlangs bent begonnen met werken met Joomla, heb je waarschijnlijk de pijn ervaren van het leren van een nieuw systeem. Nieuwe terminologie, nieuwe manieren om dingen te doen, misschien zelfs het web zelf is nieuw voor je. Laat deze gids dan wat van die pijn verlichten.
 
-- [Aan de slag: Introductie tot Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla "Introductie tot Joomla!")
-- [Aan de slag: Artikelen en Categorieën](jdocmanual?article=user/getting-started/articles-and-categories "Artikelen en Categorieën")
-- [Aan de slag: Het toevoegen van een Artikel](jdocmanual?article=user/getting-started/adding-an-article "Het toevoegen van een Artikel")
-- [Aan de slag: Het toevoegen van een Categorie](jdocmanual?article=user/getting-started/adding-a-category "Het toevoegen van een Categorie")
-- [Aan de slag: Het toevoegen van een Menu-item](jdocmanual?article=user/getting-started/adding-a-menu-item "Het toevoegen van een Menu-item")
-- [Aan de slag: Het toevoegen van een Module](jdocmanual?article=user/getting-started/adding-a-module "Het toevoegen van een Module")
+- [Aan de slag: Introductie tot Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla)
+- [Aan de slag: Artikelen en Categorieën](jdocmanual?article=user/getting-started/articles-and-categories)
+- [Aan de slag: Het toevoegen van een Artikel](jdocmanual?article=user/getting-started/adding-an-article)
+- [Aan de slag: Het toevoegen van een Categorie](jdocmanual?article=user/getting-started/adding-a-category)
+- [Aan de slag: Het toevoegen van een Menu-item](jdocmanual?article=user/getting-started/adding-a-menu-item)
+- [Aan de slag: Het toevoegen van een Module](jdocmanual?article=user/getting-started/adding-a-module)
 
 ## Uw website beveiligd houden
 
-- [Beveiliging: Beste Praktijken](jdocmanual?article=user/security/best-practices "Beveiliging: Beste Praktijken")
+- [Beveiliging: Beste Praktijken](jdocmanual?article=user/security/best-practices)
 
 *Vertaald door openai.com*
 

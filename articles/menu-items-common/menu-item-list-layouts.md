@@ -41,8 +41,8 @@ illustreren wat je kunt verwachten.
 - **Categorievolgorde**
   - *Geen Volgorde* Artikelen worden alleen geordend op de artikelvolgorde, zonder
     rekening te houden met de categorie.
-  - *Titel Alfabetisch* Categorieën worden in alfabetische volgorde weergegeven 
-	(A tot Z).
+  - *Titel Alfabetisch* Categorieën worden in alfabetische volgorde weergegeven
+    (A tot Z).
   - *Titel Omgekeerd Alfabetisch* Categorieën worden in omgekeerde
     alfabetische volgorde weergegeven (Z tot A).
   - *Categorievolgorde* Categorieën worden geordend volgens de volgordekolom
@@ -125,7 +125,7 @@ illustreren wat je kunt verwachten.
 ![Menu Item lijst alle Nieuws Feed Categorieën lijstindelingen tabblad](../../../nl/images/menu-items/news-feeds-list-all-categories-tree-list-layouts-tab.png)
 
 - **Filterveld** Toon of verberg een Filterveld voor de lijst.
-- **Weergave Selecteren** Toon of verberg de Weergave \# controle die de gebruiker 
+- **Weergave Selecteren** Toon of verberg de Weergave \# controle die de gebruiker
   toestaat het aantal items te kiezen dat in de lijst wordt weergegeven.
 - **Tabelkoppen** Toon of verberg Tabelkoppen boven een lijst.
 - **\# Artikelen** Toon of verberg het aantal Artikelen in elke Nieuws Feed. Deze
@@ -148,17 +148,17 @@ illustreren wat je kunt verwachten.
 ![Compact Lijst van Getagde Items details tabblad](../../../nl/images/menu-items/tags-compact-list-of-tagged-items-list-layouts-tab.png)
 
 - **Itemafbeelding** Toon of verberg de afbeelding voor elk item.
-- **Itembeschrijving** Toon of verberg de beschrijving voor elk item in de lijst. 
+- **Itembeschrijving** Toon of verberg de beschrijving voor elk item in de lijst.
   De lengte kan worden beperkt met de optie Maximale Teken.
 - **Maximale Teken** Het maximale aantal tekens om weer te geven
   uit de beschrijving in elke tag.
-- **Filterveld** Toon of verberg het Filterveld, een tekstveld waarin een gebruiker 
+- **Filterveld** Toon of verberg het Filterveld, een tekstveld waarin een gebruiker
   een veld kan invoeren om de artikelen te filteren die in de lijst worden weergegeven.
 - **Tabelkoppen** Toon of verberg de Tabelkoppen.
-- **Weergave Selecteren** Toon of verberg de controle waarmee de gebruiker kan selecteren 
+- **Weergave Selecteren** Toon of verberg de controle waarmee de gebruiker kan selecteren
   hoeveel items er in de lijst worden weergegeven.
 - **\# Items om te Lijsten** Het aantal getagde items om op een pagina te vermelden.
-- **Paginering** Toon of verberg de Paginering ondersteuning onderaan de pagina 
+- **Paginering** Toon of verberg de Paginering ondersteuning onderaan de pagina
   waarmee de Gebruiker naar extra pagina's kan navigeren.
 - **Paginering Overzicht** Toon of verberg het huidige paginanummer en totaal
   aantal pagina's (bijv., *Pagina 1 van 2*) onderaan elke pagina.
@@ -168,4 +168,3 @@ illustreren wat je kunt verwachten.
   formaat van het taalbestand gebruiken (bijv., `D M Y` voor *31 December 2012* of `m-d-y` voor *12-31-12*).
 
 *Vertaald door openai.com*
-
