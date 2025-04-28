@@ -13,7 +13,7 @@ metadata in menu's of in de globale configuratie. Het is belangrijk om de metada
 
 De Artikelen Publiceren tab:
 
-![De artikelen bewerken publiceren tab](../../../nl/afbeeldingen/algemene-elementen/artikelen-bewerken-publiceren-tab.png)
+![De artikelen bewerken publiceren tab](../../../nl/images/common-elements/articles-edit-publishing-tab.png)
 
 De meeste formuliervelden hebben standaardwaarden waarmee het item kan worden opgeslagen. U kunt de volgende velden aanpassen:
 

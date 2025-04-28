@@ -20,7 +20,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte helpartikelen:
 
 ## Schermafbeelding
 
-![startdashboard](../../../nl/afbeeldingen/site/systeem-informatie-tabblad.png)
+![startdashboard](../../../nl/images/site/system-information-tab.png)
 
 ## Formulieren Tabs
 

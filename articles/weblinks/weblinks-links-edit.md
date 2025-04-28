@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![webkoppeling bewerken webkoppeling tabblad](../../../nl/afbeeldingen/weblinks/web-link-bewerken-web-link-tabblad.png)
+![webkoppeling bewerken webkoppeling tabblad](../../../nl/images/weblinks/web-link-edit-web-link-tab.png)
 
 ## Formuliervelden
 

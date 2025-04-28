@@ -41,7 +41,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![gebruikersgroepen](../../../nl/afbeeldingen/gebruikers/gebruikersgroepen-lijst.png)
+![gebruikersgroepen](../../../nl/images/users/users-groups-list.png)
 
 ## Tips
 

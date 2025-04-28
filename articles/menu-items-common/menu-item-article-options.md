@@ -13,7 +13,7 @@ Alle menu-items hebben een vergelijkbare indeling, maar sommige van de formulier
 
 ## Screenshot
 
-![menupuntdetails tab](../../../nl/afbeeldingen/menu-items-gemeenschappelijk/artikelen-artikel-opties.png)
+![menupuntdetails tab](../../../nl/images/menu-items-common/articles-article-options.png)
 
 ## Formuliervelden
 

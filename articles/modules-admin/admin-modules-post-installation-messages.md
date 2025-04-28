@@ -25,7 +25,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![modules post installation messages module tab](../../../nl/afbeeldingen/modules-admin/modules-post-installation-messages-module-tab.png)
+![modules post installation messages module tab](../../../nl/images/modules-admin/modules-post-installation-messages-module-tab.png)
 
 ## Formuliervelden
 

@@ -35,7 +35,7 @@ Om een bestaand Item Uitgelichte Contacten te bewerken:
 
 ## Screenshot
 
-![Menu-item Geselecteerde Contacten Details-tabblad](../../../nl/afbeeldingen/menu-items/contacten-geselecteerde-contacten-details-tabblad.png)
+![Menu-item Geselecteerde Contacten Details-tabblad](../../../nl/images/menu-items/contacts-featured-contacts-details-tab.png)
 
 ## Formuliervelden
 

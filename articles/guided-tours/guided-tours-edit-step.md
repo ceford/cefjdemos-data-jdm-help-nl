@@ -20,7 +20,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Screenshot
 
-![Rondleidingen bewerkstap](../../../nl/afbeeldingen/rondleidingen/rondleidingen-bewerkstap.png)
+![Rondleidingen bewerkstap](../../../nl/images/guided-tours/guided-tours-edit-step.png)
 
 ## Formulieren
 

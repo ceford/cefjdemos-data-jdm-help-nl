@@ -33,7 +33,7 @@ Om een bestaand Separator menu-item te bewerken:
 
 ## Screenshot
 
-![Menu-itemalias](../../../nl/afbeeldingen/menu-items/systeemlinks-separator-details-tab.png)
+![Menu-itemalias](../../../nl/images/menu-items/system-links-separator-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Gemeenschappelijke Elementen*.
 
