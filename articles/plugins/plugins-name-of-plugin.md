@@ -13,7 +13,7 @@ Er zijn een groot aantal kernplugins beschikbaar. Ze worden hier per groep verme
 * [Authenticatie Groep.](jdocmanual?article=help/plugins/plugin-group-authentication) (3 Plugins)
 * [Gedrag Groep.](jdocmanual?article=help/plugins/plugin-group-behavior) (3 Plugins)
 * [Inhoud Groep.](jdocmanual?article=help/plugins/plugin-group-content) (10 Plugins)
-* [Editors Groep.](jdocmanual?article=help/plugins/plugin-group-editors) (3 Plugins)
+* [Editors Groep.](jdocmanual?article=help/plugins/plugin-group-editors-txt) (3 Plugins)
 * [Editor Xtd Knop Groep.](jdocmanual?article=help/plugins/plugin-group-editors-xtd) (8 Plugins)
 * [Extensies Groep.](jdocmanual?article=help/plugins/plugin-group-extensions) (3 Plugins)
 * [Velden Groep.](jdocmanual?article=help/plugins/plugin-group-fields) (16 Plugins)
