@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Talen Inhoudslijst](../../../nl/images/languages/languages-content.png)
+![Talen Inhoudslijst](../../../nl/images/languages/languages-content/01-languages-content.png)
 
 ## Kolomkoppen
 

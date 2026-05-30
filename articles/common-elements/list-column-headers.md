@@ -8,15 +8,15 @@ Kolomkoppen verschijnen in lijstweergaven om de aard van de informatie in die ko
 
 ### Kopteksten van de Artikelenlijst
 
-![Kopteksten van de artikelenlijst](../../../nl/images/common-elements/articles-list-column-header.png)
+![Kopteksten van de artikelenlijst](../../../nl/images/common-elements/list-column-headers/01-articles-list-column-header.png)
 
 ### Kopteksten van de Categorieënlijst
 
-![Kopteksten van de categorieënlijst](../../../nl/images/common-elements/categories-list-column-header.png)
+![Kopteksten van de categorieënlijst](../../../nl/images/common-elements/list-column-headers/02-categories-list-column-header.png)
 
 ### Kopteksten van de Gebruikerslijst
 
-![Kopteksten van de gebruikerslijst](../../../nl/images/common-elements/users-list-column-header.png)
+![Kopteksten van de gebruikerslijst](../../../nl/images/common-elements/list-column-headers/03-users-list-column-header.png)
 
 ## Sorteer op Kolom
 

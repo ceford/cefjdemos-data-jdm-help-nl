@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![slimme zoekmodule tab](../../../nl/images/modules-site/modules-smart-search-module-tab.png)
+![slimme zoekmodule tab](../../../nl/images/modules-site/site-modules-smart-search/01-modules-smart-search-module-tab.png)
 
 ## Formulieren
 

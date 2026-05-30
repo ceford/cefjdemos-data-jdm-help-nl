@@ -65,7 +65,7 @@ Help-artikelen:
 
 ## Screenshot
 
-![smart search content maps](../../../nl/images/smart-search/smart-search-content-maps.png)
+![smart search content maps](../../../nl/images/smart-search/smart-search-content-maps/01-smart-search-content-maps.png)
 
 ## Kolomkoppen
 

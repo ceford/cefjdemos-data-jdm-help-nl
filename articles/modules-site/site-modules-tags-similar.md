@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Schermafbeelding
 
-![tags similar module tab](../../../nl/images/modules-site/modules-tags-similar-module-tab.png)
+![tags similar module tab](../../../nl/images/modules-site/site-modules-tags-similar/01-modules-tags-similar-module-tab.png)
 
 ## Formuliervelden
 

@@ -34,7 +34,7 @@ Om een bestaand Zoekmenu-item te bewerken:
 
 ## Screenshot
 
-![Menu Item Smart Search details tab](../../../nl/images/menu-items/smart-search-search-details-tab.png)
+![Menu Item Smart Search details tab](../../../nl/images/menu-items/smart-search-search/01-smart-search-search-details-tab.png)
 
 ## Formuliervelden
 
@@ -43,7 +43,7 @@ Indien *Gebruik Globaal* is geselecteerd voor een optie, wordt de standaardwaard
 
 ### Opties Tabblad
 
-![Menu-item Slim Zoeken opties tabblad](../../../nl/images/menu-items/smart-search-search-options-tab.png)
+![Menu-item Slim Zoeken opties tabblad](../../../nl/images/menu-items/smart-search-search/02-smart-search-search-options-tab.png)
 
 - **Datumfilters** Toon of verberg de start- en einddatumfilters in Geavanceerd Zoeken.
 - **Geavanceerd Zoeken** Toon of verberg het Geavanceerd Zoeken-element.
@@ -56,7 +56,7 @@ Indien *Gebruik Globaal* is geselecteerd voor een optie, wordt de standaardwaard
 
 ### Geavanceerd Tabblad
 
-![Menu-item Slim Zoeken geavanceerd tabblad](../../../nl/images/menu-items/smart-search-search-advanced-tab.png)
+![Menu-item Slim Zoeken geavanceerd tabblad](../../../nl/images/menu-items/smart-search-search/03-smart-search-search-advanced-tab.png)
 
 - **Weergave Selectie** Toon of verberg de Weergave \# controle waarmee de gebruiker het aantal weer te geven items in de lijst kan selecteren.
 - **Paginering** Toon of verberg pagineringsondersteuning. Paginering biedt 

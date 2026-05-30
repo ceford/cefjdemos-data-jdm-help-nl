@@ -27,7 +27,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![workflowlijst](../../../nl/images/workflows/workflows-list.png)
+![workflowlijst](../../../nl/images/workflows/workflows/01-workflows-list.png)
 
 ## Kolomkoppen
 

@@ -29,7 +29,7 @@ coderingskennis nodig om geschikte sjabloonoverschrijvingen voor te bereiden.
 
 ## Screenshot
 
-![Artikelen veldgroepenlijst](../../../nl/images/fields/articles-field-groups-list.png)
+![Artikelen veldgroepenlijst](../../../nl/images/fields/field-groups/01-articles-field-groups-list.png)
 
 *Vertaald door openai.com*
 

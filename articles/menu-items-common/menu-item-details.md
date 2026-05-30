@@ -11,7 +11,7 @@ Alle menu-items hebben een vergelijkbare indeling, maar sommige formulier velden
 
 ## Screenshot
 
-![menu item details tab](../../../nl/images/menu-items-common/menu-item-details.png)
+![menu item details tab](../../../nl/images/menu-items-common/menu-item-details/01-menu-item-details.png)
 
 De screenshots in elk van de help-pagina's van het itemtype verschillen in details van deze screenshot.
 

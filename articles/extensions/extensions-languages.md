@@ -27,7 +27,7 @@ Sommige elementen van deze pagina worden in afzonderlijke Help-artikelen behande
 
 ## Screenshot
 
-![Extensies talen installeren](../../../nl/images/extensions/languages-install.png)
+![Extensies talen installeren](../../../nl/images/extensions/extensions-languages/01-languages-install.png)
 
 ## Kolomkoppen
 

@@ -24,7 +24,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Lijst met e-mailsjablonen](../../../nl/images/mail/mail-templates.png)
+![Lijst met e-mailsjablonen](../../../nl/images/mail/mail-templates/01-mail-templates.png)
 
 ## Kolomkoppen
 

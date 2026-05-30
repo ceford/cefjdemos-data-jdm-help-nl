@@ -10,7 +10,7 @@ Deze plugin laat je nieuwe velden van het type `kalender` aanmaken in elke exten
 
 ### Velden - Checkboxen
 
-![Fields checkboxes plugin form](../../../en/images/plugins/plugin-group-fields-checkboxes.png)
+![Fields checkboxes plugin form](../../../en/images/plugins/plugin-group-fields/01-plugin-group-fields-checkboxes.png)
 
 - **Checkboxwaarden** De waarden van de checkboxen.
 
@@ -20,7 +20,7 @@ Deze plugin laat je nieuwe velden van het type `kleur` aanmaken in elke extensie
 
 ### Velden - Editor
 
-![Fields editor plugin form](../../../en/images/plugins/plugin-group-fields-editor.png)
+![Fields editor plugin form](../../../en/images/plugins/plugin-group-fields/02-plugin-group-fields-editor.png)
 
 - **Toon Knoppen** Moeten de buttons van de editors-xtd plugin getoond worden.
 - **Verberg Knoppen** Selecteer enkele opties.
@@ -30,7 +30,7 @@ Deze plugin laat je nieuwe velden van het type `kleur` aanmaken in elke extensie
 
 ### Velden - Imagelijst
 
-![Fields imagelist plugin form](../../../en/images/plugins/plugin-group-fields-imagelist.png)
+![Fields imagelist plugin form](../../../en/images/plugins/plugin-group-fields/03-plugin-group-fields-imagelist.png)
 
 - **Directory** De directory met de afbeeldingsbestanden die moeten worden vermeld relatief aan de standaard afbeeldingsmap (ingesteld in Media > Opties).
 - **Meerdere** Sta toe dat meerdere waarden worden geselecteerd.
@@ -38,7 +38,7 @@ Deze plugin laat je nieuwe velden van het type `kleur` aanmaken in elke extensie
 
 ### Velden - Integer
 
-![Fields integer plugin form](../../../en/images/plugins/plugin-group-fields-integer.png)
+![Fields integer plugin form](../../../en/images/plugins/plugin-group-fields/04-plugin-group-fields-integer.png)
 
 - **Meerdere** Sta toe dat meerdere waarden worden geselecteerd.
 - **Eerste** Deze waarde is de laagste op de lijst.
@@ -47,14 +47,14 @@ Deze plugin laat je nieuwe velden van het type `kleur` aanmaken in elke extensie
 
 ### Velden - Lijst
 
-![Fields list plugin form](../../../en/images/plugins/plugin-group-fields-list.png)
+![Fields list plugin form](../../../en/images/plugins/plugin-group-fields/05-plugin-group-fields-list.png)
 
 - **Meerdere** Sta toe dat meerdere waarden worden geselecteerd.
 - **Lijstwaarden** De waarden van de lijst.
 
 ### Velden - Media
 
-![Fields media plugin form](../../../en/images/plugins/plugin-group-fields-media.png)
+![Fields media plugin form](../../../en/images/plugins/plugin-group-fields/06-plugin-group-fields-media.png)
 
 - **Directory** De directory met de afbeeldingsbestanden die moeten worden vermeld relatief aan de standaard afbeeldingsmap (ingesteld in Media > Opties).
 - **Voorvertoning** Toont of verbergt de voorvertoning van de geselecteerde afbeelding.
@@ -62,7 +62,7 @@ Deze plugin laat je nieuwe velden van het type `kleur` aanmaken in elke extensie
 
 ### Velden - Radio
 
-![Fields radio plugin form](../../../en/images/plugins/plugin-group-fields-radio.png)
+![Fields radio plugin form](../../../en/images/plugins/plugin-group-fields/07-plugin-group-fields-radio.png)
 
 - **Radiowaarden** De waarden van de radiolijst.
 
@@ -72,21 +72,21 @@ Plugin om een herhaalbaar formulier te maken met aanpasbare velden
 
 ### Velden - SQL
 
-![Fields SQL plugin form](../../../en/images/plugins/plugin-group-fields-sql.png)
+![Fields SQL plugin form](../../../en/images/plugins/plugin-group-fields/08-plugin-group-fields-sql.png)
 
 - **Query** De SQL-query die de data voor de dropdown lijst zal aanleveren. De query moet twee kolommen retourneren; één genaamd `waarde` die de waarden van de lijstitems bevat; de andere genaamd `tekst` met de tekst in de dropdown lijst.
 - **Meerdere** Sta toe dat meerdere waarden worden geselecteerd.
 
 ### Velden - Tekst
 
-![Fields text plugin form](../../../en/images/plugins/plugin-group-fields-text.png)
+![Fields text plugin form](../../../en/images/plugins/plugin-group-fields/09-plugin-group-fields-text.png)
 
 - **Filter** Laat het systeem bepaalde html-tags of ruwe data opslaan.
 - **Maximale Lengte** Het maximale aantal tekens dat kan worden ingevoerd.
 
 ### Velden - Tekstgebied
 
-![Fields textarea plugin form](../../../en/images/plugins/plugin-group-fields-textarea.png)
+![Fields textarea plugin form](../../../en/images/plugins/plugin-group-fields/10-plugin-group-fields-textarea.png)
 
 - **Rijen** De hoogte van het zichtbare tekstgebied in regels. Indien weggelaten wordt de hoogte bepaald door de browser. De waarde beperkt niet het aantal regels dat mag worden ingevoerd.
 - **Kolommen** De breedte van het zichtbare tekstgebied in karakters. Indien weggelaten wordt de breedte bepaald door de browser. De waarde beperkt niet het aantal karakters dat mag worden ingevoerd.
@@ -95,7 +95,7 @@ Plugin om een herhaalbaar formulier te maken met aanpasbare velden
 
 ### Velden - URL
 
-![Fields url plugin form](../../../en/images/plugins/plugin-group-fields-url.png)
+![Fields url plugin form](../../../en/images/plugins/plugin-group-fields/11-plugin-group-fields-url.png)
 
 - **Scheme** De toegestane schema's.
 - **Relatief** Zijn relatieve URL's toegestaan.
@@ -106,7 +106,7 @@ Deze plugin laat je nieuwe velden van het type `gebruiker` aanmaken in elke exte
 
 ### Velden - Gebruikersgroepenlijst
 
-![Fields user group list plugin form](../../../en/images/plugins/plugin-group-fields-usergrouplist.png)
+![Fields user group list plugin form](../../../en/images/plugins/plugin-group-fields/12-plugin-group-fields-usergrouplist.png)
 
 - **Meerdere** Sta toe dat meerdere waarden worden geselecteerd.
 *Vertaald door openai.com*

@@ -21,7 +21,7 @@ Selecteer **Componenten → Tags** in het Beheerdersmenu.
 
 ## Screenshot
 
-![lijst met tags](../../../nl/images/tags/tags-list.png)
+![lijst met tags](../../../nl/images/tags/tags/01-tags-list.png)
 
 ## Tips
 

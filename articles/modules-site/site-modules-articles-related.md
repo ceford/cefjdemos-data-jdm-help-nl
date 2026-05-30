@@ -27,7 +27,7 @@ Sommige elementen van deze pagina worden in aparte Help-artikelen behandeld:
 
 ## Screenshot
 
-![gerelateerde artikelen module tab](../../../nl/images/modules-site/modules-articles-related-module-tab.png)
+![gerelateerde artikelen module tab](../../../nl/images/modules-site/site-modules-articles-related/01-modules-articles-related-module-tab.png)
 
 ## Formuliervelden
 

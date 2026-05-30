@@ -22,15 +22,15 @@ Ook zal het **Systeem → Updatepaneel → Joomla** een vinkje weergeven, wa
 
 Als je site up-to-date is, zie je dit scherm:
 
-![Upload & Update](../../../en/images/joomla-update/upload-update-up-to-date.png)
+![Upload & Update](../../../en/images/joomla-update/joomla-update/01-upload-update-up-to-date.png)
 
 Als een update beschikbaar is, zie je dit scherm:
 
-![Upload & Update](../../../en/images/joomla-update/upload-update-available.png)
+![Upload & Update](../../../en/images/joomla-update/joomla-update/02-upload-update-available.png)
 
 Als je een hoofd- of subversie bijwerkt, zie je een pre-update controlescherm:
 
-![pre update check](../../../en/images/joomla-update/upload-update-pre-update-check.png)
+![pre update check](../../../en/images/joomla-update/joomla-update/03-upload-update-pre-update-check.png)
 
 Selecteer elk van de drie menu-items om te zien of er iets aandacht nodig heeft.
 
@@ -54,7 +54,7 @@ Je moet je PHP-instellingen voor *upload_max_filesize* en *post_max_size* instel
 en je PHP-geheugenlimiet op 256 Mb. Anders kan de update mislukken. Een
 goede reden om die back-up te maken!
 
-![upload en installeren](../../../en/images/joomla-update/upload-update-upload-install.png)
+![upload en installeren](../../../en/images/joomla-update/joomla-update/04-upload-update-upload-install.png)
 
 ## Update-opties
 

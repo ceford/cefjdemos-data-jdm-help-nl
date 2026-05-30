@@ -28,7 +28,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help artikel
 
 ## Screenshot
 
-![modules snelkoppelingen module tab](../../../nl/images/modules-admin/modules-quick-icons-module-tab.png)
+![modules snelkoppelingen module tab](../../../nl/images/modules-admin/admin-modules-quick-icons/01-modules-quick-icons-module-tab.png)
 
 ## Formulieren
 

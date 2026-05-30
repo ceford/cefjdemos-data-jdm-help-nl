@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![feed display module tab](../../../nl/images/modules-site/modules-feed-display-module-tab.png)
+![feed display module tab](../../../nl/images/modules-site/site-modules-feed-display/01-modules-feed-display-module-tab.png)
 
 ## Formuliervelden
 

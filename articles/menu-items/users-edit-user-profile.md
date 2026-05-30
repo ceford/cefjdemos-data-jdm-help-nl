@@ -32,7 +32,7 @@ Om een bestaand Gebruikersprofiel Bewerken menu-item te bewerken:
 
 ## Screenshot
 
-![Bewerk Gebruikersprofiel details tab](../../../nl/images/menu-items/users-edit-user-profile-details-tab.png)
+![Bewerk Gebruikersprofiel details tab](../../../nl/images/menu-items/users-edit-user-profile/01-users-edit-user-profile-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Common Elements*.
 

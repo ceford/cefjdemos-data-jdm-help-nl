@@ -30,7 +30,7 @@ Om een bestaand Menu Koptekst-itemtype te bewerken:
 
 ## Screenshot
 
-![Menu Item Heading details tab](../../../nl/images/menu-items/system-links-menu-heading-details-tab.png)
+![Menu Item Heading details tab](../../../nl/images/menu-items/system-links-menu-heading/01-system-links-menu-heading-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Gemeenschappelijke Elementen*.
 

@@ -28,7 +28,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Contactenlijst](../../../nl/images/contacts/contacts-list.png)
+![Contactenlijst](../../../nl/images/contacts/contacts/01-contacts-list.png)
 
 
 *Vertaald door openai.com*

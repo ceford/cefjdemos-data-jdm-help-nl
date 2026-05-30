@@ -23,7 +23,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Hulp-artikel
 
 ## Screenshot
 
-![Extensies bijgewerkte lijst](../../../nl/images/extensions/update-list.png)
+![Extensies bijgewerkte lijst](../../../nl/images/extensions/extensions-update/01-update-list.png)
 
 ## Tips
 

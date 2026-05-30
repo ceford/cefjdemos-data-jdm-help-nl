@@ -10,7 +10,7 @@ Dit scherm toont eventuele waarschuwingen met betrekking tot extensies die je he
 
 ## Screenshot
 
-![Informatiewaarschuwingen](../../../nl/images/information/warnings.png)
+![Informatiewaarschuwingen](../../../nl/images/information/information-warnings/01-warnings.png)
 
 ## Werkbalk
 

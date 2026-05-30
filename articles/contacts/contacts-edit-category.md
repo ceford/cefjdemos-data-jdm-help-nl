@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Contacten bewerken categorie tab](../../../nl/images/contacts/contacts-edit-category-category-tab.png)
+![Contacten bewerken categorie tab](../../../nl/images/contacts/contacts-edit-category/01-contacts-edit-category-category-tab.png)
 
 ## Formulieren
 

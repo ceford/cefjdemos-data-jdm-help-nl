@@ -31,7 +31,7 @@ Om een bestaand Extern URL menu-item te bewerken:
 
 ## Screenshot
 
-![Menu Item Alias](../../../nl/images/menu-items/system-links-url-details-tab.png)
+![Menu Item Alias](../../../nl/images/menu-items/system-links-url/01-system-links-url-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Algemene Elementen*.
 

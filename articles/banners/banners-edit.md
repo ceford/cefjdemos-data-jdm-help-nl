@@ -28,7 +28,7 @@ Een banner kan een klikbare afbeelding of aangepaste code zijn. Het afbeeldingt.
 type wordt weergegeven in de onderstaande screenshot. Bij het aangepaste type 
 wordt het afbeeldingselectievak vervangen door een tekstgebied voor code.
 
-![Banners bewerk details tabblad](../../../nl/images/banners/banners-edit-details-tab.png)
+![Banners bewerk details tabblad](../../../nl/images/banners/banners-edit/01-banners-edit-details-tab.png)
 
 ## Formuliervelden
 
@@ -84,7 +84,7 @@ wordt het afbeeldingselectievak vervangen door een tekstgebied voor code.
 
 ### Banner Details tabblad
 
-![Banners bewerken banner details tabblad](../../../nl/images/banners/banners-edit-banner-details-tab.png)
+![Banners bewerken banner details tabblad](../../../nl/images/banners/banners-edit/02-banners-edit-banner-details-tab.png)
 
 - **Max. Impressies** Het aantal Impressies dat voor deze
   Banner is gekocht. Impressies zijn het aantal keren dat een Banner wordt weergegeven

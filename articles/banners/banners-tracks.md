@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Lijst van tracks op banners](../../../nl/images/banners/banners-tracks-list.png)
+![Lijst van tracks op banners](../../../nl/images/banners/banners-tracks/01-banners-tracks-list.png)
 
 ## Kolomkoppen
 

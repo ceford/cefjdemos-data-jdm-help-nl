@@ -13,7 +13,7 @@ component moet op **Ja** staan om statistieken te verzamelen.
 
 ## Screenshot
 
-![smart search zoekterm analyse](../../../nl/images/smart-search/smart-search-search-term-analysis.png)
+![smart search zoekterm analyse](../../../nl/images/smart-search/smart-search-search-term-analysis/01-smart-search-search-term-analysis.png)
 
 ## Kolommen
 

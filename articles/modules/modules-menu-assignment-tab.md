@@ -6,7 +6,7 @@ Het *Tabblad: Menu Toewijzing* wordt met kleine variaties gebruikt in alle bewer
 
 ## Screenshot
 
-![Modules geavanceerd tabblad](../../../nl/images/modules/modules-custom-menu-assignment-tab.png)
+![Modules geavanceerd tabblad](../../../nl/images/modules/modules-menu-assignment-tab/01-modules-custom-menu-assignment-tab.png)
 
 ## Formuliervelden
 

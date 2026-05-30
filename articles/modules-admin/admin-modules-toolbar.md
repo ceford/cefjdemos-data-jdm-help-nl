@@ -25,7 +25,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![modules toolbar module tab](../../../nl/images/modules-admin/modules-toolbar-module-tab.png)
+![modules toolbar module tab](../../../nl/images/modules-admin/admin-modules-toolbar/01-modules-toolbar-module-tab.png)
 
 ## Formulier Velden
 

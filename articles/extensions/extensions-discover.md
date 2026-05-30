@@ -25,7 +25,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Extensies ontdekkingslijst](../../../nl/images/extensions/discover-list.png)
+![Extensies ontdekkingslijst](../../../nl/images/extensions/extensions-discover/01-discover-list.png)
 
 ## Kolomkoppen
 

@@ -17,7 +17,7 @@ Bijvoorbeeld, de Artikelen: Categorie Opties layout biedt:
 ```
 [TeDoen] Voorbeelden om de verandering in uiterlijk met verschillende opties te tonen.
 
-![Artikelen bewerk categorie opties tabblad](../../../nl/images/common-elements/articles-edit-category-options-tab.png)
+![Artikelen bewerk categorie opties tabblad](../../../nl/images/common-elements/edit-category-options/01-articles-edit-category-options-tab.png)
 
 ## Opties Tab
 

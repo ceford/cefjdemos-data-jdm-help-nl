@@ -31,7 +31,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![transities basis workflow lijst](../../../nl/images/workflows/transitions-basic-workflow-list.png)
+![transities basis workflow lijst](../../../nl/images/workflows/transitions-basic-workflow/01-transitions-basic-workflow-list.png)
 
 *Vertaald door openai.com*
 

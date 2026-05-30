@@ -38,7 +38,7 @@ Categorie en E-mails in de Contact-component mogelijk maakt. Hiervoor is enige c
 
 ## Screenshot
 
-![Lijst met artikelvelden](../../../nl/images/fields/articles-fields-list.png)
+![Lijst met artikelvelden](../../../nl/images/fields/fields/01-articles-fields-list.png)
 
 Er zijn 16 veldtypen beschikbaar, elk geïmplementeerd als een plugin. Meer zullen waarschijnlijk in de toekomst beschikbaar komen.
 

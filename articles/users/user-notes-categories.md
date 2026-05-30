@@ -19,7 +19,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke hulpartikele
 
 ## Screenshot
 
-![gebruikers notitiecategorieën lijst](../../../nl/images/users/users-user-notes-categories-list.png)
+![gebruikers notitiecategorieën lijst](../../../nl/images/users/user-notes-categories/01-users-user-notes-categories-list.png)
 
 *Vertaald door openai.com*
 

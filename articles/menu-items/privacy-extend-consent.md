@@ -32,7 +32,7 @@ Om een bestaand Extend Consent menu-item te bewerken:
 
 ## Screenshot
 
-![Menu Item Privacy Maak Verzoek details tab](../../../nl/images/menu-items/privacy-extend-consent-details-tab.png)
+![Menu Item Privacy Maak Verzoek details tab](../../../nl/images/menu-items/privacy-extend-consent/01-privacy-extend-consent-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Gemeenschappelijke Elementen*.
 

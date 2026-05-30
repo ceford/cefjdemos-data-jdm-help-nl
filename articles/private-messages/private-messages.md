@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![privéberichten](../../../nl/images/private-messages/private-messages.png)
+![privéberichten](../../../nl/images/private-messages/private-messages/01-private-messages.png)
 
 ## Tips
 

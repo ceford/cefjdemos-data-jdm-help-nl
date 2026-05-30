@@ -22,7 +22,7 @@ Selecteer **Componenten → Web Links → Links** vanuit het Beheerdersmenu.
 
 ## Screenshot
 
-![weblinks lijst](../../../nl/images/weblinks/weblinks-list.png)
+![weblinks lijst](../../../nl/images/weblinks/weblinks-links/01-weblinks-list.png)
 
 *Vertaald door openai.com*
 

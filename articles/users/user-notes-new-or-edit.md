@@ -27,7 +27,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![gebruikers gebruikersnotities nieuw of bewerken](../../../nl/images/users/users-user-notes-new-or-edit.png)
+![gebruikers gebruikersnotities nieuw of bewerken](../../../nl/images/users/user-notes-new-or-edit/01-users-user-notes-new-or-edit.png)
 
 ## Formuliervelden
 

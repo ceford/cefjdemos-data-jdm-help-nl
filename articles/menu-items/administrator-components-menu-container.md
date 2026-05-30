@@ -57,7 +57,7 @@ de lijst met Menu-items.
 
 ## Screenshot
 
-![Onderdelen Menu-item Menu Container](../../../en/images/menu-items/administrator-components-menu-container.png)
+![Onderdelen Menu-item Menu Container](../../../en/images/menu-items/administrator-components-menu-container/01-administrator-components-menu-container.png)
 
 ## Formuliervelden
 

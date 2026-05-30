@@ -27,7 +27,7 @@ Enkele elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![wrapper module tab](../../../nl/images/modules-site/modules-wrapper-module-tab.png)
+![wrapper module tab](../../../nl/images/modules-site/site-modules-wrapper/01-modules-wrapper-module-tab.png)
 
 ## Formulierenvelden
 

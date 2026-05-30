@@ -19,7 +19,7 @@ Sommige aspecten van deze pagina worden in afzonderlijke Help-artikelen behandel
 
 ## Screenshot
 
-![Onderhoudsdatabase](../../../nl/images/maintenance/maintenance-database.png)
+![Onderhoudsdatabase](../../../nl/images/maintenance/maintenance-database/01-maintenance-database.png)
 
 ## Kolomkoppen
 

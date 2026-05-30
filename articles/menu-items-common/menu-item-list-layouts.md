@@ -16,7 +16,7 @@ illustreren wat je kunt verwachten.
 
 ### Artikelen Categorie Lijstindeling
 
-![Menu Item type Categorie Lijst - lijstindelingen tabblad](../../../nl/images/menu-items/articles-category-list-list-layouts-tab.png)
+![Menu Item type Categorie Lijst - lijstindelingen tabblad](../../../nl/images/menu-items/menu-item-list-layouts/01-articles-category-list-list-layouts-tab.png)
 
 - **Weergave Selecteren** Toon of verberg de Weergave \# controle die de gebruiker
   toestaat het aantal artikelen te kiezen dat wordt weergegeven.
@@ -94,7 +94,7 @@ illustreren wat je kunt verwachten.
 
 ### Uitgelichte Contacten Lijstindeling
 
-![Menu Item Uitgelichte Contacten lijstindelingen tabblad](../../../nl/images/menu-items/contacts-featured-contacts-list-layouts-tab.png)
+![Menu Item Uitgelichte Contacten lijstindelingen tabblad](../../../nl/images/menu-items/menu-item-list-layouts/02-contacts-featured-contacts-list-layouts-tab.png)
 
 - **Filterveld** Toon of verberg de lijstfilter.
 - **Weergave Selecteren** Toon of verberg het aantal items om in de lijst weer te geven.
@@ -122,7 +122,7 @@ illustreren wat je kunt verwachten.
 
 ### Nieuws Feed Lijstindelingen
 
-![Menu Item lijst alle Nieuws Feed Categorieën lijstindelingen tabblad](../../../nl/images/menu-items/news-feeds-list-all-categories-tree-list-layouts-tab.png)
+![Menu Item lijst alle Nieuws Feed Categorieën lijstindelingen tabblad](../../../nl/images/menu-items/menu-item-list-layouts/03-news-feeds-list-all-categories-tree-list-layouts-tab.png)
 
 - **Filterveld** Toon of verberg een Filterveld voor de lijst.
 - **Weergave Selecteren** Toon of verberg de Weergave \# controle die de gebruiker
@@ -145,7 +145,7 @@ illustreren wat je kunt verwachten.
 
 ### Tags Lijstindelingen
 
-![Compact Lijst van Getagde Items details tabblad](../../../nl/images/menu-items/tags-compact-list-of-tagged-items-list-layouts-tab.png)
+![Compact Lijst van Getagde Items details tabblad](../../../nl/images/menu-items/menu-item-list-layouts/04-tags-compact-list-of-tagged-items-list-layouts-tab.png)
 
 - **Itemafbeelding** Toon of verberg de afbeelding voor elk item.
 - **Itembeschrijving** Toon of verberg de beschrijving voor elk item in de lijst.

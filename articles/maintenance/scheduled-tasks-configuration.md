@@ -6,13 +6,13 @@ Selecteer de knop Opties in de Werkbalk om geplande taken te configureren.
 
 ### Tabblad Taken configureren
 
-![task timeout setting](../../../nl/images/maintenance/scheduled-tasks-options-configure-tasks.png)
+![task timeout setting](../../../nl/images/maintenance/scheduled-tasks-configuration/01-scheduled-tasks-options-configure-tasks.png)
 
 - **Taak Time-out** De standaard is 300 seconden.
 
 ### Luie Planner-tabblad
 
-![lazy schedule setting](../../../nl/images/maintenance/scheduled-tasks-options-lazy-scheduler.png)
+![lazy schedule setting](../../../nl/images/maintenance/scheduled-tasks-configuration/02-scheduled-tasks-options-lazy-scheduler.png)
 
 - **Ingeschakelde** Taken worden geactiveerd door sitebezoekers.
 - **Uitgeschakelde** Taken moeten worden geactiveerd door een extern cron-job.
@@ -20,7 +20,7 @@ Selecteer de knop Opties in de Werkbalk om geplande taken te configureren.
 
 ### Web Cron-tabblad
 
-![web cron setting](../../../nl/images/maintenance/scheduled-tasks-options-webcron.png)
+![web cron setting](../../../nl/images/maintenance/scheduled-tasks-configuration/03-scheduled-tasks-options-webcron.png)
 
 - **Web Cron** Uitgeschakeld is de standaardinstelling. Ingeschakeld vereist een hash om de taak te activeren. Voor de eerste keer opslaan is er een bericht dat een sleutel vereist is. Na het opslaan is er een veld met een Webcron-link url om te kopiëren.
 

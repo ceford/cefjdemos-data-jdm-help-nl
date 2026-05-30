@@ -20,7 +20,7 @@ Selecteer **Componenten → Weblinks → Categorieën** in het Administrator
 
 ## Screenshot
 
-![weblinks lijst](../../../nl/images/weblinks/web-links-categories-list.png)
+![weblinks lijst](../../../nl/images/weblinks/weblinks-categories/01-web-links-categories-list.png)
 
 *Vertaald door openai.com*
 

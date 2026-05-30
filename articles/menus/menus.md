@@ -29,7 +29,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![menulijst](../../../nl/images/menus/menus-list.png)
+![menulijst](../../../nl/images/menus/menus/01-menus-list.png)
 
 ## Kolomkoppen
 

@@ -8,7 +8,7 @@ Bijvoorbeeld, verwijderde items worden meestal niet standaard weergegeven. Als j
 
 ## Opties voor Artikel Lijst Filteren¶
 
-![Articles list](../../../nl/images/common-elements/articles-list-filter-options.png)
+![Articles list](../../../nl/images/common-elements/list-filters/01-articles-list-filter-options.png)
 
 Om de opties te **tonen** of **verbergen**, selecteer de **Filteropties** knop. Let
 op dat de opties altijd getoond worden bij terugkeer naar een pagina waarin een optie

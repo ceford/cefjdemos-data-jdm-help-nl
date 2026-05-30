@@ -26,7 +26,7 @@ Enkele elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![modules administrator menu module tab](../../../nl/images/modules-admin/modules-administrator-menu-module-tab.png)
+![modules administrator menu module tab](../../../nl/images/modules-admin/admin-modules-administrator-menu/01-modules-administrator-menu-module-tab.png)
 
 ## Formuliervelden
 

@@ -25,7 +25,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Schermafbeelding
 
-![modules ingelogde gebruikers module tab](../../../nl/images/modules-admin/modules-logged-in-users-module-tab.png)
+![modules ingelogde gebruikers module tab](../../../nl/images/modules-admin/admin-modules-logged-in-users/01-modules-logged-in-users-module-tab.png)
 
 ## Formulier Velden
 

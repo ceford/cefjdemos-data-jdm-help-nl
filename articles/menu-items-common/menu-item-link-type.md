@@ -13,7 +13,7 @@ Alle menu-items hebben een vergelijkbare lay-out, maar sommige formuliervelden e
 
 ## Screenshot
 
-![menu item linktype tab](../../../nl/images/menu-items-common/menu-item-link-type.png)
+![menu item linktype tab](../../../nl/images/menu-items-common/menu-item-link-type/01-menu-item-link-type.png)
 
 ## Formulieren Velden
 

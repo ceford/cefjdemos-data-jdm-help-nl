@@ -32,7 +32,7 @@ Om een bestaand Menu Item te bewerken:
 
 ## Screenshot
 
-![Menu-item Alias](../../../nl/images/menu-items/system-links-menu-item-alias-details-tab.png)
+![Menu-item Alias](../../../nl/images/menu-items/system-links-menu-item-alias/01-system-links-menu-item-alias-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld bij de *Gemeenschappelijke Elementen*.
 

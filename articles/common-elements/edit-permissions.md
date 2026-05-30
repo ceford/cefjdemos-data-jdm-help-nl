@@ -12,14 +12,14 @@ Voor meer gedetailleerde informatie over gebruikersgroepen, toegangsniveaus en m
 
 In dit voorbeeld hebben gebruikers in de Oddjob-groep globale rechten gekregen om in te loggen op de Beheerinterface, maar niets anders.
 
-![Screenshot van Rechten](../../../nl/images/common-elements/global-configuration-permissions-tab.png)
+![Screenshot van Rechten](../../../nl/images/common-elements/edit-permissions/01-global-configuration-permissions-tab.png)
 
 ## Componentconfiguratie Permissies
 
 Om toegang te krijgen tot een specifieke component moeten de rechten worden ingesteld in de componentopties.
 In dit voorbeeld de Media-componentopties.
 
-![Media Screenshot](../../../nl/images/common-elements/media-options-permissions-tab.png)
+![Media Screenshot](../../../nl/images/common-elements/edit-permissions/02-media-options-permissions-tab.png)
 
 Je zult merken dat deze component minder Acties beschikbaar heeft en de Oddjob
 groep net genoeg permissies heeft om het werk te doen.
@@ -41,11 +41,11 @@ Om de permissies voor deze component te wijzigen:
 
 Na inloggen zal een gebruiker in de Oddjob-groep de modules zien die **Speciale** toegang hebben ingesteld op het Startdashboard, en een Menu-item link naar de Media-component.
 
-![Startdashboard voor Oddjob](../../../nl/images/common-elements/home-dashboard-for-oddjob.png)
+![Startdashboard voor Oddjob](../../../nl/images/common-elements/edit-permissions/03-home-dashboard-for-oddjob.png)
 
 En het Mediascherm voor gebruiker Oddjob is zoals verwacht:
 
-![Mediascherm voor Oddjob](../../../nl/images/common-elements/media-screen-for-oddjob.png)
+![Mediascherm voor Oddjob](../../../nl/images/common-elements/edit-permissions/04-media-screen-for-oddjob.png)
 
 *Vertaald door openai.com*
 

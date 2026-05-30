@@ -28,7 +28,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Schermafbeelding
 
-![wie is er online module tabblad](../../../nl/images/modules-site/modules-whos-online-module-tab.png)
+![wie is er online module tabblad](../../../nl/images/modules-site/site-modules-whos-online/01-modules-whos-online-module-tab.png)
 
 ## Formuliervelden
 

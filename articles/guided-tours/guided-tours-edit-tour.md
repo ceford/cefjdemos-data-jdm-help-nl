@@ -21,7 +21,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Schermafbeelding
 
-![Begeleide Rondleidingen Tour Bewerken](../../../nl/images/guided-tours/guided-tours-edit-tour.png)
+![Begeleide Rondleidingen Tour Bewerken](../../../nl/images/guided-tours/guided-tours-edit-tour/01-guided-tours-edit-tour.png)
 
 ## Formuliervelden
 

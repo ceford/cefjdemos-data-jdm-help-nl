@@ -18,7 +18,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Redirects links](../../../nl/images/redirects/redirects-edit.png)
+![Redirects links](../../../nl/images/redirects/redirects-new-or-edit/01-redirects-edit.png)
 
 ## Formulieren
 

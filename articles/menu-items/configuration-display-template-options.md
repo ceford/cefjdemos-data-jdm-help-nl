@@ -35,11 +35,11 @@ Om een bestaand Display Template Options menu-item te bewerken:
 
 ## Screenshot
 
-![Weergave details tabblad Sjabloonopties](../../../nl/images/menu-items/configuration-display-template-options-details.png)
+![Weergave details tabblad Sjabloonopties](../../../nl/images/menu-items/configuration-display-template-options/01-configuration-display-template-options-details.png)
 
 ## Screenshot van Front End
 
-![Weergave template-opties front end formulier](../../../en/images/menu-items/configuration-display-template-options-frontend.png)
+![Weergave template-opties front end formulier](../../../en/images/menu-items/configuration-display-template-options/02-configuration-display-template-options-frontend.png)
 
 *Vertaald door openai.com*
 

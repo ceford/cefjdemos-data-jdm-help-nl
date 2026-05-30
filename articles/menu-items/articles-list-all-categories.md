@@ -38,7 +38,7 @@ Om een Menu-item te bewerken:
 
 ## Screenshot
 
-![Menu-item Artikelenlijst Alle categorieën details tabblad](../../../nl/images/menu-items/articles-list-all-categories-details-tab.png)
+![Menu-item Artikelenlijst Alle categorieën details tabblad](../../../nl/images/menu-items/articles-list-all-categories/01-articles-list-all-categories-details-tab.png)
 
 ## Formulieren
 
@@ -65,7 +65,7 @@ Om een Menu-item te bewerken:
 
 ### Categorieën-tabblad
 
-![Menu Item Artikelen Lijst Alle Categorieën categorieën tabblad](../../../nl/images/menu-items/articles-list-all-categories-categories-tab.png)
+![Menu Item Artikelen Lijst Alle Categorieën categorieën tabblad](../../../nl/images/menu-items/articles-list-all-categories/02-articles-list-all-categories-categories-tab.png)
 
 - **Beschrijving van bovenste categorie** Toon de beschrijving voor de bovenste categorie.
 - **Alternatieve Beschrijving** Voer een beschrijving in om de categorie beschrijving voor het menu-item te overschrijven.
@@ -84,7 +84,7 @@ Het blogindelingsformulier heeft een andere lay-out dan de gemeenschappelijke el
 
 De gemeenschappelijke opties gelden voor gedeelde opties in Lijst, Blog en Uitgelicht, tenzij ze worden gewijzigd door de menu-instellingen.
 
-![Menu Item Artikelen Lijst Alle Categorieën gedeelde tabblad](../../../nl/images/menu-items/articles-list-all-categories-shared-tab.png)
+![Menu Item Artikelen Lijst Alle Categorieën gedeelde tabblad](../../../nl/images/menu-items/articles-list-all-categories/03-articles-list-all-categories-shared-tab.png)
 
 - **Paginering** Paginering biedt paginalinks onderaan de pagina waarmee de gebruiker naar extra pagina's kan navigeren. Deze zijn nodig als de artikelen niet op één pagina passen.
   - *Verbergen* Paginering links worden niet getoond. *Opmerking* Gebruikers kunnen niet naar extra pagina's navigeren.

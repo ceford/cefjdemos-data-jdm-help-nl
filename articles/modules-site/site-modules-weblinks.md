@@ -23,7 +23,7 @@ Via het Administrator-menu:
 
 ## Screenshot
 
-![formulier voor gegevensinvoer in de module weblinks](../../../nl/images/modules-site/modules-weblinks-module-tab.png)
+![formulier voor gegevensinvoer in de module weblinks](../../../nl/images/modules-site/site-modules-weblinks/01-modules-weblinks-module-tab.png)
 
 ## Formulierenvelden
 

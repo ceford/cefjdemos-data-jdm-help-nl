@@ -12,7 +12,7 @@ Het Home Dashboard is de standaard inloglocatie voor de backend. Vanuit een ande
 
 ## Screenshot
 
-![home dashboard](../../../nl/images/site/home-dashboard.png)
+![home dashboard](../../../nl/images/site/site-control-panel/01-home-dashboard.png)
 
 ## Modules
 

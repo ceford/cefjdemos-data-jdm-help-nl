@@ -37,7 +37,7 @@ Om een bestaand **Alle Contactcategorieën** menu-item te bewerken:
 
 ## Screenshot
 
-![Menu Item Contactenlijst Alle Categorieën boomstructuur details tab](../../../nl/images/menu-items/contacts-list-all-categories-tree-details-tab.png)
+![Menu Item Contactenlijst Alle Categorieën boomstructuur details tab](../../../nl/images/menu-items/contacts-list-all-contact-categories/01-contacts-list-all-categories-tree-details-tab.png)
 
 ## Formuliervelden
 
@@ -46,7 +46,7 @@ Om een bestaand **Alle Contactcategorieën** menu-item te bewerken:
 De Categorie Opties bepalen hoe de informatie van categorieën
 wordt weergegeven in de lay-out. Zaken die u kunt aanpassen zijn:
 
-![Menu-item Contactenlijst Alle categoriën boomstructuur categorieën tabblad](../../../nl/images/menu-items/contacts-list-all-categories-tree-categories-tab.png)
+![Menu-item Contactenlijst Alle categoriën boomstructuur categorieën tabblad](../../../nl/images/menu-items/contacts-list-all-contact-categories/02-contacts-list-all-categories-tree-categories-tab.png)
 
 - **Omschrijving Hoofdcategorie** Toon of verberg de
   beschrijving van de hoofdcategorie of overschrijf deze eventueel met de
@@ -64,7 +64,7 @@ wordt weergegeven in de lay-out. Zaken die u kunt aanpassen zijn:
 
 Contact Weergave Opties bepalen het uiterlijk van de lijstindeling.
 
-![Menu-item Contactenlijst Alle categoriën boomstructuur contact weergave opties tabblad](../../../nl/images/menu-items/contacts-list-all-categories-tree-contact-display-options.png)
+![Menu-item Contactenlijst Alle categoriën boomstructuur contact weergave opties tabblad](../../../nl/images/menu-items/contacts-list-all-contact-categories/03-contacts-list-all-categories-tree-contact-display-options.png)
 
 - **Contactcategorie** Toon of verberg de Contactcategorie weergave.
     - *Gebruik Globaal* Gebruik de standaardwaarde van het scherm Contactopties.
@@ -101,7 +101,7 @@ Contact Weergave Opties bepalen het uiterlijk van de lijstindeling.
 
 ### Tabblad Mail Opties
 
-![Menu-item Contactenlijst Alle categoriën boomstructuur mail opties tabblad](../../../nl/images/menu-items/contacts-list-all-categories-tree-mail-options-tab.png)
+![Menu-item Contactenlijst Alle categoriën boomstructuur mail opties tabblad](../../../nl/images/menu-items/contacts-list-all-contact-categories/04-contacts-list-all-categories-tree-mail-options-tab.png)
 
 - **Contactformulier** Toon of verberg het *contactformulier* van het contact.
 - **Verzend Kopie naar Indiener** Toon of verberg de optie

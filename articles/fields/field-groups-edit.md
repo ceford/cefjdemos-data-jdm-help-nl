@@ -29,7 +29,7 @@ om geschikte sjabloonoverrides voor te bereiden.
 Dit voorbeeld is een *Artikelen: Bewerk Veldgroep* pagina. *Contacten: Bewerk Veldgroep*
 en *Gebruikers: Bewerk Veldgroep* zijn vergelijkbaar.
 
-![artikelen bewerk veldgroep](../../../nl/images/fields/articles-edit-field-group.png)
+![artikelen bewerk veldgroep](../../../nl/images/fields/field-groups-edit/01-articles-edit-field-group.png)
 
 ## Formuliervelden
 

@@ -19,7 +19,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Schermafbeelding
 
-![Onderhoud Cache Wissen](../../../nl/images/maintenance/maintenance-clear-cache.png)
+![Onderhoud Cache Wissen](../../../nl/images/maintenance/maintenance-clear-cache/01-maintenance-clear-cache.png)
 
 ## Kolomkoppen
 

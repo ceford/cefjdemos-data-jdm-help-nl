@@ -12,7 +12,7 @@ Alle menu-items hebben een vergelijkbare lay-out, maar sommige van de formulier-
 
 ## Screenshot
 
-![menu item module assignment tab](../../../nl/images/menu-items-common/menu-item-module-assignment.png)
+![menu item module assignment tab](../../../nl/images/menu-items-common/menu-item-module-assignment/01-menu-item-module-assignment.png)
 
 ## Formuliervelden
 

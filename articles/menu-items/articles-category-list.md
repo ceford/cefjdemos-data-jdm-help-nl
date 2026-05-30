@@ -36,7 +36,7 @@ Om een Menu-item te bewerken:
 
 ## Screenshot
 
-![Lijst van Menu-items](../../../nl/images/menu-items/articles-category-list-details-tab.png)
+![Lijst van Menu-items](../../../nl/images/menu-items/articles-category-list/01-articles-category-list-details-tab.png)
 
 
 ## Formulieren

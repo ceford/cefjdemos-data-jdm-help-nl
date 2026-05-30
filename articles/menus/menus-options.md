@@ -18,7 +18,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Menu Opties](../../../nl/images/menus/menu-options-page-display-tab.png)
+![Menu Opties](../../../nl/images/menus/menus-options/01-menu-options-page-display-tab.png)
 
 ## Formuliervelden
 

@@ -25,7 +25,7 @@ Er zijn twee routes naar de Categorielijstpagina:
 
 ## Screenshot
 
-![Artikelen: Categorieënlijst](../../../nl/images/articles/articles-categories-list.png)
+![Artikelen: Categorieënlijst](../../../nl/images/articles/articles-categories/01-articles-categories-list.png)
 
 ## Kolomkoppen
 

@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![webkoppeling bewerken webkoppeling tabblad](../../../nl/images/weblinks/web-link-edit-web-link-tab.png)
+![webkoppeling bewerken webkoppeling tabblad](../../../nl/images/weblinks/weblinks-links-edit/01-web-link-edit-web-link-tab.png)
 
 ## Formuliervelden
 
@@ -34,7 +34,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ### Afbeeldingen Tab
 
-![web link bewerk afbeeldingen tab](../../../nl/images/weblinks/web-link-edit-web-link-images-tab.png)
+![web link bewerk afbeeldingen tab](../../../nl/images/weblinks/weblinks-links-edit/02-web-link-edit-web-link-images-tab.png)
 
 - **Eerste Afbeelding** Klik op Selecteren om een afbeelding te selecteren die moet worden weergegeven 
   met dit item aan de voorkant.
@@ -52,7 +52,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ### Publiceren Tab
 
-![web link bewerk publiceren tab](../../../nl/images/weblinks/web-link-edit-web-link-publishing-tab.png)
+![web link bewerk publiceren tab](../../../nl/images/weblinks/weblinks-links-edit/03-web-link-edit-web-link-publishing-tab.png)
 
 - **Start Publiceren** Datum en tijd om te beginnen met publiceren. Gebruik dit veld als je inhoud 
   van tevoren wilt invoeren en deze dan op een toekomstig tijdstip automatisch wilt laten publiceren.
@@ -99,7 +99,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ### Opties Tab
 
-![web link bewerk opties tab](../../../nl/images/weblinks/web-link-edit-web-link-options-tab.png)
+![web link bewerk opties tab](../../../nl/images/weblinks/weblinks-links-edit/04-web-link-edit-web-link-options-tab.png)
 
 - **Doel** Hoe de link moet worden geopend. Opties zijn:
   - Openen in oudervenster. Open de link in het huidige browservenster, 

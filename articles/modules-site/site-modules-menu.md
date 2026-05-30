@@ -30,7 +30,7 @@ Enkele elementen van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Screenshot
 
-![menu module tab](../../../nl/images/modules-site/modules-menu-module-tab.png)
+![menu module tab](../../../nl/images/modules-site/site-modules-menu/01-modules-menu-module-tab.png)
 
 ## Formuliervelden
 

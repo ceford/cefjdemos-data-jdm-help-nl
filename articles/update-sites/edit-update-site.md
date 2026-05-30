@@ -18,7 +18,7 @@ Sommige elementen van deze pagina worden in afzonderlijke Help-artikelen behande
 
 ## Screenshot
 
-![bijwerklocaties bewerk bijwerk locatie](../../../nl/images/update-sites/update-sites-edit-update-site.png)
+![bijwerklocaties bewerk bijwerk locatie](../../../nl/images/update-sites/edit-update-site/01-update-sites-edit-update-site.png)
 
 ## Formuliervelden
 

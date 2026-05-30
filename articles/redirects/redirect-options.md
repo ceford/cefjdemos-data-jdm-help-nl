@@ -28,7 +28,7 @@ dialoogvenster in.
 
 ## Screenshot
 
-![Geavanceerd tabblad doorstuur opties](../../../nl/images/redirects/redirect-options-advanced-tab.png)
+![Geavanceerd tabblad doorstuur opties](../../../nl/images/redirects/redirect-options/01-redirect-options-advanced-tab.png)
 
 ## Formuliervelden
 

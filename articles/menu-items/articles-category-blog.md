@@ -40,7 +40,7 @@ Om een Menu-item te bewerken:
 
 ## Screenshot
 
-![Menu-item categorie Blog](../../../nl/images/menu-items/articles-category-blog-details-tab.png)
+![Menu-item categorie Blog](../../../nl/images/menu-items/articles-category-blog/01-articles-category-blog-details-tab.png)
 
 ## Formuliervelden
 

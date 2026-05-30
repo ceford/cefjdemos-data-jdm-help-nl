@@ -27,7 +27,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![privacy review information request](../../../nl/images/privacy/privacy-review-information-request.png)
+![privacy review information request](../../../nl/images/privacy/privacy-review-information-request/01-privacy-review-information-request.png)
 
 ## Details
 

@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![meest gelezen artikelen module tab](../../../nl/images/modules-site/modules-articles-most-read-module-tab.png)
+![meest gelezen artikelen module tab](../../../nl/images/modules-site/site-modules-articles-most-read/01-modules-articles-most-read-module-tab.png)
 
 ## Formuliervelden
 

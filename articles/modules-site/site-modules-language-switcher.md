@@ -28,7 +28,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![taalschakelaar module tab](../../../nl/images/modules-site/modules-language-switcher-module-tab.png)
+![taalschakelaar module tab](../../../nl/images/modules-site/site-modules-language-switcher/01-modules-language-switcher-module-tab.png)
 
 ## Formuliervelden
 

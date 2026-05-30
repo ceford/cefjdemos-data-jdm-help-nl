@@ -28,7 +28,7 @@ Er zijn twee routes naar de Artikelenlijstpagina:
 
 ## Screenshot
 
-![Artikelenlijst](../../../nl/images/articles/articles-list.png)
+![Artikelenlijst](../../../nl/images/articles/articles/01-articles-list.png)
 
 ## Kolomkoppen
 

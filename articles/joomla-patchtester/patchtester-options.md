@@ -20,7 +20,7 @@ Meer Informatie: [Een Dummy's Gids voor Joomla Bug Testing](https://brian.teeman
 
 ## Screenshot
 
-![Patchtester Opties formulier](../../../nl/images/joomla-patchtester/patchtester-options-github-repository-tab.png)
+![Patchtester Opties formulier](../../../nl/images/joomla-patchtester/patchtester-options/01-patchtester-options-github-repository-tab.png)
 
 ## Formuliervelden
 
@@ -32,7 +32,7 @@ Meer Informatie: [Een Dummy's Gids voor Joomla Bug Testing](https://brian.teeman
 
 Je hebt een GitHub-account en een GitHub-token nodig. Alles is gratis - zie de GitHub Authenticatie-tab voor details.
 
-![Patchtester Opties github authenticatie tab](../../../nl/images/joomla-patchtester/patchtester-options-github-authentication-tab.png)
+![Patchtester Opties github authenticatie tab](../../../nl/images/joomla-patchtester/patchtester-options/02-patchtester-options-github-authentication-tab.png)
 
 - **GitHub Authenticatiemethode** Kies de Token-methode. De
   Inloggegevens-methode werkt niet vanaf september 2020.
@@ -43,7 +43,7 @@ Je hebt een GitHub-account en een GitHub-token nodig. Alles is gratis - zie de G
 Deze instellingen worden gebruikt voor geautomatiseerde tests. Gebruik de standaardinstellingen voor
 handmatige tests.
 
-![Patchtester Opties github ci server instellingen tab](../../../nl/images/joomla-patchtester/patchtester-options-ci-server-settings-tab.png)
+![Patchtester Opties github ci server instellingen tab](../../../nl/images/joomla-patchtester/patchtester-options/03-patchtester-options-ci-server-settings-tab.png)
 
 - **CI Serveradres** Standaard: `https://ci.joomla.org`
 - **CI Integratie Schakelen** Standaard: Uit

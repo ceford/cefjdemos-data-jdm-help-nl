@@ -27,7 +27,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![module breadcrumb-tab](../../../nl/images/modules-site/modules-breadcrumbs-module-tab.png)
+![module breadcrumb-tab](../../../nl/images/modules-site/site-modules-breadcrumbs/01-modules-breadcrumbs-module-tab.png)
 
 ## Formuliervelden
 

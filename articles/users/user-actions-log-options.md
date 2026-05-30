@@ -20,7 +20,7 @@ Om toegang te krijgen tot dit scherm:
 
 ## Screenshot
 
-![gebruiker acties log opties tabblad](../../../nl/images/users/user-actions-log-options-options-tab.png)
+![gebruiker acties log opties tabblad](../../../nl/images/users/user-actions-log-options/01-user-actions-log-options-options-tab.png)
 
 ## Formuliervelden
 

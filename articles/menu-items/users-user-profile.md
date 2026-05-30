@@ -33,7 +33,7 @@ Om een bestaand *Gebruikersprofiel* menu-item te bewerken:
 
 ## Screenshot
 
-![Gebruikersprofiel details tab](../../../nl/images/menu-items/users-user-profile-details-tab.png)
+![Gebruikersprofiel details tab](../../../nl/images/menu-items/users-user-profile/01-users-user-profile-details-tab.png)
 
 Alle formulierinvoervelden worden behandeld in de *Algemene Elementen*.
 

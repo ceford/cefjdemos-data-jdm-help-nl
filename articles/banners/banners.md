@@ -23,7 +23,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Bannerslijst](../../../nl/images/banners/banners-list.png)
+![Bannerslijst](../../../nl/images/banners/banners/01-banners-list.png)
 
 ## Kolomkoppen
 

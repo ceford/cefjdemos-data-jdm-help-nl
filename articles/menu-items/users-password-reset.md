@@ -35,7 +35,7 @@ Om een bestaand *Wachtwoord Reset* menu-item te bewerken:
 
 ## Schermafbeelding
 
-![Wachtwoord reset details tab](../../../nl/images/menu-items/users-password-reset-details-tab.png)
+![Wachtwoord reset details tab](../../../nl/images/menu-items/users-password-reset/01-users-password-reset-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Gemeenschappelijke Elementen*.
 

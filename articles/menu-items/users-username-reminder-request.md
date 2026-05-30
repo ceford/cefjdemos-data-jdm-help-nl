@@ -32,7 +32,7 @@ Om een bestaand *Gebruikersnaamherinneringsverzoek* menu-item te bewerken:
 
 ## Screenshot
 
-![Gebruikersprofiel details tab](../../../nl/images/menu-items/users-username-reminder-request-details-tab.png)
+![Gebruikersprofiel details tab](../../../nl/images/menu-items/users-username-reminder-request/01-users-username-reminder-request-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Gemeenschappelijke Elementen*.
 

@@ -22,7 +22,7 @@ Sommige elementen van deze pagina worden in afzonderlijke Help-artikelen behande
 
 ## Screenshot
 
-![update sites list](../../../nl/images/update-sites/update-sites-list.png)
+![update sites list](../../../nl/images/update-sites/update-sites/01-update-sites-list.png)
 
 *Vertaald door openai.com*
 

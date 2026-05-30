@@ -18,7 +18,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Screenshot
 
-![wereldwijde configuratie site tab](../../../nl/images/site/global-configuration-site-tab.png)
+![wereldwijde configuratie site tab](../../../nl/images/site/site-global-configuration/01-global-configuration-site-tab.png)
 
 ## Formuliervelden
 
@@ -74,7 +74,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ### Tabblad Systeem
 
-![globale configuratie systeem tabblad](../../../nl/images/site/global-configuration-system-tab.png)
+![globale configuratie systeem tabblad](../../../nl/images/site/site-global-configuration/02-global-configuration-system-tab.png)
 
 #### Paneel Debug
 
@@ -108,7 +108,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ### Tabblad Server
 
-![globale configuratie server tabblad](../../../nl/images/site/global-configuration-server-tab.png)
+![globale configuratie server tabblad](../../../nl/images/site/site-global-configuration/03-global-configuration-server-tab.png)
 
 #### Paneel Server
 
@@ -179,7 +179,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ### Tabblad Loggen
 
-![globale configuratie loggen tabblad](../../../nl/images/site/global-configuration-logging-tab.png)
+![globale configuratie loggen tabblad](../../../nl/images/site/site-global-configuration/04-global-configuration-logging-tab.png)
 
 #### Paneel Loggen
 
@@ -195,7 +195,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ### Tabblad Tekstfilters
 
-![globale configuratie tekstfilters tabblad](../../../nl/images/site/global-configuration-text-filters-tab.png)
+![globale configuratie tekstfilters tabblad](../../../nl/images/site/site-global-configuration/05-global-configuration-text-filters-tab.png)
 
 Deze tekstfilterinstellingen worden toegepast op alle tekstredacteervelden die door gebruikers in de geselecteerde groepen worden ingediend.
 

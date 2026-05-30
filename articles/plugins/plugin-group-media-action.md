@@ -4,7 +4,7 @@
 
 Deze groep plugins biedt functies voor het bijsnijden, aanpassen van de grootte en roteren van afbeeldingen. Ga op de Mediumpagina met de muis over een miniatuur, selecteer het menusymbool (...) en vervolgens het bewerksymbool (potlood). Dat opent de *Media bewerken* pagina:
 
-![Media bewerken pagina](../../../en/images/plugins/plugin-group-media-action-media-edit-page.png)
+![Media bewerken pagina](../../../en/images/plugins/plugin-group-media-action/01-plugin-group-media-action-media-edit-page.png)
 
 ### Media Actie - Bijsnijden
 

@@ -30,7 +30,7 @@ Beheerdersmenu. Vervolgens...
 
 ## Screenshot
 
-![modules guided tours module tab](../../../nl/images/modules-admin/modules-guided-tours-module-tab.png)
+![modules guided tours module tab](../../../nl/images/modules-admin/admin-modules-guided-tours/01-modules-guided-tours-module-tab.png)
 
 ## Formuliervelden
 

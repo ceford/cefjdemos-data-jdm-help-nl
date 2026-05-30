@@ -19,7 +19,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![privéberichtenweergave](../../../nl/images/private-messages/private-messages-view.png)
+![privéberichtenweergave](../../../nl/images/private-messages/private-messages-read/01-private-messages-view.png)
 
 ## Details
 

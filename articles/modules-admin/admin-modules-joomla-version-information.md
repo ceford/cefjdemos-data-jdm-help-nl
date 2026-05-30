@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Schermafbeelding
 
-![modules joomla versie module tab](../../../nl/images/modules-admin/modules-joomla-version-module-tab.png)
+![modules joomla versie module tab](../../../nl/images/modules-admin/admin-modules-joomla-version-information/01-modules-joomla-version-module-tab.png)
 
 ## Formuliervelden
 

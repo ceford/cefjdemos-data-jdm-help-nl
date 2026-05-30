@@ -24,7 +24,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 De schermen voor de Beheerder en Sitetemplates gebruiken dezelfde indeling. Hier is het scherm voor Sitetemplates afgebeeld.
 
-![Templates sitetemplates lijst](../../../nl/images/templates/templates-site-templates-list.png)
+![Templates sitetemplates lijst](../../../nl/images/templates/templates-templates/01-templates-site-templates-list.png)
 
 ## Lijst Filters
 

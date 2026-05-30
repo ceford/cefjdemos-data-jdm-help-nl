@@ -18,7 +18,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![privacy nieuwe informatieaanvraag](../../../nl/images/privacy/privacy-new-information-request.png)
+![privacy nieuwe informatieaanvraag](../../../nl/images/privacy/privacy-new-information-request/01-privacy-new-information-request.png)
 
 ## Formuliervelden
 

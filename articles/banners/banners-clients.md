@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Banners Klanten](../../../nl/images/banners/banners-clients-list.png)
+![Banners Klanten](../../../nl/images/banners/banners-clients/01-banners-clients-list.png)
 
 ## Kolomkoppen
 

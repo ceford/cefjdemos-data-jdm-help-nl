@@ -14,7 +14,7 @@ Deze pagina beschrijft de indeling van het tabblad **Paginaweergave**.
 
 ## Screenshot
 
-![menu-itempaginaweergavetab](../../../nl/images/menu-items-common/menu-item-page-display.png)
+![menu-itempaginaweergavetab](../../../nl/images/menu-items-common/menu-item-page-display/01-menu-item-page-display.png)
 
 ## Formuliervelden
 

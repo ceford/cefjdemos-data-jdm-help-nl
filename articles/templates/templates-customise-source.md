@@ -20,7 +20,7 @@ De pagina *Sjablonen: Bronnen bewerken* is waar de broncode van sjabloonbestande
 
 ## Screenshot
 
-![Sjablonen aanpassen cassiopeia-editor-tabblad](../../../nl/images/templates/templates-customise-cassiopeia-edit-component-editor-tab.png)
+![Sjablonen aanpassen cassiopeia-editor-tabblad](../../../nl/images/templates/templates-customise-source/01-templates-customise-cassiopeia-edit-component-editor-tab.png)
 
 ## Formuliervelden
 

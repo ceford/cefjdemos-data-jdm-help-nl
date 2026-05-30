@@ -16,7 +16,7 @@ indeling van het tabblad **Metadata**.
 
 ## Screenshot
 
-![menu-item metadata tab](../../../nl/images/menu-items-common/menu-item-metadata.png)
+![menu-item metadata tab](../../../nl/images/menu-items-common/menu-item-metadata/01-menu-item-metadata.png)
 
 ## Formuliervelden
 

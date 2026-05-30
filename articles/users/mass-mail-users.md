@@ -16,7 +16,7 @@ Selecteer **Gebruikers → Massale Mail Gebruikers** in het Beheerdersmenu.
 
 ## Screenshot
 
-![massamailgebruikers](../../../nl/images/users/mass-mail-users.png)
+![massamailgebruikers](../../../nl/images/users/mass-mail-users/01-mass-mail-users.png)
 
 ## Details en Bericht
 

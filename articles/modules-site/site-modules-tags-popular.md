@@ -28,7 +28,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help artikelen:
 
 ## Screenshot
 
-![tags populaire module tab](../../../nl/images/modules-site/modules-tags-popular-module-tab.png)
+![tags populaire module tab](../../../nl/images/modules-site/site-modules-tags-popular/01-modules-tags-popular-module-tab.png)
 
 ## Formuliervelden
 

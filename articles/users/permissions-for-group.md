@@ -22,7 +22,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Schermafbeelding
 
-![gebruikersrechten voor groep](../../../nl/images/users/users-permissions-for-group.png)
+![gebruikersrechten voor groep](../../../nl/images/users/permissions-for-group/01-users-permissions-for-group.png)
 
 Boven de tabel met permissies worden geselecteerde items weergegeven die toegangsmachtigingen
 tonen met behulp van iconen voor *Toegestaan*, *Niet Toegestaan* en *Verboden*. De icoonlegenda bevindt zich onder

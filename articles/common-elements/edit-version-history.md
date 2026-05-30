@@ -14,7 +14,7 @@ Selecteer de knop **Versies** in de werkbalk van een itembewerkingspagina.
 
 ## Screenshot
 
-![Versiegeschiedenis pop-up](../../../nl/images/common-elements/articles-edit-versions.png)
+![Versiegeschiedenis pop-up](../../../nl/images/common-elements/edit-version-history/01-articles-edit-versions.png)
 
 ## Kolomkopschriften
 

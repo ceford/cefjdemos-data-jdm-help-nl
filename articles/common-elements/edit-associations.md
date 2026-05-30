@@ -11,7 +11,7 @@ categorie, contact, menu-item en nieuwsfeed.
 
 ## Voorbeeld: Artikelen: Bewerk Associaties Tabblad
 
-![Tabblad associaties bewerken artikel](../../../nl/images/common-elements/articles-edit-association-tab.png)
+![Tabblad associaties bewerken artikel](../../../nl/images/common-elements/edit-associations/01-articles-edit-association-tab.png)
 
 In deze illustratie is er een artikel aangemaakt in het Duits. Dit is het artikel dat bewerkt wordt. De lijst met associaties toont de beschikbare talen anders dan Duits. Een associatie met hetzelfde artikel in het Engels is gemaakt. Dit kan worden bewerkt of gewist. Associaties met hetzelfde artikel in andere talen kunnen worden gemaakt door een artikel te kiezen uit reeds beschikbare artikelen of door een nieuw artikel aan te maken.
 

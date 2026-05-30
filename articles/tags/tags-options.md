@@ -19,7 +19,7 @@ artikelen:
 
 ## Screenshot
 
-![opties voor labels, tabblad gelabelde items](../../../nl/images/tags/tags-options-tagged-items-tab.png)
+![opties voor labels, tabblad gelabelde items](../../../nl/images/tags/tags-options/01-tags-options-tagged-items-tab.png)
 
 ## Formulieren
 
@@ -42,7 +42,7 @@ artikelen:
 
 ### Item Selectie Tab
 
-![tags opties getagde items tab](../../../nl/images/tags/tags-options-item-selection-tab.png)
+![tags opties getagde items tab](../../../nl/images/tags/tags-options/02-tags-options-item-selection-tab.png)
 
 - **Minimale Zoektlengte** Deze instelling regelt de minimale tekentlengte voor het zoeken en het toevoegen van tags met behulp van de tags veld Ajax-modus.
 - **Match Type** Alles zal items teruggeven die alle tags hebben. Iets zal items teruggeven die ten minste één van de tags hebben.
@@ -52,7 +52,7 @@ artikelen:
 
 ### Lijst van Alle Tags Tab
 
-![tags opties lijst van alle tags tab](../../../nl/images/tags/tags-options-list-all-tags-tab.png)
+![tags opties lijst van alle tags tab](../../../nl/images/tags/tags-options/03-tags-options-list-all-tags-tab.png)
 
 - **Standaard Layout voor Lijst van Alle Tags** Kies een standaard layout voor de lijst van alle tags.
 - **Volgorde** De volgorde waarin items worden weergegeven.
@@ -64,7 +64,7 @@ artikelen:
 
 ### Gedeelde Layout Tab
 
-![tags opties gedeelde layout tab](../../../nl/images/tags/tags-options-shared-layout-tab.png)
+![tags opties gedeelde layout tab](../../../nl/images/tags/tags-options/04-tags-options-shared-layout-tab.png)
 
 - **Filter Veld** Of er een filterveld voor de lijst getoond moet worden. Selecteer Verbergen om het filterveld te verbergen.
 - **Toon Selectie** Of de weergave Select dropdown lijstbox getoond of verborgen moet worden.
@@ -73,13 +73,13 @@ artikelen:
 
 ### Gegevens Invoer Tab
 
-![tags opties gegevens invoer tab](../../../nl/images/tags/tags-options-data-entry-tab.png)
+![tags opties gegevens invoer tab](../../../nl/images/tags/tags-options/05-tags-options-data-entry-tab.png)
 
 - **Tag Invoermodus** Ajax-modus zoekt tags tijdens het typen en staat je toe om tags on-the-fly te maken. Geneste tags tonen je een geneste weergave met alle beschikbare tags.
 
 ### Integratie Tab
 
-![tags opties getagde items tab](../../../nl/images/tags/tags-options-integration-tab.png)
+![tags opties getagde items tab](../../../nl/images/tags/tags-options/06-tags-options-integration-tab.png)
 
 - **Toon Feed Link** Toon of verberg een RSS Feed Link. (Een Feed Link zal verschijnen als een feedpictogram in de adresbalk van de meeste moderne browsers).
 

@@ -19,7 +19,7 @@ Enkele aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Schermafbeelding
 
-![menu's bewerk details tab](../../../nl/images/menus/menus-edit-menu-details-tab.png)
+![menu's bewerk details tab](../../../nl/images/menus/menus-edit/01-menus-edit-menu-details-tab.png)
 
 ## Formuliervelden
 

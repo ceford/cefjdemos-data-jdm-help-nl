@@ -24,7 +24,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![gebruikers gebruikers notities lijst](../../../nl/images/users/users-user-notes-list.png)
+![gebruikers gebruikers notities lijst](../../../nl/images/users/user-notes/01-users-user-notes-list.png)
 
 ## Tips
 

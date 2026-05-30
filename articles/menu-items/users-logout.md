@@ -33,13 +33,13 @@ Om een bestaand Logout menu-item te bewerken:
 
 ## Screenshot
 
-![Details tab afmelden](../../../nl/images/menu-items/users-logout-details-tab.png)
+![Details tab afmelden](../../../nl/images/menu-items/users-logout/01-users-logout-details-tab.png)
 
 ## Formuliervelden
 
 ### Opties Tabblad
 
-![Opties tabblad uitloggen](../../../nl/images/menu-items/users-logout-options-tab.png)
+![Opties tabblad uitloggen](../../../nl/images/menu-items/users-logout/02-users-logout-options-tab.png)
 
 - **Uitlog-omleidingspagina** Kies of maak de pagina waarnaar de gebruiker wordt omgeleid na het beëindigen van hun huidige sessie door uit te loggen. De standaardinstelling is om op dezelfde pagina te blijven.
 

@@ -19,7 +19,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Schermafbeelding
 
-![onderhoud globale check-in](../../../nl/images/maintenance/maintenance-global-check-in.png)
+![onderhoud globale check-in](../../../nl/images/maintenance/maintenance-global-check-in/01-maintenance-global-check-in.png)
 
 ## Tips
 

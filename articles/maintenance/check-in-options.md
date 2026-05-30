@@ -19,7 +19,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Incheckopties](../../../nl/images/maintenance/check-in-options.png)
+![Incheckopties](../../../nl/images/maintenance/check-in-options/01-check-in-options.png)
 
 ## Tips
 

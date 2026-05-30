@@ -24,7 +24,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Schermafbeelding
 
-![Schermafbeelding van de lijst met aanbevolen artikelen](../../../nl/images/articles/articles-featured-list.png)
+![Schermafbeelding van de lijst met aanbevolen artikelen](../../../nl/images/articles/articles-featured/01-articles-featured-list.png)
 
 ## Tips
 

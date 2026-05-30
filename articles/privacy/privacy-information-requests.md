@@ -27,7 +27,7 @@ Enkele elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![privacy-informatie aanvragen](../../../nl/images/privacy/privacy-information-requests.png)
+![privacy-informatie aanvragen](../../../nl/images/privacy/privacy-information-requests/01-privacy-information-requests.png)
 
 ## Kolomkoppen
 

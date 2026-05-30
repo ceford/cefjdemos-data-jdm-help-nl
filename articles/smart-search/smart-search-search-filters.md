@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![smart search content maps](../../../nl/images/smart-search/smart-search-search-filters.png)
+![smart search content maps](../../../nl/images/smart-search/smart-search-search-filters/01-smart-search-search-filters.png)
 
 *Vertaald door openai.com*
 

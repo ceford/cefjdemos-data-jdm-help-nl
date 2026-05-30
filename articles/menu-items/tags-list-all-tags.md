@@ -32,13 +32,13 @@ Om een bestaand Alle Tags Weergeven menu-item te bewerken:
 
 ## Screenshot
 
-![Compacte Lijst van Gelabelde Items details tab](../../../nl/images/menu-items/tags-list-all-tags-details-tab.png)
+![Compacte Lijst van Gelabelde Items details tab](../../../nl/images/menu-items/tags-list-all-tags/01-tags-list-all-tags-details-tab.png)
 
 ## Formuliervelden
 
 ### Opties Tab
 
-![Compacte lijst met getagde items details tab](../../../nl/images/menu-items/tags-list-all-tags-options-tab.png)
+![Compacte lijst met getagde items details tab](../../../nl/images/menu-items/tags-list-all-tags/02-tags-list-all-tags-options-tab.png)
 
 - **Aantal kolommen** Het aantal kolommen waarin de tags worden gerangschikt.
   Houd er rekening mee dat dit mogelijk niet het weergegeven aantal is als 12 er niet gelijkmatig in past, omdat de weergave is gebaseerd op een 12-koloms raster.
@@ -56,7 +56,7 @@ Om een bestaand Alle Tags Weergeven menu-item te bewerken:
 
 ### Selectieopties Tab
 
-![Compacte lijst met getagde items details tab](../../../nl/images/menu-items/tags-list-all-tags-selection-options-tab.png)
+![Compacte lijst met getagde items details tab](../../../nl/images/menu-items/tags-list-all-tags/03-tags-list-all-tags-selection-options-tab.png)
 
 - **Maximaal aantal items** Het maximale aantal resultaten dat moet worden geretourneerd.
 - **Filterveld** Het filterveld weergeven of verbergen dat wordt gebruikt om de artikelen te filteren die in de lijst worden getoond.

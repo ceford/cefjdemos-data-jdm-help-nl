@@ -26,7 +26,7 @@ Enkele elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Schermafbeelding
 
-![statistieken module tab](../../../nl/images/modules-site/modules-statistics-module-tab.png)
+![statistieken module tab](../../../nl/images/modules-site/site-modules-statistics/01-modules-statistics-module-tab.png)
 
 ## Formuliervelden
 

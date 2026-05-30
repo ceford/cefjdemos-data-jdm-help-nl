@@ -21,7 +21,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![gebruikers die toegangsniveaus bekijken](../../../nl/images/users/users-edit-viewing-access-level-details-tab.png)
+![gebruikers die toegangsniveaus bekijken](../../../nl/images/users/users-edit-viewing-access-level/01-users-edit-viewing-access-level-details-tab.png)
 
 ### Tabblad Niveau Details
 
@@ -31,7 +31,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ### Tabblad Gebruikersgroepen Met Kijktoegang
 
-![gebruikers die toegangsniveaus bekijken](../../../nl/images/users/users-edit-viewing-access-level-ugwva-tab.png)
+![gebruikers die toegangsniveaus bekijken](../../../nl/images/users/users-edit-viewing-access-level/02-users-edit-viewing-access-level-ugwva-tab.png)
 
 Selecteer een selectievakje om een gebruikersgroep toe te voegen aan een kijkniveau. In het
 getoonde voorbeeld zijn alle Groepen kinderen van Openbaar, dus het is niet nodig om

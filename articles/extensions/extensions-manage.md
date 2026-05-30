@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Extensies beheren lijst](../../../nl/images/extensions/manage-list.png)
+![Extensies beheren lijst](../../../nl/images/extensions/extensions-manage/01-manage-list.png)
 
 ## Tips
 

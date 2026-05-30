@@ -13,7 +13,7 @@ Alle menu-items hebben een vergelijkbare lay-out, maar sommige van de formulier 
 
 ## Screenshot
 
-![Menupunt categorietabblad](../../../nl/images/menu-items-common/articles-category-blog-category-tab.png)
+![Menupunt categorietabblad](../../../nl/images/menu-items-common/menu-item-category/01-articles-category-blog-category-tab.png)
 
 ## Formuliervelden
 

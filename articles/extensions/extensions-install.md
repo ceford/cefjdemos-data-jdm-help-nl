@@ -49,7 +49,7 @@ Er is slechts één methode nodig om een gegeven Extensie te installeren. De nor
 
 ## Upload Pakketbestand Tab
 
-![Extensie-installatie upload pakketbestand tab](../../../nl/images/extensions/install-upload-package-file.png)
+![Extensie-installatie upload pakketbestand tab](../../../nl/images/extensions/extensions-install/01-install-upload-package-file.png)
 
 - Sleep en plaats of blader naar de locatie waar je het archiefbestand
   van de extensie hebt gedownload.
@@ -59,7 +59,7 @@ die voor jouw installatie is gedefinieerd. Als je deze waarde niet kunt verhogen
 
 ## Installeren vanaf Map Tab
 
-![Extensie installeren vanaf map tab](../../../nl/images/extensions/install-from-folder.png)
+![Extensie installeren vanaf map tab](../../../nl/images/extensions/extensions-install/02-install-from-folder.png)
 
 1.  Maak een tijdelijke map aan op je lokale harde schijf en pak het
     archiefbestand van de extensie uit in deze tijdelijke map.
@@ -74,7 +74,7 @@ Merk op dat het gebruikelijk is om de map met je uitgepakte extensie in de tmp-m
 
 ## Installeren vanaf URL Tabblad
 
-![Extensie installeren vanaf URL tabblad](../../../nl/images/extensions/install-from-url.png)
+![Extensie installeren vanaf URL tabblad](../../../nl/images/extensions/extensions-install/03-install-from-url.png)
 
 In plaats van het archiefbestand naar je lokale computer te downloaden, kun je gewoon de URL van het doelarchiefbestand opgeven. Klik vervolgens op de knop "Controleren en Installeren" en Joomla! installeert het automatisch direct vanaf deze URL. *Let op dat je met deze methode geen kopie van het archiefbestand op je lokale computer hebt.*
 
@@ -82,7 +82,7 @@ In plaats van het archiefbestand naar je lokale computer te downloaden, kun je g
 
 Om een extensie direct vanuit de Joomla Extension Directory (JED) te installeren. Je kunt extensies selecteren om weer te geven per Categorie of je kunt zoeken op een gedeeltelijke naam.
 
-![Extensie installeren vanuit het webtabblad](../../../nl/images/extensions/install-from-web.png)
+![Extensie installeren vanuit het webtabblad](../../../nl/images/extensions/extensions-install/04-install-from-web.png)
 
 ## Tips
 

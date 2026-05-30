@@ -22,7 +22,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Talen Bewerken Overschrijven](../../../nl/images/languages/languages-edit-override.png)
+![Talen Bewerken Overschrijven](../../../nl/images/languages/languages-edit-override/01-languages-edit-override.png)
 
 ## Formuliervelden
 

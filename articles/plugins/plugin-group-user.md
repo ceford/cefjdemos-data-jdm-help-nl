@@ -4,7 +4,7 @@
 
 ### Gebruiker - Contact Creator
 
-![Gebruiker contact creator formulier](../../../en/images/plugins/plugin-group-user-contact-creator.png)
+![Gebruiker contact creator formulier](../../../en/images/plugins/plugin-group-user/01-plugin-group-user-contact-creator.png)
 
 - **Automatische Webpagina** Een geformatteerde string om automatisch een webpagina voor een contactpersoon te genereren. [name] wordt vervangen door de naam, [username] wordt vervangen door de gebruikersnaam, [userid] wordt vervangen door de gebruikers-ID en [email] wordt vervangen door het e-mailadres.
 - **Categorie** Categorie waaraan contacten standaard worden toegewezen.
@@ -14,13 +14,13 @@
 
 Biedt de mogelijkheid om beveiligingstokens te beheren die worden gebruikt voor authenticatie bij de Joomla API applicatie (toegang tot externe sites). Deze tokens zijn strikt persoonlijk. Je kunt je eigen token bekijken, maar je kunt alleen tokens van andere gebruikers uitschakelen of resetten.
 
-![Gebruiker joomla api token formulier](../../../en/images/plugins/plugin-group-user-joomla-api-token.png)
+![Gebruiker joomla api token formulier](../../../en/images/plugins/plugin-group-user/02-plugin-group-user-joomla-api-token.png)
 
 - **Toegestane Gebruikersgroepen** Selecteer één of meer groepen om hen toe te staan Joomla Tokens te gebruiken voor authenticatie bij de Joomla API applicatie.
 
 ### Gebruiker - Joomla!
 
-![Gebruiker joomla formulier](../../../en/images/plugins/plugin-group-user-joomla.png)
+![Gebruiker joomla formulier](../../../en/images/plugins/plugin-group-user/03-plugin-group-user-joomla.png)
 
 - **Automatisch Gebruikers Aanmaken** Of geregistreerde Joomla! gebruikers automatisch worden aangemaakt waar mogelijk. Standaard is *Ja*.
 - **Notificatiemail naar Gebruiker** Wanneer een beheerder een gebruikersaccount aanmaakt, bepaalt deze optie of er een e-mail met gebruikersnaam en wachtwoord naar de gebruiker wordt verzonden.
@@ -34,7 +34,7 @@ Deze plugin voegt gebruikersprofiel-mogelijkheid toe aan een website. Websitegeb
 - **Optioneel** Het veld is zichtbaar in gebruikersprofielen, maar is optioneel en gebruikers hoeven het niet in te vullen.
 - **Uitgeschakeld** Het veld is uitgeschakeld en niet zichtbaar in gebruikersprofielen.
 
-![Gebruiker profiel formulier](../../../en/images/plugins/plugin-group-user-profile.png)
+![Gebruiker profiel formulier](../../../en/images/plugins/plugin-group-user/04-plugin-group-user-profile.png)
 
 - **Alle velden** De drie opties zijn beschikbaar behalve voor het veld Gebruiksvoorwaarden, dat een keuze biedt tussen *Vereist* en *Uitgeschakeld*.
 
@@ -42,7 +42,7 @@ Deze plugin voegt gebruikersprofiel-mogelijkheid toe aan een website. Websitegeb
 
 Deze plugin maakt het mogelijk om gebruikersinstemming met de voorwaarden van de site te verzamelen.
 
-![Gebruiker voorwaarden en bepalingen formulier](../../../en/images/plugins/plugin-group-user-terms-and-conditions.png)
+![Gebruiker voorwaarden en bepalingen formulier](../../../en/images/plugins/plugin-group-user/05-plugin-group-user-terms-and-conditions.png)
 
 - **Korte Voorwaarden en Bepalingen** Hiermee kan een samenvatting van de Voorwaarden en Bepalingen worden ingevoerd of het taalstandaard worden gebruikt.
 - **Voorwaarden en Bepalingen Artikel** Selecteer of maak een artikel aan voor Voorwaarden en Bepalingen om te linken aan het gebruikersformulier.

@@ -25,7 +25,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Links met doorverwijzingen](../../../nl/images/redirects/redirects-links.png)
+![Links met doorverwijzingen](../../../nl/images/redirects/redirects-links/01-redirects-links.png)
 
 ## Kolomkoppen
 

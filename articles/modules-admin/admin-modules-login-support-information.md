@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![modules login support information module tab](../../../nl/images/modules-admin/modules-login-support-information-module-tab.png)
+![modules login support information module tab](../../../nl/images/modules-admin/admin-modules-login-support-information/01-modules-login-support-information-module-tab.png)
 
 ## Formuliervelden
 

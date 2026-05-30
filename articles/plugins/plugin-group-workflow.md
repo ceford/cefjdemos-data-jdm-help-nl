@@ -8,7 +8,7 @@ Voor meer informatie zie de [Workflow Tutorial](https://docs.joomla.org/J4.x:Wor
 
 Voeg uitgelichte acties toe aan de workflowovergangen voor uw items.
 
-![Workflow uitzichtig formulier](../../../en/images/plugins/plugin-group-workflow-featuring.png)
+![Workflow uitzichtig formulier](../../../en/images/plugins/plugin-group-workflow/01-plugin-group-workflow-featuring.png)
 
 - **Extensie Witlijst**
 - **Extensie Zwartlijst**

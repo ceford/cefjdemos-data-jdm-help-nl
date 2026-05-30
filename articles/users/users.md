@@ -30,7 +30,7 @@ Om een gebruiker te bewerken:
 
 ## Screenshot
 
-![gebruikerslijst](../../../nl/images/users/users-list.png)
+![gebruikerslijst](../../../nl/images/users/users/01-users-list.png)
 
 ## Kolomkoppen
 

@@ -20,7 +20,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte helpartikelen:
 
 ## Schermafbeelding
 
-![startdashboard](../../../nl/images/site/system-information-tab.png)
+![startdashboard](../../../nl/images/site/site-system-information/01-system-information-tab.png)
 
 ## Formulieren Tabs
 
@@ -39,7 +39,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte helpartikelen:
 
 ### PHP-instellingen Tab
 
-![home dashboard](../../../nl/images/site/php-settings-tab.png)
+![home dashboard](../../../nl/images/site/site-system-information/02-php-settings-tab.png)
 
 Dit scherm toont PHP-informatie. Als een van deze als onjuist wordt gemarkeerd, moeten ze worden gecorrigeerd.
 
@@ -63,19 +63,19 @@ Dit scherm toont PHP-informatie. Als een van deze als onjuist wordt gemarkeerd, 
 
 ### Configuratiebestand Tab
 
-![home dashboard](../../../nl/images/site/configuration-file-tab.png)
+![home dashboard](../../../nl/images/site/site-system-information/03-configuration-file-tab.png)
 
 Deze tab toont de inhoud van het huidige Joomla! *configuration.php* bestand dat is opgeslagen in de `path-to-joomla-root` directory. Dit bestand wordt automatisch voor u aangemaakt wanneer u Joomla! voor het eerst installeert en waar de meeste wijzigingen van de globale configuratie gedeelten van Joomla! worden vastgelegd. Houd er rekening mee dat geen van de instellingen vanaf deze pagina kunnen worden gewijzigd. Gebruik de Global Configuration voor meer informatie over deze instellingen en om wijzigingen aan te brengen.
 
 ### Mapmachtigingen Tab
 
-![home dashboard](../../../nl/images/site/folder-permissions-tab.png)
+![home dashboard](../../../nl/images/site/site-system-information/04-folder-permissions-tab.png)
 
 Deze tab toont een lijst van de directories waar de webserver schrijftoegang tot moet hebben. Houd er rekening mee dat alle directories die op deze pagina worden vermeld **Schrijfbaar** zouden moeten zijn. Zo niet, dan moet u mogelijk de machtigingen wijzigen om Joomla! succesvol te kunnen installeren en gebruiken. Het configuration.php bestand is inbegrepen en wordt weergegeven als **Niet Schrijfbaar**.
 
 ### PHP Informatie Tab
 
-![home dashboard](../../../nl/images/site/php-information-tab.png)
+![home dashboard](../../../nl/images/site/site-system-information/05-php-information-tab.png)
 
 Deze tab toont de configuratie-instellingen van de PHP-server-side scriptingtaal die Joomla! gebruikt, samen met alle bijbehorende systeeminformatie die bijdragen aan de creatie van de webserver. Het is de output van een geïntegreerd php.info script ingebouwd in Joomla!.
 

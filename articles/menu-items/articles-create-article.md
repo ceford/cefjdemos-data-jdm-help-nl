@@ -33,7 +33,7 @@ Om een Menu-item te bewerken:
 
 ## Screenshot
 
-![Menu Item Artikelen Maak Artikel details tab](../../../nl/images/menu-items/articles-create-article-details-tab.png)
+![Menu Item Artikelen Maak Artikel details tab](../../../nl/images/menu-items/articles-create-article/01-articles-create-article-details-tab.png)
 
 ## Formuliervelden
 
@@ -55,7 +55,7 @@ Om een Menu-item te bewerken:
 
 ### Opties
 
-![Menu Item Artikelen Maak Artikel details tab](../../../nl/images/menu-items/articles-create-article-options-tab.png)
+![Menu Item Artikelen Maak Artikel details tab](../../../nl/images/menu-items/articles-create-article/02-articles-create-article-options-tab.png)
 
 - **Specifieke Categorie**
   - *Ja* Artikelen worden toegewezen aan de gespecificeerde categorie. De gebruiker kan geen categorie selecteren.
@@ -70,7 +70,7 @@ Om een Menu-item te bewerken:
 Deze Screenshot toont de Joomla kern Voorkant Sjabloon **Cassiopeia** met alle
 Bewerkingslay-outopties ingesteld op 'Verbergen'.
 
-![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article/03-articles-create-article-frontend.png)
 
 ## Tips
 

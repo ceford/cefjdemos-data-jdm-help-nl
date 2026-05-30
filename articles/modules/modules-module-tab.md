@@ -7,7 +7,7 @@ Het *Modules: Module tabblad* is aanwezig in alle modulebewerkingsformulieren. H
 
 ## Screenshot
 
-![actie logboeken nieuwste module tab](../../../nl/images/modules/modules-custom-module-tab.png)
+![actie logboeken nieuwste module tab](../../../nl/images/modules/modules-module-tab/01-modules-custom-module-tab.png)
 
 ## Formuliervelden
 

@@ -26,7 +26,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Screenshot
 
-![Contacten bewerk contact tabblad](../../../nl/images/contacts/contacts-edit-contact-tab.png)
+![Contacten bewerk contact tabblad](../../../nl/images/contacts/contacts-edit/01-contacts-edit-contact-tab.png)
 
 ## Formuliervelden
 
@@ -70,13 +70,13 @@ Hier voert u de basisinformatie over de contactpersoon in.
 
 ### Diverse Informatie tabblad
 
-![Contacten bewerken contact tabblad](../../../nl/images/contacts/contacts-edit-miscellaneous-tab.png)
+![Contacten bewerken contact tabblad](../../../nl/images/contacts/contacts-edit/02-contacts-edit-miscellaneous-tab.png)
 
 Andere informatie over deze Contactpersoon kan worden ingevoerd met behulp van de editor.
 
 ### Weergave tabblad
 
-![Contacten bewerken contact tabblad](../../../nl/images/contacts/contacts-edit-display-tab.png)
+![Contacten bewerken contact tabblad](../../../nl/images/contacts/contacts-edit/03-contacts-edit-display-tab.png)
 
 - **Categorie Weergeven** Het weergeven of verbergen van de categorie van de Contactpersoon.
 - **Contactlijst Weergeven** Het weergeven of verbergen van de Contactlijst.
@@ -104,7 +104,7 @@ Andere informatie over deze Contactpersoon kan worden ingevoerd met behulp van d
 
 ### Formulier tabblad
 
-![Contacten bewerken contact tabblad](../../../nl/images/contacts/contacts-edit-form-tab.png)
+![Contacten bewerken contact tabblad](../../../nl/images/contacts/contacts-edit/04-contacts-edit-form-tab.png)
 
 - **Contactformulier** Het weergeven of verbergen van het e-mailformulier. Als Weergeven is geselecteerd, wordt een formulier weergegeven waarmee de gebruiker een e-mail naar de Contactpersoon kan sturen vanaf de website.
 - **Kopie Verzenden naar Indiener** Het weergeven of verbergen van het selectievakje: *E-mail een kopie van dit bericht naar je eigen adres.*

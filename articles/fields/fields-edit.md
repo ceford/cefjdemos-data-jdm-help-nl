@@ -26,7 +26,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Screenshot
 
-![Artikelen bewerkveld](../../../nl/images/fields/articles-edit-field.png)
+![Artikelen bewerkveld](../../../nl/images/fields/fields-edit/01-articles-edit-field.png)
 
 ## Formuliervelden
 
@@ -59,7 +59,7 @@ Parameters voor alle velden:
 
 ### Opties tabblad
 
-![Artikelen bewerken veld opties tabblad](../../../nl/images/fields/articles-edit-field-options-tab.png)
+![Artikelen bewerken veld opties tabblad](../../../nl/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
 
 #### Formulier Opties
 

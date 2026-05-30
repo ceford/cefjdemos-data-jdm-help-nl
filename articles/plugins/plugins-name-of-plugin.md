@@ -50,7 +50,7 @@ Vanaf het Beheerder-menu:
 
 ## Screenshot
 
-![Plugins plugintab](../../../nl/images/plugins/plugins-plugin-tab.png)
+![Plugins plugintab](../../../nl/images/plugins/plugins-name-of-plugin/01-plugins-plugin-tab.png)
 
 ## Formuliervelden
 

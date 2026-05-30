@@ -26,7 +26,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Screenshot
 
-![sjablonen opties sjablonen tab](../../../nl/images/templates/templates-options-templates-tab.png)
+![sjablonen opties sjablonen tab](../../../nl/images/templates/template-options/01-templates-options-templates-tab.png)
 
 ## Formuliervelden
 

@@ -25,7 +25,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help artikelen:
 
 ## Screenshot
 
-![lijst van alle menu-items](../../../nl/images/menus/menus-all-menu-items-list.png)
+![lijst van alle menu-items](../../../nl/images/menus/menus-items/01-menus-all-menu-items-list.png)
 
 ## Tips
 

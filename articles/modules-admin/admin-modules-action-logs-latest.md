@@ -28,7 +28,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Schermafbeelding
 
-![actie logboek nieuwste module tab](../../../nl/images/modules-admin/modules-action-logs-latest-module-tab.png)
+![actie logboek nieuwste module tab](../../../nl/images/modules-admin/admin-modules-action-logs-latest/01-modules-action-logs-latest-module-tab.png)
 
 ## Formuliervelden
 

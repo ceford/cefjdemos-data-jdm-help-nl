@@ -33,7 +33,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Meertalige associaties lijst](../../../nl/images/multilingual-associations/multilingual-associations-list.png)
+![Meertalige associaties lijst](../../../nl/images/multilingual-associations/multilingual-associations/01-multilingual-associations-list.png)
 
 In deze screenshot is een artikel geassocieerd met een artikel in een andere taal. De lijst bevat alleen items waar de taal is ingesteld. Artikelen waarvan de taal is ingesteld op *Alle* zullen niet aanwezig zijn.
 

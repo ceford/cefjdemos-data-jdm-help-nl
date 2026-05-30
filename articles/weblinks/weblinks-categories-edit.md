@@ -24,7 +24,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![weblinks bewerk categorie tab](../../../nl/images/weblinks/web-links-edit-category-category-tab.png)
+![weblinks bewerk categorie tab](../../../nl/images/weblinks/weblinks-categories-edit/01-web-links-edit-category-category-tab.png)
 
 ## Formuliervelden
 

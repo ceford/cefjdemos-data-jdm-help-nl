@@ -35,7 +35,7 @@ Om een bestaand "List Contacts in a Category" menu-item te bewerken:
 
 ## Screenshot
 
-![Menu Item Lijst Contacten in een Categorie details tab](../../../nl/images/menu-items/contacts-list-contacts-in-a-category-details-tab.png)
+![Menu Item Lijst Contacten in een Categorie details tab](../../../nl/images/menu-items/contacts-list-contacts-in-a-category/01-contacts-list-contacts-in-a-category-details-tab.png)
 
 ## Formuliervelden
 
@@ -46,7 +46,7 @@ Om een bestaand "List Contacts in a Category" menu-item te bewerken:
 
 De categorie-opties bepalen hoe categorie-informatie wordt weergegeven in de lay-out. De Categorielijstlay-out heeft de volgende categorie-opties, zoals hieronder weergegeven.
 
-![Menu Item Lijst Contacten in een Categorie categorietabblad](../../../nl/images/menu-items/contacts-list-contacts-in-a-category-category-tab.png)
+![Menu Item Lijst Contacten in een Categorie categorietabblad](../../../nl/images/menu-items/contacts-list-contacts-in-a-category/02-contacts-list-contacts-in-a-category-category-tab.png)
 
 - **Categorietitel** Toon of verberg de categorietitel die zal worden weergegeven als een ondertitel op de pagina. De ondertitel wordt meestal weergegeven in de "H2" tag.
 - **Categoriebeschrijving** Toon of verberg de beschrijving van de geselecteerde categorie.
@@ -59,7 +59,7 @@ De categorie-opties bepalen hoe categorie-informatie wordt weergegeven in de lay
 ### Weergave tabblad contact
 
 De weergavevelden voor contact bepalen het uiterlijk van de lijstlay-out.
-![Menu Item Lijst Contacten in een Categorie weergave tabblad contact](../../../nl/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Menu Item Lijst Contacten in een Categorie weergave tabblad contact](../../../nl/images/menu-items/contacts-list-contacts-in-a-category/03-contacts-featured-contacts-form-tab.png)
 
 - **Kies een lay-out** Selecteer uit de lijst met sjablonen.
 - **Contactcategorie** Toon of verberg de weergave van de contactcategorie.
@@ -95,7 +95,7 @@ De weergavevelden voor contact bepalen het uiterlijk van de lijstlay-out.
 
 De e-mailopties voor contact bepalen het uiterlijk van het *contactformulier* van een contact, als dit is ingeschakeld.
 
-![Menu Item Lijst Contacten in een Categorie e-mailopties tabblad](../../../nl/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
+![Menu Item Lijst Contacten in een Categorie e-mailopties tabblad](../../../nl/images/menu-items/contacts-list-contacts-in-a-category/04-contacts-featured-contacts-mail-options-tab.png)
 
 - **Contactformulier** Toon of verberg het *contactformulier* van het contact.
 - **Kopie verzenden naar indiener** Toon of verberg een selectievakje waarmee een indiener een kopie van de e-mail naar zichzelf kan sturen.

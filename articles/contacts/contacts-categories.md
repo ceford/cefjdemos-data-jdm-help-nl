@@ -22,7 +22,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![contactcategorieën-lijst](../../../nl/images/contacts/contacts-categories-list.png)
+![contactcategorieën-lijst](../../../nl/images/contacts/contacts-categories/01-contacts-categories-list.png)
 
 *Vertaald door openai.com*
 

@@ -18,7 +18,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![web links opties](../../../nl/images/weblinks/weblinks-options-web-link-tab.png)
+![web links opties](../../../nl/images/weblinks/weblinks-options/01-weblinks-options-web-link-tab.png)
 
 ### Web Link Tab
 

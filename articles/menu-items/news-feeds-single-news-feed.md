@@ -33,7 +33,7 @@ Om een bestaand Enkel Nieuws Feed menu-item te bewerken:
 
 ## Screenshot
 
-![Menu-item gedetailleerde tabblad voor nieuwsfeed](../../../nl/images/menu-items/news-feeds-single-news-feed-details-tab.png)
+![Menu-item gedetailleerde tabblad voor nieuwsfeed](../../../nl/images/menu-items/news-feeds-single-news-feed/01-news-feeds-single-news-feed-details-tab.png)
 
 
 ## Formuliervelden
@@ -45,7 +45,7 @@ Om een bestaand Enkel Nieuws Feed menu-item te bewerken:
 
 ### Tabblad Opties voor Feedweergave
 
-![Menu-item Enkele Nieuwsfeed details tab](../../../nl/images/menu-items/news-feeds-single-news-feed-feed-display-options-tab.png)
+![Menu-item Enkele Nieuwsfeed details tab](../../../nl/images/menu-items/news-feeds-single-news-feed/02-news-feeds-single-news-feed-feed-display-options-tab.png)
 
 Naast Ja/Nee of Verbergen/Tonen, bieden deze opties de instelling "Gebruik Globaal". Dit gebruikt de standaardwaarde van het scherm Nieuwsfeeds-opties.
 

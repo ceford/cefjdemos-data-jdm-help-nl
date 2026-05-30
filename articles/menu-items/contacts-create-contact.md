@@ -32,7 +32,7 @@ Om een bestaand Contact Maken menu-item te bewerken:
 
 ## Schermafbeelding
 
-![Menu-item Contact Aanmaken](../../../nl/images/menu-items/contacts-create-contact-details-tab.png)
+![Menu-item Contact Aanmaken](../../../nl/images/menu-items/contacts-create-contact/01-contacts-create-contact-details-tab.png)
 
 ## Formulieren
 
