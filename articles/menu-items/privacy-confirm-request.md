@@ -32,7 +32,7 @@ Om een bestaand Bevestigingsverzoek menu-item te bewerken:
 
 ## Schermafbeelding
 
-![Menu Item Privacy Bevestig Verzoek details tabblad](../../../nl/images/menu-items/privacy-confirm-request/01-privacy-confirm-request-details-tab.png)
+![Menu Item Privacy Bevestig Verzoek details tabblad](../../../nl/images/menu-items/privacy-confirm-request/01-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Algemene Elementen*.
 

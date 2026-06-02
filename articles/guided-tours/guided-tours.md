@@ -23,7 +23,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Lijst van rondleidingen](../../../nl/images/guided-tours/guided-tours/01-guided-tours-list.png)
+![Lijst van rondleidingen](../../../nl/images/guided-tours/guided-tours/01-tours-list.png)
 
 ## Tips
 

@@ -19,7 +19,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![privacy toestemmingen](../../../nl/images/privacy/privacy-consents/01-privacy-consents.png)
+![privacy toestemmingen](../../../nl/images/privacy/privacy-consents/01-consents-list.png)
 
 ## Kolomkoppen
 

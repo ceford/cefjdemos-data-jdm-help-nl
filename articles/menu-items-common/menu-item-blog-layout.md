@@ -13,7 +13,7 @@ Alle menu-items hebben een vergelijkbare indeling, maar sommige formulier velden
 
 ## Screenshot
 
-![Menu-item blog lay-out tab](../../../nl/images/menu-items-common/menu-item-blog-layout/01-articles-category-blog-blog-layout-tab.png)
+![Menu-item blog lay-out tab](../../../nl/images/menu-items-common/menu-item-blog-layout/01-blog-layout-tab.png)
 
 ## Formulier Velden
 

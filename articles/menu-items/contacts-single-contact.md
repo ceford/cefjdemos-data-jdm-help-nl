@@ -35,7 +35,7 @@ Om een bestaand Menu Item voor Enkel Contact te bewerken:
 
 ## Screenshot
 
-![Menu-item tabblad details van één contactpersoon](../../../nl/images/menu-items/contacts-single-contact/01-contacts-single-contact-details-tab.png)
+![Menu-item tabblad details van één contactpersoon](../../../nl/images/menu-items/contacts-single-contact/01-details-tab.png)
 
 ## Formulier Velden
 
@@ -48,7 +48,7 @@ Om een bestaand Menu Item voor Enkel Contact te bewerken:
 
 Contact Weergave-opties regelen het uiterlijk van de lijstweergave.
 
-![Menu-item Enkele contact contact weergave tab](../../../nl/images/menu-items/contacts-single-contact/02-contacts-single-contact-contact-display-options-tab.png)
+![Menu-item Enkele contact contact weergave tab](../../../nl/images/menu-items/contacts-single-contact/02-contact-display-options-tab.png)
 
 - **Contactcategorie** Toon of verberg de Contactcategorie weergave. 
     De volgende opties zijn beschikbaar:
@@ -86,7 +86,7 @@ Contact Weergave-opties regelen het uiterlijk van de lijstweergave.
 
 ### Mailopties
 
-![Menu-item Enkele contact mailopties tab](../../../nl/images/menu-items/contacts-single-contact/03-contacts-single-contact-mail-options-tab.png)
+![Menu-item Enkele contact mailopties tab](../../../nl/images/menu-items/contacts-single-contact/03-mail-options-tab.png)
 
 - **Contactformulier** Toon of verberg het *contactformulier* van het contact.
 - **Kopie naar Verzender Verzenden** Toon of verberg een

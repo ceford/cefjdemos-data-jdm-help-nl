@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![syndicatie feeds module tab](../../../nl/images/modules-site/site-modules-syndication-feeds/01-modules-syndication-feeds-module-tab.png)
+![syndicatie feeds module tab](../../../nl/images/modules-site/site-modules-syndication-feeds/01-module-tab.png)
 
 ## Formuliervelden
 

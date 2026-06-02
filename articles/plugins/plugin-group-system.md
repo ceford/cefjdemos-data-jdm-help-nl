@@ -6,7 +6,7 @@
 
 Deze plugin voegt een toegankelijkheidstoolbar toe aan je site met extra toegankelijkheidsopties.
 
-![Systeem extra toegankelijkheidsfuncties formulier](../../../en/images/plugins/plugin-group-system/01-plugin-group-system-additional-accessibility-features.png)
+![Systeem extra toegankelijkheidsfuncties formulier](../../../en/images/plugins/plugin-group-system/01-additional-accessibility-features.png)
 
 ### Systeem - Debug
 
@@ -14,7 +14,7 @@ Deze plugin biedt foutopsporingsinformatie. Het rapport wordt onder het hoofdsch
 
 #### Plugin tabblad
 
-![Systeem debug formulier plugin tab](../../../en/images/plugins/plugin-group-system/02-plugin-group-system-debug-plugin-tab.png)
+![Systeem debug formulier plugin tab](../../../en/images/plugins/plugin-group-system/02-debug-plugin-tab.png)
 
 - **Toegestane Groepen** Gebruikersgroepen die de foutopsporingsinformatie zullen zien wanneer deze is ingeschakeld.
 - **Profiling Tonen** Of de profileringsgegevens getoond moeten worden.
@@ -23,7 +23,7 @@ Deze plugin biedt foutopsporingsinformatie. Het rapport wordt onder het hoofdsch
 
 #### Taal tabblad
 
-![Systeem debug formulier taal tab](../../../en/images/plugins/plugin-group-system/03-plugin-group-system-debug-language-tab.png)
+![Systeem debug formulier taal tab](../../../en/images/plugins/plugin-group-system/03-debug-language-tab.png)
 
 - **Fouten tonen bij het parsen van taalbestanden** Of een lijst van taalbestanden met fouten getoond moet worden vanwege non-compliance met de Joomla! taalbestand specificatie.
 - **Taalbestanden Tonen** Of de geladen taalbestanden getoond moeten worden om de pagina te genereren.
@@ -34,7 +34,7 @@ Deze plugin biedt foutopsporingsinformatie. Het rapport wordt onder het hoofdsch
 
 #### Loggen tabblad
 
-![Systeem debug formulier loggen tab](../../../en/images/plugins/plugin-group-system/04-plugin-group-system-debug-logging-tab.png)
+![Systeem debug formulier loggen tab](../../../en/images/plugins/plugin-group-system/04-debug-logging-tab.png)
 
 ### Systeem - Velden
 
@@ -44,7 +44,7 @@ De systeemveldenplugin die nodig is om de aangepaste velden weer te geven.
 
 Deze plugin kan Security HTTP Headers instellen. Raadpleeg de HTTP Header Management documentatie voor meer details over deze plugin.
 
-![Systeem http headers formulier](../../../en/images/plugins/plugin-group-system/05-plugin-group-system-http-headers.png)
+![Systeem http headers formulier](../../../en/images/plugins/plugin-group-system/05-http-headers.png)
 
 ### Systeem - Highlight
 
@@ -54,7 +54,7 @@ Systeemplugin om gespecificeerde termen te markeren.
 
 Deze plugin zoekt naar taakplugins om uit te voeren.
 
-![Systeem takenplanner formulier](../../../en/images/plugins/plugin-group-system/06-plugin-group-system-job-scheduler.png)
+![Systeem takenplanner formulier](../../../en/images/plugins/plugin-group-system/06-job-scheduler.png)
 
 - **Frequentie (in minuten)** Stel in op nul om bij elke paginalading te draaien (voor testen).
 - **Webcron** Stel in op Ja om als een CLI-commando te bellen. Voor meer informatie zie Schrijven van een CLI Applicatie.
@@ -62,7 +62,7 @@ Deze plugin zoekt naar taakplugins om uit te voeren.
 
 ### Systeem - Joomla! Statistieken
 
-![Systeem joomla statistieken formulier](../../../en/images/plugins/plugin-group-system/07-plugin-group-system-joomla-statistics.png)
+![Systeem joomla statistieken formulier](../../../en/images/plugins/plugin-group-system/07-joomla-statistics.png)
 
 - **Unieke ID** Een identificatie die het Joomla!-project in staat stelt om unieke installaties van de plugin te tellen. Dit wordt samen met de statistieken teruggestuurd naar de server.
 - **Interval (uren)** Statistieken worden elke X uur verzonden. De standaard is 12.
@@ -70,7 +70,7 @@ Deze plugin zoekt naar taakplugins om uit te voeren.
 
 ### Systeem - Joomla! Update Melding
 
-![Systeem joomla update melding formulier](../../../en/images/plugins/plugin-group-system/08-plugin-group-system-joomla-update-notification.png)
+![Systeem joomla update melding formulier](../../../en/images/plugins/plugin-group-system/08-joomla-update-notification.png)
 
 - **Super User Emails** Een door komma's gescheiden lijst van de e-mailadressen die de update meldings-e-mails zullen ontvangen. De adressen in de lijst MOETEN behoren tot bestaande gebruikers van je site die de Super User-privilege hebben. Als geen van de vermelde e-mails toebehoort aan Super Users, of als het leeg is gelaten, zullen alle Super Users van deze site de update meldingse-mail ontvangen.
 - **E-mail Taal** Als je Auto (standaard) kiest, zal de update meldings-e-mail naar Super Users in de site-taal zijn op het moment dat de plugin wordt geactiveerd. Door hier een taal te selecteren, dwing je de update meldings-e-mails te verzenden in deze specifieke taal.
@@ -81,7 +81,7 @@ Biedt de mogelijkheid om de taalcode in het gegenereerde HTML-document te wijzig
 
 ### Systeem - Taalfilter
 
-![Systeem taalfilter formulier](../../../en/images/plugins/plugin-group-system/09-plugin-group-system-language-filter.png)
+![Systeem taalfilter formulier](../../../en/images/plugins/plugin-group-system/09-language-filter.png)
 
 - **Taalselectie voor nieuwe Bezoekers** Of de standaardtaal van de site moet worden gekozen of de browserinstellingen automatisch moeten worden gedetecteerd.
 - **Automatische Taalwijziging** Deze optie wijzigt automatisch de taal die in de Frontend wordt gebruikt wanneer een gebruiker de site-taal wijzigt.
@@ -94,7 +94,7 @@ Biedt de mogelijkheid om de taalcode in het gegenereerde HTML-document te wijzig
 
 ### Systeem - Log Rotatie
 
-![Systeem log rotatie formulier](../../../en/images/plugins/plugin-group-system/10-plugin-group-system-log-rotation.png)
+![Systeem log rotatie formulier](../../../en/images/plugins/plugin-group-system/10-log-rotation.png)
 
 - **Log Rotatie (in dagen)** Hoe vaak de logs moeten worden geroteerd.
 - **Maximale Logs** Het maximaal aantal oude logs dat behouden moet blijven.
@@ -107,7 +107,7 @@ De systeem uitlogplugin stelt Joomla in staat om de gebruiker naar de homepage t
 
 Deze plugin maakt paginacaching mogelijk. Paginacaching stelt de webserver in staat om snapshots van pagina's op te slaan en te gebruiken bij het serveren van webpagina's. Dit verbetert de prestaties van je website en vermindert de belasting van de server. Deze plugin heeft de volgende opties:
 
-![Systeem pagina cache formulier](../../../en/images/plugins/plugin-group-system/11-plugin-group-system-page-cache.png)
+![Systeem pagina cache formulier](../../../en/images/plugins/plugin-group-system/11-page-cache.png)
 
 - **Browser Caching Gebruiken** Of je het mechanisme wilt gebruiken om een paginacache op te slaan in de lokale browser. De standaard is *Nee*.
 - **Menu-items Uitsluiten** Selecteer welke menu-items je wilt uitsluiten van caching.
@@ -116,7 +116,7 @@ Deze plugin maakt paginacaching mogelijk. Paginacaching stelt de webserver in st
 
 Deze plugin stelt je in staat om de toestemming van je gebruikers voor het privacybeleid van de site te verzamelen en het verlopen van de toestemming te beheren.
 
-![Systeem privacy consent formulier](../../../en/images/plugins/plugin-group-system/12-plugin-group-system-privacy-consent.png)
+![Systeem privacy consent formulier](../../../en/images/plugins/plugin-group-system/12-privacy-consent.png)
 
 - **Kort Privacybeleid** Hiermee kun je een samenvatting van je privacybeleid invoeren of de bestaande behouden.
 - **Privacytype** Kies tussen Artikel en Menu-item. Afhankelijk van je keuze zal een van de twee volgende velden aanwezig zijn.
@@ -125,7 +125,7 @@ Deze plugin stelt je in staat om de toestemming van je gebruikers voor het priva
     - *Opmerking:* Wees extra voorzichtig met meertalige sites. Het is het beste om ervoor te zorgen dat het Artikel of Menu-item voorkomt als Associaties in alle talen.
 - **Doorstuurbericht** Het bericht dat wordt weergegeven bij het doorsturen. Voer je eigen bericht in of behoud het bestaande.
 
-![Systeem privacy consent formulier verval tab](../../../en/images/plugins/plugin-group-system/13-plugin-group-system-privacy-consent-expiration.png)
+![Systeem privacy consent formulier verval tab](../../../en/images/plugins/plugin-group-system/13-consent-expiration.png)
 
 - **Inschakelen** (Ja/Nee) Vervalmelding is standaard uitgeschakeld. Schakel het in als je controles wilt uitvoeren voor het verlopen van privacytoestemmingen.
 - **Periodieke Controle (dagen)** (0 tot 120 dagen) Standaard 30 dagen. Als Verval is ingeschakeld, definieer het aantal dagen voor de controle.
@@ -134,7 +134,7 @@ Deze plugin stelt je in staat om de toestemming van je gebruikers voor het priva
 
 ### Systeem - Redirect
 
-![Systeem redirect formulier](../../../en/images/plugins/plugin-group-system/14-plugin-group-system-redirect.png)
+![Systeem redirect formulier](../../../en/images/plugins/plugin-group-system/14-redirect.png)
 
 - **URLs Verzamelen** Deze optie regelt de verzameling van URLs. Dit is handig om onnodige belasting van de database te voorkomen.
 - **Domeinnaam Inbegrepen in Vervallen URLs** Sla de vervallen URL op als absoluut (inclusief domein) of relatief (exclusief domein).
@@ -148,13 +148,13 @@ Deze plugin biedt *Wachtwoord Onthouden* functionaliteit. Dit stelt de website i
 
 Deze plugin voegt SEF-ondersteuning toe aan links in het document. Het opereert direct op de HTML en vereist geen speciaal tag. Het heeft de volgende opties:
 
-![Systeem sef formulier](../../../en/images/plugins/plugin-group-system/15-plugin-group-system-sef.png)
+![Systeem sef formulier](../../../en/images/plugins/plugin-group-system/15-sef.png)
 
 - **Site Domein** Als je site via meer dan één domein toegankelijk is, voer hier het voorkeursdomein (soms het canonieke domein genoemd) in. Let op: https://example.com en https://www.example.com zijn verschillende domeinen.
 
 ### Systeem - Sessie Data Opschoning
 
-![Systeem sessie data opschoning formulier](../../../en/images/plugins/plugin-group-system/16-plugin-group-system-session-data-purge.png)
+![Systeem sessie data opschoning formulier](../../../en/images/plugins/plugin-group-system/16-session-data-purge.png)
 
 - **Inschakelen Sessie Data Opschoning** Wanneer ingeschakeld, zal deze plugin proberen verlopen data te verwijderen op basis van de frequentie berekend door de waarschijnlijkheid en de deler.
 - **Inschakelen Sessie Metadata Opschoning** Wanneer ingeschakeld, zal deze plugin optionele sessie metadata uit de database verwijderen. Merk op dat deze operatie niet wordt uitgevoerd wanneer de database handler in gebruik is, aangezien die data wordt verwijderd als onderdeel van de Sessie Data Opschoning operatie.
@@ -165,17 +165,17 @@ Deze plugin voegt SEF-ondersteuning toe aan links in het document. Het opereert 
 
 De plugin maakt een dropdownmenu bestaande uit de links naar de belangrijke plaatsen op een gegeven webpagina. Dit maakt het makkelijker voor toetsenbord- en schermlezer-gebruikers om snel naar de gewenste locatie te springen door deze uit de lijst met opties te kiezen.
 
-![Systeem snel naar navigatie formulier](../../../en/images/plugins/plugin-group-system/17-plugin-group-system-skip-to-navigation.png)
+![Systeem snel naar navigatie formulier](../../../en/images/plugins/plugin-group-system/17-skip-to-navigation.png)
 
 ### Systeem - Gebruikersacties Log
 
-![Systeem gebruikersacties log formulier](../../../en/images/plugins/plugin-group-system/18-plugin-group-system-user-actions-log.png)
+![Systeem gebruikersacties log formulier](../../../en/images/plugins/plugin-group-system/18-user-actions-log.png)
 
 - **Dagen om logs na te verwijderen** Geef op hoeveel dagen logs moeten worden bewaard voordat ze worden verwijderd. Voer 0 in als je de logs niet wilt verwijderen.
 
 ### Systeem - Gebruikerslog
 
-![Systeem gebruikerslog formulier](../../../en/images/plugins/plugin-group-system/19-plugin-group-system-user-log.png)
+![Systeem gebruikerslog formulier](../../../en/images/plugins/plugin-group-system/19-user-log.png)
 
 - **Log Gebruikersnamen** Deze optie logt de gebruikersnaam die is gebruikt wanneer een authenticatie mislukt.
 

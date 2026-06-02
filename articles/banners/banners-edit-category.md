@@ -28,7 +28,7 @@ Navigeer naar de lijst met Bannercategorieën:
 
 ## Screenshot
 
-![Banners bewerk categorie](../../../nl/images/banners/banners-edit-category/01-banners-edit-category-category-tab.png)
+![Banners bewerk categorie](../../../nl/images/banners/banners-edit-category/01-category-tab.png)
 
 Zie de Gemeenschappelijke Elementen voor meer informatie.
 *Vertaald door openai.com*

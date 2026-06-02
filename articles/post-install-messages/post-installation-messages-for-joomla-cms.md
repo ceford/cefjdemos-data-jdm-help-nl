@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![scherm voor berichten na installatie](../../../nl/images/post-install-messages/post-installation-messages-for-joomla-cms/01-post-install-messages.png)
+![scherm voor berichten na installatie](../../../nl/images/post-install-messages/post-installation-messages-for-joomla-cms/01-message-groups.png)
 
 ## Berichten
 

@@ -31,7 +31,7 @@ Om een bestaand menu-item **Een Weblink Indienen** te bewerken:
 
 ## Screenshot
 
-![Menu-item weblinks dien een webkoppeling in](../../../nl/images/menu-items/weblinks-weblink-submit/01-weblinks-submit-a-web-link-details-tab.png)
+![Menu-item weblinks dien een webkoppeling in](../../../nl/images/menu-items/weblinks-weblink-submit/01-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Gemeenschappelijke Elementen*.
 

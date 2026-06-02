@@ -34,13 +34,13 @@ Om een bestaand menu-item *Compacte Lijst van Getagde Items* te bewerken:
 
 ## Screenshot
 
-![Compact Lijst van Gelabelde Items Details Tab](../../../nl/images/menu-items/tags-compact-list-of-tagged-items/01-tags-compact-list-of-tagged-items-details-tab.png)
+![Compact Lijst van Gelabelde Items Details Tab](../../../nl/images/menu-items/tags-compact-list-of-tagged-items/01-details-tab.png)
 
 ## Formuliervelden
 
 ### Tabblad Tag-opties
 
-![Compacte lijst van getagde items tag-opties tabblad](../../../nl/images/menu-items/tags-compact-list-of-tagged-items/02-tags-compact-list-of-tagged-items-tag-options-tab.png)
+![Compacte lijst van getagde items tag-opties tabblad](../../../nl/images/menu-items/tags-compact-list-of-tagged-items/02-tag-options-tab.png)
 
 - **Toon tagennaam** Voor een lay-out met één tag, toon of verberg de tagnaam.
 - **Tagafbeelding** Voor een lay-out met één tag, toon of verberg de tagafbeelding.
@@ -55,7 +55,7 @@ Om een bestaand menu-item *Compacte Lijst van Getagde Items* te bewerken:
 
 ### Tabblad Itemselectie-opties
 
-![Compacte lijst van getagde items details tab](../../../nl/images/menu-items/tags-compact-list-of-tagged-items/03-tags-compact-list-of-tagged-items-item-selection-options-tab.png)
+![Compacte lijst van getagde items details tab](../../../nl/images/menu-items/tags-compact-list-of-tagged-items/03-item-selection-options-tab.png)
 
 - **Type overeenkomen** Selecteer items met een van de tags of alle tags. Elke 
   optie retourneert items die ten minste één van de tags hebben.

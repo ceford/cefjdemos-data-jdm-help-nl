@@ -21,7 +21,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Keuzemogelijkheden nieuwsoverzichten nieuwsoverzicht tabblad](../../../nl/images/news-feeds/news-feed-options/01-news-feeds-options-news-feed-tab.png)
+![Keuzemogelijkheden nieuwsoverzichten nieuwsoverzicht tabblad](../../../nl/images/news-feeds/news-feed-options/01-news-feed-tab.png)
 
 ## Formuliervelden
 
@@ -43,7 +43,7 @@ Deze instellingen gelden voor alle News Feeds tenzij ze worden gewijzigd voor ee
 
 ### Categorie Tab
 
-![Opties categorie tab nieuwsfeeds](../../../nl/images/news-feeds/news-feed-options/02-news-feeds-options-category-tab.png)
+![Opties categorie tab nieuwsfeeds](../../../nl/images/news-feeds/news-feed-options/02-category-tab.png)
 
 - **Kies een lay-out** Selecteer Blog, Lijst of een door de gebruiker gedefinieerde lay-out om standaard te tonen wanneer een categorielink is geselecteerd.
 - **Categorietitel** Toon of verberg de titel van de categorie.
@@ -57,7 +57,7 @@ Deze instellingen gelden voor alle News Feeds tenzij ze worden gewijzigd voor ee
 
 ### Categoriën Tab
 
-![Opties categorieën tab nieuwsfeeds](../../../nl/images/news-feeds/news-feed-options/03-news-feeds-options-categories-tab.png)
+![Opties categorieën tab nieuwsfeeds](../../../nl/images/news-feeds/news-feed-options/03-categories-tab.png)
 
 - **Beschrijving van hoofdcategorie** Toon of verberg de beschrijving van de hoofdcategorie.
 - **Subcategorie niveaus** Hoeveel niveaus in de hiërarchie moeten worden getoond.
@@ -67,7 +67,7 @@ Deze instellingen gelden voor alle News Feeds tenzij ze worden gewijzigd voor ee
 
 ### Lijst lay-outs Tab
 
-![Opties lijst lay-outs tab nieuwsfeeds](../../../nl/images/news-feeds/news-feed-options/04-news-feeds-options-list-layouts-tab.png)
+![Opties lijst lay-outs tab nieuwsfeeds](../../../nl/images/news-feeds/news-feed-options/04-list-layouts-tab.png)
 
 - **Filterveld** Het filterveld creëert een tekstveld waarin een gebruiker een veld kan invoeren om de weergegeven artikelen in de lijst te filteren.
   - *Verbergen* Toon geen filterveld.
@@ -83,7 +83,7 @@ Deze instellingen gelden voor alle News Feeds tenzij ze worden gewijzigd voor ee
 
 ### Integratie Tab
 
-![Opties integratie tab nieuwsfeeds](../../../nl/images/news-feeds/news-feed-options/05-news-feeds-options-integration-tab.png)
+![Opties integratie tab nieuwsfeeds](../../../nl/images/news-feeds/news-feed-options/05-integration-tab.png)
 
 - **IDs verwijderen uit URLs** Of je wel of niet de database-id van een nieuwsfeed in een link wilt weergeven.
 

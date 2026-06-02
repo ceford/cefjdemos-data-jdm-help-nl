@@ -32,13 +32,13 @@ Om een bestaand *IFrame Wrapper* menu item te bewerken:
 
 ## Screenshot
 
-![Iframe wrapper details tab](../../../nl/images/menu-items/wrapper-iframe-wrapper/01-wrapper-iframe-wrapper-details-tab.png)
+![Iframe wrapper details tab](../../../nl/images/menu-items/wrapper-iframe-wrapper/01-details-tab.png)
 
 ## Formulier Velden
 
 ### Scrollbalk Parameters Tab
 
-![Iframe wrapper scrollbalk parameters tab](../../../nl/images/menu-items/wrapper-iframe-wrapper/02-wrapper-scroll-bar-parameters-tab.png)
+![Iframe wrapper scrollbalk parameters tab](../../../nl/images/menu-items/wrapper-iframe-wrapper/02-scroll-bar-parameters-tab.png)
 
 - **Breedte** Breedte van het IFrame-venster. Voer een aantal pixels in of een percentage. Bijvoorbeeld, *550* betekent 550 pixels; *75%* betekent 75% van de
   `<main>` container breedte. Een absoluut aantal pixels kan breder zijn dan de container en lay-outproblemen veroorzaken. Bij twijfel, probeer 100%.
@@ -46,7 +46,7 @@ Om een bestaand *IFrame Wrapper* menu item te bewerken:
 
 ### Geavanceerd Tab
 
-![Iframe wrapper geavanceerd tab](../../../nl/images/menu-items/wrapper-iframe-wrapper/03-wrapper-advanced-tab.png)
+![Iframe wrapper geavanceerd tab](../../../nl/images/menu-items/wrapper-iframe-wrapper/03-advanced-tab.png)
 
 - **Auto hoogte** Automatisch de hoogte instellen op de hoogte van de externe pagina. *Opmerking* - Dit werkt alleen als de externe pagina zich op **dezelfde domein** bevindt. Bijvoorbeeld, `http://www.example.com` de externe html moet in de `example.com` root structuur staan. Subdomeinen zullen niet werken, aangezien een subdomein als een apart domein wordt beschouwd.
 - **Auto toevoegen** Automatisch webadres voorvoegen met http://. Deze functie zal automatisch detecteren en geen voorvoegsel toevoegen aan een URL die al http:// of https:// in de URL gebruikt.

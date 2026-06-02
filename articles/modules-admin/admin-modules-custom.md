@@ -29,7 +29,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Schermafbeelding
 
-![modules artikelen nieuwste tab](../../../nl/images/modules-admin/admin-modules-custom/01-modules-custom-module-tab.png)
+![modules artikelen nieuwste tab](../../../nl/images/modules-admin/admin-modules-custom/01-module-tab.png)
 
 ## Formulier Velden
 

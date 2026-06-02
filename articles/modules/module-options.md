@@ -18,7 +18,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Algemene tabblad van module-opties](../../../nl/images/modules/module-options/01-module-options-general-tab.png)
+![Algemene tabblad van module-opties](../../../nl/images/modules/module-options/01-general-tab.png)
 
 ## Formuliervelden
 
@@ -47,7 +47,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
   modulenbewerkingsformulier en kan deze worden gebruikt om de zichtbaarheid van een
   beheerdersmodule tot een enkele taal te beperken.
 
-![Moduulopties algemeen tabblad](../../../nl/images/modules/module-options/02-module-options-administrator-modules-tab.png)
+![Moduulopties algemeen tabblad](../../../nl/images/modules/module-options/02-administrator-modules-tab.png)
 
 ## Tips
 

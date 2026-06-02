@@ -4,7 +4,7 @@
 
 Snelle pictogrammen verschijnen in panelen in het Startdashboard om eenvoudige visuele toegang te bieden tot Joomla-functies als alternatief voor het gebruik van de beheerdersmenu's. Sommige van de Snelle pictogrammen verkrijgen extra informatie na de eerste weergave. De plugins worden gebruikt om die extra informatie te verkrijgen. Bijvoorbeeld, dit is het Updatecontroles-paneel dat toont dat er twee Extensie-updates beschikbaar zijn.
 
-![Home dashboard updatecontroles paneel](../../../en/images/plugins/plugin-group-quick-icon/01-plugin-group-quick-icon-update-checks.png)
+![Home dashboard updatecontroles paneel](../../../en/images/plugins/plugin-group-quick-icon/01-update-checks.png)
 
 Als je de pagina zorgvuldig laadt of herlaadt, zul je zien dat de pictogrammen van kleur veranderen van blauw naar groen of rood, wat betekent up-to-date of niet up-to-date. Als je een plugin uitschakelt, zal deze niet verschijnen op het Startdashboard.
 
@@ -12,7 +12,7 @@ Als je de pagina zorgvuldig laadt of herlaadt, zul je zien dat de pictogrammen v
 
 Controleert op updates van je geïnstalleerde externe extensies en stelt je hiervan op de hoogte wanneer je de Startdashboard-pagina bezoekt.
 
-![Joomla extensies updates melding bewerkmam formulier](../../../en/images/plugins/plugin-group-quick-icon/02-plugin-group-quick-icon-extensions-updates-notification.png)
+![Joomla extensies updates melding bewerkmam formulier](../../../en/images/plugins/plugin-group-quick-icon/02-extensions-updates-notification.png)
 
 - **Groep** De groep van deze plugin (deze waarde wordt vergeleken met de groep die wordt gebruikt in Snelle pictogrammen modules om pictogrammen in te voegen).
 
@@ -30,7 +30,7 @@ Controleert privacyverzoeken die moeten worden afgehandeld en stelt je hiervan o
 
 Controleert op Joomla-updates en stelt je hiervan op de hoogte wanneer je de Startdashboard-pagina bezoekt.
 
-![Joomla updates melding bewerksformulier](../../../en/images/plugins/plugin-group-quick-icon/03-plugin-group-quick-icon-joomla-update-notification.png)
+![Joomla updates melding bewerksformulier](../../../en/images/plugins/plugin-group-quick-icon/03-joomla-update-notification.png)
 
 - **Groep** De groep van deze plugin (deze waarde wordt vergeleken met de groep die wordt gebruikt in Snelle pictogrammen modules om pictogrammen in te voegen).
 

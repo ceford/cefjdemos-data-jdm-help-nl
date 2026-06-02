@@ -20,7 +20,7 @@ het aantal verzoeken.
 
 ## Screenshot
 
-![privacy-dashboard](../../../nl/images/privacy/privacy-dashboard/01-privacy-dashboard.png)
+![privacy-dashboard](../../../nl/images/privacy/privacy-dashboard/01-information.png)
 
 ## Dashboardpanelen
 

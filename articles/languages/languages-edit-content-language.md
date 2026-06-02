@@ -18,7 +18,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Bewerk details tabblad inhoudstaal talen](../../../nl/images/languages/languages-edit-content-language/01-languages-edit-content-language-details-tab.png)
+![Bewerk details tabblad inhoudstaal talen](../../../nl/images/languages/languages-edit-content-language/01-details-tab.png)
 
 ## Formuliervelden
 
@@ -36,7 +36,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ### Opties Tab
 
-![Languages Edit content language options tab](../../../nl/images/languages/languages-edit-content-language/02-languages-edit-content-language-options-tab.png)
+![Languages Edit content language options tab](../../../nl/images/languages/languages-edit-content-language/02-options-tab.png)
 
 * De **Aangepaste Naam van de Site** kan in verschillende talen verschillen!
 * De **Meta Beschrijving** moet in verschillende talen verschillen!

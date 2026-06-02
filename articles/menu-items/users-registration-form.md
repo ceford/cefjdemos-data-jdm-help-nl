@@ -34,7 +34,7 @@ Om een bestaand Registratieformulier menu-item te bewerken:
 
 ## Screenshot
 
-![Registratieformulier details tabblad](../../../nl/images/menu-items/users-registration-form/01-users-registration-form-details-tab.png)
+![Registratieformulier details tabblad](../../../nl/images/menu-items/users-registration-form/01-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Algemene Elementen*.
 

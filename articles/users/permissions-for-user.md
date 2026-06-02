@@ -22,7 +22,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![gebruikersrechten voor gebruiker](../../../nl/images/users/permissions-for-user/01-users-permissions-for-user.png)
+![gebruikersrechten voor gebruiker](../../../nl/images/users/permissions-for-user/01-permissions-list.png)
 
 Boven de Permissietabel zijn geselecteerde items te zien die toegangrechten tonen
 door middel van iconen voor *Toegestaan*, *Niet Toegestaan* en *Verboden*. De iconenlegenda staat onder

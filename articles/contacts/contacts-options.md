@@ -19,7 +19,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Screenshot van contactopties](../../../nl/images/contacts/contacts-options/01-contacts-options-contact-tab.png)
+![Screenshot van contactopties](../../../nl/images/contacts/contacts-options/01-contact-tab.png)
 
 ## Formuliervelden
 
@@ -68,7 +68,7 @@ Deze instellingen gelden voor een enkele Contact, tenzij ze worden gewijzigd voo
 
 ### Tabblad Iconen
 
-![Opties voor contacten tabblad iconen](../../../nl/images/contacts/contacts-options/02-contacts-options-icons-tab.png)
+![Opties voor contacten tabblad iconen](../../../nl/images/contacts/contacts-options/02-icons-tab.png)
 
 Deze instellingen gelden voor een enkele Contact, tenzij ze worden gewijzigd voor een specifiek menu-item of Contact.
 
@@ -84,7 +84,7 @@ Deze instellingen gelden voor een enkele Contact, tenzij ze worden gewijzigd voo
 
 Categorieopties bepalen hoe contacten worden weergegeven wanneer u doorklikt naar een Categorie om de contacten ervan te bekijken.
 
-![Opties voor contacten tabblad categorie](../../../nl/images/contacts/contacts-options/03-contacts-options-category-tab.png)
+![Opties voor contacten tabblad categorie](../../../nl/images/contacts/contacts-options/03-category-tab.png)
 
 - **Kies een Layout** (Blog/Lijst/gebruikergedefinieerd). Hiermee kunt u de standaardindeling selecteren die wordt weergegeven wanneer u op een Categorielink klikt. Als u een alternatieve layout voor een categorielayout maakt, kunt u deze als standaard selecteren.
 - **Categoriatitel** Titel van de categorie tonen of verbergen.
@@ -100,13 +100,13 @@ Categorieopties bepalen hoe contacten worden weergegeven wanneer u doorklikt naa
 
 Deze instellingen gelden voor Opties voor Contactcategorieën, tenzij ze worden gewijzigd voor een specifiek menu-item.
 
-![Opties voor contacten tabblad categorieën](../../../nl/images/contacts/contacts-options/04-contacts-options-categories-tab.png)
+![Opties voor contacten tabblad categorieën](../../../nl/images/contacts/contacts-options/04-categories-tab.png)
 
 ### Tabblad Lijstopmaak
 
 Deze instellingen gelden voor Opties voor Contactlijsten, tenzij ze worden gewijzigd voor een specifiek menu-item.
 
-![Opties voor contacten tabblad lijst indelingen](../../../nl/images/contacts/contacts-options/05-contacts-options-list-layouts-tab.png)
+![Opties voor contacten tabblad lijst indelingen](../../../nl/images/contacts/contacts-options/05-list-layouts-tab.png)
 
 - **Filterveld** Het Filterveld maakt een tekstveld waarin een gebruiker een veld kan invoeren om de getoonde artikelen in de lijst te filteren.
     De mogelijke opties hiervoor (in het achtereind menu-item bewerken) worden hieronder weergegeven.
@@ -138,7 +138,7 @@ Deze instellingen gelden voor Opties voor Contactlijsten, tenzij ze worden gewij
 
 Deze instellingen gelden voor een enkele Contact, tenzij ze worden gewijzigd voor een specifiek menu-item of Contact.
 
-![Opties voor contacten tabblad formulier](../../../nl/images/contacts/contacts-options/06-contacts-options-form-tab.png)
+![Opties voor contacten tabblad formulier](../../../nl/images/contacts/contacts-options/06-form-tab.png)
 
 - **Captcha Toestaan op Contact** Gebruik Standaard of Geen Geselecteerd. Selecteer de captcha plugin die in het contactformulier zal worden gebruikt. Captcha is de naam van een techniek om spamgebruikersregistraties te voorkomen door een gebruiker te verplichten karakters uit een vervormde afbeelding in te voeren of om *Ik ben geen robot* aan te vinken. U moet mogelijk verdere informatie invoeren voor uw Captcha plugin in de Pluginbeheerder.
 - **Contactformulier** Contactformulier tonen of verbergen.

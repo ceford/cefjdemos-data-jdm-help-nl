@@ -17,7 +17,7 @@ Selecteer **Gebruikers → Privacy → Mogelijkheden** uit het Beheerdersmen
 
 ## Screenshot
 
-![privacy-extensie mogelijkheden](../../../nl/images/privacy/privacy-extension-capabilities/01-privacy-capabilities.png)
+![privacy-extensie mogelijkheden](../../../nl/images/privacy/privacy-extension-capabilities/01-information.png)
 
 Er zijn geen gebruikersacties op deze pagina, behalve het uitvouwen en lezen van de individuele rapporten.
 *Vertaald door openai.com*

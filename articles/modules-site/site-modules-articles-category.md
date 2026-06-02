@@ -29,7 +29,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![module tab van de artikelen categorie](../../../nl/images/modules-site/site-modules-articles-category/01-modules-articles-category-module-tab.png)
+![module tab van de artikelen categorie](../../../nl/images/modules-site/site-modules-articles-category/01-module-tab.png)
 
 ## Formuliervelden
 
@@ -45,7 +45,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ### Filteropties Tabblad
 
-![artikelen categorie filteropties tabblad](../../../nl/images/modules-site/site-modules-articles-category/02-modules-articles-category-filtering-options-tab.png)
+![artikelen categorie filteropties tabblad](../../../nl/images/modules-site/site-modules-articles-category/02-filtering-options-tab.png)
 
 - **Uitgelichte Artikelen** Toon of verberg of selecteer Alleen Uitgelichte Artikelen.
 - **Aantal** Het aantal items om weer te geven. De standaardwaarde van 0 zal
@@ -67,7 +67,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ### Sorteeropties Tabblad
 
-![artikelen categorie sorteeropties tabblad](../../../nl/images/modules-site/site-modules-articles-category/03-modules-articles-category-ordering-options-tab.png)
+![artikelen categorie sorteeropties tabblad](../../../nl/images/modules-site/site-modules-articles-category/03-ordering-options-tab.png)
 
 - **Veld om op te Sorteren** Selecteer een veld uit de lijst. Uitgelichte
   Sorteren moet alleen worden gebruikt wanneer de Filteroptie voor Uitgelichte
@@ -76,7 +76,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ### Groepeeropties Tabblad
 
-![artikelen categorie groepeeropties tabblad](../../../nl/images/modules-site/site-modules-articles-category/04-modules-articles-category-grouping-options-tab.png)
+![artikelen categorie groepeeropties tabblad](../../../nl/images/modules-site/site-modules-articles-category/04-grouping-options-tab.png)
 
 - **Artikel Groepering** Selecteer een artikel groeperingsmethode uit de lijst.
 - **Groepering Volgorde** Selecteer de groeperingsvolgorde.
@@ -84,7 +84,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ### Weergaveopties Tabblad
 
-![artikelen categorie weergaveopties tabblad](../../../nl/images/modules-site/site-modules-articles-category/05-modules-articles-category-display-options-tab.png)
+![artikelen categorie weergaveopties tabblad](../../../nl/images/modules-site/site-modules-articles-category/05-display-options-tab.png)
 
 - **Gelinkte Titels** Toon titels als links naar artikelen.
 - **Datum** Toon of verberg de artikel datum.

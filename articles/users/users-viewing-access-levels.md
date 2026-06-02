@@ -23,7 +23,7 @@ Selecteer **Gebruikers → Toegangsniveaus** in het Beheerdersmenu.
 
 ## Screenshot
 
-![gebruikers die toegangsniveaus bekijken](../../../nl/images/users/users-viewing-access-levels/01-users-viewing-access-levels.png)
+![gebruikers die toegangsniveaus bekijken](../../../nl/images/users/users-viewing-access-levels/01-viewing-access-levels-list.png)
 
 ## Tips
 

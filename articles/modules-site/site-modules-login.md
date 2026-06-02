@@ -30,7 +30,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![inlog module tab](../../../nl/images/modules-site/site-modules-login/01-modules-login-module-tab.png)
+![inlog module tab](../../../nl/images/modules-site/site-modules-login/01-module-tab.png)
 
 ## Formuliervelden
 

@@ -18,7 +18,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Schermafbeelding
 
-![tags bewerk tag details tabblad](../../../nl/images/tags/tags-new-or-edit/01-tags-edit-tag-details-tab.png)
+![tags bewerk tag details tabblad](../../../nl/images/tags/tags-new-or-edit/01-details-tab.png)
 
 ## Formuliervelden
 
@@ -46,7 +46,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ### Opties-tabblad
 
-![tags bewerk tag opties-tabblad](../../../nl/images/tags/tags-new-or-edit/02-tags-edit-options-tab.png)
+![tags bewerk tag opties-tabblad](../../../nl/images/tags/tags-new-or-edit/02-options-tab.png)
 
 #### Optiepaneel
 
@@ -65,7 +65,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ### Publiceren-tabblad
 
-![tags bewerk tag publiceren-tabblad](../../../nl/images/tags/tags-new-or-edit/03-tags-edit-publishing-tab.png)
+![tags bewerk tag publiceren-tabblad](../../../nl/images/tags/tags-new-or-edit/03-publishing-tab.png)
 
 #### Publiceerpaneel
 

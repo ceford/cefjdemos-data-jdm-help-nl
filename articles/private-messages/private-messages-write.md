@@ -19,7 +19,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Schermafbeelding
 
-![privéberichten schrijven](../../../nl/images/private-messages/private-messages-write/01-private-messages-write.png)
+![privéberichten schrijven](../../../nl/images/private-messages/private-messages-write/01-write-form.png)
 
 ## Formuliervelden
 

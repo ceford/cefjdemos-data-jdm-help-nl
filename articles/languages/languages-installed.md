@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Geïnstalleerde talen site lijst](../../../nl/images/languages/languages-installed/01-languages-installed-site.png)
+![Geïnstalleerde talen site lijst](../../../nl/images/languages/languages-installed/01-languages-installed-list.png)
 
 ## Lijst Filters
 

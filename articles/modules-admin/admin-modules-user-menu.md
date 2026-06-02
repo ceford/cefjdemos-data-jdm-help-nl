@@ -27,7 +27,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Helpartikele
 
 ## Screenshot
 
-![modules user menu module tab](../../../nl/images/modules-admin/admin-modules-user-menu/01-modules-user-menu-module-tab.png)
+![modules user menu module tab](../../../nl/images/modules-admin/admin-modules-user-menu/01-module-tab.png)
 
 ## Formulieren
 

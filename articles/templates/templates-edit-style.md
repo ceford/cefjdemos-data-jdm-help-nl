@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![sjablonen cassiopeia stijl bewerken editor tabblad](../../../nl/images/templates/templates-edit-style/01-templates-site-edit-style-details-tab.png)
+![sjablonen cassiopeia stijl bewerken editor tabblad](../../../nl/images/templates/templates-edit-style/01-details-tab.png)
 
 ## Formulier Velden
 
@@ -33,7 +33,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ### Geavanceerd Tab
 
-![templates cassiopeia edit style editor tab](../../../nl/images/templates/templates-edit-style/02-templates-site-edit-style-advanced-tab.png)
+![templates cassiopeia edit style editor tab](../../../nl/images/templates/templates-edit-style/02-advanced-tab.png)
 
 Deze sectie is mogelijk niet aanwezig voor alle stijlen. Als een template waarvan een stijl is afgeleid configureerbare opties heeft, zullen deze hier aanwezig zijn. Het zijn deze extra configureerbare opties die u in staat stellen om meerdere verschillende stijlen van templates te hebben met variaties van deze opties. De beschikbare opties zullen variëren op basis van wat de template-ontwikkelaar beschikbaar heeft gemaakt.
 
@@ -53,7 +53,7 @@ Als je je eigen Merk Klein levert, moet je ook een breedte stijl-override levere
 
 ### Menu Toewijzing Tab
 
-![templates cassiopeia edit style editor tab](../../../nl/images/templates/templates-edit-style/03-templates-site-edit-style-menu-assignment-tab.png)
+![templates cassiopeia edit style editor tab](../../../nl/images/templates/templates-edit-style/03-menu-assignment-tab.png)
 
 Deze sectie bevat alle menu-items die in je Joomla! website zijn geconfigureerd. Om de huidige stijl toe te passen op de webpagina van een menu-item, vink je het vakje naast het menu-item aan. Je kunt op de *Selectie Wisselen* knop drukken om de menu-item selecties te omkeren.
 

@@ -59,7 +59,7 @@ Parameters voor alle velden:
 
 ### Opties tabblad
 
-![Artikelen bewerken veld opties tabblad](../../../nl/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
+![Artikelen bewerken veld opties tabblad](../../../nl/images/fields/fields-edit/02-options-tab.png)
 
 #### Formulier Opties
 

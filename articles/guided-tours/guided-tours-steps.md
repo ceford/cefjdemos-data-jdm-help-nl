@@ -21,7 +21,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Lijst met stappen van rondleidingen](../../../nl/images/guided-tours/guided-tours-steps/01-guided-tours-steps-list.png)
+![Lijst met stappen van rondleidingen](../../../nl/images/guided-tours/guided-tours-steps/01-steps-list.png)
 
 ## Tips
 

@@ -19,7 +19,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![privacy opties](../../../nl/images/privacy/privacy-options/01-privacy-options.png)
+![privacy opties](../../../nl/images/privacy/privacy-options/01-options-tab.png)
 
 ## Formulieren Velden
 

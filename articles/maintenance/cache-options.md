@@ -18,7 +18,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Schermafbeelding
 
-![Cache-opties](../../../nl/images/maintenance/cache-options/01-cache-options.png)
+![Cache-opties](../../../nl/images/maintenance/cache-options/01-permissions-tab.png)
 
 ## Tips
 

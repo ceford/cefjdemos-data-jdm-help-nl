@@ -19,7 +19,7 @@ Eén element van deze pagina wordt behandeld in een apart Help-artikel:
 
 ## Screenshot
 
-![E-mail Sjabloon Bewerken](../../../nl/images/mail/mail-template-edit/01-edit-mail-template.png)
+![E-mail Sjabloon Bewerken](../../../nl/images/mail/mail-template-edit/01-mail-tab.png)
 
 De Mailopties staan toe om platte tekst of HTML-berichten of beide te sturen. Als slechts één methode is geselecteerd, zal de alternatieve methode niet aanwezig zijn in het berichtenbewerkingsformulier.
 

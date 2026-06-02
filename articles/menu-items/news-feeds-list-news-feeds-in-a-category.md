@@ -35,13 +35,13 @@ Om een bestaand **Lijst Nieuwsfeeds in een Categorie** menu-item te bewerken:
 
 ## Screenshot
 
-![Menu Item Lijst Nieuwsfeeds in een Categorie details tab](../../../nl/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-news-feeds-list-newsfeeds-in-a-category-details-tab.png)
+![Menu Item Lijst Nieuwsfeeds in een Categorie details tab](../../../nl/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-details-tab.png)
 
 ## Formulieren
 
 ### Tabblad Feedweergave-opties
 
-![Menu-itemlijst Nieuwsoverzichten in een Categorie details tabblad](../../../nl/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-news-feeds-list-newfeeds-in-a-category-feed-display-options-tab.png)
+![Menu-itemlijst Nieuwsoverzichten in een Categorie details tabblad](../../../nl/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-feed-display-options-tab.png)
 
 - **Feedafbeelding** Toon of verberg de afbeelding van de Nieuwsoverzichten.
 - **Feedbeschrijving** Toon of verberg de beschrijving van de Nieuwsoverzicht.

@@ -22,7 +22,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help artikelen:
 
 ## Screenshot
 
-![Nieuwsoverzichten categorie bewerken categorietab](../../../nl/images/news-feeds/news-feeds-new-or-edit-category/01-news-feeds-edit-category-category-tab.png)
+![Nieuwsoverzichten categorie bewerken categorietab](../../../nl/images/news-feeds/news-feeds-new-or-edit-category/01-category-tab.png)
 
 ## Formulier Velden
 
@@ -32,7 +32,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help artikelen:
 
 ### Opties tabblad
 
-![Nieuwsfeeds categorie tabblad bewerken](../../../nl/images/news-feeds/news-feeds-new-or-edit-category/02-news-feeds-edit-category-options-tab.png)
+![Nieuwsfeeds categorie tabblad bewerken](../../../nl/images/news-feeds/news-feeds-new-or-edit-category/02-options-tab.png)
 
 - **Indeling** Kies een indeling uit de beschikbare opties.
 - **Afbeelding** Kies een afbeelding die weergegeven moet worden bij deze categorie in de frontend.

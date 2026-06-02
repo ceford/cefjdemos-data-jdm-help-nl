@@ -36,13 +36,13 @@ Om een bestaand "Alle Nieuwsfeeds Categorieën Lijsten" menu-item te bewerken:
 
 ## Screenshot
 
-![Menu Item lijst met alle Nieuwsfeed Categorieën details tabblad](../../../nl/images/menu-items/news-feeds-list-all-news-feed-categories/01-news-feeds-list-all-categories-details-tab.png)
+![Menu Item lijst met alle Nieuwsfeed Categorieën details tabblad](../../../nl/images/menu-items/news-feeds-list-all-news-feed-categories/01-details-tab.png)
 
 ## Formuliervelden
 
 ### Tabblad Categorieën
 
-![Menu Item lijst alle Nieuws Feed Categorieën categorieën tabblad](../../../nl/images/menu-items/news-feeds-list-all-news-feed-categories/02-news-feeds-list-all-categories-tree-categories-tab.png)
+![Menu Item lijst alle Nieuws Feed Categorieën categorieën tabblad](../../../nl/images/menu-items/news-feeds-list-all-news-feed-categories/02-categories-tab.png)
 
 - **Hoofdcategorie Beschrijving** Toon of verberg de beschrijving van de 
   hoofdcategorie. Let op dat deze beschrijving kan worden overschreven voor deze 
@@ -61,7 +61,7 @@ Om een bestaand "Alle Nieuwsfeeds Categorieën Lijsten" menu-item te bewerken:
 
 ### Tabblad Weergaveopties Feeds
 
-![Menu Item lijst alle Nieuws Feed Categorieën weergaveopties tabblad](../../../nl/images/menu-items/news-feeds-list-all-news-feed-categories/03-news-feeds-list-all-categories-tree-feed-display-options-tab.png)
+![Menu Item lijst alle Nieuws Feed Categorieën weergaveopties tabblad](../../../nl/images/menu-items/news-feeds-list-all-news-feed-categories/03-feed-display-options-tab.png)
 
 - **Feed Afbeelding** Toon of verberg de afbeelding van Nieuws Feeds.
 - **Feed Beschrijving** Toon of verberg de beschrijvingen van de Nieuws Feeds.

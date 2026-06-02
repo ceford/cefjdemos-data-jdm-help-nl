@@ -4,7 +4,7 @@
 
 De editors-xtd plugins voegen knoppen toe aan de CMS Inhoud drop-down lijst in de TinyMCE editor.
 
-![Voorbeeldweergave van knoppen in TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-plugin-group-editors-extended.png)
+![Voorbeeldweergave van knoppen in TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-cms-content-buttons.png)
 
 ### Knop - Artikel
 

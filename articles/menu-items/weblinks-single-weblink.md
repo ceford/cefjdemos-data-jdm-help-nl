@@ -33,7 +33,7 @@ Om een bestaand **Single Weblink** menu-item te bewerken:
 
 ## Schermafbeelding
 
-![Menu item weblinks dienen een web link](../../../nl/images/menu-items/weblinks-single-weblink/01-weblinks-single-weblink-details-tab.png)
+![Menu item weblinks dienen een web link](../../../nl/images/menu-items/weblinks-single-weblink/01-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Common Elements*.
 

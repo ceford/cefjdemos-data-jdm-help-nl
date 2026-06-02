@@ -20,7 +20,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Screenshot
 
-![Rondleidingen bewerkstap](../../../nl/images/guided-tours/guided-tours-edit-step/01-guided-tours-edit-step.png)
+![Rondleidingen bewerkstap](../../../nl/images/guided-tours/guided-tours-edit-step/01-edit-step-tab.png)
 
 ## Formulieren
 
@@ -58,7 +58,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ### Opties Tab
 
-![Geleide rondleidingen bewerk stap opties tab](../../../nl/images/guided-tours/guided-tours-edit-step/02-guided-tours-edit-step-options-tab.png)
+![Geleide rondleidingen bewerk stap opties tab](../../../nl/images/guided-tours/guided-tours-edit-step/02-options-tab.png)
 
 ## Tips
 

@@ -35,7 +35,7 @@ Om een Menu Item te bewerken:
 
 ## Schermafbeelding
 
-![Menu Item Artikelen - Tabblad enkel artikel details](../../../nl/images/menu-items/articles-single-article/01-articles-single-article-details-tab.png)
+![Menu Item Artikelen - Tabblad enkel artikel details](../../../nl/images/menu-items/articles-single-article/01-details-tab.png)
 
 ## Formuliervelden
 

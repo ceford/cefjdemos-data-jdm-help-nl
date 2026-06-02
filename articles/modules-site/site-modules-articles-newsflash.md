@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![artikelen nieuwsflits module tab](../../../nl/images/modules-site/site-modules-articles-newsflash/01-modules-articles-newsflash-module-tab.png)
+![artikelen nieuwsflits module tab](../../../nl/images/modules-site/site-modules-articles-newsflash/01-module-tab.png)
 
 ## Formuliervelden
 

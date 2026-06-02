@@ -35,13 +35,13 @@ Om een bestaand Item Uitgelichte Contacten te bewerken:
 
 ## Screenshot
 
-![Menu-item Geselecteerde Contacten Details-tabblad](../../../nl/images/menu-items/contacts-featured-contacts/01-contacts-featured-contacts-details-tab.png)
+![Menu-item Geselecteerde Contacten Details-tabblad](../../../nl/images/menu-items/contacts-featured-contacts/01-details-tab.png)
 
 ## Formuliervelden
 
 ### Formulier Tab
 
-![Menu-item Gepromoteerde Contacten formulier tab](../../../nl/images/menu-items/contacts-featured-contacts/02-contacts-featured-contacts-form-tab.png)
+![Menu-item Gepromoteerde Contacten formulier tab](../../../nl/images/menu-items/contacts-featured-contacts/02-form-tab.png)
 
 - **Tags** Toon of verberg de *Tags* van het contact.
 - **Contact Informatie** Toon of verberg de *Contact Informatie* van het contact.
@@ -56,7 +56,7 @@ Om een bestaand Item Uitgelichte Contacten te bewerken:
 
 Contact Mail Opties beheert de weergave van een Contact's → *Contactformulier* als dit is ingeschakeld.
 
-![Menu-item Gepromoteerde Contacten mail opties tab](../../../nl/images/menu-items/contacts-featured-contacts/03-contacts-featured-contacts-mail-options-tab.png)
+![Menu-item Gepromoteerde Contacten mail opties tab](../../../nl/images/menu-items/contacts-featured-contacts/03-mail-options-tab.png)
 
 - **Contactformulier** Toon of verberg het *contactformulier* van het contact.
 - **Stuur een Kopie naar Indiener** Toon of verberg een selectievakje waarmee een Indiener een kopie van de e-mail naar zichzelf kan sturen.

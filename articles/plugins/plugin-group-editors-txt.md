@@ -8,7 +8,7 @@ Editor-plug-ins helpen gebruikers om tekst in te voeren met opmaak of lay-outs v
 
 De CodeMirror-editor is een code-editor die meer geschikt is voor broncode. Het heeft syntaxis markering voor veel programmeertalen. Het kan niet-overeenkomende tags weergeven en helpt ook om consistente code-inspringingen te behouden.
 
-![CodeMirror opties formulier](../../../en/images/plugins/plugin-group-editors-txt/01-plugin-group-editor-codemirror.png)
+![CodeMirror opties formulier](../../../en/images/plugins/plugin-group-editors-txt/01-editor-codemirror-plugin-tab.png)
 
 - **Regelnummers** Toon regelnummers in de editor.
 - **Code Vouwen** Sta toe dat blokken code worden gevouwen.
@@ -23,7 +23,7 @@ De CodeMirror-editor is een code-editor die meer geschikt is voor broncode. Het 
 - **Schakel Volledig Scherm In** Selecteer de functietoets om de volledig schermmodus in en uit te schakelen.
 - **Gebruik Modifiers** Selecteer eventuele modificeer toetsen om te gebruiken met de volledig scherm toets.
 
-![CodeMirror geavanceerde opties formulier](../../../en/images/plugins/plugin-group-editors-txt/02-plugin-group-editor-codemirror-advanced.png)
+![CodeMirror geavanceerde opties formulier](../../../en/images/plugins/plugin-group-editors-txt/02-codemirror-appearance-options-tab.png)
 
 - **Thema** Stelt de kleuren voor de editor in.
 - **Actieve Regel Kleur** De kleur die wordt gebruikt om de actieve regel te markeren. Wordt weergegeven met 50% dekking.
@@ -42,7 +42,7 @@ Deze plug-in laadt een basis tekst editor. Deze optie kan worden gebruikt wannee
 
 De TinyMCE-editor is een WYSIWYG-editor en is de standaard editor voor het invoeren van HTML in Joomla!.
 
-![Het TinyMCE plug-in opties formulier](../../../en/images/plugins/plugin-group-editors-txt/03-plugin-group-editor-tinymce.png)
+![Het TinyMCE plug-in opties formulier](../../../en/images/plugins/plugin-group-editors-txt/03-editor-tinymce-plugin-tab.png)
 
 - **Selectie tab instellen** Selecteer de functionaliteit *Set 2*, *Set 1* of *Set 0*. Met *Set 2* geselecteerd, zie je de editor voor *Publiek* gebruik. *Set 1* geselecteerd, is standaard voor Managers en Geregistreerden, *Set 0* geselecteerd, is standaard voor Administrators, Redacteuren en Super Users.
 
@@ -77,7 +77,7 @@ Elke tab heeft een lange lijst van opties die hier niet worden geïllustreerd. D
 
 #### TinyMCE Geavanceerde tab
 
-![TinyMCE Geavanceerde Opties formulier](../../../en/images/plugins/plugin-group-editors-txt/04-plugin-group-editor-tinymce-advanced.png)
+![TinyMCE Geavanceerde Opties formulier](../../../en/images/plugins/plugin-group-editors-txt/04-tinymce-advanced-tab.png)
 
 - **Aantal Sets** Het aantal sets dat kan worden aangemaakt. Minimaal 3.
 - **HTML Hoogte** De hoogte, in pixels, van het HTML-modus pop-up venster.

@@ -18,7 +18,7 @@ Met deze plugin kunt u pakketten installeren vanaf uw lokale computer.
 
 ### Installateur - Installeren vanuit Web
 
-![Bepaal volgorde van Installeren vanuit web tabblad](../../../en/images/plugins/plugin-group-installer/01-plugin-group-installer-install-from-web-order.png)
+![Bepaal volgorde van Installeren vanuit web tabblad](../../../en/images/plugins/plugin-group-installer/01-install-from-web-order.png)
 
 - **Tabbladpositie** Plaats het tabblad *Installeren vanuit Web* als eerste of laatste.
 

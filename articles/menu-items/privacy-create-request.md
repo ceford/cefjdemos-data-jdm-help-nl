@@ -32,7 +32,7 @@ Om een bestaand menu-item Verzoek Maken te bewerken:
 
 ## Screenshot
 
-![Menu-item Privacy Maak Verzoek details tab](../../../nl/images/menu-items/privacy-create-request/01-privacy-create-request-details-tab.png)
+![Menu-item Privacy Maak Verzoek details tab](../../../nl/images/menu-items/privacy-create-request/01-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Gemeenschappelijke Elementen*.
 

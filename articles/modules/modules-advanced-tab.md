@@ -6,7 +6,7 @@ De Module: Geavanceerd tab wordt met kleine variaties gebruikt in alle module be
 
 ## Screenshot
 
-![Modules geavanceerd tabblad](../../../nl/images/modules/modules-advanced-tab/01-modules-custom-advanced-tab.png)
+![Modules geavanceerd tabblad](../../../nl/images/modules/modules-advanced-tab/01-advanced-tab.png)
 
 ## Formuliervelden
 

@@ -29,7 +29,7 @@ Om een nieuwe gebruiker aan te maken:
 
 ## Screenshot
 
-![gebruikersbewerkingsdetails tabblad](../../../nl/images/users/users-new-or-edit/01-users-edit-account-details-tab.png)
+![gebruikersbewerkingsdetails tabblad](../../../nl/images/users/users-new-or-edit/01-account-details-tab.png)
 
 ## Formulier Velden
 
@@ -51,13 +51,13 @@ Om een nieuwe gebruiker aan te maken:
 
 ### Toegewezen Gebruikersgroepen tab
 
-![gebruiker bewerken toegewezen gebruikersgroepen tab](../../../nl/images/users/users-new-or-edit/02-users-edit-assigned-user-groups-tab.png)
+![gebruiker bewerken toegewezen gebruikersgroepen tab](../../../nl/images/users/users-new-or-edit/02-assigned-user-groups-tab.png)
 
 De standaardinstelling is *Geregistreerd* maar kan worden gewijzigd op de pagina *Gebruiker: Opties*.
 
 ### Basisinstellingen
 
-![gebruiker bewerken basisinstellingen tab](../../../nl/images/users/users-new-or-edit/03-users-edit-basic-settings-tab.png)
+![gebruiker bewerken basisinstellingen tab](../../../nl/images/users/users-new-or-edit/03-basic-settings-tab.png)
 
 - **Backend Template Stijl** Selecteer een template stijl voor de beheerinterface. Dit heeft alleen effect op deze gebruiker.
 - **Backend Taal** Selecteer de taal voor de beheerinterface. Dit heeft alleen effect op deze gebruiker.
@@ -67,7 +67,7 @@ De standaardinstelling is *Geregistreerd* maar kan worden gewijzigd op de pagina
 
 ### Toegankelijkheidsinstellingen
 
-![gebruiker bewerken toegankelijkheidsinstellingen tab](../../../nl/images/users/users-new-or-edit/04-users-edit-accessibility-settings-tab.png)
+![gebruiker bewerken toegankelijkheidsinstellingen tab](../../../nl/images/users/users-new-or-edit/04-accessibility-settings-tab.png)
 
 - **Monochroom** Ja/Nee
 - **Hoog Contrast** Ja/Nee
@@ -95,7 +95,7 @@ Het token is alleen zichtbaar voor je eigen account.
 
 ### Meervoudige Authenticatie
 
-![gebruiker bewerken meervoudige authenticatie tab](../../../nl/images/users/users-new-or-edit/05-users-edit-multi-factor-authentication-tab.png)
+![gebruiker bewerken meervoudige authenticatie tab](../../../nl/images/users/users-new-or-edit/05-multi-factor-authentication-tab.png)
 
 Deze tab stelt je in staat om een of meer methoden in te stellen om toegang te krijgen tot je account na inloggen met gebruikersnaam en wachtwoord. Deze tab is alleen aanwezig bij het bewerken van je eigen profiel. Er zijn verschillende methoden beschikbaar. Als je om een of andere reden de toegang tot een methode verliest, kun je een andere methode kiezen vanaf het post-login verificatiescherm. De alternatieve methoden moeten van tevoren zijn ingesteld!
 

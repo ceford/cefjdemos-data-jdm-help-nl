@@ -18,7 +18,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help artikele
 
 ## Screenshot
 
-![Mediamogelijkheden](../../../nl/images/media/media-options/01-media-options.png)
+![Mediamogelijkheden](../../../nl/images/media/media-options/01-media-tab.png)
 
 ## Formuliervelden
 

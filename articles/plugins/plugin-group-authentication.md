@@ -6,7 +6,7 @@ De plugins in deze groep worden gebruikt voor standaard gebruikerslogin naar de 
 
 ## Authenticatie - Cookie
 
-![cookie authenticatie plugin](../../../en/images/plugins/plugin-group-authentication/01-plugin-group-authentication-cookie.png)
+![cookie authenticatie plugin](../../../en/images/plugins/plugin-group-authentication/01-authentication-cookie-plugin-tab.png)
 
 - **Levensduur van Cookie** Het aantal dagen totdat de authenticatiecookie verloopt. Andere factoren kunnen ervoor zorgen dat het eerder verloopt. Langere tijdsduur is minder veilig.
 - **Sleutel Lengte** De lengte van de sleutel die wordt gebruikt om de cookie te versleutelen. Langere lengtes zijn veiliger, maar ze vertragen de prestaties.
@@ -19,7 +19,7 @@ Deze plugin verwerkt de standaard gebruikersauthenticatiemethode in Joomla. Het 
 
 Deze plugin verwerkt gebruikersauthenticatie tegen een LDAP-server.
 
-![ldap authenticatie plugin](../../../en/images/plugins/plugin-group-authentication/02-plugin-group-authentication-ldap.png)
+![ldap authenticatie plugin](../../../en/images/plugins/plugin-group-authentication/02-authentication-ldap-plugin-tab.png)
 
 - **Host** De host-URL. Bijvoorbeeld, `openldap.mijnbedrijf.org`.
 - **Port** Het poortnummer. De standaard is 389.

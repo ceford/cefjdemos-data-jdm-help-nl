@@ -8,7 +8,7 @@ Categorieën worden gebruikt door Artikelen, Banners, Contacten en andere compon
 
 Dit voorbeeldscreenshot gebruikt het formulier Artikelen: Categorie Bewerken.
 
-![Bewerk categorie tabblad categorie](../../../nl/images/common-elements/edit-category/01-articles-edit-category-category-tab.png)
+![Bewerk categorie tabblad categorie](../../../nl/images/common-elements/edit-category/01-category-tab.png)
 
 ## Formuliervelden
 

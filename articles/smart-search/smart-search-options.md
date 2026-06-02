@@ -19,7 +19,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Slimme zoekopties slimme zoektab](../../../nl/images/smart-search/smart-search-options/01-smart-search-options-smart-search-tab.png)
+![Slimme zoekopties slimme zoektab](../../../nl/images/smart-search/smart-search-options/01-smart-search-tab.png)
 
 ## Formuliervelden
 
@@ -48,7 +48,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ### Index Tabblad
 
-![Smart zoekopties index tabblad](../../../nl/images/smart-search/smart-search-options/02-smart-search-options-index-tab.png)
+![Smart zoekopties index tabblad](../../../nl/images/smart-search/smart-search-options/02-index-tab.png)
 
 - **Zoek naar Zinnen** Uitgeschakeld om de prestatie te verbeteren of inschakelen om de kwaliteit van de resultaten te verbeteren.
 - **Indexer Batch Grootte** De batchgrootte bepaalt hoeveel items per batch worden verwerkt. Grote batches vereisen veel geheugen, terwijl kleine batches minder geheugen vereisen maar meer verzoeken uitvoeren, wat meestal langer duurt.

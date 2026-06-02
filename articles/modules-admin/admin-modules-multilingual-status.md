@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![modules meertalige status module tab](../../../nl/images/modules-admin/admin-modules-multilingual-status/01-modules-multilingual-status-module-tab.png)
+![modules meertalige status module tab](../../../nl/images/modules-admin/admin-modules-multilingual-status/01-module-tab.png)
 
 ## Formuliervelden
 

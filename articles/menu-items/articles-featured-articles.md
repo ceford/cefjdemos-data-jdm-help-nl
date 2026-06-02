@@ -36,7 +36,7 @@ Om een Menu Item te bewerken:
 
 ## Screenshot
 
-![Menu Item Artikelen Vergelijkbare Artikelen details tab](../../../nl/images/menu-items/articles-featured-articles/01-articles-featured-details-tab.png)
+![Menu Item Artikelen Vergelijkbare Artikelen details tab](../../../nl/images/menu-items/articles-featured-articles/01-details-tab.png)
 
 ## Tips
 

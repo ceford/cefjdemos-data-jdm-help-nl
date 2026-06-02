@@ -22,7 +22,7 @@ Selecteer **Gebruikers → Gebruikersacties logboek** in het Beheerdersmenu.
 
 ## Schermafbeelding
 
-![gebruikers gebruikersacties loglijst](../../../nl/images/users/user-actions-log/01-user-actions-log-list.png)
+![gebruikers gebruikersacties loglijst](../../../nl/images/users/user-actions-log/01-log-list.png)
 
 *Vertaald door openai.com*
 

@@ -32,7 +32,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Screenshot
 
-![menu-item details tab](../../../nl/images/menu-items-common/menus-new-item/01-menu-item-details.png)
+![menu-item details tab](../../../nl/images/menus/menus-new-item/01-details-tab.png)
 
 ## Formulier Velden
 

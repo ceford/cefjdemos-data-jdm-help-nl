@@ -21,7 +21,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Helpartikele
 
 ## Screenshot
 
-![gebruikers notities lijst](../../../nl/images/users/user-notes-new-or-edit-category/01-users-user-notes-edit-category.png)
+![gebruikers notities lijst](../../../nl/images/users/user-notes-new-or-edit-category/01-category-tab.png)
 
 ## Formuliervelden
 

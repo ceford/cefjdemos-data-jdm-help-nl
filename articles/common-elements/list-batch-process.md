@@ -6,7 +6,7 @@ Veel van de Joomla-beheerderspagina's zijn lijsten van items. Het bekendst zijn 
 
 De bewerkingen die kunnen worden uitgevoerd variëren per lijst. De volgende screenshot toont het batchdialoogvenster voor Artikelen:
 
-![Batchscreenshot van artikelenlijst](../../../nl/images/common-elements/list-batch-process/01-articles-list-batch.png)
+![Batchscreenshot van artikelenlijst](../../../nl/images/common-elements/list-batch-process/01-articles-list-batch-dialog.png)
 
 ## Voorbeeld: Hoe een groep artikelen batchgewijs te verwerken:
 

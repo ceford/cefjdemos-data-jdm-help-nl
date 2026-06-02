@@ -27,7 +27,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Schermafbeelding
 
-![tabblad module gearchiveerde artikelen](../../../nl/images/modules-site/site-modules-articles-archived/01-modules-articles-archived-module-tab.png)
+![tabblad module gearchiveerde artikelen](../../../nl/images/modules-site/site-modules-articles-archived/01-module-tab.png)
 
 ## Formuliervelden
 

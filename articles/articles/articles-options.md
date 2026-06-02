@@ -19,7 +19,7 @@ Selecteer de knop **Opties** in de werkbalk van elke *Artikelen* lijstpagina.
 
 ## Screenshot
 
-![Screenshot van artikelenopties](../../../nl/images/articles/articles-options/01-articles-options-articles-tab.png)
+![Screenshot van artikelenopties](../../../nl/images/articles/articles-options/01-articles-tab.png)
 
 ## Formuliervelden
 
@@ -69,7 +69,7 @@ Deze instellingen gelden voor artikelindelingen, tenzij ze worden gewijzigd voor
 
 Deze opties bepalen de lay-out van de artikelbewerkingspagina.
 
-![Opties artikelen bewerking lay-out tabblad](../../../nl/images/articles/articles-options/02-articles-options-editing-layout-tab.png)
+![Opties artikelen bewerking lay-out tabblad](../../../nl/images/articles/articles-options/02-editing-layout-tab.png)
 
 - **Captcha toestaan bij indienen** Selecteer de captcha-plugin die zal worden gebruikt in het artikel indienformulier. Als *Gebruik Globaal* is geselecteerd, zorg dan dat een captcha-plugin is geselecteerd in de Algemene Configuratie.
 - **Publicatieopties** Verberg het tabblad Publicatieopties in de Backend bij het bewerken van Artikelen. Dit betekent dat Backend gebruikers de velden in dit tabblad niet kunnen bewerken. Deze velden zullen altijd op hun standaardwaarden staan.
@@ -95,7 +95,7 @@ Deze opties bepalen de lay-out van de artikelbewerkingspagina.
 
 Deze instellingen gelden voor Artikel Categorie Opties, tenzij ze worden gewijzigd door de individuele categorie- of menu-instellingen.
 
-![Opties artikelen categorie tabblad](../../../nl/images/articles/articles-options/03-articles-options-category-tab.png)
+![Opties artikelen categorie tabblad](../../../nl/images/articles/articles-options/03-category-tab.png)
 
 - **Kies een Lay-out** Selecteer de standaardlay-out om te tonen wanneer een Categorie link is geselecteerd.
 - **Categorietitel** Toon de titel van de categorie.
@@ -113,7 +113,7 @@ Deze instellingen gelden voor Artikel Categorie Opties, tenzij ze worden gewijzi
 
 Deze instellingen gelden voor Artikel Categorieën Opties, tenzij ze worden gewijzigd door de individuele categorie- of menu-instellingen.
 
-![Opties artikelen categorieën tabblad](../../../nl/images/articles/articles-options/04-articles-options-categories-tab.png)
+![Opties artikelen categorieën tabblad](../../../nl/images/articles/articles-options/04-categories-tab.png)
 
 - **Beschrijving Bovenliggende Categorie** Toon de beschrijving voor de bovenliggende categorie.
 - **Subcategorie Niveaus** Bepaal hoeveel niveaus van subcategorieën worden weergegeven.
@@ -125,7 +125,7 @@ Deze instellingen gelden voor Artikel Categorieën Opties, tenzij ze worden gewi
 
 Deze instellingen gelden voor blog- of uitgelichte indelingen, tenzij ze worden gewijzigd voor een specifiek menu-item.
 
-![Opties artikelen blog en uitgelichte indelingen tabblad](../../../nl/images/articles/articles-options/05-articles-options-blog-layouts-tab.png)
+![Opties artikelen blog en uitgelichte indelingen tabblad](../../../nl/images/articles/articles-options/05-blog-layouts-tab.png)
 
 - **# Voornaamste Artikelen** Aantal artikelen om weer te geven met behulp van de volledige breedte van het hoofdweergavegebied. "0" betekent dat er geen artikelen zullen worden getoond bij gebruik van de volledige breedte. Als een artikel een "Lees meer..." pauze heeft, wordt alleen het deel van de tekst vóór de pauze (de Inleidende tekst) weergegeven.
 - **Klasse Voornaamste Artikelen** Voeg een CSS-klasse toe om de lay-out aan te passen. Voeg een rand bovenaan toe met klasse boxed. Voor afbeelding positie gebruik bijvoorbeeld image-left, image-right. Voeg image-alternate toe voor afwisselende ordening van inleidende afbeeldingen.
@@ -146,7 +146,7 @@ Deze instellingen gelden voor blog- of uitgelichte indelingen, tenzij ze worden 
 
 Deze instellingen gelden voor Lijst Indelingen Opties, tenzij ze worden gewijzigd voor een specifiek menu-item of categorie.
 
-![Opties artikelen lijst indelingen tabblad](../../../nl/images/articles/articles-options/06-articles-options-list-layouts-tab.png)
+![Opties artikelen lijst indelingen tabblad](../../../nl/images/articles/articles-options/06-list-layouts-tab.png)
 
 - **Weergave Selectie** Toon de Weergave # besturing waarmee de gebruiker het aantal weer te geven artikelen kan selecteren.
 - **Filterveld** Toon een tekstveld in de Frontend waar een gebruiker de artikelen kan filteren. Opties in het Backend menu-item bewerken.
@@ -170,7 +170,7 @@ Deze instellingen gelden voor Lijst Indelingen Opties, tenzij ze worden gewijzig
 
 Deze instellingen gelden voor Gedeelde Opties in Lijst, Blog en Uitgelichte indelingen, tenzij ze worden gewijzigd door de menu-instellingen.
 
-![Opties artikelen gedeelde tabblad](../../../nl/images/articles/articles-options/07-articles-options-shared-tab.png)
+![Opties artikelen gedeelde tabblad](../../../nl/images/articles/articles-options/07-shared-tab.png)
 
 - **Categorie Volgorde**
   - **Geen Volgorde** Artikelen worden alleen gerangschikt volgens de Artikel Volgorde, zonder rekening te houden met de Categorie.
@@ -206,7 +206,7 @@ Deze instellingen gelden voor Gedeelde Opties in Lijst, Blog en Uitgelichte inde
 
 Deze instellingen bepalen hoe het Artikelcomponent integreert met andere extensies.
 
-![Opties artikelen integratie tabblad](../../../nl/images/articles/articles-options/08-articles-options-integration-tab.png)
+![Opties artikelen integratie tabblad](../../../nl/images/articles/articles-options/08-integration-tab.png)
 
 #### Nieuws Feeds paneel
 

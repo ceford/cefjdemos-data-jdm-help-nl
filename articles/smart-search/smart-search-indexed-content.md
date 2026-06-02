@@ -27,7 +27,7 @@ Enkele elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![smart search geïndexeerde inhoud](../../../nl/images/smart-search/smart-search-indexed-content/01-smart-search-indexed-content.png)
+![smart search geïndexeerde inhoud](../../../nl/images/smart-search/smart-search-indexed-content/01-indexed-content.png)
 
 ## Index Maken
 

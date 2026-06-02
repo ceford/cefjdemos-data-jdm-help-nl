@@ -22,7 +22,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Sjablonen site stijlen lijst](../../../nl/images/templates/templates-styles/01-templates-site-styles-list.png)
+![Sjablonen site stijlen lijst](../../../nl/images/templates/templates-styles/01-styles-list.png)
 
 *Vertaald door openai.com*
 

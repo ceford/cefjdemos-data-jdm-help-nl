@@ -38,7 +38,7 @@ Om een Menu-item te bewerken:
 
 ## Screenshot
 
-![Menu Item Alias](../../../nl/images/menu-items/articles-archived-articles/01-articles-archived-articles-details-tab.png)
+![Menu Item Alias](../../../nl/images/menu-items/articles-archived-articles/01-details-tab.png)
 
 ## Formuliervelden
 
@@ -47,7 +47,7 @@ Om een Menu-item te bewerken:
 
 ### Archief tab
 
-![Menu's Gearchiveerde artikelen](../../../nl/images/menu-items/articles-archived-articles/02-articles-archived-articles-archive-tab.png)
+![Menu's Gearchiveerde artikelen](../../../nl/images/menu-items/articles-archived-articles/02-archive-tab.png)
 
 * **Artikelvolgorde**
   * **Oudste eerst** Artikelen worden weergegeven beginnend met de oudste en eindigend met de meest recente.

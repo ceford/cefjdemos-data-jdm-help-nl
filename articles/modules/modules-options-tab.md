@@ -6,7 +6,7 @@ Het tabblad *Modules: Opties* wordt gebruikt met kleine variaties in alle Site m
 
 ## Screenshot
 
-![Geavanceerd tabblad modules](../../../nl/images/modules/modules-options-tab/01-modules-custom-options-tab.png)
+![Geavanceerd tabblad modules](../../../nl/images/modules/modules-options-tab/01-options-tab.png)
 
 ## Formuliervelden
 

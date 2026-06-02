@@ -17,7 +17,7 @@ De pagina *Templates: Aanpassen* wordt gebruikt om de broncode van een sjabloon 
 De schermen Beheerder en Site Sjablonen gebruiken dezelfde lay-out. Het
 scherm Site Sjabloon wordt hier geïllustreerd.
 
-![sjablonen aanpassen cassiopeia editor tab](../../../nl/images/templates/templates-customise/01-templates-customise-cassiopeia-editor-tab.png)
+![sjablonen aanpassen cassiopeia editor tab](../../../nl/images/templates/templates-customise/01-editor-tab.png)
 
 ## Formuliervelden
 
@@ -27,14 +27,14 @@ scherm Site Sjabloon wordt hier geïllustreerd.
 
 ### Tab Creëer Overrides
 
-![templates aanpassen cassiopeia creëer overrides tab](../../../nl/images/templates/templates-customise/02-templates-customise-cassiopeia-create-overrides-tab.png)
+![templates aanpassen cassiopeia creëer overrides tab](../../../nl/images/templates/templates-customise/02-create-overrides-tab.png)
 
 - Selecteer een item om te overschrijven. Items gemarkeerd met een stevig bestandspictogram openen om een lijst met items weer te geven. Items gemarkeerd met over elkaar liggende open en gevulde paginapictogrammen creëren onmiddellijk een overschrijving zonder bevestigingsprompt. De overschrijving wordt op de juiste locatie geplaatst. Er is een bevestigingsbericht, bijvoorbeeld:
   *Override gemaakt in /templates/cassiopeia/html/mod_whosonline*.
 
 ### Tab Bijgewerkte Bestanden
 
-![templates aanpassen cassiopeia bijgewerkt tab](../../../nl/images/templates/templates-customise/03-templates-customise-cassiopeia-updated-files-tab.png)
+![templates aanpassen cassiopeia bijgewerkt tab](../../../nl/images/templates/templates-customise/03-updated-files-tab.png)
 
 Als er geen updates aan het sjabloon zijn geweest sinds de overschrijvingen zijn gemaakt, bevat deze tab een eenvoudige boodschap:
 
@@ -47,7 +47,7 @@ Als er updates zijn geweest, toont een tabel een lijst met overschrijvingen die 
 
 ### Tab Sjabloonbeschrijving
 
-![templates aanpassen cassiopeia sjabloonbeschrijving tab](../../../nl/images/templates/templates-customise/04-templates-customise-cassiopeia-template-description-tab.png)
+![templates aanpassen cassiopeia sjabloonbeschrijving tab](../../../nl/images/templates/templates-customise/04-template-description-tab.png)
 
 - **Thumbnail en Beschrijving** Informatie over dit sjabloon.
 

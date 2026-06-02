@@ -27,7 +27,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Schermafbeelding
 
-![modules frontend link module tab](../../../nl/images/modules-admin/admin-modules-frontend-link/01-modules-frontend-link-module-tab.png)
+![modules frontend link module tab](../../../nl/images/modules-admin/admin-modules-frontend-link/01-module-tab.png)
 
 ## Veldvelden
 

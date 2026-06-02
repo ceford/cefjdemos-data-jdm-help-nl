@@ -34,7 +34,7 @@ Om een bestaande Categorie te bewerken:
 
 ## Screenshot
 
-![Bewerk categorie screenshot](../../../nl/images/articles/articles-edit-category/01-articles-edit-category-category-tab.png)
+![Bewerk categorie screenshot](../../../nl/images/articles/articles-edit-category/01-category-tab.png)
 
 ## Formuliervelden
 

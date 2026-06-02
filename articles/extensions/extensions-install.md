@@ -49,7 +49,7 @@ Er is slechts één methode nodig om een gegeven Extensie te installeren. De nor
 
 ## Upload Pakketbestand Tab
 
-![Extensie-installatie upload pakketbestand tab](../../../nl/images/extensions/extensions-install/01-install-upload-package-file.png)
+![Extensie-installatie upload pakketbestand tab](../../../nl/images/extensions/extensions-install/01-upload-package-file.png)
 
 - Sleep en plaats of blader naar de locatie waar je het archiefbestand
   van de extensie hebt gedownload.

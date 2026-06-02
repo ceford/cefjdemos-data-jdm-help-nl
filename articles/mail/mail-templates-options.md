@@ -19,7 +19,7 @@ Enkele aspecten van deze pagina worden behandeld in afzonderlijke Help-artikelen
 
 ## Screenshot
 
-![Mail Sjablonen Opties](../../../nl/images/mail/mail-templates-options/01-mail-templates-options-mails-tab.png)
+![Mail Sjablonen Opties](../../../nl/images/mail/mail-templates-options/01-mails-tab.png)
 
 ## Formulier Velden
 

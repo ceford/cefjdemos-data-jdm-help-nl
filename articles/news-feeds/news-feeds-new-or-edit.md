@@ -23,7 +23,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Nieuwsfeeds bewerk tabblad](../../../nl/images/news-feeds/news-feeds-new-or-edit/01-news-feeds-edit-tab.png)
+![Nieuwsfeeds bewerk tabblad](../../../nl/images/news-feeds/news-feeds-new-or-edit/01-edit-tab.png)
 
 ## Formuliervelden
 
@@ -38,7 +38,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ### Opties Tabblad
 
-![Opties tabblad van nieuwsoverzichten](../../../nl/images/news-feeds/news-feeds-new-or-edit/02-news-feeds-options-tab.png)
+![Opties tabblad van nieuwsoverzichten](../../../nl/images/news-feeds/news-feeds-new-or-edit/02-options-tab.png)
 
 #### Afbeeldingen Paneel
 

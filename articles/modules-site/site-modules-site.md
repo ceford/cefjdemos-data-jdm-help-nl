@@ -21,11 +21,11 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help artikel
 
 ## Screenshot - Lijst met Geïnstalleerde Site Modules
 
-![lijst met administrator modules](../../../nl/images/modules-site/site-modules-site/01-modules-site-list.png)
+![lijst met administrator modules](../../../nl/images/modules-site/site-modules-site/01-site-list.png)
 
 ## Screenshot - Lijst van Beschikbare Site Modules
 
-![administrator modules beschikbaar](../../../nl/images/modules-site/site-modules-site/02-modules-site-available.png)
+![administrator modules beschikbaar](../../../nl/images/modules-site/site-modules-site/02-site-available.png)
 
 ## Moduleposities
 

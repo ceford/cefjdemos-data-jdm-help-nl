@@ -21,7 +21,7 @@ artikelen:
 
 ## Screenshot
 
-![Banners bewerk cliënt](../../../nl/images/banners/banners-edit-client/01-banners-edit-client-details-tab.png)
+![Banners bewerk cliënt](../../../nl/images/banners/banners-edit-client/01-details-tab.png)
 
 ## Formuliervelden
 
@@ -52,7 +52,7 @@ artikelen:
 
 ### Metadata Tabblad
 
-![Banners bewerken klantmetadata tabblad](../../../nl/images/banners/banners-edit-client/02-banners-edit-client-metadata-tab.png)
+![Banners bewerken klantmetadata tabblad](../../../nl/images/banners/banners-edit-client/02-metadata-tab.png)
 
 - **Trefwoorden** Optionele invoer voor trefwoorden. Moeten worden 
   ingevoerd gescheiden door komma's (bijvoorbeeld: "katten, honden, huisdieren") 

@@ -15,7 +15,7 @@ Als de taal voor het menu-item is ingesteld op *Alle*, zal deze pagina een korte
 
 ## Screenshot
 
-![menu-item associaties tabblad](../../../nl/images/menu-items-common/menu-item-associations/01-menu-item-associations.png)
+![menu-item associaties tabblad](../../../nl/images/menu-items-common/menu-item-associations/01-associations-tab.png)
 
 ## Formuliervelden
 

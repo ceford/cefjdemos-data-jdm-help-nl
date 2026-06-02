@@ -23,7 +23,7 @@ De aanvankelijke lijst met Geplande Taken bevat drie items.
 
 ## Screenshot
 
-![scheduled tasks list](../../../nl/images/maintenance/scheduled-tasks/01-scheduled-tasks-list.png)
+![scheduled tasks list](../../../nl/images/maintenance/scheduled-tasks/01-tasks-list.png)
 
 ## Kolomkoppen
 
@@ -39,13 +39,13 @@ Kolommen die uniek zijn voor Geplande taken:
 
 Selecteer de knop in de werkbalk om een lijst met individuele taakuitvoeringen te zien.
 
-![task execution history list](../../../nl/images/maintenance/scheduled-tasks/02-scheduled-tasks-logs.png)
+![task execution history list](../../../nl/images/maintenance/scheduled-tasks/02-execution-history.png)
 
 ## Beschikbare Taken
 
 De volgende schermafbeelding toont een lijst van beschikbare taken. Sommige zijn demonstraties, sommige zijn nuttig.
 
-![Scheduled Tasks Available](../../../nl/images/maintenance/scheduled-tasks/03-scheduled-tasks-types.png)
+![Scheduled Tasks Available](../../../nl/images/maintenance/scheduled-tasks/03-task-types.png)
 
 Elke taak heeft zijn eigen taakspecifieke parameters die vanzelfsprekend zouden moeten zijn. Bijvoorbeeld, de taak **Site Offline** heeft alleen zin als de **Taak Bewerken → Basisvelden → Uitvoeringsregel** is ingesteld op **Handmatige Uitvoering**.
 

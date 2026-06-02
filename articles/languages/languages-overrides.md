@@ -29,7 +29,7 @@ Help artikelen:
 
 ## Screenshot
 
-![Lijst met Taaloverschrijvingen](../../../nl/images/languages/languages-overrides/01-languages-overrides-list.png)
+![Lijst met Taaloverschrijvingen](../../../nl/images/languages/languages-overrides/01-overrides-list.png)
 
 ## Kolomkoppen
 

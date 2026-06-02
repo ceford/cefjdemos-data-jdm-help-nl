@@ -17,7 +17,7 @@ Sommige aspecten van deze pagina worden behandeld in afzonderlijke Help-artikele
 
 ## Screenshot
 
-![Joomla update-opties](../../../nl/images/joomla-update/joomla-update-options/01-joomla-update-options.png)
+![Joomla update-opties](../../../nl/images/joomla-update/joomla-update-options/01-update-source.png)
 
 ## Formuliervelden
 

@@ -34,13 +34,13 @@ Om een bestaand **Alle Weblinkcategorieën weergeven** menu-item te bewerken:
 
 ## Screenshot
 
-![Menu-itemtype Alle Weblinkcategorieën Lijst](../../../nl/images/menu-items/weblinks-weblink-categories/01-weblinks-list-all-web-link-categories-details-tab.png)
+![Menu-itemtype Alle Weblinkcategorieën Lijst](../../../nl/images/menu-items/weblinks-weblink-categories/01-details-tab.png)
 
 ## Formuliervelden
 
 ### Tabblad Categorieën
 
-![Menu-itemtype Lijst Alle Weblinkcategorieën](../../../nl/images/menu-items/weblinks-weblink-categories/02-weblinks-list-all-web-link-categories-categories-tab.png)
+![Menu-itemtype Lijst Alle Weblinkcategorieën](../../../nl/images/menu-items/weblinks-weblink-categories/02-categories-tab.png)
 
 - **Omschrijving Hoofdcategorie** Toon of verberg de beschrijving van de 
   hoofdcategorie. Merk op dat deze beschrijving kan worden overschreven voor deze

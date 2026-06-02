@@ -20,7 +20,7 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Nieuwsfeeds lijst](../../../nl/images/news-feeds/news-feeds-categories/01-news-feeds-categories.png)
+![Nieuwsfeeds lijst](../../../nl/images/news-feeds/news-feeds-categories/01-categories-list.png)
 
 
 *Vertaald door openai.com*

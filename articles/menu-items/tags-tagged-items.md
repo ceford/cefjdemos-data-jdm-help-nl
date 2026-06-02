@@ -20,13 +20,13 @@ Om een bestaand Tagged Items menu-item te bewerken:
 
 ## Screenshot
 
-![Details tab van getagde items](../../../nl/images/menu-items/tags-tagged-items/01-tags-tagged-items-details-tab.png)
+![Details tab van getagde items](../../../nl/images/menu-items/tags-tagged-items/01-details-tab.png)
 
 ## Formuliervelden
 
 ### Opties Tab voor Tags
 
-![Details tab van getagde items](../../../nl/images/menu-items/tags-tagged-items/02-tags-tagged-items-tag-options-tab.png)
+![Details tab van getagde items](../../../nl/images/menu-items/tags-tagged-items/02-tag-options-tab.png)
 
 - **Tag Naam** Toon of verberg de tagnaam voor een lay-out met één tag.
 - **Tag Afbeelding** Toon of verberg de tagafbeelding voor een lay-out met één tag.
@@ -40,7 +40,7 @@ Om een bestaand Tagged Items menu-item te bewerken:
 
 ### Opties Tab voor Items 
 
-![Details tab van getagde items](../../../nl/images/menu-items/tags-tagged-items/03-tags-tagged-items-item-options-tab.png)
+![Details tab van getagde items](../../../nl/images/menu-items/tags-tagged-items/03-item-options-tab.png)
 
 - **Item Afbeelding** Toon of verberg de afbeelding voor elk item.
 - **Item Beschrijving** Toon of verberg de beschrijving voor elk item in de lijst.
@@ -49,7 +49,7 @@ Om een bestaand Tagged Items menu-item te bewerken:
 
 ### Opties Tab voor Paginering
 
-![Details tab van getagde items](../../../nl/images/menu-items/tags-tagged-items/04-tags-tagged-items-pagination-options-tab.png)
+![Details tab van getagde items](../../../nl/images/menu-items/tags-tagged-items/04-pagination-options-tab.png)
 
 - **Weergaveoptie** Toon of verberg de \# controle die de gebruiker in staat stelt het aantal items te selecteren dat in de lijst wordt weergegeven. Let op: als je een groot aantal items hebt, kan het nuttig zijn om de Filteropties te gebruiken om te beperken welke items worden weergegeven.
 - **Paginering** Toon of verberg de ondersteuning voor Paginering. Paginering biedt paginalinks onder aan de pagina waarmee de Gebruiker naar extra pagina's kan navigeren.
@@ -57,7 +57,7 @@ Om een bestaand Tagged Items menu-item te bewerken:
 
 ### Opties Tab voor Itemselectie
 
-![Details tab van getagde items](../../../nl/images/menu-items/tags-tagged-items/05-tags-tagged-items-item-selection-options-tab.png)
+![Details tab van getagde items](../../../nl/images/menu-items/tags-tagged-items/05-item-selection-options-tab.png)
 
 - **Overeenkomst Type** 'Alle' zal items retourneren die alle tags hebben. 'Elk' zal items retourneren die ten minste één van de tags hebben.
 - **Kindtags** Inclusief of exclusief kindtags van de resultatenlijst voor een tag.

@@ -33,13 +33,13 @@ Om een bestaand Login Formulier menu-item te bewerken:
 
 ## Screenshot
 
-![Gegevens tabblad inlogformulier](../../../nl/images/menu-items/users-login-form/01-users-login-form-details-tab.png)
+![Gegevens tabblad inlogformulier](../../../nl/images/menu-items/users-login-form/01-details-tab.png)
 
 ## Formuliervelden
 
 ### Opties Tab
 
-![Login formulier details tab](../../../nl/images/menu-items/users-login-form/02-users-login-form-options-tab.png)
+![Login formulier details tab](../../../nl/images/menu-items/users-login-form/02-options-tab.png)
 
 #### Login paneel
 

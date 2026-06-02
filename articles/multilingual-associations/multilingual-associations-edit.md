@@ -23,7 +23,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![Referentie- en doelitems naast elkaar](../../../nl/images/multilingual-associations/multilingual-associations-edit/01-multilingual-associations-edit.png)
+![Referentie- en doelitems naast elkaar](../../../nl/images/multilingual-associations/multilingual-associations-edit/01-edit-form.png)
 
 In dit voorbeeld zijn de items Artikelen. Elk is een scrollbaar venster met de itemopties onder het tekstbewerkingsgebied (niet weergegeven).
 

@@ -27,7 +27,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![modules meertalige status module tab](../../../nl/images/modules-admin/admin-modules-popular-articles/01-modules-popular-articles-module-tab.png)
+![modules meertalige status module tab](../../../nl/images/modules-admin/admin-modules-popular-articles/01-module-tab.png)
 
 ## Formuliervelden
 

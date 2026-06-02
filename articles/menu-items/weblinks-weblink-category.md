@@ -35,7 +35,7 @@ Om een bestaand **Lijst Webkoppelingen in een Categorie** menu-item te bewerken:
 
 ## Screenshot
 
-![Menu-itemtype Lijst Weblinks in een Categorie](../../../nl/images/menu-items/weblinks-weblink-category/01-weblinks-list-web-links-in-a-category-details-tab.png)
+![Menu-itemtype Lijst Weblinks in een Categorie](../../../nl/images/menu-items/weblinks-weblink-category/01-details-tab.png)
 
 Alle invoervelden van het formulier worden behandeld in de *Gemeenschappelijke Elementen*.
 

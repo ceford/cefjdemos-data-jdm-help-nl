@@ -23,11 +23,11 @@ Sommige elementen van deze pagina worden behandeld in aparte help-artikelen:
 
 ## Screenshot - Lijst van Geïnstalleerde Beheerdersmodules
 
-![beheerdersmodules lijst](../../../nl/images/modules-admin/admin-modules-administrator/01-modules-administrator-list.png)
+![beheerdersmodules lijst](../../../nl/images/modules-admin/admin-modules-administrator/01-administrator-list.png)
 
 ## Screenshot - Lijst van Beschikbare Administrator Modules
 
-![beschikbare administrator modules](../../../nl/images/modules-admin/admin-modules-administrator/02-modules-administrator-available.png)
+![beschikbare administrator modules](../../../nl/images/modules-admin/admin-modules-administrator/02-available-modules.png)
 
 ## Moduleposities
 

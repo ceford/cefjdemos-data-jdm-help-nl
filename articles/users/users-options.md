@@ -18,7 +18,7 @@ De pagina *Gebruikers: Opties* wordt gebruikt om globale opties voor alle gebrui
 
 ## Screenshot
 
-![gebruikersopties gebruikersopties-tab](../../../nl/images/users/users-options/01-users-options-user-options-tab.png)
+![gebruikersopties gebruikersopties-tab](../../../nl/images/users/users-options/01-user-options-tab.png)
 
 ## Formuliervelden
 
@@ -45,7 +45,7 @@ De pagina *Gebruikers: Opties* wordt gebruikt om globale opties voor alle gebrui
 
 ### E-maildomeinopties tabblad
 
-![gebruikers opties e-maildomeinen tabblad](../../../nl/images/users/users-options/02-users-options-email-domain-options-tab.png)
+![gebruikers opties e-maildomeinen tabblad](../../../nl/images/users/users-options/02-email-domain-options-tab.png)
 
 - **Domeinnaam** Voer een lijst in van toegestane en niet-toegestane e-maildomeinen. Standaard zijn alle domeinen toegestaan. Wildcards (\*) worden ondersteund. Bijvoorbeeld:
   - \* (Asterisk): Staat alle domeinen toe of disallowd ze.
@@ -55,7 +55,7 @@ De pagina *Gebruikers: Opties* wordt gebruikt om globale opties voor alle gebrui
 
 ### Wachtwoordopties tabblad
 
-![gebruikers opties wachtwoordopties tabblad](../../../nl/images/users/users-options/03-users-options-password-options-tab.png)
+![gebruikers opties wachtwoordopties tabblad](../../../nl/images/users/users-options/03-password-options-tab.png)
 
 - **Maximaal aantal resets** Het maximale aantal wachtwoordresets dat binnen de tijdsperiode is toegestaan. Nul betekent geen limiet.
 - **Reset periode** De tijdsperiode, in uren, voor de reset-teller.
@@ -67,7 +67,7 @@ De pagina *Gebruikers: Opties* wordt gebruikt om globale opties voor alle gebrui
 
 ### Multifactor-authenticatie tabblad
 
-![gebruikers opties multifactor-authenticatie tabblad](../../../nl/images/users/users-options/04-users-options-multi-factor-authentication-tab.png)
+![gebruikers opties multifactor-authenticatie tabblad](../../../nl/images/users/users-options/04-multi-factor-authentication-tab.png)
 
 - **Toegestane frontend-moduleposities** Bij weergave van de frontend Multifactor-authenticatiepagina zullen alle modules verborgen worden, behalve die in de hier geselecteerde posities.
 - **Titel weergeven in frontend** Een titel weergeven op de frontend Multifactor-authenticatie verificatiepagina? Houd er rekening mee dat de titel altijd zichtbaar is in de backend. Als je de titel wilt wijzigen, overschrijf dan de taalsleutel `COM_USERS_HEADING_MFA` met behulp van Talen: Overschrijvingen.
@@ -82,21 +82,21 @@ De pagina *Gebruikers: Opties* wordt gebruikt om globale opties voor alle gebrui
 
 ### Gebruikersnotities geschiedenis tabblad
 
-![gebruikers opties gebruikersnotities geschiedenis tabblad](../../../nl/images/users/users-options/05-users-options-user-notes-history-tab.png)
+![gebruikers opties gebruikersnotities geschiedenis tabblad](../../../nl/images/users/users-options/05-user-notes-history-tab.png)
 
 - **Versies inschakelen** Versiegeschiedenis opslaan voor gebruikersnotities.
 - **Maximaal aantal versies** Het maximale aantal versies dat opgeslagen wordt voor een gebruikersnotitie. Als een gebruikersnotitie wordt opgeslagen en het maximale aantal versies is bereikt, wordt de oudste versie automatisch verwijderd. Als ingesteld op 0, worden versies nooit automatisch verwijderd.
 
 ### Massamail gebruikers tabblad
 
-![gebruikers opties massamail gebruikers tabblad](../../../nl/images/users/users-options/06-users-options-mass-mail-users-tab.png)
+![gebruikers opties massamail gebruikers tabblad](../../../nl/images/users/users-options/06-mass-mail-users-tab.png)
 
 - **Onderwerp voorvoegsel** Voer optionele tekst in die automatisch wordt toegevoegd aan het onderwerp van de massa-e-mail.
 - **Mailbody suffix** Voer optionele tekst in die automatisch wordt toegevoegd aan het lichaam van de e-mail (bijvoorbeeld, een handtekening).
 
 ### Integratie tabblad
 
-![gebruikers opties integratie tabblad](../../../nl/images/users/users-options/07-users-options-integration-tab.png)
+![gebruikers opties integratie tabblad](../../../nl/images/users/users-options/07-integration-tab.png)
 
 - **Aangepaste velden inschakelen** De creatie van aangepaste velden inschakelen.
 

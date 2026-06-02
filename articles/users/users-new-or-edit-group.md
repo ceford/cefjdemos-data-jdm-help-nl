@@ -14,7 +14,7 @@ De *Gebruikers: Nieuwe of Bewerk Groep* pagina wordt gebruikt om een nieuwe Gebr
 
 ## Screenshot
 
-![gebruikers nieuwe groep details tab](../../../nl/images/users/users-new-or-edit-group/01-users-new-group-details-tab.png)
+![gebruikers nieuwe groep details tab](../../../nl/images/users/users-new-or-edit-group/01-details-tab.png)
 
 ## Gebruikersgroep Details
 

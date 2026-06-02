@@ -13,7 +13,7 @@ Alle menu-items hebben een vergelijkbare opmaak, maar sommige van de velden in h
 
 ## Schermafbeelding
 
-![menu item integratietabblad](../../../nl/images/menu-items-common/menu-item-integration/01-menu-item-category-blog-integration.png)
+![menu item integratietabblad](../../../nl/images/menu-items-common/menu-item-integration/01-integration-tab.png)
 
 ## Formulier Veld
 

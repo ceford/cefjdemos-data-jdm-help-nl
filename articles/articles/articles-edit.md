@@ -31,7 +31,7 @@ Startdashboard te selecteren.
 
 ## Screenshot
 
-![Screenshot van het bewerken van artikelen](../../../nl/images/articles/articles-edit/01-articles-edit-content-tab.png)
+![Screenshot van het bewerken van artikelen](../../../nl/images/articles/articles-edit/01-content-tab.png)
 
 ## Formuliervelden
 
@@ -68,7 +68,7 @@ Startdashboard te selecteren.
 
 **Let op:** Deze tab kan worden verborgen in *Artikel: Opties* door een gebruiker met beheerdersrechten. Het stelt de weergave van afbeeldingen en links in artikelen op gestandaardiseerde lay-outs in.
 
-![Artikelen bewerk afbeeldingen en koppelingen tab](../../../nl/images/articles/articles-edit/02-articles-edit-images-tab.png)
+![Artikelen bewerk afbeeldingen en koppelingen tab](../../../nl/images/articles/articles-edit/02-images-tab.png)
 
 #### Intro Afbeelding
 
@@ -106,7 +106,7 @@ Startdashboard te selecteren.
 
 **Let op**: Deze tab kan verborgen worden door een gebruiker met beheerdersrechten in de Artikel: Opties. Het is een set opties die worden gebruikt om te bepalen hoe dit artikel op de voorkant wordt weergegeven.
 
-![Opties tab](../../../nl/images/articles/articles-edit/03-articles-edit-options-tab.png)
+![Opties tab](../../../nl/images/articles/articles-edit/03-options-tab.png)
 
 #### Lay-out
 
@@ -160,13 +160,13 @@ Startdashboard te selecteren.
 
 In dit gedeelte worden de aangepaste velden weergegeven die voor dit artikel zijn gedefinieerd. Dit zijn velden die niet zijn toegewezen aan een veldgroep. Elke veldgroep, indien gedefinieerd, zal verschijnen als een aparte tab.
 
-![Velden tab](../../../nl/images/articles/articles-edit/04-articles-edit-fields-tab.png)
+![Velden tab](../../../nl/images/articles/articles-edit/04-fields-tab.png)
 
 ### Bewerkingsscherm Configureren tab
 
 **Let op:** Dit kan worden verborgen door een gebruiker met beheerdersrechten in de Artikel: Opties.
 
-![Bewerkingsscherm configureren tab](../../../nl/images/articles/articles-edit/05-articles-edit-configure-edit-screen-tab.png)
+![Bewerkingsscherm configureren tab](../../../nl/images/articles/articles-edit/05-editor-tab.png)
 
 - **Publiceer Opties** Als Verbergen, zal het tabblad Publiceer Opties niet worden weergegeven in het Backend. Dit betekent dat Backend-gebruikers de velden in dit tabblad niet zullen kunnen bewerken. Deze velden zullen altijd worden ingesteld op hun standaardwaarden.
 - **Artikel Opties** Als Verbergen, zal het tabblad Artikel Opties niet worden weergegeven in het Backend. Dit betekent dat Backend-gebruikers de velden in dit tabblad niet zullen kunnen bewerken. Deze velden zullen altijd worden ingesteld op hun standaardwaarden.

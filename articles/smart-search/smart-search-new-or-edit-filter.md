@@ -25,7 +25,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![slimme zoekopdracht bewerken filter](../../../nl/images/smart-search/smart-search-new-or-edit-filter/01-smart-search-edit-filter.png)
+![slimme zoekopdracht bewerken filter](../../../nl/images/smart-search/smart-search-new-or-edit-filter/01-edit-filter.png)
 
 ## Formuliervelden
 
@@ -45,7 +45,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Opties Tab
 
-![slimme zoekopdracht bewerkingsfilter opties tab](../../../nl/images/smart-search/smart-search-new-or-edit-filter/02-smart-search-edit-filter-options-tab.png)
+![slimme zoekopdracht bewerkingsfilter opties tab](../../../nl/images/smart-search/smart-search-new-or-edit-filter/02-options-tab.png)
 
 ### Publicatiepaneel
 

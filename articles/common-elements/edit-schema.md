@@ -24,11 +24,11 @@ de andere opties vereist invoer van passende gegevens. Enkele voorbeelden:
 
 ### Voorbeeld: Artikel Schema
 
-![Schema-tab met artikeloptie geselecteerd](../../../nl/images/common-elements/edit-schema/01-articles-edit-schema-tab-article.png)
+![Schema-tab met artikeloptie geselecteerd](../../../nl/images/common-elements/edit-schema/01-schema-tab-article.png)
 
 ### Voorbeeld: Persoon Schema
 
-![Schema-tab met persoonoptie geselecteerd](../../../nl/images/common-elements/edit-schema/02-articles-edit-schema-tab-person.png)
+![Schema-tab met persoonoptie geselecteerd](../../../nl/images/common-elements/edit-schema/02-schema-tab-person.png)
 
 
 *Vertaald door openai.com*

@@ -18,7 +18,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Schermafbeelding
 
-![Opties voor banners client-tab](../../../nl/images/banners/banners-options/01-banners-options-client-tab.png)
+![Opties voor banners client-tab](../../../nl/images/banners/banners-options/01-client-tab.png)
 
 ## Formulieren Velden
 
@@ -35,7 +35,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 Dit gedeelte stelt u in staat om versiegeschiedenisopties in te stellen voor Banners, Banner Cliënten en Banner Categorieën.
 
-![Banners Opties geschiedenis tab](../../../nl/images/banners/banners-options/02-banners-options-history-tab.png)
+![Banners Opties geschiedenis tab](../../../nl/images/banners/banners-options/02-history-tab.png)
 
 - **Versies Inschakelen** Of versiegeschiedenis voor dit onderdeel wordt opgeslagen. Indien Nee, wordt de versiegeschiedenis niet opgeslagen voor onderdelen of voor de categorieën van dit onderdeel.
 - **Maximale Versies** Het maximale aantal versies dat voor een item wordt opgeslagen. Als een item wordt opgeslagen en het maximale aantal versies is bereikt, wordt de oudste versie automatisch verwijderd. Indien ingesteld op 0, worden versies nooit automatisch verwijderd. Ook kunnen specifieke versies worden gemarkeerd als *Altijd Bewaren* en zullen ze niet automatisch worden verwijderd. Houd er rekening mee dat versies handmatig kunnen worden verwijderd met de Verwijderknop in het Versiegeschiedenis-scherm.

@@ -23,7 +23,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Screenshot
 
-![Media](../../../nl/images/media/media/01-media.png)
+![Media](../../../nl/images/media/media/01-media-list.png)
 
 ## Afbeeldingsweergavegebied
 

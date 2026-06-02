@@ -4,7 +4,7 @@
 
 Voor hulp met een specifieke beheerderspagina, kun je binnen de Joomla-beheerinterface de **Help** werkbalkknop selecteren voor meer informatie over de pagina. Deze bevindt zich aan de rechterkant van de werkbalk, net onder de titelbalk. Voorbeeld:
 
-![help werkbalk](../../../nl/images/help-screens/start-here/01-start-here-top-bars.png)
+![help werkbalk](../../../nl/images/help-screens/start-here/01-top-bars.png)
 
 Er verschijnt een modaal dialoogvenster in het midden van het scherm met helpinformatie specifiek voor die pagina.
 

@@ -19,7 +19,7 @@ Sommige aspecten van deze pagina worden behandeld in aparte Help-artikelen:
 
 ## Schermafbeelding
 
-![Voorkeuren tabblad Installeropties](../../../nl/images/extensions/installer-options/01-installer-options-preferences-tab.png)
+![Voorkeuren tabblad Installeropties](../../../nl/images/extensions/installer-options/01-preferences-tab.png)
 
 ## Formuliervelden
 

@@ -26,7 +26,7 @@ Sommige elementen van deze pagina worden besproken in aparte Help-artikelen:
 
 ## Screenshot
 
-![banner module tab](../../../nl/images/modules-site/site-modules-banners/01-modules-banners-module-tab.png)
+![banner module tab](../../../nl/images/modules-site/site-modules-banners/01-module-tab.png)
 
 ## Formulier Velden
 
