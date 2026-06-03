@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Weblinks_Links  / Display title: Weblinks -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Links",
+  "title": "Weblinks ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

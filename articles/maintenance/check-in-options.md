@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Check-in:_Options  / Display title: Inchecken: Opties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Check-in:_Options",
+  "title": "Inchecken: Opties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

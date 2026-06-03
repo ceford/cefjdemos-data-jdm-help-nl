@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Article_Options  / Display title: Menu Opties voor Artikel -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Article_Options",
+  "title": "Menu Opties voor Artikel ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

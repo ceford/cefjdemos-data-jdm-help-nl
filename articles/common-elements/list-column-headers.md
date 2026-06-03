@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:List_Column_Headers  / Display title: Lijst Kolomkoppen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:List_Column_Headers",
+  "title": "Lijst Kolomkoppen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Doel
 

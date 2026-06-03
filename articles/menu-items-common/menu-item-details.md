@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Details  / Display title: Menudetails -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Details",
+  "title": "Menudetails ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

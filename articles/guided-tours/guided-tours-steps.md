@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Guided_Tours:_Steps  / Display title: Begeleide Rondleidingen: Stappen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_Steps",
+  "title": "Begeleide Rondleidingen: Stappen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

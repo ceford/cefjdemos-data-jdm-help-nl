@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Login_Form  / Display title: Inlogformulier -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Login_Form",
+  "title": "Inlogformulier ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

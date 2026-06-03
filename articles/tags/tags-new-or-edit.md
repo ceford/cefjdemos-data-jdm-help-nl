@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Tags:_New_or_Edit  / Display title: Tags: Nieuw of Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Tags:_New_or_Edit",
+  "title": "Tags: Nieuw of Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

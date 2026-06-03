@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group  / Display title: Inhoudsgroep -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group",
+  "title": "Inhoudsgroep ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Groepsbeschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Random_Image  / Display title: Modules: Willekeurige afbeelding -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Random_Image",
+  "title": "Modules: Willekeurige afbeelding ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

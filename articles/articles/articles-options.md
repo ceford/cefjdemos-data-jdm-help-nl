@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Options  / Display title: Artikelen: Opties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Options",
+  "title": "Artikelen: Opties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

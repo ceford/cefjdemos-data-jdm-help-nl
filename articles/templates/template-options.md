@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Template:_Options  / Display title: Sjabloon: Opties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Template:_Options",
+  "title": "Sjabloon: Opties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

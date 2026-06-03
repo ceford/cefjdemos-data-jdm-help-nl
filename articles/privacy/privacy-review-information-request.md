@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Review_Information_Request  / Display title: Privacy: Verzoek om herziening van informatie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Review_Information_Request",
+  "title": "Privacy: Verzoek om herziening van informatie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

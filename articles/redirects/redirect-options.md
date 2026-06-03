@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Redirect:_Options  / Display title: Doorverwijzing: Opties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Redirect:_Options",
+  "title": "Doorverwijzing: Opties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

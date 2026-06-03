@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Content_Maps  / Display title: Slim Zoeken: Inhoudskaarten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Content_Maps",
+  "title": "Slim Zoeken: Inhoudskaarten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

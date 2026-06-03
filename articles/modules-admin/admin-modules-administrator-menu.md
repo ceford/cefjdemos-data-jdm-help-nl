@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Administrator_Menu  / Display title: Modules: Beheerdersmenu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Administrator_Menu",
+  "title": "Modules: Beheerdersmenu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

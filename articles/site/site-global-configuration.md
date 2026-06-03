@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Global_Configuration  / Display title: Algemene Configuratie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Global_Configuration",
+  "title": "Algemene Configuratie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

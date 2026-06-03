@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_All_Categories  / Display title: Alle Categorieën Weergeven -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories",
+  "title": "Alle Categorieën Weergeven ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

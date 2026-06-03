@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Tagged_Items  / Display title: Gelabelde Items -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Tagged_Items",
+  "title": "Gelabelde Items ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

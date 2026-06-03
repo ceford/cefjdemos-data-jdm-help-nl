@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Password_Reset  / Display title: Wachtwoord Resetten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Password_Reset",
+  "title": "Wachtwoord Resetten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

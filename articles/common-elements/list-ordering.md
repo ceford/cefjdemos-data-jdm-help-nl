@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Ordering  / Display title: Lijst Volgorde -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Ordering",
+  "title": "Lijst Volgorde ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Waar Volgorde Belangrijk is
 

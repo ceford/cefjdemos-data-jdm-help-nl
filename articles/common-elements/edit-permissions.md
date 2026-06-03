@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Permissions  / Display title: Machtigingen Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Permissions",
+  "title": "Machtigingen Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Doel
 

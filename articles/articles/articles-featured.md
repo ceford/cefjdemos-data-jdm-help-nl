@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Featured  / Display title: Artikelen: Aanbevolen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Featured",
+  "title": "Artikelen: Aanbevolen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

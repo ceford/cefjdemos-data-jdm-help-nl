@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Edit_Content_Language  / Display title: Talen: Bewerk Inhoudstaal -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Edit_Content_Language",
+  "title": "Talen: Bewerk Inhoudstaal ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Blog_Layout  / Display title: Menu-item Blogindeling -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Blog_Layout",
+  "title": "Menu-item Blogindeling ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mail_Template:_Edit  / Display title: Bewerk E-mailsjabloon -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mail_Template:_Edit",
+  "title": "Bewerk E-mailsjabloon ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

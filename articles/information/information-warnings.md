@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Information:_Warnings  / Display title: Informatie: Waarschuwingen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Information:_Warnings",
+  "title": "Informatie: Waarschuwingen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

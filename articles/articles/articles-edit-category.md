@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_New_or_Edit_Category  / Display title: Artikelen: Categorie Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_New_or_Edit_Category",
+  "title": "Artikelen: Categorie Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

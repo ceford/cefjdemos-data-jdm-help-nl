@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Update  / Display title: Extensies: Bijwerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Update",
+  "title": "Extensies: Bijwerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Options  / Display title: Talen: Opties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Options",
+  "title": "Talen: Opties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

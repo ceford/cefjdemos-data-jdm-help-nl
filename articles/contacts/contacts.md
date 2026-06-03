@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Contacts  / Display title: Contacten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Contacts",
+  "title": "Contacten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_Edit_Viewing_Access_Level  / Display title: Gebruikers: Bewerk Weergavetoegangsniveau -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_Edit_Viewing_Access_Level",
+  "title": "Gebruikers: Bewerk Weergavetoegangsniveau ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

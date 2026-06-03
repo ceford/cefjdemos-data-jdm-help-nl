@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Options  / Display title: Slim Zoeken: Opties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Options",
+  "title": "Slim Zoeken: Opties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

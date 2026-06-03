@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Logged-in_Users  / Display title: Modules: Ingelogde Gebruikers -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Logged-in_Users",
+  "title": "Modules: Ingelogde Gebruikers ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

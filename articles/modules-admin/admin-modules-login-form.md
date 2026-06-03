@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Login_Form  / Display title: Modules: Inlogformulier -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Login_Form",
+  "title": "Modules: Inlogformulier ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

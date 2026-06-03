@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus  / Display title: Menu's -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus",
+  "title": "Menu's ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

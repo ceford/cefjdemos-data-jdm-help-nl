@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Articles_-_Archived  / Display title: Modules: Artikelen - Gearchiveerd -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Archived",
+  "title": "Modules: Artikelen - Gearchiveerd ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

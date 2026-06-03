@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Display_Template_Options  / Display title: Sjabloonopties weergeven -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Display_Template_Options",
+  "title": "Sjabloonopties weergeven ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Update_Site  / Display title: Bewerk Updatesite -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Update_Site",
+  "title": "Bewerk Updatesite ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

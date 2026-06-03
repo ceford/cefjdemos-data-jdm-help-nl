@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Separator  / Display title: Scheidingslijn -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Separator",
+  "title": "Scheidingslijn ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

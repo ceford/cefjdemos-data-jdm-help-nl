@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Languages  / Display title: Extensies: Talen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Languages",
+  "title": "Extensies: Talen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

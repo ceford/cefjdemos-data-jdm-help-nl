@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise_Source  / Display title: Sjablonen: Aangepaste Bron -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
+  "title": "Sjablonen: Aangepaste Bron ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 Deze pagina verschijnt in de index van Helppagina's, maar wordt niet via een Helppagina gebruikt.

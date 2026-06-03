@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Guided_Tours  / Display title: Begeleide Rondleidingen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Guided_Tours",
+  "title": "Begeleide Rondleidingen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

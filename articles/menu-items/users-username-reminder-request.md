@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Username_Reminder_Request  / Display title: Verzoek om Herinnering van Gebruikersnaam -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Username_Reminder_Request",
+  "title": "Verzoek om Herinnering van Gebruikersnaam ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

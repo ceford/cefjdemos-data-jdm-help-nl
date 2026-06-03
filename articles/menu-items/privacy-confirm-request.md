@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Confirm_Request  / Display title: Menu-item: Verzoek bevestigen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Confirm_Request",
+  "title": "Menu-item: Verzoek bevestigen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

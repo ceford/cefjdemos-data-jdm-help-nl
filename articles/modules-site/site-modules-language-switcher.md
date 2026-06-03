@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Language_Switcher  / Display title: Modules: Taalwisselaar -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Language_Switcher",
+  "title": "Modules: Taalwisselaar ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

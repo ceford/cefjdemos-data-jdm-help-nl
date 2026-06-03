@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks:_Options / Display title: Geplande taken instellingen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Options",
+  "title": "Geplande taken instellingen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

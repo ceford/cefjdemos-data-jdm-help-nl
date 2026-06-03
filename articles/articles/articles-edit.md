@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Edit  / Display title: Artikelen: Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Edit",
+  "title": "Artikelen: Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

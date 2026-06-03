@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_List_Layouts  / Display title: Menu Item Lijstopmaken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_List_Layouts",
+  "title": "Menu Item Lijstopmaken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

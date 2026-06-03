@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Guided_Tours:_New_or_Edit_Tour  / Display title: Begeleide Tours: Tour Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_New_or_Edit_Tour",
+  "title": "Begeleide Tours: Tour Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

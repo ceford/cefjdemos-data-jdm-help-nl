@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Page_Display  / Display title: Menu Items Paginaweergave -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Page_Display",
+  "title": "Menu Items Paginaweergave ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

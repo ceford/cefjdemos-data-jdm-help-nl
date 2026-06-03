@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group  / Display title: Veldengroep -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group",
+  "title": "Veldengroep ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Groepsbeschrijving
 

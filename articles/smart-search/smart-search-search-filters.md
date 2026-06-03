@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Search_Filters  / Display title: Slim Zoeken: Zoekfilters -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Filters",
+  "title": "Slim Zoeken: Zoekfilters ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

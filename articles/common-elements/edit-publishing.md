@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Publishing  / Display title: Publiceren Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Publishing",
+  "title": "Publiceren Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Doel
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Glossary  / Display title: Woordenlijst -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Glossary",
+  "title": "Woordenlijst ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 De Joomla! Woordenlijst is nuttig voor het uitleggen van veelvoorkomende termen die worden gebruikt in Joomla! tutorials, helpschermen en geavanceerde documentatie.
 

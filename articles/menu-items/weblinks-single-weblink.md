@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Single_Weblink  / Display title: Enkel Weblink -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Single_Weblink",
+  "title": "Enkel Weblink ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

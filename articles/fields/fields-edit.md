@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Fields:_Edit  / Display title: Component: Bewerkingsveld -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Fields:_Edit",
+  "title": "Component: Bewerkingsveld ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

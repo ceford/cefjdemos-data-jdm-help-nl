@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Installed  / Display title: Talen: Geïnstalleerd -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Installed",
+  "title": "Talen: Geïnstalleerd ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

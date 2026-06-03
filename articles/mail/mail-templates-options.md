@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mail_Templates:_Options  / Display title: E-mailsjablonen: Opties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mail_Templates:_Options",
+  "title": "E-mailsjablonen: Opties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

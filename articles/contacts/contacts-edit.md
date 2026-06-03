@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Contacts:_New_or_Edit  / Display title: Contacten: Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Contacts:_New_or_Edit",
+  "title": "Contacten: Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

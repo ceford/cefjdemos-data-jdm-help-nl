@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Stages_List:_Basic_Workflow  / Display title: Stadia: Basisworkflow -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Stages_List:_Basic_Workflow",
+  "title": "Stadia: Basisworkflow ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

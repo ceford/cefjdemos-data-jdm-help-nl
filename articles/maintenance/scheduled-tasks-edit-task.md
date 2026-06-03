@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks:_Edit / Display title: Taak bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Edit",
+  "title": "Taak bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Private_Messages  / Display title: Privéberichten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Private_Messages",
+  "title": "Privéberichten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

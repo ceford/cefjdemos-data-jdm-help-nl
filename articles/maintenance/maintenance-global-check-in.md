@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Maintenance:_Global_Check-in  / Display title: Onderhoud: Wereldwijde Inchecken  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Maintenance:_Global_Check-in",
+  "title": "Onderhoud: Wereldwijde Inchecken  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

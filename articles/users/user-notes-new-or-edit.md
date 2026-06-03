@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Notes:_New_or_Edit  / Display title: Gebruikersnotities: Nieuw of Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit",
+  "title": "Gebruikersnotities: Nieuw of Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

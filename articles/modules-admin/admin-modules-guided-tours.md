@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Tours_Menu  / Display title: Modules: Gidsen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Tours_Menu",
+  "title": "Modules: Gidsen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 
 

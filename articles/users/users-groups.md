@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_Groups  / Display title: Gebruikers: Groepen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_Groups",
+  "title": "Gebruikers: Groepen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Redirects:_New_or_Edit  / Display title: Omleidingen: Nieuw of Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Redirects:_New_or_Edit",
+  "title": "Omleidingen: Nieuw of Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

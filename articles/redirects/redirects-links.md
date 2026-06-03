@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Redirects:_Links  / Display title: Doorverwijzingen: Links -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Redirects:_Links",
+  "title": "Doorverwijzingen: Links ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Content  / Display title: Talen: Inhoud -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Content",
+  "title": "Talen: Inhoud ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

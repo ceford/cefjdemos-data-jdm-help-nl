@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Private_Messages:_Read  / Display title: Privéberichten: Bekijken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Private_Messages:_Read",
+  "title": "Privéberichten: Bekijken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feeds:_New_or_Edit_Category  / Display title: Nieuwsfeeds: Categorie Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feeds:_New_or_Edit_Category",
+  "title": "Nieuwsfeeds: Categorie Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

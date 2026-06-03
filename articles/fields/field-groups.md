@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Component:_Field_Groups  / Display title: Component: Veldgroepen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Component:_Field_Groups",
+  "title": "Component: Veldgroepen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise  / Display title: Sjablonen: Aanpassen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise",
+  "title": "Sjablonen: Aanpassen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

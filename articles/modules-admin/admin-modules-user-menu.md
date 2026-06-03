@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_User_Menu  / Display title: Modules: Gebruikersmenu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_User_Menu",
+  "title": "Modules: Gebruikersmenu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

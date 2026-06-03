@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_Edit  / Display title: Banners: Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_Edit",
+  "title": "Banners: Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

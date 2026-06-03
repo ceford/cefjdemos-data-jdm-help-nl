@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Alias  / Display title: Menu-itemalias -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Alias",
+  "title": "Menu-itemalias ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

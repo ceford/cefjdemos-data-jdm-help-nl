@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Contact  / Display title: Contact Aanmaken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Contact",
+  "title": "Contact Aanmaken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

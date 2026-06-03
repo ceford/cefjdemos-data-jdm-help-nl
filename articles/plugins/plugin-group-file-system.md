@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group  / Display title: Bestandssysteemgroep -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group",
+  "title": "Bestandssysteemgroep ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Groepsbeschrijving
 

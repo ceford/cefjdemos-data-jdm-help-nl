@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Actions_Log:_Options  / Display title: Gebruikersactieslogboek: Opties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Actions_Log:_Options",
+  "title": "Gebruikersactieslogboek: Opties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Messages:_Options  / Display title: Berichten: Opties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Messages:_Options",
+  "title": "Berichten: Opties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

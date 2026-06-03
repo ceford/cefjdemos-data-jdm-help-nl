@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Module_Assignment  / Display title: Menu-itemmodule-toewijzing -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Module_Assignment",
+  "title": "Menu-itemmodule-toewijzing ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

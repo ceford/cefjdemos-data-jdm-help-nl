@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Permissions_for_User  / Display title: Machtigingen voor Gebruiker -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Permissions_for_User",
+  "title": "Machtigingen voor Gebruiker ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

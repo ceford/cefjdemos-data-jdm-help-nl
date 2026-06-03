@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feed:_Options  / Display title: Nieuwsfeed: Opties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feed:_Options",
+  "title": "Nieuwsfeed: Opties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

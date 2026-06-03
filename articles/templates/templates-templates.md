@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Templates  / Display title: Sjablonen: Sjablonen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Templates",
+  "title": "Sjablonen: Sjablonen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Smart_Search  / Display title: Modules: Slimme Zoekfunctie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Smart_Search",
+  "title": "Modules: Slimme Zoekfunctie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

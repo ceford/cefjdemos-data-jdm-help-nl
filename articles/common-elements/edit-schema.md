@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Schema  / Display title: Schema Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Schema",
+  "title": "Schema Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Doel
 

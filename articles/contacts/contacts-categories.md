@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Contacts:_Categories  / Display title: Contacten: Categorieën -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Contacts:_Categories",
+  "title": "Contacten: Categorieën ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

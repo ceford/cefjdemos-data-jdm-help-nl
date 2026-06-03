@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_All_News_Feed_Categories  / Display title: Toon alle nieuwscategorieën -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_News_Feed_Categories",
+  "title": "Toon alle nieuwscategorieën ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Omschrijving
 

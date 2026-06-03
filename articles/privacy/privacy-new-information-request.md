@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_New_Information_Request  / Display title: Privacy: Nieuw Informatie Verzoek -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_New_Information_Request",
+  "title": "Privacy: Nieuw Informatie Verzoek ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

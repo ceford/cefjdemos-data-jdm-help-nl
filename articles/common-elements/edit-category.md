@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Edit_Category  / Display title: Categorie Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Edit_Category",
+  "title": "Categorie Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Doel
 

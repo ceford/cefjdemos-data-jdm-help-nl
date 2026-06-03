@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Advanced_Tab  / Display title: Modules: Geavanceerd Tabblad -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Advanced_Tab",
+  "title": "Modules: Geavanceerd Tabblad ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

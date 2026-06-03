@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Weblinks:_Options  / Display title: Webkoppelingsopties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Weblinks:_Options",
+  "title": "Webkoppelingsopties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

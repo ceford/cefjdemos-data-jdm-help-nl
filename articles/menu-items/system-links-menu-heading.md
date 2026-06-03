@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Heading  / Display title: Menu Kop -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Heading",
+  "title": "Menu Kop ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

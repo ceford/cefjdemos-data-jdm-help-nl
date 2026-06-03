@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Messages  / Display title: Modules: Berichten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Messages",
+  "title": "Modules: Berichten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

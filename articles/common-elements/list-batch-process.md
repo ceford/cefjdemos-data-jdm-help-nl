@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Batch_Process  / Display title: Lijst Batch Proces -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Batch_Process",
+  "title": "Lijst Batch Proces ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Doel
 

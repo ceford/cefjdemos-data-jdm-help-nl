@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Update_Sites  / Display title: Sites Bijwerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Update_Sites",
+  "title": "Sites Bijwerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

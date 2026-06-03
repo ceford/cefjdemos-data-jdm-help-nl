@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Version_History  / Display title: Bewerk Versiegeschiedenis -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Version_History",
+  "title": "Bewerk Versiegeschiedenis ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

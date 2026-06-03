@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Search_Term_Analysis  / Display title: Slim Zoeken: Zoektermanalyse -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Term_Analysis",
+  "title": "Slim Zoeken: Zoektermanalyse ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

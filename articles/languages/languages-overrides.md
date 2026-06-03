@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Overrides  / Display title: Talen: Overschrijvingen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Overrides",
+  "title": "Talen: Overschrijvingen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Toolbars  / Display title: Werkbalken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Toolbars",
+  "title": "Werkbalken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Doel
 

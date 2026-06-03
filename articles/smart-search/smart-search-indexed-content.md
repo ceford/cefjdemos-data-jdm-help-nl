@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Indexed_Content  / Display title: Slim Zoeken: Geïndexeerde Inhoud -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Indexed_Content",
+  "title": "Slim Zoeken: Geïndexeerde Inhoud ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_New_or_Edit_Group  / Display title: Gebruikers: Nieuwe Groep of Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_New_or_Edit_Group",
+  "title": "Gebruikers: Nieuwe Groep of Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

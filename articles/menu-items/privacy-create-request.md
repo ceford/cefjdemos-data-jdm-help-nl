@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Request  / Display title: Menu-item: Verzoek aanmaken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Request",
+  "title": "Menu-item: Verzoek aanmaken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks / Display title: Geplande taken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks",
+  "title": "Geplande taken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Edit_Override  / Display title: Talen: Override Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Edit_Override",
+  "title": "Talen: Override Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Guided_Tours:_New_or_Edit_Step  / Display title: Gidsen: Stap Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_New_or_Edit_Step",
+  "title": "Gidsen: Stap Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

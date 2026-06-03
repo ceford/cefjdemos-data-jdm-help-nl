@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Maintenance:_Clear_Cache  / Display title: Onderhoud: Cache Wissen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Maintenance:_Clear_Cache",
+  "title": "Onderhoud: Cache Wissen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

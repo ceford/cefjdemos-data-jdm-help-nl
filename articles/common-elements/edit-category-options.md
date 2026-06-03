@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Edit_Category_Options  / Display title: Bewerk Categorieopties -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Edit_Category_Options",
+  "title": "Bewerk Categorieopties ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Doel
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Permissions_for_Group  / Display title: Machtigingen voor Groep -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Permissions_for_Group",
+  "title": "Machtigingen voor Groep ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

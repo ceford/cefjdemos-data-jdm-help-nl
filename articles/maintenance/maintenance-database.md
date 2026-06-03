@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Information:_Database  / Display title: Onderhoud: Database -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Information:_Database",
+  "title": "Onderhoud: Database ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

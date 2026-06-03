@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Notes:_Categories  / Display title: Gebruikersnotities: Categorieën -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Notes:_Categories",
+  "title": "Gebruikersnotities: Categorieën ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

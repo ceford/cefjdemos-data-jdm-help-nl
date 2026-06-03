@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Notes:_New_or_Edit_Category  / Display title: Gebruikersnotities: Nieuwe of Bestaande Categorie Bewerken -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category",
+  "title": "Gebruikersnotities: Nieuwe of Bestaande Categorie Bewerken ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

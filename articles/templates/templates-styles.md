@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Styles  / Display title: Sjablonen: Stijlen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Styles",
+  "title": "Sjablonen: Stijlen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Quick_Icons  / Display title: Modules: Snelle Iconen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Quick_Icons",
+  "title": "Modules: Snelle Iconen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Weblink_Submit  / Display title: Een Weblink Indienen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Submit",
+  "title": "Een Weblink Indienen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschrijving
 

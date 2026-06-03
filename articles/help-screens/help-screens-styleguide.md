@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Help_screens_styleguide  / Display title: Stijlgids Helpschermen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Help_screens_styleguide",
+  "title": "Stijlgids Helpschermen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 Deze stijlgids is voor de Joomla MediaWiki-installatie (docs.joomla.org).
