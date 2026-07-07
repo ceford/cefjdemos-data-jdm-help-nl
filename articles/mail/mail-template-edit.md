@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mail_Template:_Edit",
-  "title": "Bewerk E-mailsjabloon ",
+  "title": "Bewerk E-mailsjabloon",
   "description": "", 
   "author": ""
 }

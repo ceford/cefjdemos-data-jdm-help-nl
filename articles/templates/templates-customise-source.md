@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
-  "title": "Sjablonen: Aangepaste Bron ",
+  "title": "Sjablonen: Aangepaste Bron",
   "description": "", 
   "author": ""
 }

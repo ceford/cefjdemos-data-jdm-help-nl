@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Tags_-_Similar",
-  "title": "Modules: Tags - Vergelijkbaar ",
+  "title": "Modules: Tags - Vergelijkbaar",
   "description": "", 
   "author": ""
 }

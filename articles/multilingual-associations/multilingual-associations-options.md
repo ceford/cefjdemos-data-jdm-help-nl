@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options",
-  "title": "Meertalige Associaties: Opties ",
+  "title": "Meertalige Associaties: Opties",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mail_Templates:_Options",
-  "title": "E-mailsjablonen: Opties ",
+  "title": "E-mailsjablonen: Opties",
   "description": "", 
   "author": ""
 }

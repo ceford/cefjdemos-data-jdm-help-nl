@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:List_Pagination",
-  "title": "Lijstpaginering ",
+  "title": "Lijstpaginering",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Extension_Group",
-  "title": "Extensies Groep ",
+  "title": "Extensies Groep",
   "description": "", 
   "author": ""
 }

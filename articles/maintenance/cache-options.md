@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Cache:_Options",
-  "title": "Cache: Opties ",
+  "title": "Cache: Opties",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Fields:_Edit",
-  "title": "Component: Bewerkingsveld ",
+  "title": "Component: Bewerkingsveld",
   "description": "", 
   "author": ""
 }

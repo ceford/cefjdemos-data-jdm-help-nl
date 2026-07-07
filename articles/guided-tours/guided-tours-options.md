@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_Options",
-  "title": "Gidsrondleidingen: Opties ",
+  "title": "Gidsrondleidingen: Opties",
   "description": "", 
   "author": ""
 }

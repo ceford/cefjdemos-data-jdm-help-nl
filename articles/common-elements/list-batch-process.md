@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:List_Batch_Process",
-  "title": "Lijst Batch Proces ",
+  "title": "Lijst Batch Proces",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Syndication_Feeds",
-  "title": "Modules: Syndicatiefeeds ",
+  "title": "Modules: Syndicatiefeeds",
   "description": "", 
   "author": ""
 }

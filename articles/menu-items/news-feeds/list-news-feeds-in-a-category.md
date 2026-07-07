@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_News_Feeds_in_a_Category",
-  "title": "Nieuwsfeeds in een categorie weergeven ",
+  "title": "Nieuwsfeeds in een categorie weergeven",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Newsflash",
-  "title": "Modules: Artikelen - Nieuwsflits ",
+  "title": "Modules: Artikelen - Nieuwsflits",
   "description": "", 
   "author": ""
 }

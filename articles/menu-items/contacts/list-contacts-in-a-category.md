@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_Contacts_in_a_Category",
-  "title": "Lijst Contacten in een Categorie ",
+  "title": "Lijst Contacten in een Categorie",
   "description": "", 
   "author": ""
 }

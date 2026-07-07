@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Glossary",
-  "title": "Woordenlijst ",
+  "title": "Woordenlijst: Inleiding",
   "description": "", 
   "author": ""
 }

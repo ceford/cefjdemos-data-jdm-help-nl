@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:List_Ordering",
-  "title": "Lijst Volgorde ",
+  "title": "Lijst Volgorde",
   "description": "", 
   "author": ""
 }

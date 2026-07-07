@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Custom",
-  "title": "Modules: Aangepast ",
+  "title": "Modules: Aangepast",
   "description": "", 
   "author": ""
 }

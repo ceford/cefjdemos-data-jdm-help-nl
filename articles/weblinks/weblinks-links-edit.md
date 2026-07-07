@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Links_Edit",
-  "title": "Web Link: Bewerken ",
+  "title": "Web Link: Bewerken",
   "description": "", 
   "author": ""
 }

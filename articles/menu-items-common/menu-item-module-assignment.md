@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Module_Assignment",
-  "title": "Menu-itemmodule-toewijzing ",
+  "title": "Menu-itemmodule-toewijzing",
   "description": "", 
   "author": ""
 }

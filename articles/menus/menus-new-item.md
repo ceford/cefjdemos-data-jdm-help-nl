@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_New_Item",
-  "title": "Menu's: Nieuw Item    ",
+  "title": "Menu's: Nieuw Item   ",
   "description": "", 
   "author": ""
 }

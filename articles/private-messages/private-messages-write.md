@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Private_Messages:_Write",
-  "title": "Privéberichten: Schrijven ",
+  "title": "Privéberichten: Schrijven",
   "description": "", 
   "author": ""
 }

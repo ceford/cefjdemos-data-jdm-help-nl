@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Customise",
-  "title": "Sjablonen: Aanpassen ",
+  "title": "Sjablonen: Aanpassen",
   "description": "", 
   "author": ""
 }

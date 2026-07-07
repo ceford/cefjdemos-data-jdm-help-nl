@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Footer",
-  "title": "Modules: Voettekst ",
+  "title": "Modules: Voettekst",
   "description": "", 
   "author": ""
 }

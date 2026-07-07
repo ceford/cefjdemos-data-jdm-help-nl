@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menus",
-  "title": "Menu's ",
+  "title": "Menu's: Inleiding",
   "description": "", 
   "author": ""
 }

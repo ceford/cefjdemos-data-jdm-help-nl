@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Modules:_Options",
-  "title": "Module: Opties ",
+  "title": "Module: Opties",
   "description": "", 
   "author": ""
 }

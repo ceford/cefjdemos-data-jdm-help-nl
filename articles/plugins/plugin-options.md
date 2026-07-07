@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Plugin:_Options",
-  "title": "Plugin: Opties ",
+  "title": "Plugin: Opties",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Template:_Options",
-  "title": "Sjabloon: Opties ",
+  "title": "Sjabloon: Opties",
   "description": "", 
   "author": ""
 }

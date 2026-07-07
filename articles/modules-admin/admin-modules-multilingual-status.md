@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Multilingual_Status",
-  "title": "Modules: Meertalige Status ",
+  "title": "Modules: Meertalige Status",
   "description": "", 
   "author": ""
 }

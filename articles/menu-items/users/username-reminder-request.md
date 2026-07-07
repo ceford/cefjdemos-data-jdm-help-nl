@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Username_Reminder_Request",
-  "title": "Verzoek om Herinnering van Gebruikersnaam ",
+  "title": "Verzoek om Herinnering van Gebruikersnaam",
   "description": "", 
   "author": ""
 }

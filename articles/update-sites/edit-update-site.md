@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Edit_Update_Site",
-  "title": "Bewerk Updatesite ",
+  "title": "Bewerk Updatesite",
   "description": "", 
   "author": ""
 }

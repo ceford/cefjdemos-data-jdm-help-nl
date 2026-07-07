@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Sample_Data_Group",
-  "title": "Voorbeeldgroepgegevens ",
+  "title": "Voorbeeldgroepgegevens",
   "description": "", 
   "author": ""
 }

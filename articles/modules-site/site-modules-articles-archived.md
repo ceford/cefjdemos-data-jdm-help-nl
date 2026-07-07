@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Archived",
-  "title": "Modules: Artikelen - Gearchiveerd ",
+  "title": "Modules: Artikelen - Gearchiveerd",
   "description": "", 
   "author": ""
 }

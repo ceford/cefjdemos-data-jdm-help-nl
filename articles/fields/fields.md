@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Component:_Fields",
-  "title": "Component: Velden ",
+  "title": "Component: Velden",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Statistics",
-  "title": "Modules: Statistiek ",
+  "title": "Modules: Statistiek",
   "description": "", 
   "author": ""
 }

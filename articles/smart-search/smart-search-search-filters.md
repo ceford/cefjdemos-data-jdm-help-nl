@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Filters",
-  "title": "Slim Zoeken: Zoekfilters ",
+  "title": "Slim Zoeken: Zoekfilters",
   "description": "", 
   "author": ""
 }

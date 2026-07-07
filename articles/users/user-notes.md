@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:User_Notes",
-  "title": "Gebruikersnotities ",
+  "title": "Gebruikersnotities",
   "description": "", 
   "author": ""
 }

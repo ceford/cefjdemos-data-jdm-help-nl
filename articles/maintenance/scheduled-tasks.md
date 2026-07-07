@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks",
-  "title": "Geplande taken ",
+  "title": "Geplande taken",
   "description": "", 
   "author": ""
 }

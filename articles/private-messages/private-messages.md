@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Private_Messages",
-  "title": "Privéberichten ",
+  "title": "Privéberichten: Inleiding",
   "description": "", 
   "author": ""
 }

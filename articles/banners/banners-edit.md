@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_Edit",
-  "title": "Banners: Bewerken ",
+  "title": "Banners: Bewerken",
   "description": "", 
   "author": ""
 }

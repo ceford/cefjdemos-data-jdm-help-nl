@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Category_List",
-  "title": "Categorieënlijst ",
+  "title": "Categorieënlijst",
   "description": "", 
   "author": ""
 }

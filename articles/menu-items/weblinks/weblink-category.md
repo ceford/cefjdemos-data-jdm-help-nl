@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Category",
-  "title": "Lijst van Weblinks in een Categorie ",
+  "title": "Lijst van Weblinks in een Categorie",
   "description": "", 
   "author": ""
 }

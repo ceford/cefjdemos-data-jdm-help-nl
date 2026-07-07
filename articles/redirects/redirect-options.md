@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Redirect:_Options",
-  "title": "Doorverwijzing: Opties ",
+  "title": "Doorverwijzing: Opties",
   "description": "", 
   "author": ""
 }

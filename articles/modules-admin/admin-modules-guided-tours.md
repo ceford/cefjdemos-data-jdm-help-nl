@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Tours_Menu",
-  "title": "Modules: Gidsen ",
+  "title": "Modules: Gidsen",
   "description": "", 
   "author": ""
 }

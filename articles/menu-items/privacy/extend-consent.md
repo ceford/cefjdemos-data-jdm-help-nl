@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Extend_Consent",
-  "title": "Menu-item: Toestemming Verlengen ",
+  "title": "Menu-item: Toestemming Verlengen",
   "description": "", 
   "author": ""
 }

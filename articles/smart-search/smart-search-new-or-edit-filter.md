@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_New_or_Edit_Filter",
-  "title": "Slim Zoeken: Nieuwe of Bewerk Filter ",
+  "title": "Slim Zoeken: Nieuwe of Bewerk Filter",
   "description": "", 
   "author": ""
 }

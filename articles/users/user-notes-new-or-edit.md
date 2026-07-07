@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit",
-  "title": "Gebruikersnotities: Nieuw of Bewerken ",
+  "title": "Gebruikersnotities: Nieuw of Bewerken",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Editors",
-  "title": "Bewerkers ",
+  "title": "Bewerkers: Inleiding",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Edit_Category_Options",
-  "title": "Bewerk Categorieopties ",
+  "title": "Bewerk Categorieopties",
   "description": "", 
   "author": ""
 }

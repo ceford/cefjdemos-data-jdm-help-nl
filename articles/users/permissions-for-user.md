@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Permissions_for_User",
-  "title": "Machtigingen voor Gebruiker ",
+  "title": "Machtigingen voor Gebruiker",
   "description": "", 
   "author": ""
 }

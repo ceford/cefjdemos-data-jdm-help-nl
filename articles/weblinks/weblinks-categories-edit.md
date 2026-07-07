@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Categories_Edit",
-  "title": "Weblinken: Categorie Bewerken ",
+  "title": "Weblinken: Categorie Bewerken",
   "description": "", 
   "author": ""
 }

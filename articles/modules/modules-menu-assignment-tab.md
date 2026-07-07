@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Menu_Assignment_Tab",
-  "title": "Modules: Menu Toewijzings Tab ",
+  "title": "Modules: Menu Toewijzings Tab",
   "description": "", 
   "author": ""
 }

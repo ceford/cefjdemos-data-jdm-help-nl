@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Tags:_Options",
-  "title": "Tags: Opties ",
+  "title": "Tags: Opties",
   "description": "", 
   "author": ""
 }

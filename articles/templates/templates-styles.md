@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Styles",
-  "title": "Sjablonen: Stijlen ",
+  "title": "Sjablonen: Stijlen",
   "description": "", 
   "author": ""
 }

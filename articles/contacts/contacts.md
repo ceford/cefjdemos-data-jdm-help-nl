@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Contacts",
-  "title": "Contacten ",
+  "title": "Contacten: Inleiding",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feeds",
-  "title": "Nieuwsfeeds ",
+  "title": ": Inleiding",
   "description": "", 
   "author": ""
 }

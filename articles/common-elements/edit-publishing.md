@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Edit_Publishing",
-  "title": "Publiceren Bewerken ",
+  "title": "Publiceren Bewerken",
   "description": "", 
   "author": ""
 }

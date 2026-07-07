@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Request",
-  "title": "Menu-item: Verzoek aanmaken ",
+  "title": "Menu-item: Verzoek aanmaken",
   "description": "", 
   "author": ""
 }

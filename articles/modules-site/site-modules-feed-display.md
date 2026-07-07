@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Feed_Display",
-  "title": "Modules: Feed Weergave ",
+  "title": "Modules: Feed Weergave",
   "description": "", 
   "author": ""
 }

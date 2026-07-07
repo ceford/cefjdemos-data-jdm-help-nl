@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Check-in:_Options",
-  "title": "Inchecken: Opties ",
+  "title": "Inchecken: Opties",
   "description": "", 
   "author": ""
 }

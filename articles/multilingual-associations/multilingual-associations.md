@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations",
-  "title": "Meertalige Associaties ",
+  "title": "Meertalige Associaties: Inleiding",
   "description": "", 
   "author": ""
 }

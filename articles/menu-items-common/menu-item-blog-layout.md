@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Blog_Layout",
-  "title": "Menu-item Blogindeling ",
+  "title": "Menu-item Blogindeling",
   "description": "", 
   "author": ""
 }

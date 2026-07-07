@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Options_Tab",
-  "title": "Modules: Opties Tab ",
+  "title": "Modules: Opties Tab",
   "description": "", 
   "author": ""
 }

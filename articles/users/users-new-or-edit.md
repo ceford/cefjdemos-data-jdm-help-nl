@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_Edit_Profile",
-  "title": "Gebruikers: Nieuw of Bewerken ",
+  "title": "Gebruikers: Nieuw of Bewerken",
   "description": "", 
   "author": ""
 }

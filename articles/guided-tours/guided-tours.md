@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Guided_Tours",
-  "title": "Begeleide Rondleidingen ",
+  "title": "Begeleide Rondleidingen: Inleiding",
   "description": "", 
   "author": ""
 }

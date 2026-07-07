@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Extension_Capabilities",
-  "title": "Privacy: Mogelijkheden van Extensies ",
+  "title": "Privacy: Mogelijkheden van Extensies",
   "description": "", 
   "author": ""
 }
