@@ -59,6 +59,8 @@ Sommige elementen van deze pagina worden behandeld in aparte Help-artikelen:
   worden weergegeven. Als er geen menu-item is geselecteerd, blijven gebruikers na het 
   uitloggen op dezelfde pagina.
 - **Registratiepagina** Selecteer of maak een pagina aan voor registratie.
+- **Link voor wachtwoord opnieuw instellen** Toon of verberg de link om het wachtwoord opnieuw in te stellen (nieuw in 6.2).
+- **Link voor vergeten gebruikersnaam** Toon of verberg de link om de gebruikersnaam op te halen (nieuw in 6.2).
 - **Begroeting** Toon of verberg de eenvoudige begroetingstekst.
 - **Naam/Gebruikersnaam** Geeft de naam of gebruikersnaam weer na inloggen.
 - **Profiel link** Toon of verberg een link naar het profiel van de gebruiker.
