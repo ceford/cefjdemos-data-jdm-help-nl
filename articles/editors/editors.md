@@ -23,7 +23,7 @@ wordt ingesteld in de plug-in Editor - TinyMCE.
 De werkbalkset 2 biedt één rij knoppen, zoals hieronder weergegeven. De set is
 standaard toegewezen aan de gebruikersgroep Public.
 
-![TinyMCE-werkbalkset 2](../../../en/images/editors/editors/01-set-2.png)
+![TinyMCE-werkbalkset 2](../../../nl/images/editors/editors/01-set-2.png)
 
 - Met de knoppen kunt u tekst vet, onderstreept of doorgestreept maken.
 - Ongedaan maken en Opnieuw uitvoeren.
@@ -37,7 +37,7 @@ standaard toegewezen aan de gebruikersgroep Public.
 De werkbalkset 1 biedt twee rijen knoppen, zoals hieronder weergegeven. De set
 is standaard toegewezen aan de gebruikersgroepen Manager en Registered.
 
-![TinyMCE-werkbalkset 1](../../../en/images/editors/editors/02-set-1.png)
+![TinyMCE-werkbalkset 1](../../../nl/images/editors/editors/02-set-1.png)
 
 Deze optie biedt alle dezelfde knoppen als hierboven beschreven voor werkbalkset 2.
 Daarnaast zijn de volgende opties beschikbaar.
@@ -50,7 +50,7 @@ Daarnaast zijn de volgende opties beschikbaar.
 Artikel: Het voorbeeld laat zien hoe u eenvoudig een link naar een artikel op
 de huidige site kunt maken.
 
-![TinyMCE-modal voor linkselectie](../../../en/images/editors/editors/03-link-button.png)
+![TinyMCE-modal voor linkselectie](../../../nl/images/editors/editors/03-link-button.png)
 
 Een link naar het gewenste artikel maken:
 
@@ -70,7 +70,7 @@ artikel invoegen. Met een pagina-einde is paginanavigatie mogelijk wanneer het a
 in een lay-out wordt weergegeven. Dit is handig voor lange artikelen. Wanneer deze
 knop wordt ingedrukt, wordt een venster weergegeven zoals hieronder:
 
-![TinyMCE-formulier voor pagina-einde](../../../en/images/editors/editors/04-pagebreak-button.png)
+![TinyMCE-formulier voor pagina-einde](../../../nl/images/editors/editors/04-pagebreak-button.png)
 
 - **Paginatitel**. Voer de titel in die voor de nieuwe pagina moet worden weergegeven (bijvoorbeeld
   'Pagina 2').
@@ -129,7 +129,7 @@ De werkbalkset 0 biedt de meest uitgebreide bewerkingsopties, zoals
 hieronder weergegeven. De set is standaard toegewezen aan de gebruikersgroepen
 Beheerder, Editor en Supergebruikers.
 
-![TinyMCE-gegevensset 0](../../../en/images/editors/editors/05-set-0.png)
+![TinyMCE-gegevensset 0](../../../nl/images/editors/editors/05-set-0.png)
 
 Deze optie biedt alle knoppen die hierboven zijn beschreven voor de werkbalk
 van set 1. Daarnaast zijn de volgende opties beschikbaar.
@@ -206,7 +206,7 @@ een artikel of beschrijving eenvoudig te maken. CodeMirror ondersteunt
 syntaxisaccentuering en automatische aanvulling, zoals in deze schermafbeelding
 wordt weergegeven.
 
-![CodeMirror-bewerkingsformulier](../../../en/images/editors/editors/06-codemirror.png)
+![CodeMirror-bewerkingsformulier](../../../nl/images/editors/editors/06-codemirror.png)
 
 - De hieronder weergegeven knoppen bieden toegang tot links naar elk
   onderdeel van de site.

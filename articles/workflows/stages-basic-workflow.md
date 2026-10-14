@@ -39,7 +39,7 @@ Sommige elementen van deze pagina worden behandeld in afzonderlijke Help-artikel
 
 ## Screenshot
 
-![stappen basisworkflow lijst](../../../nl/beelden/workflows/stappen-basisworkflow-lijst.png)
+![stappen basisworkflow lijst](../../../nl/images/workflows/stages-basic-workflow/01-stages-basic-list.png)
 
 *Vertaald door openai.com*
 
