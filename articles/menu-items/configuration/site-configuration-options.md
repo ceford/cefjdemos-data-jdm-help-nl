@@ -43,7 +43,7 @@ Om een bestaand *Site Configuratie Opties* menu-item te bewerken, selecteer de T
 
 ## Front End Screenshot
 
-![Formulier voor configuratie-opties aan de voorkant van de site](../../../../en/images/menu-items/configuration/site-configuration-options/02-site-configuration-options-frontend.png)
+![Formulier voor configuratie-opties aan de voorkant van de site](../../../../nl/images/menu-items/configuration/site-configuration-options/02-site-configuration-options-frontend.png)
 
 *Vertaald door openai.com*
 

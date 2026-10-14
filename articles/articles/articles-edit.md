@@ -75,7 +75,7 @@ Startdashboard te selecteren.
 
 **Let op:** Deze tab kan worden verborgen in *Artikel: Opties* door een gebruiker met beheerdersrechten. Het stelt de weergave van afbeeldingen en links in artikelen op gestandaardiseerde lay-outs in.
 
-![Artikelen bewerk afbeeldingen en koppelingen tab](../../../nl/images/articles/articles-edit/02-images-tab.png)
+![Artikelen bewerk afbeeldingen en koppelingen tab](../../../nl/images/articles/articles-edit/02-images-and-links-tab.png)
 
 #### Intro Afbeelding
 
@@ -173,7 +173,7 @@ In dit gedeelte worden de aangepaste velden weergegeven die voor dit artikel zij
 
 **Let op:** Dit kan worden verborgen door een gebruiker met beheerdersrechten in de Artikel: Opties.
 
-![Bewerkingsscherm configureren tab](../../../nl/images/articles/articles-edit/05-editor-tab.png)
+![Bewerkingsscherm configureren tab](../../../nl/images/articles/articles-edit/05-configure-edit-screen-tab.png)
 
 - **Publiceer Opties** Als Verbergen, zal het tabblad Publiceer Opties niet worden weergegeven in het Backend. Dit betekent dat Backend-gebruikers de velden in dit tabblad niet zullen kunnen bewerken. Deze velden zullen altijd worden ingesteld op hun standaardwaarden.
 - **Artikel Opties** Als Verbergen, zal het tabblad Artikel Opties niet worden weergegeven in het Backend. Dit betekent dat Backend-gebruikers de velden in dit tabblad niet zullen kunnen bewerken. Deze velden zullen altijd worden ingesteld op hun standaardwaarden.

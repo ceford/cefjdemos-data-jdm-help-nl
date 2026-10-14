@@ -46,7 +46,6 @@ Om een bestaand Display Template Options menu-item te bewerken:
 
 ## Screenshot van Front End
 
-![Weergave template-opties front end formulier](../../../../en/images/menu-items/configuration/display-template-options/02-frontend.png)
+![Weergave template-opties front end formulier](../../../../nl/images/menu-items/configuration/display-template-options/02-frontend.png)
 
 *Vertaald door openai.com*
-
